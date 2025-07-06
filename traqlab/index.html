@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Songs and Stems</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Lexend', sans-serif;
+      background: #f5f5f5;
+      padding: 2rem 1rem;
+    }
+    
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    
+    h1, h2 {
+      text-align: center;
+      color: #333;
+      margin: 0;
+    }
+    
+    .song-selector {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    
+    select {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: white;
+    }
+    header {
+      display: flex;
+      justify-content: center;
+    }
+    header span {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="patriot_act_up.png" height="150" width="150">
+      <span>
+        <h1>The Suicidal Kennedy's</h1>
+        <h1>Patriot Act Up</h1>
+      </span>
+    </header>
+    <div class="song-selector">
+      <label for="songSelect">Choose a song:</label>
+      <select id="songSelect">
+        <option value="">Select a song...</option>
+      </select>
+    </div>
+    
+    <div id="playerContainer"></div>
+  </div>
+
+  <script src="song-player.js"></script>
+  <script>
+    let songsData = null;
+
+    async function loadSongs() {
+      try {
+        const response = await fetch('songs.json');
+        songsData = await response.json();
+        populateSelector();
+      } catch (error) {
+        console.error('Failed to load songs:', error);
+      }
+    }
+
+    function populateSelector() {
+      const select = document.getElementById('songSelect');
+      const songs = songsData.songs.sort((a, b) => a.track - b.track);
+      
+      songs.forEach(song => {
+        const option = document.createElement('option');
+        option.value = song.track;
+        option.textContent = `${String(song.track).padStart(2, '0')}. ${song.title}`;
+        select.appendChild(option);
+      });
+    }
+
+    function loadSong(trackNumber) {
+      const song = songsData.songs.find(s => s.track == trackNumber);
+      if (!song) return;
+
+      const container = document.getElementById('playerContainer');
+      container.innerHTML = '';
+      
+      const player = document.createElement('song-player');
+      player.setAttribute('song-data', JSON.stringify(song));
+      container.appendChild(player);
+    }
+
+    document.getElementById('songSelect').addEventListener('change', (e) => {
+      if (e.target.value) {
+        loadSong(e.target.value);
+      }
+    });
+
+    loadSongs();
+  </script>
+</body>
+</html>

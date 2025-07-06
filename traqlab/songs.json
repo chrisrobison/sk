@@ -1,0 +1,247 @@
+{
+  "album": "Patriot Act Up",
+  "songs": [
+    {
+      "track": 1,
+      "folder": "albums/Patriot_Act_Up/Amendment_22",
+      "title": "Amendment 22",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Guitar", "html": "guitar.html", "stem": "stems/guitar.wav", "notes": "" },
+        { "name": "Bass", "html": "bass.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "other.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 2,
+      "folder": "albums/Patriot_Act_Up/Tariff_Terror",
+      "title": "Tariff Terror",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Guitar", "html": "rhythm_guitar.html", "stem": "stems/guitar.wav", "notes": "" },
+        { "name": "Bass", "html": "lead_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "other.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 3,
+      "folder": "albums/Patriot_Act_Up/Circlin_the_Drain",
+      "title": "Circlin' the Drain in a Limousine",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 4,
+      "folder": "albums/Patriot_Act_Up/Democracys_on_Fire",
+      "title": "Democracy's on Fire",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Guitar", "html": "rhythm_guitar.html", "stem": "stems/guitar.wav", "notes": "" },
+        { "name": "Bass", "html": "lead_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "other.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 5,
+      "folder": "albums/Patriot_Act_Up/Dept_of_Ignorance",
+      "title": "Education Soul Doubt",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Guitar", "html": "rhythm_guitar.html", "stem": "stems/guitar.wav", "notes": "" },
+        { "name": "Bass", "html": "lead_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "other.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 6,
+      "folder": "albums/Patriot_Act_Up/Empty_Storefronts",
+      "title": "Empty Storefronts",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 7,
+      "folder": "albums/Patriot_Act_Up/Great_Highway_to_Nowhere",
+      "title": "Great Highway to Nowhere",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 8,
+      "folder": "albums/Patriot_Act_Up/Howl",
+      "title": "Coyotes Return",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 9,
+      "folder": "albums/Patriot_Act_Up/Moron_Parade",
+      "title": "Moron Parade",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Other", "html": "lead_guitar.html", "stem": "stems/other.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 10,
+      "folder": "albums/Patriot_Act_Up/Prop_K_Parade",
+      "title": "Prop. K Parade",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 11,
+      "folder": "albums/Patriot_Act_Up/Punk_With_Benefits",
+      "title": "Punk with Benefits",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+   {
+      "track": 12,
+      "folder": "albums/Patriot_Act_Up/Break_Free",
+      "title": "Break Free",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+     {
+      "track": 13,
+      "folder": "albums/Patriot_Act_Up/Technocratic_Descent",
+      "title": "Technocratic Descent",
+      "overview": "index.html",
+      "karaoke": "karaoke.mp4",
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    },
+    {
+      "track": 14,
+      "folder": "albums/Patriot_Act_Up/Trade_War",
+      "title": "Trade War (for Money)",
+      "overview": "index.html",
+      "karaoke": null,
+      "audio": {
+        "mp3": "song.mp3",
+        "flac": "song.flac"
+      },
+      "parts": [
+        { "name": "Drums", "html": "drums.html", "stem": "stems/drums.wav", "notes": "" },
+        { "name": "Bass", "html": "rhythm_guitar.html", "stem": "stems/bass.wav", "notes": "" },
+        { "name": "Instrumental", "html": "lead_guitar.html", "stem": "stems/instrumental.wav", "notes": "" },
+        { "name": "Vocals", "html": "vocals.html", "stem": "stems/vocals.wav", "notes": "" }
+      ]
+    }
+  ]
+}

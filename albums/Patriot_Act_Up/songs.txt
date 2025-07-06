@@ -1,0 +1,15 @@
+track|song|path|length
+01|Dept. of Ignorance|01_Dept_of_Ignorance|2:50
+02|Tariff Terror|02_Tariff_Terror|2:05
+03|Democracys on Fire|03_Democracys_on_Fire|2:17
+04|Zombie Congressmen|04_Zombie_Congressmen|2:48
+05|State of Resistance|05_State_of_Resistance|2:23
+06|Ghost Towns Row by Row|06_Ghost_Towns|2:15
+07|Amendment 22|07_Amendment_22|1:35
+08|Big Beautiful Bill|08_Big_Beautiful_Bill|2:12
+09|Moron Parade|09_Moron_Parade|2:15
+10|Technocratic Descent|10_Technocratic_Descent|3:05
+11|Circlin the Drain|11_Circlin_the_Drain|2:28
+12|Trade War (For Money)|12_Trade_War (For_Money)|1:35
+13|Executive Day|13_Executive_Day|1:59
+14|Getting the Musk Out|14_Getting_The_Musk_Out|1:59
