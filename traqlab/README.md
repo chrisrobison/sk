@@ -1,6 +1,6 @@
-# The Suicidal Kennedy's - Patriot Act Up
+# TraqLab - Multi-Album Practice Tool
 
-An interactive music learning platform showcasing the album "Patriot Act Up" by The Suicidal Kennedy's. This web application provides a sophisticated multi-track audio player with stem isolation, karaoke videos, and educational content for musicians.
+TraqLab is an interactive music learning platform for **The Suicidal Kennedy's**. Originally built for a single album, the site now supports multiple releases with a unified interface. Musicians can isolate stems, view lyrics, and practice along with karaoke videos.
 
 ## 🎵 Features
 
@@ -112,7 +112,15 @@ other.html        # For miscellaneous instruments
 
 ### 4. Update songs.json
 
-Add your song to the main configuration:
+Run the generator to rebuild the configuration. Provide a glob that matches your `song.mp3` or `song.wav` files:
+
+```bash
+python generate_songs_json.py albums/*/*/song.mp3
+```
+
+This creates `traqlab/songs.json` with all albums discovered in the path.
+
+If you prefer to edit manually, the structure for each song looks like:
 
 ```json
 {
@@ -159,7 +167,7 @@ Add your song to the main configuration:
 - Use MP4 format for broad compatibility
 - Include visual cues for timing and phrasing
 
-## 🎸 Current Album
+## 🎸 Albums
 
 **"Patriot Act Up"** features 14 tracks of political punk with themes including:
 - Amendment 22, Tariff Terror, Democracy's on Fire
@@ -168,6 +176,8 @@ Add your song to the main configuration:
 - Punk with Benefits, Break Free, Technocratic Descent, Trade War
 
 Each song includes professionally separated stems and educational content for musicians learning punk rock instrumentation.
+
+The follow-up record **"American Idle"** is also included with demo tracks and lyrics for early practice.
 
 ## 🚀 Development
 
