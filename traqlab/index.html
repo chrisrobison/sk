@@ -24,7 +24,7 @@
       margin: 0;
     }
     
-    .song-selector {
+    .selector {
       text-align: center;
       margin-bottom: 2rem;
     }
@@ -50,13 +50,19 @@
 <body>
   <div class="container">
     <header>
-      <img src="patriot_act_up.png" height="150" width="150">
+      <img id="albumArt" src="" height="150" width="150" alt="Album art">
       <span>
         <h1>The Suicidal Kennedy's</h1>
-        <h1>Patriot Act Up</h1>
+        <h1 id="albumTitle"></h1>
       </span>
     </header>
-    <div class="song-selector">
+    <div class="selector" id="albumSelector">
+      <label for="albumSelect">Choose an album:</label>
+      <select id="albumSelect">
+        <option value="">Select an album...</option>
+      </select>
+    </div>
+    <div class="selector song-selector">
       <label for="songSelect">Choose a song:</label>
       <select id="songSelect">
         <option value="">Select a song...</option>
@@ -69,22 +75,40 @@
   <script src="song-player.js"></script>
   <script>
     let songsData = null;
+    let currentAlbum = null;
 
     async function loadSongs() {
       try {
         const response = await fetch('songs.json');
         songsData = await response.json();
-        populateSelector();
+        populateAlbums();
       } catch (error) {
         console.error('Failed to load songs:', error);
       }
     }
 
-    function populateSelector() {
+    function populateAlbums() {
+      const select = document.getElementById('albumSelect');
+      songsData.albums.forEach((album, idx) => {
+        const option = document.createElement('option');
+        option.value = idx;
+        option.textContent = album.title;
+        select.appendChild(option);
+      });
+    }
+
+    function populateSongs(albumIndex) {
+      const album = songsData.albums[albumIndex];
+      if (!album) return;
+      currentAlbum = album;
+
+      const titleEl = document.getElementById('albumTitle');
+      titleEl.textContent = album.title;
+      document.getElementById('albumArt').src = `${album.path}/art.png`;
+
       const select = document.getElementById('songSelect');
-      const songs = songsData.songs.sort((a, b) => a.track - b.track);
-      
-      songs.forEach(song => {
+      select.innerHTML = '<option value="">Select a song...</option>';
+      album.songs.sort((a, b) => a.track - b.track).forEach(song => {
         const option = document.createElement('option');
         option.value = song.track;
         option.textContent = `${String(song.track).padStart(2, '0')}. ${song.title}`;
@@ -93,20 +117,27 @@
     }
 
     function loadSong(trackNumber) {
-      const song = songsData.songs.find(s => s.track == trackNumber);
+      if (!currentAlbum) return;
+      const song = currentAlbum.songs.find(s => s.track == trackNumber);
       if (!song) return;
 
       const container = document.getElementById('playerContainer');
       container.innerHTML = '';
-      
+
       const player = document.createElement('song-player');
       player.setAttribute('song-data', JSON.stringify(song));
       container.appendChild(player);
     }
 
+    document.getElementById('albumSelect').addEventListener('change', (e) => {
+      if (e.target.value !== '') {
+        populateSongs(parseInt(e.target.value));
+      }
+    });
+
     document.getElementById('songSelect').addEventListener('change', (e) => {
       if (e.target.value) {
-        loadSong(e.target.value);
+        loadSong(parseInt(e.target.value));
       }
     });
 
