@@ -1,623 +1,2250 @@
-{
-  "albums": [
-    {
-      "title": "Patriot Act Up",
-      "path": "albums/Patriot_Act_Up",
-      "songs": [
-        {
-          "track": 1,
-          "folder": "albums/Patriot_Act_Up/Amendment_22",
-          "title": "Amendment 22",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Guitar",
-              "html": "guitar.html",
-              "stem": "stems/guitar.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "bass.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "other.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+{ "albums": [
+  {
+    "title": "Algorithm Nation",
+    "path": "albums/Algorithm_Nation",
+    "songs": [
+      {
+        "track": "01",
+        "folder": "albums/Algorithm_Nation/01_The_List_That_Doesnt_Exist",
+        "title": "The List That Doesnt Exist",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 2,
-          "folder": "albums/Patriot_Act_Up/Tariff_Terror",
-          "title": "Tariff Terror",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Guitar",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/guitar.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "lead_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "other.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Keyboard",
+            "html": "keyboard.html",
+            "stem": "stems/keyboard.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "02",
+        "folder": "albums/Algorithm_Nation/02_404_Job_Not_Found",
+        "title": "404 Job Not Found",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 3,
-          "folder": "albums/Patriot_Act_Up/Circlin_the_Drain",
-          "title": "Circlin' the Drain in a Limousine",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Percussion",
+            "html": "percussion.html",
+            "stem": "stems/percussion.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "03",
+        "folder": "albums/Algorithm_Nation/03_Algorithm_Nation",
+        "title": "Algorithm Nation",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 4,
-          "folder": "albums/Patriot_Act_Up/Democracys_on_Fire",
-          "title": "Democracy's on Fire",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Guitar",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/guitar.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "lead_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "other.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "04",
+        "folder": "albums/Algorithm_Nation/04_No_Child_Left_Unarmed",
+        "title": "No Child Left Unarmed",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 5,
-          "folder": "albums/Patriot_Act_Up/Dept_of_Ignorance",
-          "title": "Education Soul Doubt",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Guitar",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/guitar.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "lead_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "other.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Percussion",
+            "html": "percussion.html",
+            "stem": "stems/percussion.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "05",
+        "folder": "albums/Algorithm_Nation/05_Living_Statues",
+        "title": "Living Statues",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 6,
-          "folder": "albums/Patriot_Act_Up/Empty_Storefronts",
-          "title": "Empty Storefronts",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals2",
+            "html": "vocals2.html",
+            "stem": "stems/vocals2.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "06",
+        "folder": "albums/Algorithm_Nation/06_Harder_to_Fix",
+        "title": "Harder to Fix",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 7,
-          "folder": "albums/Patriot_Act_Up/Great_Highway_to_Nowhere",
-          "title": "Great Highway to Nowhere",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "07",
+        "folder": "albums/Algorithm_Nation/07_Grift_of_the_Union",
+        "title": "Grift of the Union",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 8,
-          "folder": "albums/Patriot_Act_Up/Howl",
-          "title": "Coyotes Return",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "08",
+        "folder": "albums/Algorithm_Nation/08_Late_Stage_Everything",
+        "title": "Late Stage Everything",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 9,
-          "folder": "albums/Patriot_Act_Up/Moron_Parade",
-          "title": "Moron Parade",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Other",
-              "html": "lead_guitar.html",
-              "stem": "stems/other.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "09",
+        "folder": "albums/Algorithm_Nation/09_Just_Us_For_All",
+        "title": "Just Us For All",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 10,
-          "folder": "albums/Patriot_Act_Up/Prop_K_Parade",
-          "title": "Prop. K Parade",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "10",
+        "folder": "albums/Algorithm_Nation/10_Woo_Girls",
+        "title": "Woo Girls",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 11,
-          "folder": "albums/Patriot_Act_Up/Punk_With_Benefits",
-          "title": "Punk with Benefits",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "11",
+        "folder": "albums/Algorithm_Nation/11_Dont_Quote_Me,_Boy_(Punk_Cover)",
+        "title": "Dont Quote Me, Boy (Punk Cover)",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 12,
-          "folder": "albums/Patriot_Act_Up/Break_Free",
-          "title": "Break Free",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+    ]
+  }
+,
+  {
+    "title": "American Idle",
+    "path": "albums/American_Idle",
+    "songs": [
+      {
+        "track": "01",
+        "folder": "albums/American_Idle/01_Howl",
+        "title": "Howl",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 13,
-          "folder": "albums/Patriot_Act_Up/Technocratic_Descent",
-          "title": "Technocratic Descent",
-          "overview": "index.html",
-          "karaoke": "karaoke.mp4",
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
+        "parts": [ {
+            "name": "1_song_(Bass)",
+            "html": "1_song_(Bass).html",
+            "stem": "stems/1_song_(Bass).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Drums)",
+            "html": "1_song_(Drums).html",
+            "stem": "stems/1_song_(Drums).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_backing_vocals)",
+            "html": "1_song_(Instrumental_with_backing_vocals).html",
+            "stem": "stems/1_song_(Instrumental_with_backing_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental_with_lead_vocals",
+            "html": "Instrumental_with_lead_vocals.html",
+            "stem": "stems/Instrumental_with_lead_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Other",
+            "html": "Other.html",
+            "stem": "stems/Other.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals_ai",
+            "html": "Vocals_ai.html",
+            "stem": "stems/Vocals_ai.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals_backing_only",
+            "html": "Vocals_backing_only.html",
+            "stem": "stems/Vocals_backing_only.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "02",
+        "folder": "albums/American_Idle/02_Empty_Storefronts",
+        "title": "Empty Storefronts",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 14,
-          "folder": "albums/Patriot_Act_Up/Trade_War",
-          "title": "Trade War (for Money)",
-          "overview": "index.html",
-          "karaoke": null,
-          "audio": {
-            "mp3": "song.mp3",
-            "flac": "song.flac"
-          },
-          "parts": [
-            {
-              "name": "Drums",
-              "html": "drums.html",
-              "stem": "stems/drums.wav",
-              "notes": ""
-            },
-            {
-              "name": "Bass",
-              "html": "rhythm_guitar.html",
-              "stem": "stems/bass.wav",
-              "notes": ""
-            },
-            {
-              "name": "Instrumental",
-              "html": "lead_guitar.html",
-              "stem": "stems/instrumental.wav",
-              "notes": ""
-            },
-            {
-              "name": "Vocals",
-              "html": "vocals.html",
-              "stem": "stems/vocals.wav",
-              "notes": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "American Idle",
-      "path": "albums/American_Idle",
-      "songs": [
-        {
-          "track": 1,
-          "title": "Howl",
-          "folder": "albums/American_Idle/01_Howl"
+        "parts": [ {
+            "name": "1_song_(Bass)",
+            "html": "1_song_(Bass).html",
+            "stem": "stems/1_song_(Bass).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Drums)",
+            "html": "1_song_(Drums).html",
+            "stem": "stems/1_song_(Drums).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_backing_vocals)-48k",
+            "html": "1_song_(Instrumental_with_backing_vocals)-48k.html",
+            "stem": "stems/1_song_(Instrumental_with_backing_vocals)-48k.ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_lead_vocals)",
+            "html": "1_song_(Instrumental_with_lead_vocals).html",
+            "stem": "stems/1_song_(Instrumental_with_lead_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Other)",
+            "html": "1_song_(Other).html",
+            "stem": "stems/1_song_(Other).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals_backing_only)",
+            "html": "1_song_(Vocals_backing_only).html",
+            "stem": "stems/1_song_(Vocals_backing_only).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals_lead_only)",
+            "html": "1_song_(Vocals_lead_only).html",
+            "stem": "stems/1_song_(Vocals_lead_only).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals)",
+            "html": "1_song_(Vocals).html",
+            "stem": "stems/1_song_(Vocals).ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "03",
+        "folder": "albums/American_Idle/03_Swipe_Left_on_Reality",
+        "title": "Swipe Left on Reality",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 2,
-          "title": "Swipe Left on Reality",
-          "folder": "albums/American_Idle/02_Swipe_Left_on_Reality"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "04",
+        "folder": "albums/American_Idle/04_The_Caulk_Song",
+        "title": "The Caulk Song",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 3,
-          "title": "Empty Storefronts",
-          "folder": "albums/American_Idle/03_Empty_Storefronts"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "05",
+        "folder": "albums/American_Idle/05_Proposition_K",
+        "title": "Proposition K",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 4,
-          "title": "The Caulk Song",
-          "folder": "albums/American_Idle/04_The_Caulk_Song"
+        "parts": [ {
+            "name": "1_song_(Bass)",
+            "html": "1_song_(Bass).html",
+            "stem": "stems/1_song_(Bass).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Drums)",
+            "html": "1_song_(Drums).html",
+            "stem": "stems/1_song_(Drums).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_backing_vocals)",
+            "html": "1_song_(Instrumental_with_backing_vocals).html",
+            "stem": "stems/1_song_(Instrumental_with_backing_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_lead_vocals)",
+            "html": "1_song_(Instrumental_with_lead_vocals).html",
+            "stem": "stems/1_song_(Instrumental_with_lead_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Other)",
+            "html": "1_song_(Other).html",
+            "stem": "stems/1_song_(Other).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals_backing_only)",
+            "html": "1_song_(Vocals_backing_only).html",
+            "stem": "stems/1_song_(Vocals_backing_only).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals_lead_only)",
+            "html": "1_song_(Vocals_lead_only).html",
+            "stem": "stems/1_song_(Vocals_lead_only).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals)",
+            "html": "1_song_(Vocals).html",
+            "stem": "stems/1_song_(Vocals).ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "06",
+        "folder": "albums/American_Idle/06_Two_Day_Hangover_Used_to_Be_One",
+        "title": "Two Day Hangover Used to Be One",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 5,
-          "title": "Proposition K",
-          "folder": "albums/American_Idle/05_Proposition_K"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "07",
+        "folder": "albums/American_Idle/07_Punk_With_Benefits",
+        "title": "Punk With Benefits",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 6,
-          "title": "Two Day Hangover Used to Be One",
-          "folder": "albums/American_Idle/06_Two_Day_Hangover_Used_to_Be_One"
+        "parts": [ {
+            "name": "1_cdr420 - Punk With Benefits - Sonauto_(Instrumental_with_backing_vocals)",
+            "html": "1_cdr420 - Punk With Benefits - Sonauto_(Instrumental_with_backing_vocals).html",
+            "stem": "stems/1_cdr420 - Punk With Benefits - Sonauto_(Instrumental_with_backing_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "1_cdr420 - Punk With Benefits - Sonauto_(Other)",
+            "html": "1_cdr420 - Punk With Benefits - Sonauto_(Other).html",
+            "stem": "stems/1_cdr420 - Punk With Benefits - Sonauto_(Other).ogg",
+            "notes": ""
+          },{
+            "name": "1_cdr420 - Punk With Benefits - Sonauto_(Vocals_backing_only)",
+            "html": "1_cdr420 - Punk With Benefits - Sonauto_(Vocals_backing_only).html",
+            "stem": "stems/1_cdr420 - Punk With Benefits - Sonauto_(Vocals_backing_only).ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "08",
+        "folder": "albums/American_Idle/08_Great_Highway_to_Nowhere",
+        "title": "Great Highway to Nowhere",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 7,
-          "title": "Punk With Benefits",
-          "folder": "albums/American_Idle/07_Punk_With_Benefits"
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "09",
+        "folder": "albums/American_Idle/09_Cooler_Online",
+        "title": "Cooler Online",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 8,
-          "title": "Great Highway to Nowhere",
-          "folder": "albums/American_Idle/08_Great_Highway_to_Nowhere"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Song",
+            "html": "song.html",
+            "stem": "stems/song.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "10",
+        "folder": "albums/American_Idle/10_Bored_of_Education",
+        "title": "Bored of Education",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 9,
-          "title": "Cooler Online",
-          "folder": "albums/American_Idle/09_Cooler_Online"
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "11",
+        "folder": "albums/American_Idle/11_Truth_Decay",
+        "title": "Truth Decay",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 10,
-          "title": "Bored of Education",
-          "folder": "albums/American_Idle/10_Bored_of_Education"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Song",
+            "html": "song.html",
+            "stem": "stems/song.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "12",
+        "folder": "albums/American_Idle/12_Skatepark_Nostalgia",
+        "title": "Skatepark Nostalgia",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 11,
-          "title": "Truth Decay",
-          "folder": "albums/American_Idle/11_Truth_Decay"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Song",
+            "html": "song.html",
+            "stem": "stems/song.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "13",
+        "folder": "albums/American_Idle/13_Break_Free",
+        "title": "Break Free",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 12,
-          "title": "Skatepark Nostalgia",
-          "folder": "albums/American_Idle/12_Skatepark_Nostalgia"
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+    ]
+  }
+,
+  {
+    "title": "Patriot Act Up!",
+    "path": "albums/Patriot_Act_Up!",
+    "songs": [
+      {
+        "track": "01",
+        "folder": "albums/Patriot_Act_Up!/01_Dept_of_Ignorance",
+        "title": "Dept of Ignorance",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
         },
-        {
-          "track": 13,
-          "title": "Break Free",
-          "folder": "albums/American_Idle/13_Break_Free"
-        }
-      ]
-    }
-  ]
-}
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.wav",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.wav",
+            "notes": ""
+          },{
+            "name": "Dept. of Ignorance (Vocals)",
+            "html": "Dept. of Ignorance (Vocals).html",
+            "stem": "stems/Dept. of Ignorance (Vocals).wav",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.wav",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.wav",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "02",
+        "folder": "albums/Patriot_Act_Up!/02_Tariff_Terror",
+        "title": "Tariff Terror",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "03",
+        "folder": "albums/Patriot_Act_Up!/03_Executive_Day",
+        "title": "Executive Day",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental1",
+            "html": "instrumental1.html",
+            "stem": "stems/instrumental1.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals_backing",
+            "html": "vocals_backing.html",
+            "stem": "stems/vocals_backing.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "04",
+        "folder": "albums/Patriot_Act_Up!/04_Democracys_on_Fire",
+        "title": "Democracys on Fire",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "1_song_(Bass)",
+            "html": "1_song_(Bass).html",
+            "stem": "stems/1_song_(Bass).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Drums)",
+            "html": "1_song_(Drums).html",
+            "stem": "stems/1_song_(Drums).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_backing_vocals)",
+            "html": "1_song_(Instrumental_with_backing_vocals).html",
+            "stem": "stems/1_song_(Instrumental_with_backing_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Instrumental_with_lead_vocals)",
+            "html": "1_song_(Instrumental_with_lead_vocals).html",
+            "stem": "stems/1_song_(Instrumental_with_lead_vocals).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Other)",
+            "html": "1_song_(Other).html",
+            "stem": "stems/1_song_(Other).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals_backing_only)",
+            "html": "1_song_(Vocals_backing_only).html",
+            "stem": "stems/1_song_(Vocals_backing_only).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals_lead_only)",
+            "html": "1_song_(Vocals_lead_only).html",
+            "stem": "stems/1_song_(Vocals_lead_only).ogg",
+            "notes": ""
+          },{
+            "name": "1_song_(Vocals)",
+            "html": "1_song_(Vocals).html",
+            "stem": "stems/1_song_(Vocals).ogg",
+            "notes": ""
+          },{
+            "name": "Bass-48k",
+            "html": "bass-48k.html",
+            "stem": "stems/bass-48k.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar-48k",
+            "html": "guitar-48k.html",
+            "stem": "stems/guitar-48k.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "05",
+        "folder": "albums/Patriot_Act_Up!/05_Zombie_Congressmen",
+        "title": "Zombie Congressmen",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.wav",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.wav",
+            "notes": ""
+          },{
+            "name": "Brass",
+            "html": "brass.html",
+            "stem": "stems/brass.wav",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.wav",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.wav",
+            "notes": ""
+          },{
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.wav",
+            "notes": ""
+          },{
+            "name": "Vocals.v1",
+            "html": "vocals.v1.html",
+            "stem": "stems/vocals.v1.wav",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "06",
+        "folder": "albums/Patriot_Act_Up!/06_State_of_Resistance",
+        "title": "State of Resistance",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backup-vocals",
+            "html": "backup-vocals.html",
+            "stem": "stems/backup-vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Other",
+            "html": "other.html",
+            "stem": "stems/other.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "07",
+        "folder": "albums/Patriot_Act_Up!/07_Amendment_22",
+        "title": "Amendment 22",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Other",
+            "html": "other.html",
+            "stem": "stems/other.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "08",
+        "folder": "albums/Patriot_Act_Up!/08_Moron_Parade",
+        "title": "Moron Parade",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.wav",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.wav",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.wav",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.wav",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "09",
+        "folder": "albums/Patriot_Act_Up!/09_Big_Beautiful_Bill",
+        "title": "Big Beautiful Bill",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental_with_backing_vocals",
+            "html": "instrumental_with_backing_vocals.html",
+            "stem": "stems/instrumental_with_backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Lead_vocals",
+            "html": "lead_vocals.html",
+            "stem": "stems/lead_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Other",
+            "html": "other.html",
+            "stem": "stems/other.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "10",
+        "folder": "albums/Patriot_Act_Up!/10_Technocratic_Descent",
+        "title": "Technocratic Descent",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "11",
+        "folder": "albums/Patriot_Act_Up!/11_Circlin_the_Drain",
+        "title": "Circlin the Drain",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "12",
+        "folder": "albums/Patriot_Act_Up!/12_Trade_War_For_Money",
+        "title": "Trade War For Money",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "13",
+        "folder": "albums/Patriot_Act_Up!/13_Getting_the_Musk_Out",
+        "title": "Getting the Musk Out",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.ogg",
+            "notes": ""
+          } ]
+      }
+    ]
+  }
+,
+  {
+    "title": "Still Not Famous",
+    "path": "albums/Still_Not_Famous",
+    "songs": [
+      {
+        "track": "01",
+        "folder": "albums/Still_Not_Famous/01_Yesterdays_Meme",
+        "title": "Yesterdays Meme",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "02",
+        "folder": "albums/Still_Not_Famous/02_Speed_Check_Dont_Wreck",
+        "title": "Speed Check Dont Wreck",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Percussion",
+            "html": "percussion.html",
+            "stem": "stems/percussion.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals-48k",
+            "html": "vocals-48k.html",
+            "stem": "stems/vocals-48k.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "03",
+        "folder": "albums/Still_Not_Famous/03_Agree_Then_Regret",
+        "title": "Agree Then Regret",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "04",
+        "folder": "albums/Still_Not_Famous/04_Straight_Shooter_Cant_Shoot_Straight",
+        "title": "Straight Shooter Cant Shoot Straight",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "05",
+        "folder": "albums/Still_Not_Famous/05_DNR_Me",
+        "title": "DNR Me",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.wav",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.wav",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.wav",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.wav",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "06",
+        "folder": "albums/Still_Not_Famous/06_Plastic_Chair_Kings",
+        "title": "Plastic Chair Kings",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "07",
+        "folder": "albums/Still_Not_Famous/07_401K_Hole",
+        "title": "401K Hole",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "08",
+        "folder": "albums/Still_Not_Famous/08_Punk_is_Dead,_Long_Live_Punk!",
+        "title": "Punk is Dead, Long Live Punk!",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Instrumentals",
+            "html": "instrumentals.html",
+            "stem": "stems/instrumentals.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "09",
+        "folder": "albums/Still_Not_Famous/09_Death_&_Taxes_&_Me",
+        "title": "Death & Taxes & Me",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "10",
+        "folder": "albums/Still_Not_Famous/10_Still_Not_Famous,_Still_Not_Sorry",
+        "title": "Still Not Famous, Still Not Sorry",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Karaoke",
+            "html": "karaoke.html",
+            "stem": "stems/karaoke.wav",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "11",
+        "folder": "albums/Still_Not_Famous/11_State_of_Delusion",
+        "title": "State of Delusion",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "12",
+        "folder": "albums/Still_Not_Famous/12_50_Shades_of_Red,_White_and_Blue",
+        "title": "50 Shades of Red, White and Blue",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "13",
+        "folder": "albums/Still_Not_Famous/13_Can_We_Eat?!",
+        "title": "Can We Eat?!",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": null,
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Kazoo",
+            "html": "kazoo.html",
+            "stem": "stems/kazoo.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+    ]
+  }
+] }

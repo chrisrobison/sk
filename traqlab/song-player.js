@@ -36,7 +36,7 @@ class SongPlayer extends HTMLElement {
   render() {
     const song = this.songData;
     if (!song) return;
-
+  console.dir(song);
     this.shadowRoot.innerHTML = `
       <style>
         :host {
@@ -46,7 +46,9 @@ class SongPlayer extends HTMLElement {
           margin: 0 auto;
           padding: 1rem;
         }
-
+        .audio-controls {
+          color: #000;
+        }
         .song-header {
           background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
           color: white;
@@ -613,8 +615,7 @@ class SongPlayer extends HTMLElement {
       `).join('')}
       
       <audio preload="metadata" id="mainAudio">
-        <source src="${song.folder}/${song.audio.mp3}" type="audio/mpeg">
-        <source src="${song.folder}/${song.audio.flac}" type="audio/flac">
+        <source src="${song.folder}/${song.audio.ogg}" type="audio/ogg">
       </audio>
       
       <div class="help-overlay" id="helpOverlay">
