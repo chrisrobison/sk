@@ -1,0 +1,26 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.60,0:00:15.97,Default,,0,0,0,,Wake up America, smell the decay\\NCorporate vultures circling their prey\\NThe Department of Education\'s been stripped away\\NBillionaires calling all the shots today
+Dialogue: 0,0:00:03.60,0:00:41.23,Default,,0,0,0,,Education\'s on the chopping block\\NCorporate overlords with private stock\\NTearing down what we built up\\NAmerica\'s future going bankrupt
+Dialogue: 0,0:00:03.60,0:01:49.65,Default,,0,0,0,,Hey! Hey! Hey! (Dumbed down!)\\NHey! Hey! Hey! (Sold out!)
+Dialogue: 0,0:00:03.60,0:01:31.50,Default,,0,0,0,,They cut the funding, cut the facts\\NA generation\'s future under attack\\NCritical thinking becomes a crime\\NAs we watch our country\'s steep decline
+Dialogue: 0,0:00:03.60,0:00:41.23,Default,,0,0,0,,Education\'s on the chopping block\\NCorporate overlords with private stock\\NTearing down what we built up\\NAmerica\'s future going bankrupt
+Dialogue: 0,0:00:03.60,0:01:49.65,Default,,0,0,0,,Hey! Hey! Hey! (Dumbed down!)\\NHey! Hey! Hey! (Sold out!)
+Dialogue: 0,0:00:03.60,0:02:15.58,Default,,0,0,0,,Democracy crumbles when ignorance reigns\\NA population they can easily contain\\NNo facts, no science, just propaganda flows\\NA calculated plan that nobody knows
+Dialogue: 0,0:00:03.60,0:02:27.67,Default,,0,0,0,,Public schools shuttered, privatized gain\\NThe wealthy get choices, the rest feel the pain\\NTech bros and tyrants control what we learn\\NWhile textbooks and truth get thrown in to burn
+Dialogue: 0,0:00:03.60,0:00:41.23,Default,,0,0,0,,Education\'s on the chopping block\\NCorporate overlords with private stock\\NTearing down what we built up\\NAmerica\'s future going bankrupt
+Dialogue: 0,0:00:03.60,0:02:43.46,Default,,0,0,0,,Fight back! (Rise up!)\\NFight back! (Stand up!)
+Dialogue: 0,0:00:03.60,0:02:49.71,Default,,0,0,0,,Our children deserve more than their greed\\NKnowledge is power we desperately need

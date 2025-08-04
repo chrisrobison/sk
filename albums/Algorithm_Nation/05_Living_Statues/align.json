@@ -1,0 +1,2050 @@
+{
+  "transcript": "[Verse 1]\nSidewalk stage, the city sleeps\nConcrete beds and secrets keep\nEyes half-shut but wide with pain\nDraped in silence, soaked in rain\n\nHands like claws, frozen mid-air\nSwaying gently, unaware\nStatues made of skin and bone\nGallery of the overthrown\n\n[Chorus]\nLiving statues, stiff and numb\nHigh on apathy and heroin gum\nTime don\u2019t tick when you don\u2019t care\nWhen every breath\u2019s a cross to bear\n\nLiving statues, hollow eyes\nStill as death but not yet died\nFrozen souls in slow decay\nWelcome to downtown USA\n\n[Verse 2]\nTourists pass and snap their pics\nOf fentanyl parlor tricks\nBlink and miss the human cost\nThis city shines on what it\u2019s lost\n\nKnees are locked, spine like rust\nThey stand like tombstones in the dust\nNot alive and not quite dead\nTheir thoughts dissolved, their dreams misled\n\n[Chorus]\nLiving statues, frozen still\nOn corners shaped by greed and pills\nNodding off like urban ghosts\nOn taxpayer-funded overdose\n\nLiving statues, tragic art\nSilent screams and stopped-up hearts\nJust a pose on Market Street\nAnother soul the system beat\n\n[Bridge \u2013 Spoken / Screamed]\nNo rehab signs, just cop car lights\nNo housing plans, just sleepless nights\nYou call it \u201cblight,\u201d we call it \u201chell\u201d\nWhere the living rot but never fell\n\n[Final Chorus]\nLiving statues, keep your pose\nWhile the city shrugs and overdose grows\nStep around them, don't ask why\nJust blame the weak and walk on by\n\nLiving statues, stand in shame\nNot theirs \u2014 but ours, in freedom\u2019s name\nSo freeze the frame, this ain\u2019t a dream\nIt\u2019s America, dressed in dopamine\n",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 6,
+      "startOffset": 1,
+      "word": "Verse"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 7,
+      "word": "1"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 10,
+      "word": "Sidewalk"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 19,
+      "word": "stage"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 26,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 30,
+      "word": "city"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 35,
+      "word": "sleeps"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 42,
+      "word": "Concrete"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 51,
+      "word": "beds"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 59,
+      "startOffset": 56,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 67,
+      "startOffset": 60,
+      "word": "secrets"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 72,
+      "startOffset": 68,
+      "word": "keep"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 77,
+      "startOffset": 73,
+      "word": "Eyes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 82,
+      "startOffset": 78,
+      "word": "half"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 87,
+      "startOffset": 83,
+      "word": "shut"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 91,
+      "startOffset": 88,
+      "word": "but"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 96,
+      "startOffset": 92,
+      "word": "wide"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 101,
+      "startOffset": 97,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 106,
+      "startOffset": 102,
+      "word": "pain"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 113,
+      "startOffset": 107,
+      "word": "Draped"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 116,
+      "startOffset": 114,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 124,
+      "startOffset": 117,
+      "word": "silence"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 132,
+      "startOffset": 126,
+      "word": "soaked"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 135,
+      "startOffset": 133,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 140,
+      "startOffset": 136,
+      "word": "rain"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 147,
+      "startOffset": 142,
+      "word": "Hands"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 152,
+      "startOffset": 148,
+      "word": "like"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 158,
+      "startOffset": 153,
+      "word": "claws"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 166,
+      "startOffset": 160,
+      "word": "frozen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 170,
+      "startOffset": 167,
+      "word": "mid"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 174,
+      "startOffset": 171,
+      "word": "air"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 182,
+      "startOffset": 175,
+      "word": "Swaying"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 189,
+      "startOffset": 183,
+      "word": "gently"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 198,
+      "startOffset": 191,
+      "word": "unaware"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 206,
+      "startOffset": 199,
+      "word": "Statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 211,
+      "startOffset": 207,
+      "word": "made"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 214,
+      "startOffset": 212,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 219,
+      "startOffset": 215,
+      "word": "skin"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 223,
+      "startOffset": 220,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 228,
+      "startOffset": 224,
+      "word": "bone"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 236,
+      "startOffset": 229,
+      "word": "Gallery"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 239,
+      "startOffset": 237,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 243,
+      "startOffset": 240,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 254,
+      "startOffset": 244,
+      "word": "overthrown"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 263,
+      "startOffset": 257,
+      "word": "Chorus"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 271,
+      "startOffset": 265,
+      "word": "Living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 279,
+      "startOffset": 272,
+      "word": "statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 286,
+      "startOffset": 281,
+      "word": "stiff"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.09,
+      "endOffset": 290,
+      "phones": [
+        {
+          "duration": 0.56,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 287,
+      "word": "and"
+    },
+    {
+      "alignedWord": "numb",
+      "case": "success",
+      "end": 6.14,
+      "endOffset": 295,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 5.97,
+      "startOffset": 291,
+      "word": "numb"
+    },
+    {
+      "alignedWord": "high",
+      "case": "success",
+      "end": 6.159999999999999,
+      "endOffset": 300,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 6.14,
+      "startOffset": 296,
+      "word": "High"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 6.18,
+      "endOffset": 303,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.16,
+      "startOffset": 301,
+      "word": "on"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 310,
+      "startOffset": 304,
+      "word": "apathy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 314,
+      "startOffset": 311,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 321,
+      "startOffset": 315,
+      "word": "heroin"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 325,
+      "startOffset": 322,
+      "word": "gum"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 330,
+      "startOffset": 326,
+      "word": "Time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 336,
+      "startOffset": 331,
+      "word": "don\u2019t"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 341,
+      "startOffset": 337,
+      "word": "tick"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 346,
+      "startOffset": 342,
+      "word": "when"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 350,
+      "startOffset": 347,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 356,
+      "startOffset": 351,
+      "word": "don\u2019t"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 361,
+      "startOffset": 357,
+      "word": "care"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 366,
+      "startOffset": 362,
+      "word": "When"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 372,
+      "startOffset": 367,
+      "word": "every"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 381,
+      "startOffset": 373,
+      "word": "breath\u2019s"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 383,
+      "startOffset": 382,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 389,
+      "startOffset": 384,
+      "word": "cross"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 392,
+      "startOffset": 390,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 397,
+      "startOffset": 393,
+      "word": "bear"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 405,
+      "startOffset": 399,
+      "word": "Living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 413,
+      "startOffset": 406,
+      "word": "statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 421,
+      "startOffset": 415,
+      "word": "hollow"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 426,
+      "startOffset": 422,
+      "word": "eyes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 432,
+      "startOffset": 427,
+      "word": "Still"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 435,
+      "startOffset": 433,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 441,
+      "startOffset": 436,
+      "word": "death"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 445,
+      "startOffset": 442,
+      "word": "but"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 449,
+      "startOffset": 446,
+      "word": "not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 453,
+      "startOffset": 450,
+      "word": "yet"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 458,
+      "startOffset": 454,
+      "word": "died"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 465,
+      "startOffset": 459,
+      "word": "Frozen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 471,
+      "startOffset": 466,
+      "word": "souls"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 474,
+      "startOffset": 472,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 479,
+      "startOffset": 475,
+      "word": "slow"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 485,
+      "startOffset": 480,
+      "word": "decay"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 493,
+      "startOffset": 486,
+      "word": "Welcome"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 496,
+      "startOffset": 494,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 505,
+      "startOffset": 497,
+      "word": "downtown"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 509,
+      "startOffset": 506,
+      "word": "USA"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 517,
+      "startOffset": 512,
+      "word": "Verse"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 519,
+      "startOffset": 518,
+      "word": "2"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 529,
+      "startOffset": 521,
+      "word": "Tourists"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 534,
+      "startOffset": 530,
+      "word": "pass"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 538,
+      "startOffset": 535,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 543,
+      "startOffset": 539,
+      "word": "snap"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 549,
+      "startOffset": 544,
+      "word": "their"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 554,
+      "startOffset": 550,
+      "word": "pics"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 557,
+      "startOffset": 555,
+      "word": "Of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 566,
+      "startOffset": 558,
+      "word": "fentanyl"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 573,
+      "startOffset": 567,
+      "word": "parlor"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 580,
+      "startOffset": 574,
+      "word": "tricks"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 586,
+      "startOffset": 581,
+      "word": "Blink"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 590,
+      "startOffset": 587,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 595,
+      "startOffset": 591,
+      "word": "miss"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 599,
+      "startOffset": 596,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 605,
+      "startOffset": 600,
+      "word": "human"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 610,
+      "startOffset": 606,
+      "word": "cost"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 615,
+      "startOffset": 611,
+      "word": "This"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 620,
+      "startOffset": 616,
+      "word": "city"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 627,
+      "startOffset": 621,
+      "word": "shines"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 630,
+      "startOffset": 628,
+      "word": "on"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 635,
+      "startOffset": 631,
+      "word": "what"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 640,
+      "startOffset": 636,
+      "word": "it\u2019s"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 645,
+      "startOffset": 641,
+      "word": "lost"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 652,
+      "startOffset": 647,
+      "word": "Knees"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 656,
+      "startOffset": 653,
+      "word": "are"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 663,
+      "startOffset": 657,
+      "word": "locked"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 670,
+      "startOffset": 665,
+      "word": "spine"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 675,
+      "startOffset": 671,
+      "word": "like"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 680,
+      "startOffset": 676,
+      "word": "rust"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 685,
+      "startOffset": 681,
+      "word": "They"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 691,
+      "startOffset": 686,
+      "word": "stand"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 696,
+      "startOffset": 692,
+      "word": "like"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 707,
+      "startOffset": 697,
+      "word": "tombstones"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 710,
+      "startOffset": 708,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 714,
+      "startOffset": 711,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 719,
+      "startOffset": 715,
+      "word": "dust"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 723,
+      "startOffset": 720,
+      "word": "Not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 729,
+      "startOffset": 724,
+      "word": "alive"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 733,
+      "startOffset": 730,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 737,
+      "startOffset": 734,
+      "word": "not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 743,
+      "startOffset": 738,
+      "word": "quite"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 748,
+      "startOffset": 744,
+      "word": "dead"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 754,
+      "startOffset": 749,
+      "word": "Their"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 763,
+      "startOffset": 755,
+      "word": "thoughts"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 773,
+      "startOffset": 764,
+      "word": "dissolved"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 780,
+      "startOffset": 775,
+      "word": "their"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 787,
+      "startOffset": 781,
+      "word": "dreams"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 794,
+      "startOffset": 788,
+      "word": "misled"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 803,
+      "startOffset": 797,
+      "word": "Chorus"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 811,
+      "startOffset": 805,
+      "word": "Living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 819,
+      "startOffset": 812,
+      "word": "statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 827,
+      "startOffset": 821,
+      "word": "frozen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 833,
+      "startOffset": 828,
+      "word": "still"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 836,
+      "startOffset": 834,
+      "word": "On"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 844,
+      "startOffset": 837,
+      "word": "corners"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 851,
+      "startOffset": 845,
+      "word": "shaped"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 854,
+      "startOffset": 852,
+      "word": "by"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 860,
+      "startOffset": 855,
+      "word": "greed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 864,
+      "startOffset": 861,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 870,
+      "startOffset": 865,
+      "word": "pills"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 878,
+      "startOffset": 871,
+      "word": "Nodding"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 882,
+      "startOffset": 879,
+      "word": "off"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 887,
+      "startOffset": 883,
+      "word": "like"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 893,
+      "startOffset": 888,
+      "word": "urban"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 900,
+      "startOffset": 894,
+      "word": "ghosts"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 903,
+      "startOffset": 901,
+      "word": "On"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 912,
+      "startOffset": 904,
+      "word": "taxpayer"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 919,
+      "startOffset": 913,
+      "word": "funded"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 928,
+      "startOffset": 920,
+      "word": "overdose"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 936,
+      "startOffset": 930,
+      "word": "Living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 944,
+      "startOffset": 937,
+      "word": "statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 952,
+      "startOffset": 946,
+      "word": "tragic"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 956,
+      "startOffset": 953,
+      "word": "art"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 963,
+      "startOffset": 957,
+      "word": "Silent"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 971,
+      "startOffset": 964,
+      "word": "screams"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 975,
+      "startOffset": 972,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 983,
+      "startOffset": 976,
+      "word": "stopped"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 986,
+      "startOffset": 984,
+      "word": "up"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 993,
+      "startOffset": 987,
+      "word": "hearts"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 998,
+      "startOffset": 994,
+      "word": "Just"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1000,
+      "startOffset": 999,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1005,
+      "startOffset": 1001,
+      "word": "pose"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1008,
+      "startOffset": 1006,
+      "word": "on"
+    },
+    {
+      "alignedWord": "market",
+      "case": "success",
+      "end": 7.6899999999999995,
+      "endOffset": 1015,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.27,
+      "startOffset": 1009,
+      "word": "Market"
+    },
+    {
+      "alignedWord": "street",
+      "case": "success",
+      "end": 8.24,
+      "endOffset": 1022,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.76,
+      "startOffset": 1016,
+      "word": "Street"
+    },
+    {
+      "alignedWord": "another",
+      "case": "success",
+      "end": 8.93,
+      "endOffset": 1030,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 8.86,
+      "startOffset": 1023,
+      "word": "Another"
+    },
+    {
+      "alignedWord": "soul",
+      "case": "success",
+      "end": 9.019999,
+      "endOffset": 1035,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 8.929999,
+      "startOffset": 1031,
+      "word": "soul"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1039,
+      "startOffset": 1036,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1046,
+      "startOffset": 1040,
+      "word": "system"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1051,
+      "startOffset": 1047,
+      "word": "beat"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1060,
+      "startOffset": 1054,
+      "word": "Bridge"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1069,
+      "startOffset": 1063,
+      "word": "Spoken"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1080,
+      "startOffset": 1072,
+      "word": "Screamed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1084,
+      "startOffset": 1082,
+      "word": "No"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1090,
+      "startOffset": 1085,
+      "word": "rehab"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1096,
+      "startOffset": 1091,
+      "word": "signs"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1102,
+      "startOffset": 1098,
+      "word": "just"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1106,
+      "startOffset": 1103,
+      "word": "cop"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1110,
+      "startOffset": 1107,
+      "word": "car"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1117,
+      "startOffset": 1111,
+      "word": "lights"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1120,
+      "startOffset": 1118,
+      "word": "No"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1128,
+      "startOffset": 1121,
+      "word": "housing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1134,
+      "startOffset": 1129,
+      "word": "plans"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1140,
+      "startOffset": 1136,
+      "word": "just"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1150,
+      "startOffset": 1141,
+      "word": "sleepless"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1157,
+      "startOffset": 1151,
+      "word": "nights"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1161,
+      "startOffset": 1158,
+      "word": "You"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1166,
+      "startOffset": 1162,
+      "word": "call"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1169,
+      "startOffset": 1167,
+      "word": "it"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1177,
+      "startOffset": 1171,
+      "word": "blight"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1182,
+      "startOffset": 1180,
+      "word": "we"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1187,
+      "startOffset": 1183,
+      "word": "call"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1190,
+      "startOffset": 1188,
+      "word": "it"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1196,
+      "startOffset": 1192,
+      "word": "hell"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1203,
+      "startOffset": 1198,
+      "word": "Where"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1207,
+      "startOffset": 1204,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1214,
+      "startOffset": 1208,
+      "word": "living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1218,
+      "startOffset": 1215,
+      "word": "rot"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1222,
+      "startOffset": 1219,
+      "word": "but"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1228,
+      "startOffset": 1223,
+      "word": "never"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1233,
+      "startOffset": 1229,
+      "word": "fell"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1241,
+      "startOffset": 1236,
+      "word": "Final"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1248,
+      "startOffset": 1242,
+      "word": "Chorus"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1256,
+      "startOffset": 1250,
+      "word": "Living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1264,
+      "startOffset": 1257,
+      "word": "statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1270,
+      "startOffset": 1266,
+      "word": "keep"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1275,
+      "startOffset": 1271,
+      "word": "your"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1280,
+      "startOffset": 1276,
+      "word": "pose"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1286,
+      "startOffset": 1281,
+      "word": "While"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 10.0,
+      "endOffset": 1290,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 9.73,
+      "startOffset": 1287,
+      "word": "the"
+    },
+    {
+      "alignedWord": "city",
+      "case": "success",
+      "end": 10.059999999999999,
+      "endOffset": 1295,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 10.02,
+      "startOffset": 1291,
+      "word": "city"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 10.929998999999999,
+      "endOffset": 1302,
+      "phones": [
+        {
+          "duration": 0.87,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 10.059999,
+      "startOffset": 1296,
+      "word": "shrugs"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1306,
+      "startOffset": 1303,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1315,
+      "startOffset": 1307,
+      "word": "overdose"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1321,
+      "startOffset": 1316,
+      "word": "grows"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1326,
+      "startOffset": 1322,
+      "word": "Step"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1333,
+      "startOffset": 1327,
+      "word": "around"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1338,
+      "startOffset": 1334,
+      "word": "them"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1345,
+      "startOffset": 1340,
+      "word": "don't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1349,
+      "startOffset": 1346,
+      "word": "ask"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1353,
+      "startOffset": 1350,
+      "word": "why"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1358,
+      "startOffset": 1354,
+      "word": "Just"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1364,
+      "startOffset": 1359,
+      "word": "blame"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1368,
+      "startOffset": 1365,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1373,
+      "startOffset": 1369,
+      "word": "weak"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 26.129998999999998,
+      "endOffset": 1377,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 25.919998999999997,
+      "startOffset": 1374,
+      "word": "and"
+    },
+    {
+      "alignedWord": "walk",
+      "case": "success",
+      "end": 26.399997999999997,
+      "endOffset": 1382,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 26.319998,
+      "startOffset": 1378,
+      "word": "walk"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 26.649997999999997,
+      "endOffset": 1385,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 26.399997999999997,
+      "startOffset": 1383,
+      "word": "on"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 26.709998,
+      "endOffset": 1388,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "sil"
+        }
+      ],
+      "start": 26.649997999999997,
+      "startOffset": 1386,
+      "word": "by"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1396,
+      "startOffset": 1390,
+      "word": "Living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1404,
+      "startOffset": 1397,
+      "word": "statues"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1411,
+      "startOffset": 1406,
+      "word": "stand"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1414,
+      "startOffset": 1412,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1420,
+      "startOffset": 1415,
+      "word": "shame"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1424,
+      "startOffset": 1421,
+      "word": "Not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1431,
+      "startOffset": 1425,
+      "word": "theirs"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1437,
+      "startOffset": 1434,
+      "word": "but"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1442,
+      "startOffset": 1438,
+      "word": "ours"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1446,
+      "startOffset": 1444,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1456,
+      "startOffset": 1447,
+      "word": "freedom\u2019s"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1461,
+      "startOffset": 1457,
+      "word": "name"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1464,
+      "startOffset": 1462,
+      "word": "So"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1471,
+      "startOffset": 1465,
+      "word": "freeze"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1475,
+      "startOffset": 1472,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1481,
+      "startOffset": 1476,
+      "word": "frame"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 26.990000000000002,
+      "endOffset": 1487,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 26.73,
+      "startOffset": 1483,
+      "word": "this"
+    },
+    {
+      "alignedWord": "ain't",
+      "case": "success",
+      "end": 28.660000000000004,
+      "endOffset": 1493,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 28.630000000000003,
+      "startOffset": 1488,
+      "word": "ain\u2019t"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 29.019999,
+      "endOffset": 1495,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 28.889999,
+      "startOffset": 1494,
+      "word": "a"
+    },
+    {
+      "alignedWord": "dream",
+      "case": "success",
+      "end": 29.86,
+      "endOffset": 1501,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.36,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "m_E"
+        }
+      ],
+      "start": 29.02,
+      "startOffset": 1496,
+      "word": "dream"
+    },
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 31.44,
+      "endOffset": 1506,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 31.41,
+      "startOffset": 1502,
+      "word": "It\u2019s"
+    },
+    {
+      "alignedWord": "america",
+      "case": "success",
+      "end": 31.749999999999996,
+      "endOffset": 1514,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 31.439999999999998,
+      "startOffset": 1507,
+      "word": "America"
+    },
+    {
+      "alignedWord": "dressed",
+      "case": "success",
+      "end": 31.89,
+      "endOffset": 1523,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 31.75,
+      "startOffset": 1516,
+      "word": "dressed"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 31.989999,
+      "endOffset": 1526,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_E"
+        }
+      ],
+      "start": 31.889999,
+      "startOffset": 1524,
+      "word": "in"
+    },
+    {
+      "alignedWord": "dopamine",
+      "case": "success",
+      "end": 77.38999999999999,
+      "endOffset": 1535,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 77.32,
+      "startOffset": 1527,
+      "word": "dopamine"
+    }
+  ]
+}

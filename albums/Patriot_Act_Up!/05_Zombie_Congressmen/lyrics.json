@@ -1,0 +1,5059 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "medium",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 1024,
+			"head": 16,
+			"layer": 24
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1024,
+			"head": 16,
+			"layer": 24
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/cdr/.local/models/ggml-medium.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 0
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,130"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1130
+			},
+			"text": " ("
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,130",
+				"to": "00:00:04,510"
+			},
+			"offsets": {
+				"from": 1130,
+				"to": 4510
+			},
+			"text": "sil"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,510",
+				"to": "00:00:10,160"
+			},
+			"offsets": {
+				"from": 4510,
+				"to": 10160
+			},
+			"text": "ence"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,160",
+				"to": "00:00:10,160"
+			},
+			"offsets": {
+				"from": 10160,
+				"to": 10160
+			},
+			"text": ")"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,160",
+				"to": "00:00:10,320"
+			},
+			"offsets": {
+				"from": 10160,
+				"to": 10320
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,320",
+				"to": "00:00:10,400"
+			},
+			"offsets": {
+				"from": 10320,
+				"to": 10400
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,400",
+				"to": "00:00:10,560"
+			},
+			"offsets": {
+				"from": 10400,
+				"to": 10560
+			},
+			"text": " Cr"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,560",
+				"to": "00:00:10,960"
+			},
+			"offsets": {
+				"from": 10560,
+				"to": 10960
+			},
+			"text": "acked"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,960",
+				"to": "00:00:11,600"
+			},
+			"offsets": {
+				"from": 10960,
+				"to": 11600
+			},
+			"text": " pavement"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,600",
+				"to": "00:00:11,840"
+			},
+			"offsets": {
+				"from": 11600,
+				"to": 11840
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,840",
+				"to": "00:00:12,320"
+			},
+			"offsets": {
+				"from": 11840,
+				"to": 12320
+			},
+			"text": " static"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,320",
+				"to": "00:00:12,480"
+			},
+			"offsets": {
+				"from": 12320,
+				"to": 12480
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,480",
+				"to": "00:00:12,800"
+			},
+			"offsets": {
+				"from": 12480,
+				"to": 12800
+			},
+			"text": " your"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,800",
+				"to": "00:00:13,360"
+			},
+			"offsets": {
+				"from": 12800,
+				"to": 13360
+			},
+			"text": " morning"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,360",
+				"to": "00:00:13,880"
+			},
+			"offsets": {
+				"from": 13360,
+				"to": 13880
+			},
+			"text": " screen"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,880",
+				"to": "00:00:13,880"
+			},
+			"offsets": {
+				"from": 13880,
+				"to": 13880
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,880",
+				"to": "00:00:13,880"
+			},
+			"offsets": {
+				"from": 13880,
+				"to": 13880
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,880",
+				"to": "00:00:14,060"
+			},
+			"offsets": {
+				"from": 13880,
+				"to": 14060
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,060",
+				"to": "00:00:14,150"
+			},
+			"offsets": {
+				"from": 14060,
+				"to": 14150
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,150",
+				"to": "00:00:14,520"
+			},
+			"offsets": {
+				"from": 14150,
+				"to": 14520
+			},
+			"text": " Dead"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,520",
+				"to": "00:00:14,890"
+			},
+			"offsets": {
+				"from": 14520,
+				"to": 14890
+			},
+			"text": " eyes"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,890",
+				"to": "00:00:15,450"
+			},
+			"offsets": {
+				"from": 14890,
+				"to": 15450
+			},
+			"text": " behind"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,450",
+				"to": "00:00:15,730"
+			},
+			"offsets": {
+				"from": 15450,
+				"to": 15730
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,730",
+				"to": "00:00:16,290"
+			},
+			"offsets": {
+				"from": 15730,
+				"to": 16290
+			},
+			"text": " podium"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,290",
+				"to": "00:00:16,570"
+			},
+			"offsets": {
+				"from": 16290,
+				"to": 16570
+			},
+			"text": " par"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,570",
+				"to": "00:00:17,030"
+			},
+			"offsets": {
+				"from": 16570,
+				"to": 17030
+			},
+			"text": "ading"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,030",
+				"to": "00:00:17,490"
+			},
+			"offsets": {
+				"from": 17030,
+				"to": 17490
+			},
+			"text": " every"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,490",
+				"to": "00:00:17,950"
+			},
+			"offsets": {
+				"from": 17490,
+				"to": 17950
+			},
+			"text": " scene"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,950",
+				"to": "00:00:18,130"
+			},
+			"offsets": {
+				"from": 17950,
+				"to": 18130
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,130",
+				"to": "00:00:18,280"
+			},
+			"offsets": {
+				"from": 18130,
+				"to": 18280
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,280",
+				"to": "00:00:18,460"
+			},
+			"offsets": {
+				"from": 18280,
+				"to": 18460
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,460",
+				"to": "00:00:18,550"
+			},
+			"offsets": {
+				"from": 18460,
+				"to": 18550
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,550",
+				"to": "00:00:18,730"
+			},
+			"offsets": {
+				"from": 18550,
+				"to": 18730
+			},
+			"text": " Sh"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,730",
+				"to": "00:00:19,000"
+			},
+			"offsets": {
+				"from": 18730,
+				"to": 19000
+			},
+			"text": "uff"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,000",
+				"to": "00:00:19,350"
+			},
+			"offsets": {
+				"from": 19000,
+				"to": 19350
+			},
+			"text": "ling"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,350",
+				"to": "00:00:19,810"
+			},
+			"offsets": {
+				"from": 19350,
+				"to": 19810
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,810",
+				"to": "00:00:20,350"
+			},
+			"offsets": {
+				"from": 19810,
+				"to": 20350
+			},
+			"text": " papers"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,350",
+				"to": "00:00:20,620"
+			},
+			"offsets": {
+				"from": 20350,
+				"to": 20620
+			},
+			"text": " but"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,620",
+				"to": "00:00:20,890"
+			},
+			"offsets": {
+				"from": 20620,
+				"to": 20890
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,890",
+				"to": "00:00:21,160"
+			},
+			"offsets": {
+				"from": 20890,
+				"to": 21160
+			},
+			"text": " ink"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,160",
+				"to": "00:00:21,340"
+			},
+			"offsets": {
+				"from": 21160,
+				"to": 21340
+			},
+			"text": " is"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,340",
+				"to": "00:00:21,980"
+			},
+			"offsets": {
+				"from": 21340,
+				"to": 21980
+			},
+			"text": " running"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,980",
+				"to": "00:00:22,340"
+			},
+			"offsets": {
+				"from": 21980,
+				"to": 22340
+			},
+			"text": " thin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,340",
+				"to": "00:00:22,520"
+			},
+			"offsets": {
+				"from": 22340,
+				"to": 22520
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,520",
+				"to": "00:00:22,680"
+			},
+			"offsets": {
+				"from": 22520,
+				"to": 22680
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,680",
+				"to": "00:00:22,870"
+			},
+			"offsets": {
+				"from": 22680,
+				"to": 22870
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,870",
+				"to": "00:00:22,960"
+			},
+			"offsets": {
+				"from": 22870,
+				"to": 22960
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,960",
+				"to": "00:00:23,340"
+			},
+			"offsets": {
+				"from": 22960,
+				"to": 23340
+			},
+			"text": " Hope"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,340",
+				"to": "00:00:23,720"
+			},
+			"offsets": {
+				"from": 23340,
+				"to": 23720
+			},
+			"text": " gets"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,720",
+				"to": "00:00:24,300"
+			},
+			"offsets": {
+				"from": 23720,
+				"to": 24300
+			},
+			"text": " buried"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,300",
+				"to": "00:00:24,780"
+			},
+			"offsets": {
+				"from": 24300,
+				"to": 24780
+			},
+			"text": " while"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,780",
+				"to": "00:00:25,070"
+			},
+			"offsets": {
+				"from": 24780,
+				"to": 25070
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,070",
+				"to": "00:00:25,450"
+			},
+			"offsets": {
+				"from": 25070,
+				"to": 25450
+			},
+			"text": " pand"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,450",
+				"to": "00:00:25,930"
+			},
+			"offsets": {
+				"from": 25450,
+				"to": 25930
+			},
+			"text": "ering"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,930",
+				"to": "00:00:26,510"
+			},
+			"offsets": {
+				"from": 25930,
+				"to": 26510
+			},
+			"text": " begins"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,510",
+				"to": "00:00:26,700"
+			},
+			"offsets": {
+				"from": 26510,
+				"to": 26700
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,700",
+				"to": "00:00:26,840"
+			},
+			"offsets": {
+				"from": 26700,
+				"to": 26840
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,840",
+				"to": "00:00:26,840"
+			},
+			"offsets": {
+				"from": 26840,
+				"to": 26840
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,840",
+				"to": "00:00:27,010"
+			},
+			"offsets": {
+				"from": 26840,
+				"to": 27010
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,010",
+				"to": "00:00:27,090"
+			},
+			"offsets": {
+				"from": 27010,
+				"to": 27090
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,090",
+				"to": "00:00:27,430"
+			},
+			"offsets": {
+				"from": 27090,
+				"to": 27430
+			},
+			"text": " Some"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,430",
+				"to": "00:00:27,940"
+			},
+			"offsets": {
+				"from": 27430,
+				"to": 27940
+			},
+			"text": " become"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,940",
+				"to": "00:00:28,020"
+			},
+			"offsets": {
+				"from": 27940,
+				"to": 28020
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,020",
+				"to": "00:00:28,190"
+			},
+			"offsets": {
+				"from": 28020,
+				"to": 28190
+			},
+			"text": " sn"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,190",
+				"to": "00:00:28,360"
+			},
+			"offsets": {
+				"from": 28190,
+				"to": 28360
+			},
+			"text": "it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,360",
+				"to": "00:00:28,530"
+			},
+			"offsets": {
+				"from": 28360,
+				"to": 28530
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,530",
+				"to": "00:00:28,870"
+			},
+			"offsets": {
+				"from": 28530,
+				"to": 28870
+			},
+			"text": " take"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,870",
+				"to": "00:00:29,300"
+			},
+			"offsets": {
+				"from": 28870,
+				"to": 29300
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,300",
+				"to": "00:00:29,990"
+			},
+			"offsets": {
+				"from": 29300,
+				"to": 29990
+			},
+			"text": " marching"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,990",
+				"to": "00:00:30,500"
+			},
+			"offsets": {
+				"from": 29990,
+				"to": 30500
+			},
+			"text": " orders"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,500",
+				"to": "00:00:30,840"
+			},
+			"offsets": {
+				"from": 30500,
+				"to": 30840
+			},
+			"text": " high"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,840",
+				"to": "00:00:31,010"
+			},
+			"offsets": {
+				"from": 30840,
+				"to": 31010
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,010",
+				"to": "00:00:31,160"
+			},
+			"offsets": {
+				"from": 31010,
+				"to": 31160
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,160",
+				"to": "00:00:31,310"
+			},
+			"offsets": {
+				"from": 31160,
+				"to": 31310
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,310",
+				"to": "00:00:31,380"
+			},
+			"offsets": {
+				"from": 31310,
+				"to": 31380
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,380",
+				"to": "00:00:31,770"
+			},
+			"offsets": {
+				"from": 31380,
+				"to": 31770
+			},
+			"text": " Never"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,770",
+				"to": "00:00:32,080"
+			},
+			"offsets": {
+				"from": 31770,
+				"to": 32080
+			},
+			"text": " mind"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,080",
+				"to": "00:00:32,310"
+			},
+			"offsets": {
+				"from": 32080,
+				"to": 32310
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,310",
+				"to": "00:00:32,620"
+			},
+			"offsets": {
+				"from": 32310,
+				"to": 32620
+			},
+			"text": " bass"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,620",
+				"to": "00:00:32,770"
+			},
+			"offsets": {
+				"from": 32620,
+				"to": 32770
+			},
+			"text": "es"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,770",
+				"to": "00:00:32,940"
+			},
+			"offsets": {
+				"from": 32770,
+				"to": 32940
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,940",
+				"to": "00:00:33,150"
+			},
+			"offsets": {
+				"from": 32940,
+				"to": 33150
+			},
+			"text": " one"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,150",
+				"to": "00:00:33,460"
+			},
+			"offsets": {
+				"from": 33150,
+				"to": 33460
+			},
+			"text": " just"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,460",
+				"to": "00:00:34,010"
+			},
+			"offsets": {
+				"from": 33460,
+				"to": 34010
+			},
+			"text": " shuffle"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,010",
+				"to": "00:00:34,240"
+			},
+			"offsets": {
+				"from": 34010,
+				"to": 34240
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,240",
+				"to": "00:00:34,470"
+			},
+			"offsets": {
+				"from": 34240,
+				"to": 34470
+			},
+			"text": " she"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,470",
+				"to": "00:00:34,700"
+			},
+			"offsets": {
+				"from": 34470,
+				"to": 34700
+			},
+			"text": "'ll"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,700",
+				"to": "00:00:35,090"
+			},
+			"offsets": {
+				"from": 34700,
+				"to": 35090
+			},
+			"text": " glide"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,090",
+				"to": "00:00:35,240"
+			},
+			"offsets": {
+				"from": 35090,
+				"to": 35240
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,240",
+				"to": "00:00:35,440"
+			},
+			"offsets": {
+				"from": 35240,
+				"to": 35440
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,440",
+				"to": "00:00:35,630"
+			},
+			"offsets": {
+				"from": 35440,
+				"to": 35630
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,630",
+				"to": "00:00:35,720"
+			},
+			"offsets": {
+				"from": 35630,
+				"to": 35720
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,720",
+				"to": "00:00:35,810"
+			},
+			"offsets": {
+				"from": 35720,
+				"to": 35810
+			},
+			"text": " B"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,810",
+				"to": "00:00:36,100"
+			},
+			"offsets": {
+				"from": 35810,
+				"to": 36100
+			},
+			"text": "ony"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,100",
+				"to": "00:00:36,290"
+			},
+			"offsets": {
+				"from": 36100,
+				"to": 36290
+			},
+			"text": " in"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,290",
+				"to": "00:00:36,580"
+			},
+			"offsets": {
+				"from": 36290,
+				"to": 36580
+			},
+			"text": " red"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,580",
+				"to": "00:00:36,870"
+			},
+			"offsets": {
+				"from": 36580,
+				"to": 36870
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,870",
+				"to": "00:00:37,260"
+			},
+			"offsets": {
+				"from": 36870,
+				"to": 37260
+			},
+			"text": " blue"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,260",
+				"to": "00:00:37,550"
+			},
+			"offsets": {
+				"from": 37260,
+				"to": 37550
+			},
+			"text": " but"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,550",
+				"to": "00:00:37,940"
+			},
+			"offsets": {
+				"from": 37550,
+				"to": 37940
+			},
+			"text": " they"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,940",
+				"to": "00:00:38,420"
+			},
+			"offsets": {
+				"from": 37940,
+				"to": 38420
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,420",
+				"to": "00:00:39,000"
+			},
+			"offsets": {
+				"from": 38420,
+				"to": 39000
+			},
+			"text": " wonder"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,000",
+				"to": "00:00:39,290"
+			},
+			"offsets": {
+				"from": 39000,
+				"to": 39290
+			},
+			"text": " why"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,290",
+				"to": "00:00:39,480"
+			},
+			"offsets": {
+				"from": 39290,
+				"to": 39480
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,480",
+				"to": "00:00:39,640"
+			},
+			"offsets": {
+				"from": 39480,
+				"to": 39640
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,640",
+				"to": "00:00:39,910"
+			},
+			"offsets": {
+				"from": 39640,
+				"to": 39910
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,910",
+				"to": "00:00:40,040"
+			},
+			"offsets": {
+				"from": 39910,
+				"to": 40040
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,040",
+				"to": "00:00:40,310"
+			},
+			"offsets": {
+				"from": 40040,
+				"to": 40310
+			},
+			"text": " Br"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,310",
+				"to": "00:00:40,860"
+			},
+			"offsets": {
+				"from": 40310,
+				"to": 40860
+			},
+			"text": "ains"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,860",
+				"to": "00:00:41,130"
+			},
+			"offsets": {
+				"from": 40860,
+				"to": 41130
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,130",
+				"to": "00:00:41,540"
+			},
+			"offsets": {
+				"from": 41130,
+				"to": 41540
+			},
+			"text": " out"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,540",
+				"to": "00:00:41,810"
+			},
+			"offsets": {
+				"from": 41540,
+				"to": 41810
+			},
+			"text": " of"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,810",
+				"to": "00:00:42,360"
+			},
+			"offsets": {
+				"from": 41810,
+				"to": 42360
+			},
+			"text": " five"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,360",
+				"to": "00:00:42,630"
+			},
+			"offsets": {
+				"from": 42360,
+				"to": 42630
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,630",
+				"to": "00:00:42,900"
+			},
+			"offsets": {
+				"from": 42630,
+				"to": 42900
+			},
+			"text": " it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,900",
+				"to": "00:00:43,170"
+			},
+			"offsets": {
+				"from": 42900,
+				"to": 43170
+			},
+			"text": "'s"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,170",
+				"to": "00:00:43,860"
+			},
+			"offsets": {
+				"from": 43170,
+				"to": 43860
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,860",
+				"to": "00:00:44,410"
+			},
+			"offsets": {
+				"from": 43860,
+				"to": 44410
+			},
+			"text": " hear"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,410",
+				"to": "00:00:44,820"
+			},
+			"offsets": {
+				"from": 44410,
+				"to": 44820
+			},
+			"text": " our"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,820",
+				"to": "00:00:45,510"
+			},
+			"offsets": {
+				"from": 44820,
+				"to": 45510
+			},
+			"text": " cries"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,510",
+				"to": "00:00:45,780"
+			},
+			"offsets": {
+				"from": 45510,
+				"to": 45780
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,780",
+				"to": "00:00:46,040"
+			},
+			"offsets": {
+				"from": 45780,
+				"to": 46040
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,040",
+				"to": "00:00:46,370"
+			},
+			"offsets": {
+				"from": 46040,
+				"to": 46370
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,370",
+				"to": "00:00:46,530"
+			},
+			"offsets": {
+				"from": 46370,
+				"to": 46530
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,530",
+				"to": "00:00:47,030"
+			},
+			"offsets": {
+				"from": 46530,
+				"to": 47030
+			},
+			"text": " Hey"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,030",
+				"to": "00:00:47,360"
+			},
+			"offsets": {
+				"from": 47030,
+				"to": 47360
+			},
+			"text": " oh"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,360",
+				"to": "00:00:47,690"
+			},
+			"offsets": {
+				"from": 47360,
+				"to": 47690
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,690",
+				"to": "00:00:48,690"
+			},
+			"offsets": {
+				"from": 47690,
+				"to": 48690
+			},
+			"text": " praise"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,690",
+				"to": "00:00:49,190"
+			},
+			"offsets": {
+				"from": 48690,
+				"to": 49190
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,190",
+				"to": "00:00:49,690"
+			},
+			"offsets": {
+				"from": 49190,
+				"to": 49690
+			},
+			"text": " sin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,690",
+				"to": "00:00:50,020"
+			},
+			"offsets": {
+				"from": 49690,
+				"to": 50020
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,020",
+				"to": "00:00:50,240"
+			},
+			"offsets": {
+				"from": 50020,
+				"to": 50240
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,240",
+				"to": "00:00:50,510"
+			},
+			"offsets": {
+				"from": 50240,
+				"to": 50510
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,510",
+				"to": "00:00:50,640"
+			},
+			"offsets": {
+				"from": 50510,
+				"to": 50640
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,640",
+				"to": "00:00:51,040"
+			},
+			"offsets": {
+				"from": 50640,
+				"to": 51040
+			},
+			"text": " Hey"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,040",
+				"to": "00:00:51,310"
+			},
+			"offsets": {
+				"from": 51040,
+				"to": 51310
+			},
+			"text": " oh"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,310",
+				"to": "00:00:51,580"
+			},
+			"offsets": {
+				"from": 51310,
+				"to": 51580
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,580",
+				"to": "00:00:52,390"
+			},
+			"offsets": {
+				"from": 51580,
+				"to": 52390
+			},
+			"text": " praise"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,390",
+				"to": "00:00:52,790"
+			},
+			"offsets": {
+				"from": 52390,
+				"to": 52790
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,790",
+				"to": "00:00:53,190"
+			},
+			"offsets": {
+				"from": 52790,
+				"to": 53190
+			},
+			"text": " sin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,190",
+				"to": "00:00:53,460"
+			},
+			"offsets": {
+				"from": 53190,
+				"to": 53460
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,460",
+				"to": "00:00:53,640"
+			},
+			"offsets": {
+				"from": 53460,
+				"to": 53640
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,840",
+				"to": "00:00:56,840"
+			},
+			"offsets": {
+				"from": 56840,
+				"to": 56840
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,840",
+				"to": "00:00:57,540"
+			},
+			"offsets": {
+				"from": 56840,
+				"to": 57540
+			},
+			"text": " ("
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,540",
+				"to": "00:00:59,680"
+			},
+			"offsets": {
+				"from": 57540,
+				"to": 59680
+			},
+			"text": "sil"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,680",
+				"to": "00:01:02,520"
+			},
+			"offsets": {
+				"from": 59680,
+				"to": 62520
+			},
+			"text": "ence"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,520",
+				"to": "00:01:03,240"
+			},
+			"offsets": {
+				"from": 62520,
+				"to": 63240
+			},
+			"text": ")"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,240",
+				"to": "00:01:03,400"
+			},
+			"offsets": {
+				"from": 63240,
+				"to": 63400
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,400",
+				"to": "00:01:03,470"
+			},
+			"offsets": {
+				"from": 63400,
+				"to": 63470
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,470",
+				"to": "00:01:03,860"
+			},
+			"offsets": {
+				"from": 63470,
+				"to": 63860
+			},
+			"text": " Lines"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,860",
+				"to": "00:01:04,250"
+			},
+			"offsets": {
+				"from": 63860,
+				"to": 64250
+			},
+			"text": " drawn"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,250",
+				"to": "00:01:04,410"
+			},
+			"offsets": {
+				"from": 64250,
+				"to": 64410
+			},
+			"text": " in"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,410",
+				"to": "00:01:04,720"
+			},
+			"offsets": {
+				"from": 64410,
+				"to": 64720
+			},
+			"text": " sand"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,720",
+				"to": "00:01:04,880"
+			},
+			"offsets": {
+				"from": 64720,
+				"to": 64880
+			},
+			"text": " no"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,880",
+				"to": "00:01:05,350"
+			},
+			"offsets": {
+				"from": 64880,
+				"to": 65350
+			},
+			"text": " matter"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,350",
+				"to": "00:01:05,660"
+			},
+			"offsets": {
+				"from": 65350,
+				"to": 65660
+			},
+			"text": " what"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,660",
+				"to": "00:01:05,900"
+			},
+			"offsets": {
+				"from": 65660,
+				"to": 65900
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,900",
+				"to": "00:01:06,370"
+			},
+			"offsets": {
+				"from": 65900,
+				"to": 66370
+			},
+			"text": " people"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,370",
+				"to": "00:01:06,680"
+			},
+			"offsets": {
+				"from": 66370,
+				"to": 66680
+			},
+			"text": " need"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,680",
+				"to": "00:01:06,840"
+			},
+			"offsets": {
+				"from": 66680,
+				"to": 66840
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,840",
+				"to": "00:01:07,000"
+			},
+			"offsets": {
+				"from": 66840,
+				"to": 67000
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,000",
+				"to": "00:01:07,180"
+			},
+			"offsets": {
+				"from": 67000,
+				"to": 67180
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,180",
+				"to": "00:01:07,270"
+			},
+			"offsets": {
+				"from": 67180,
+				"to": 67270
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,270",
+				"to": "00:01:07,720"
+			},
+			"offsets": {
+				"from": 67270,
+				"to": 67720
+			},
+			"text": " Const"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,720",
+				"to": "00:01:07,990"
+			},
+			"offsets": {
+				"from": 67720,
+				"to": 67990
+			},
+			"text": "itu"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,990",
+				"to": "00:01:08,350"
+			},
+			"offsets": {
+				"from": 67990,
+				"to": 68350
+			},
+			"text": "ents"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,350",
+				"to": "00:01:08,990"
+			},
+			"offsets": {
+				"from": 68350,
+				"to": 68990
+			},
+			"text": " ignored"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,990",
+				"to": "00:01:09,170"
+			},
+			"offsets": {
+				"from": 68990,
+				"to": 69170
+			},
+			"text": " as"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,170",
+				"to": "00:01:09,440"
+			},
+			"offsets": {
+				"from": 69170,
+				"to": 69440
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,440",
+				"to": "00:01:09,890"
+			},
+			"offsets": {
+				"from": 69440,
+				"to": 69890
+			},
+			"text": " lobby"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,890",
+				"to": "00:01:10,340"
+			},
+			"offsets": {
+				"from": 69890,
+				"to": 70340
+			},
+			"text": " books"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,340",
+				"to": "00:01:10,610"
+			},
+			"offsets": {
+				"from": 70340,
+				"to": 70610
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,610",
+				"to": "00:01:10,970"
+			},
+			"offsets": {
+				"from": 70610,
+				"to": 70970
+			},
+			"text": " feed"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,970",
+				"to": "00:01:11,150"
+			},
+			"offsets": {
+				"from": 70970,
+				"to": 71150
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,150",
+				"to": "00:01:11,320"
+			},
+			"offsets": {
+				"from": 71150,
+				"to": 71320
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,320",
+				"to": "00:01:11,500"
+			},
+			"offsets": {
+				"from": 71320,
+				"to": 71500
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,500",
+				"to": "00:01:11,590"
+			},
+			"offsets": {
+				"from": 71500,
+				"to": 71590
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,590",
+				"to": "00:01:11,680"
+			},
+			"offsets": {
+				"from": 71590,
+				"to": 71680
+			},
+			"text": " A"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,680",
+				"to": "00:01:12,050"
+			},
+			"offsets": {
+				"from": 71680,
+				"to": 72050
+			},
+			"text": " hand"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,050",
+				"to": "00:01:12,220"
+			},
+			"offsets": {
+				"from": 72050,
+				"to": 72220
+			},
+			"text": " up"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,220",
+				"to": "00:01:12,410"
+			},
+			"offsets": {
+				"from": 72220,
+				"to": 72410
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,410",
+				"to": "00:01:12,500"
+			},
+			"offsets": {
+				"from": 72410,
+				"to": 72500
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,500",
+				"to": "00:01:12,870"
+			},
+			"offsets": {
+				"from": 72500,
+				"to": 72870
+			},
+			"text": " hand"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,870",
+				"to": "00:01:13,150"
+			},
+			"offsets": {
+				"from": 72870,
+				"to": 73150
+			},
+			"text": " out"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,150",
+				"to": "00:01:13,330"
+			},
+			"offsets": {
+				"from": 73150,
+				"to": 73330
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,330",
+				"to": "00:01:13,700"
+			},
+			"offsets": {
+				"from": 73330,
+				"to": 73700
+			},
+			"text": " they"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,700",
+				"to": "00:01:13,980"
+			},
+			"offsets": {
+				"from": 73700,
+				"to": 73980
+			},
+			"text": "'re"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,980",
+				"to": "00:01:14,630"
+			},
+			"offsets": {
+				"from": 73980,
+				"to": 74630
+			},
+			"text": " trading"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,630",
+				"to": "00:01:15,100"
+			},
+			"offsets": {
+				"from": 74630,
+				"to": 75100
+			},
+			"text": " paper"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,100",
+				"to": "00:01:15,470"
+			},
+			"offsets": {
+				"from": 75100,
+				"to": 75470
+			},
+			"text": " skin"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,470",
+				"to": "00:01:15,650"
+			},
+			"offsets": {
+				"from": 75470,
+				"to": 75650
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,650",
+				"to": "00:01:15,840"
+			},
+			"offsets": {
+				"from": 75650,
+				"to": 75840
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,840",
+				"to": "00:01:16,060"
+			},
+			"offsets": {
+				"from": 75840,
+				"to": 76060
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,060",
+				"to": "00:01:16,170"
+			},
+			"offsets": {
+				"from": 76060,
+				"to": 76170
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,170",
+				"to": "00:01:16,390"
+			},
+			"offsets": {
+				"from": 76170,
+				"to": 76390
+			},
+			"text": " Pl"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,390",
+				"to": "00:01:16,940"
+			},
+			"offsets": {
+				"from": 76390,
+				"to": 76940
+			},
+			"text": "aster"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,940",
+				"to": "00:01:17,160"
+			},
+			"offsets": {
+				"from": 76940,
+				"to": 77160
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,160",
+				"to": "00:01:17,710"
+			},
+			"offsets": {
+				"from": 77160,
+				"to": 77710
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,710",
+				"to": "00:01:17,930"
+			},
+			"offsets": {
+				"from": 77710,
+				"to": 77930
+			},
+			"text": " gr"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,930",
+				"to": "00:01:18,260"
+			},
+			"offsets": {
+				"from": 77930,
+				"to": 78260
+			},
+			"text": "ins"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,260",
+				"to": "00:01:18,480"
+			},
+			"offsets": {
+				"from": 78260,
+				"to": 78480
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,480",
+				"to": "00:01:18,810"
+			},
+			"offsets": {
+				"from": 78480,
+				"to": 78810
+			},
+			"text": " now"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,810",
+				"to": "00:01:19,140"
+			},
+			"offsets": {
+				"from": 78810,
+				"to": 79140
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,140",
+				"to": "00:01:19,920"
+			},
+			"offsets": {
+				"from": 79140,
+				"to": 79920
+			},
+			"text": " walking"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,920",
+				"to": "00:01:20,360"
+			},
+			"offsets": {
+				"from": 79920,
+				"to": 80360
+			},
+			"text": " dead"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,360",
+				"to": "00:01:20,910"
+			},
+			"offsets": {
+				"from": 80360,
+				"to": 80910
+			},
+			"text": " begin"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,910",
+				"to": "00:01:21,130"
+			},
+			"offsets": {
+				"from": 80910,
+				"to": 81130
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,130",
+				"to": "00:01:21,320"
+			},
+			"offsets": {
+				"from": 81130,
+				"to": 81320
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,320",
+				"to": "00:01:21,560"
+			},
+			"offsets": {
+				"from": 81320,
+				"to": 81560
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,560",
+				"to": "00:01:21,680"
+			},
+			"offsets": {
+				"from": 81560,
+				"to": 81680
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,680",
+				"to": "00:01:21,920"
+			},
+			"offsets": {
+				"from": 81680,
+				"to": 81920
+			},
+			"text": " We"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,920",
+				"to": "00:01:22,280"
+			},
+			"offsets": {
+				"from": 81920,
+				"to": 82280
+			},
+			"text": "'re"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,280",
+				"to": "00:01:23,240"
+			},
+			"offsets": {
+				"from": 82280,
+				"to": 83240
+			},
+			"text": " shouting"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,240",
+				"to": "00:01:23,480"
+			},
+			"offsets": {
+				"from": 83240,
+				"to": 83480
+			},
+			"text": " at"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,480",
+				"to": "00:01:24,080"
+			},
+			"offsets": {
+				"from": 83480,
+				"to": 84080
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,080",
+				"to": "00:01:24,680"
+			},
+			"offsets": {
+				"from": 84080,
+				"to": 84680
+			},
+			"text": " doors"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,680",
+				"to": "00:01:24,920"
+			},
+			"offsets": {
+				"from": 84680,
+				"to": 84920
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,920",
+				"to": "00:01:25,080"
+			},
+			"offsets": {
+				"from": 84920,
+				"to": 85080
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,080",
+				"to": "00:01:25,080"
+			},
+			"offsets": {
+				"from": 85080,
+				"to": 85080
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,080",
+				"to": "00:01:25,340"
+			},
+			"offsets": {
+				"from": 85080,
+				"to": 85340
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,340",
+				"to": "00:01:25,460"
+			},
+			"offsets": {
+				"from": 85340,
+				"to": 85460
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,460",
+				"to": "00:01:25,850"
+			},
+			"offsets": {
+				"from": 85460,
+				"to": 85850
+			},
+			"text": " But"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,850",
+				"to": "00:01:26,500"
+			},
+			"offsets": {
+				"from": 85850,
+				"to": 86500
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,500",
+				"to": "00:01:27,150"
+			},
+			"offsets": {
+				"from": 86500,
+				"to": 87150
+			},
+			"text": " minds"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,150",
+				"to": "00:01:27,540"
+			},
+			"offsets": {
+				"from": 87150,
+				"to": 87540
+			},
+			"text": " are"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,540",
+				"to": "00:01:28,320"
+			},
+			"offsets": {
+				"from": 87540,
+				"to": 88320
+			},
+			"text": " locked"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,320",
+				"to": "00:01:28,580"
+			},
+			"offsets": {
+				"from": 88320,
+				"to": 88580
+			},
+			"text": " up"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,580",
+				"to": "00:01:29,230"
+			},
+			"offsets": {
+				"from": 88580,
+				"to": 89230
+			},
+			"text": " tight"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,230",
+				"to": "00:01:29,490"
+			},
+			"offsets": {
+				"from": 89230,
+				"to": 89490
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,490",
+				"to": "00:01:29,640"
+			},
+			"offsets": {
+				"from": 89490,
+				"to": 89640
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,640",
+				"to": "00:01:29,920"
+			},
+			"offsets": {
+				"from": 89640,
+				"to": 89920
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,920",
+				"to": "00:01:30,060"
+			},
+			"offsets": {
+				"from": 89920,
+				"to": 90060
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,060",
+				"to": "00:01:30,200"
+			},
+			"offsets": {
+				"from": 90060,
+				"to": 90200
+			},
+			"text": " A"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,200",
+				"to": "00:01:31,170"
+			},
+			"offsets": {
+				"from": 90200,
+				"to": 91170
+			},
+			"text": " stamped"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,170",
+				"to": "00:01:31,320"
+			},
+			"offsets": {
+				"from": 91170,
+				"to": 91320
+			},
+			"text": "e"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,320",
+				"to": "00:01:31,600"
+			},
+			"offsets": {
+				"from": 91320,
+				"to": 91600
+			},
+			"text": " of"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,600",
+				"to": "00:01:32,300"
+			},
+			"offsets": {
+				"from": 91600,
+				"to": 92300
+			},
+			"text": " empty"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,300",
+				"to": "00:01:33,000"
+			},
+			"offsets": {
+				"from": 92300,
+				"to": 93000
+			},
+			"text": " suits"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,000",
+				"to": "00:01:33,280"
+			},
+			"offsets": {
+				"from": 93000,
+				"to": 93280
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,280",
+				"to": "00:01:33,440"
+			},
+			"offsets": {
+				"from": 93280,
+				"to": 93440
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,440",
+				"to": "00:01:33,700"
+			},
+			"offsets": {
+				"from": 93440,
+				"to": 93700
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,700",
+				"to": "00:01:33,820"
+			},
+			"offsets": {
+				"from": 93700,
+				"to": 93820
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,820",
+				"to": "00:01:34,340"
+			},
+			"offsets": {
+				"from": 93820,
+				"to": 94340
+			},
+			"text": " Dawn"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,340",
+				"to": "00:01:34,600"
+			},
+			"offsets": {
+				"from": 94340,
+				"to": 94600
+			},
+			"text": " of"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,600",
+				"to": "00:01:34,990"
+			},
+			"offsets": {
+				"from": 94600,
+				"to": 94990
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,990",
+				"to": "00:01:35,640"
+			},
+			"offsets": {
+				"from": 94990,
+				"to": 95640
+			},
+			"text": " party"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,640",
+				"to": "00:01:36,160"
+			},
+			"offsets": {
+				"from": 95640,
+				"to": 96160
+			},
+			"text": " like"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,160",
+				"to": "00:01:37,070"
+			},
+			"offsets": {
+				"from": 96160,
+				"to": 97070
+			},
+			"text": " tonight"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,070",
+				"to": "00:01:37,330"
+			},
+			"offsets": {
+				"from": 97070,
+				"to": 97330
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,330",
+				"to": "00:01:37,480"
+			},
+			"offsets": {
+				"from": 97330,
+				"to": 97480
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,480",
+				"to": "00:01:37,650"
+			},
+			"offsets": {
+				"from": 97480,
+				"to": 97650
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,650",
+				"to": "00:01:37,730"
+			},
+			"offsets": {
+				"from": 97650,
+				"to": 97730
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,730",
+				"to": "00:01:38,060"
+			},
+			"offsets": {
+				"from": 97730,
+				"to": 98060
+			},
+			"text": " Some"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,060",
+				"to": "00:01:38,550"
+			},
+			"offsets": {
+				"from": 98060,
+				"to": 98550
+			},
+			"text": " become"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,550",
+				"to": "00:01:38,640"
+			},
+			"offsets": {
+				"from": 98550,
+				"to": 98640
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,640",
+				"to": "00:01:38,970"
+			},
+			"offsets": {
+				"from": 98640,
+				"to": 98970
+			},
+			"text": " spin"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,970",
+				"to": "00:01:39,130"
+			},
+			"offsets": {
+				"from": 98970,
+				"to": 99130
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,130",
+				"to": "00:01:39,460"
+			},
+			"offsets": {
+				"from": 99130,
+				"to": 99460
+			},
+			"text": " take"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,460",
+				"to": "00:01:39,880"
+			},
+			"offsets": {
+				"from": 99460,
+				"to": 99880
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,880",
+				"to": "00:01:40,550"
+			},
+			"offsets": {
+				"from": 99880,
+				"to": 100550
+			},
+			"text": " marching"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,550",
+				"to": "00:01:41,050"
+			},
+			"offsets": {
+				"from": 100550,
+				"to": 101050
+			},
+			"text": " orders"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,050",
+				"to": "00:01:41,380"
+			},
+			"offsets": {
+				"from": 101050,
+				"to": 101380
+			},
+			"text": " high"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,380",
+				"to": "00:01:41,550"
+			},
+			"offsets": {
+				"from": 101380,
+				"to": 101550
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,550",
+				"to": "00:01:41,720"
+			},
+			"offsets": {
+				"from": 101550,
+				"to": 101720
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,720",
+				"to": "00:01:41,890"
+			},
+			"offsets": {
+				"from": 101720,
+				"to": 101890
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,890",
+				"to": "00:01:41,970"
+			},
+			"offsets": {
+				"from": 101890,
+				"to": 101970
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,970",
+				"to": "00:01:42,400"
+			},
+			"offsets": {
+				"from": 101970,
+				"to": 102400
+			},
+			"text": " Never"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,400",
+				"to": "00:01:42,740"
+			},
+			"offsets": {
+				"from": 102400,
+				"to": 102740
+			},
+			"text": " mind"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,740",
+				"to": "00:01:42,990"
+			},
+			"offsets": {
+				"from": 102740,
+				"to": 102990
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,990",
+				"to": "00:01:43,330"
+			},
+			"offsets": {
+				"from": 102990,
+				"to": 103330
+			},
+			"text": " bass"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,330",
+				"to": "00:01:43,500"
+			},
+			"offsets": {
+				"from": 103330,
+				"to": 103500
+			},
+			"text": "es"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,500",
+				"to": "00:01:43,670"
+			},
+			"offsets": {
+				"from": 103500,
+				"to": 103670
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,670",
+				"to": "00:01:43,920"
+			},
+			"offsets": {
+				"from": 103670,
+				"to": 103920
+			},
+			"text": " one"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,920",
+				"to": "00:01:44,260"
+			},
+			"offsets": {
+				"from": 103920,
+				"to": 104260
+			},
+			"text": " just"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,260",
+				"to": "00:01:44,860"
+			},
+			"offsets": {
+				"from": 104260,
+				"to": 104860
+			},
+			"text": " shuffle"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,860",
+				"to": "00:01:45,110"
+			},
+			"offsets": {
+				"from": 104860,
+				"to": 105110
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,110",
+				"to": "00:01:45,710"
+			},
+			"offsets": {
+				"from": 105110,
+				"to": 105710
+			},
+			"text": " goodbye"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,710",
+				"to": "00:01:45,880"
+			},
+			"offsets": {
+				"from": 105710,
+				"to": 105880
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,880",
+				"to": "00:01:46,040"
+			},
+			"offsets": {
+				"from": 105880,
+				"to": 106040
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,040",
+				"to": "00:01:46,230"
+			},
+			"offsets": {
+				"from": 106040,
+				"to": 106230
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,230",
+				"to": "00:01:46,320"
+			},
+			"offsets": {
+				"from": 106230,
+				"to": 106320
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,320",
+				"to": "00:01:46,410"
+			},
+			"offsets": {
+				"from": 106320,
+				"to": 106410
+			},
+			"text": " B"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,410",
+				"to": "00:01:46,700"
+			},
+			"offsets": {
+				"from": 106410,
+				"to": 106700
+			},
+			"text": "ony"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,700",
+				"to": "00:01:46,890"
+			},
+			"offsets": {
+				"from": 106700,
+				"to": 106890
+			},
+			"text": " in"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,890",
+				"to": "00:01:47,180"
+			},
+			"offsets": {
+				"from": 106890,
+				"to": 107180
+			},
+			"text": " red"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,180",
+				"to": "00:01:47,470"
+			},
+			"offsets": {
+				"from": 107180,
+				"to": 107470
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,470",
+				"to": "00:01:47,860"
+			},
+			"offsets": {
+				"from": 107470,
+				"to": 107860
+			},
+			"text": " blue"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,860",
+				"to": "00:01:48,150"
+			},
+			"offsets": {
+				"from": 107860,
+				"to": 108150
+			},
+			"text": " but"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,150",
+				"to": "00:01:48,540"
+			},
+			"offsets": {
+				"from": 108150,
+				"to": 108540
+			},
+			"text": " they"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,540",
+				"to": "00:01:49,030"
+			},
+			"offsets": {
+				"from": 108540,
+				"to": 109030
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,030",
+				"to": "00:01:49,620"
+			},
+			"offsets": {
+				"from": 109030,
+				"to": 109620
+			},
+			"text": " wonder"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,620",
+				"to": "00:01:49,910"
+			},
+			"offsets": {
+				"from": 109620,
+				"to": 109910
+			},
+			"text": " why"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,910",
+				"to": "00:01:50,100"
+			},
+			"offsets": {
+				"from": 109910,
+				"to": 110100
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,100",
+				"to": "00:01:50,280"
+			},
+			"offsets": {
+				"from": 110100,
+				"to": 110280
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,280",
+				"to": "00:01:50,280"
+			},
+			"offsets": {
+				"from": 110280,
+				"to": 110280
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,280",
+				"to": "00:01:50,520"
+			},
+			"offsets": {
+				"from": 110280,
+				"to": 110520
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,520",
+				"to": "00:01:50,640"
+			},
+			"offsets": {
+				"from": 110520,
+				"to": 110640
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,640",
+				"to": "00:01:50,880"
+			},
+			"offsets": {
+				"from": 110640,
+				"to": 110880
+			},
+			"text": " Br"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,880",
+				"to": "00:01:51,370"
+			},
+			"offsets": {
+				"from": 110880,
+				"to": 111370
+			},
+			"text": "ains"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,370",
+				"to": "00:01:51,980"
+			},
+			"offsets": {
+				"from": 111370,
+				"to": 111980
+			},
+			"text": " drawn"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,980",
+				"to": "00:01:52,220"
+			},
+			"offsets": {
+				"from": 111980,
+				"to": 112220
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,220",
+				"to": "00:01:52,340"
+			},
+			"offsets": {
+				"from": 112220,
+				"to": 112340
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,340",
+				"to": "00:01:52,950"
+			},
+			"offsets": {
+				"from": 112340,
+				"to": 112950
+			},
+			"text": " pilot"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,950",
+				"to": "00:01:53,190"
+			},
+			"offsets": {
+				"from": 112950,
+				"to": 113190
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,190",
+				"to": "00:01:53,800"
+			},
+			"offsets": {
+				"from": 113190,
+				"to": 113800
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,800",
+				"to": "00:01:54,290"
+			},
+			"offsets": {
+				"from": 113800,
+				"to": 114290
+			},
+			"text": " hear"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,290",
+				"to": "00:01:54,660"
+			},
+			"offsets": {
+				"from": 114290,
+				"to": 114660
+			},
+			"text": " our"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,660",
+				"to": "00:01:55,270"
+			},
+			"offsets": {
+				"from": 114660,
+				"to": 115270
+			},
+			"text": " cries"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,270",
+				"to": "00:01:55,500"
+			},
+			"offsets": {
+				"from": 115270,
+				"to": 115500
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,500",
+				"to": "00:01:55,720"
+			},
+			"offsets": {
+				"from": 115500,
+				"to": 115720
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,720",
+				"to": "00:01:55,930"
+			},
+			"offsets": {
+				"from": 115720,
+				"to": 115930
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,930",
+				"to": "00:01:56,030"
+			},
+			"offsets": {
+				"from": 115930,
+				"to": 116030
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,030",
+				"to": "00:01:56,350"
+			},
+			"offsets": {
+				"from": 116030,
+				"to": 116350
+			},
+			"text": " Hey"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,350",
+				"to": "00:01:56,560"
+			},
+			"offsets": {
+				"from": 116350,
+				"to": 116560
+			},
+			"text": " oh"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,560",
+				"to": "00:01:56,770"
+			},
+			"offsets": {
+				"from": 116560,
+				"to": 116770
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,770",
+				"to": "00:01:57,420"
+			},
+			"offsets": {
+				"from": 116770,
+				"to": 117420
+			},
+			"text": " brings"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,420",
+				"to": "00:01:57,740"
+			},
+			"offsets": {
+				"from": 117420,
+				"to": 117740
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,740",
+				"to": "00:01:58,060"
+			},
+			"offsets": {
+				"from": 117740,
+				"to": 118060
+			},
+			"text": " sin"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,060",
+				"to": "00:01:58,270"
+			},
+			"offsets": {
+				"from": 118060,
+				"to": 118270
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,270",
+				"to": "00:01:58,440"
+			},
+			"offsets": {
+				"from": 118270,
+				"to": 118440
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,440",
+				"to": "00:01:58,740"
+			},
+			"offsets": {
+				"from": 118440,
+				"to": 118740
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,740",
+				"to": "00:01:58,890"
+			},
+			"offsets": {
+				"from": 118740,
+				"to": 118890
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,890",
+				"to": "00:01:59,340"
+			},
+			"offsets": {
+				"from": 118890,
+				"to": 119340
+			},
+			"text": " Hey"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,340",
+				"to": "00:01:59,640"
+			},
+			"offsets": {
+				"from": 119340,
+				"to": 119640
+			},
+			"text": " oh"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,640",
+				"to": "00:01:59,940"
+			},
+			"offsets": {
+				"from": 119640,
+				"to": 119940
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,940",
+				"to": "00:02:00,390"
+			},
+			"offsets": {
+				"from": 119940,
+				"to": 120390
+			},
+			"text": " hey"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,390",
+				"to": "00:02:00,690"
+			},
+			"offsets": {
+				"from": 120390,
+				"to": 120690
+			},
+			"text": " oh"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,690",
+				"to": "00:02:00,990"
+			},
+			"offsets": {
+				"from": 120690,
+				"to": 120990
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,990",
+				"to": "00:02:01,900"
+			},
+			"offsets": {
+				"from": 120990,
+				"to": 121900
+			},
+			"text": " brings"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,900",
+				"to": "00:02:02,350"
+			},
+			"offsets": {
+				"from": 121900,
+				"to": 122350
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,350",
+				"to": "00:02:02,800"
+			},
+			"offsets": {
+				"from": 122350,
+				"to": 122800
+			},
+			"text": " sin"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,800",
+				"to": "00:02:03,100"
+			},
+			"offsets": {
+				"from": 122800,
+				"to": 123100
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,100",
+				"to": "00:02:03,320"
+			},
+			"offsets": {
+				"from": 123100,
+				"to": 123320
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,320",
+				"to": "00:02:04,270"
+			},
+			"offsets": {
+				"from": 123320,
+				"to": 124270
+			},
+			"text": " ("
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,270",
+				"to": "00:02:07,120"
+			},
+			"offsets": {
+				"from": 124270,
+				"to": 127120
+			},
+			"text": "sil"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,120",
+				"to": "00:02:10,920"
+			},
+			"offsets": {
+				"from": 127120,
+				"to": 130920
+			},
+			"text": "ence"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,920",
+				"to": "00:02:11,880"
+			},
+			"offsets": {
+				"from": 130920,
+				"to": 131880
+			},
+			"text": ")"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,880",
+				"to": "00:02:12,050"
+			},
+			"offsets": {
+				"from": 131880,
+				"to": 132050
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,050",
+				"to": "00:02:12,130"
+			},
+			"offsets": {
+				"from": 132050,
+				"to": 132130
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,130",
+				"to": "00:02:12,210"
+			},
+			"offsets": {
+				"from": 132130,
+				"to": 132210
+			},
+			"text": " B"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,210",
+				"to": "00:02:12,550"
+			},
+			"offsets": {
+				"from": 132210,
+				"to": 132550
+			},
+			"text": "ourn"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,550",
+				"to": "00:02:12,630"
+			},
+			"offsets": {
+				"from": 132550,
+				"to": 132630
+			},
+			"text": "s"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,630",
+				"to": "00:02:12,800"
+			},
+			"offsets": {
+				"from": 132630,
+				"to": 132800
+			},
+			"text": " bl"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,800",
+				"to": "00:02:13,050"
+			},
+			"offsets": {
+				"from": 132800,
+				"to": 133050
+			},
+			"text": "are"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,050",
+				"to": "00:02:13,740"
+			},
+			"offsets": {
+				"from": 133050,
+				"to": 133740
+			},
+			"text": " warnings"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,740",
+				"to": "00:02:13,910"
+			},
+			"offsets": {
+				"from": 133740,
+				"to": 133910
+			},
+			"text": " as"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,910",
+				"to": "00:02:14,170"
+			},
+			"offsets": {
+				"from": 133910,
+				"to": 134170
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,170",
+				"to": "00:02:14,680"
+			},
+			"offsets": {
+				"from": 134170,
+				"to": 134680
+			},
+			"text": " brains"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,680",
+				"to": "00:02:14,850"
+			},
+			"offsets": {
+				"from": 134680,
+				"to": 134850
+			},
+			"text": " go"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,850",
+				"to": "00:02:15,110"
+			},
+			"offsets": {
+				"from": 134850,
+				"to": 135110
+			},
+			"text": " out"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,110",
+				"to": "00:02:15,280"
+			},
+			"offsets": {
+				"from": 135110,
+				"to": 135280
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,280",
+				"to": "00:02:15,710"
+			},
+			"offsets": {
+				"from": 135280,
+				"to": 135710
+			},
+			"text": " lunch"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,710",
+				"to": "00:02:15,880"
+			},
+			"offsets": {
+				"from": 135710,
+				"to": 135880
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,880",
+				"to": "00:02:16,040"
+			},
+			"offsets": {
+				"from": 135880,
+				"to": 136040
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,040",
+				"to": "00:02:16,040"
+			},
+			"offsets": {
+				"from": 136040,
+				"to": 136040
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,040",
+				"to": "00:02:16,230"
+			},
+			"offsets": {
+				"from": 136040,
+				"to": 136230
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,230",
+				"to": "00:02:16,320"
+			},
+			"offsets": {
+				"from": 136230,
+				"to": 136320
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,320",
+				"to": "00:02:17,000"
+			},
+			"offsets": {
+				"from": 136320,
+				"to": 137000
+			},
+			"text": " Another"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,000",
+				"to": "00:02:17,490"
+			},
+			"offsets": {
+				"from": 137000,
+				"to": 137490
+			},
+			"text": " round"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,490",
+				"to": "00:02:17,680"
+			},
+			"offsets": {
+				"from": 137490,
+				"to": 137680
+			},
+			"text": " of"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,680",
+				"to": "00:02:18,170"
+			},
+			"offsets": {
+				"from": 137680,
+				"to": 138170
+			},
+			"text": " chaos"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,170",
+				"to": "00:02:18,760"
+			},
+			"offsets": {
+				"from": 138170,
+				"to": 138760
+			},
+			"text": " served"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,760",
+				"to": "00:02:18,950"
+			},
+			"offsets": {
+				"from": 138760,
+				"to": 138950
+			},
+			"text": " up"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,950",
+				"to": "00:02:19,340"
+			},
+			"offsets": {
+				"from": 138950,
+				"to": 139340
+			},
+			"text": " with"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,340",
+				"to": "00:02:19,430"
+			},
+			"offsets": {
+				"from": 139340,
+				"to": 139430
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,430",
+				"to": "00:02:19,920"
+			},
+			"offsets": {
+				"from": 139430,
+				"to": 139920
+			},
+			"text": " punch"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,920",
+				"to": "00:02:20,110"
+			},
+			"offsets": {
+				"from": 139920,
+				"to": 140110
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,110",
+				"to": "00:02:20,280"
+			},
+			"offsets": {
+				"from": 140110,
+				"to": 140280
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,280",
+				"to": "00:02:20,440"
+			},
+			"offsets": {
+				"from": 140280,
+				"to": 140440
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,440",
+				"to": "00:02:20,510"
+			},
+			"offsets": {
+				"from": 140440,
+				"to": 140510
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,510",
+				"to": "00:02:20,900"
+			},
+			"offsets": {
+				"from": 140510,
+				"to": 140900
+			},
+			"text": " Truth"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,900",
+				"to": "00:02:21,140"
+			},
+			"offsets": {
+				"from": 140900,
+				"to": 141140
+			},
+			"text": " DJs"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,140",
+				"to": "00:02:21,300"
+			},
+			"offsets": {
+				"from": 141140,
+				"to": 141300
+			},
+			"text": " in"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,300",
+				"to": "00:02:21,850"
+			},
+			"offsets": {
+				"from": 141300,
+				"to": 141850
+			},
+			"text": " silence"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,850",
+				"to": "00:02:22,240"
+			},
+			"offsets": {
+				"from": 141850,
+				"to": 142240
+			},
+			"text": " while"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,240",
+				"to": "00:02:22,560"
+			},
+			"offsets": {
+				"from": 142240,
+				"to": 142560
+			},
+			"text": " they"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,560",
+				"to": "00:02:22,790"
+			},
+			"offsets": {
+				"from": 142560,
+				"to": 142790
+			},
+			"text": "'re"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,790",
+				"to": "00:02:23,260"
+			},
+			"offsets": {
+				"from": 142790,
+				"to": 143260
+			},
+			"text": " locked"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,260",
+				"to": "00:02:23,730"
+			},
+			"offsets": {
+				"from": 143260,
+				"to": 143730
+			},
+			"text": " inside"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,730",
+				"to": "00:02:23,970"
+			},
+			"offsets": {
+				"from": 143730,
+				"to": 143970
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,970",
+				"to": "00:02:24,290"
+			},
+			"offsets": {
+				"from": 143970,
+				"to": 144290
+			},
+			"text": " dome"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,290",
+				"to": "00:02:24,450"
+			},
+			"offsets": {
+				"from": 144290,
+				"to": 144450
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,450",
+				"to": "00:02:24,600"
+			},
+			"offsets": {
+				"from": 144450,
+				"to": 144600
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,600",
+				"to": "00:02:24,760"
+			},
+			"offsets": {
+				"from": 144600,
+				"to": 144760
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,760",
+				"to": "00:02:24,840"
+			},
+			"offsets": {
+				"from": 144760,
+				"to": 144840
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,840",
+				"to": "00:02:25,000"
+			},
+			"offsets": {
+				"from": 144840,
+				"to": 145000
+			},
+			"text": " We"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,000",
+				"to": "00:02:25,240"
+			},
+			"offsets": {
+				"from": 145000,
+				"to": 145240
+			},
+			"text": "'re"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,240",
+				"to": "00:02:25,650"
+			},
+			"offsets": {
+				"from": 145240,
+				"to": 145650
+			},
+			"text": " still"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,650",
+				"to": "00:02:26,390"
+			},
+			"offsets": {
+				"from": 145650,
+				"to": 146390
+			},
+			"text": " screaming"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,390",
+				"to": "00:02:26,720"
+			},
+			"offsets": {
+				"from": 146390,
+				"to": 146720
+			},
+			"text": " loud"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,720",
+				"to": "00:02:26,960"
+			},
+			"offsets": {
+				"from": 146720,
+				"to": 146960
+			},
+			"text": " but"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,960",
+				"to": "00:02:27,540"
+			},
+			"offsets": {
+				"from": 146960,
+				"to": 147540
+			},
+			"text": " getting"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,540",
+				"to": "00:02:28,280"
+			},
+			"offsets": {
+				"from": 147540,
+				"to": 148280
+			},
+			"text": " saturated"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,280",
+				"to": "00:02:28,690"
+			},
+			"offsets": {
+				"from": 148280,
+				"to": 148690
+			},
+			"text": " holes"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,690",
+				"to": "00:02:28,850"
+			},
+			"offsets": {
+				"from": 148690,
+				"to": 148850
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,850",
+				"to": "00:02:29,000"
+			},
+			"offsets": {
+				"from": 148850,
+				"to": 149000
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,000",
+				"to": "00:02:29,170"
+			},
+			"offsets": {
+				"from": 149000,
+				"to": 149170
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,170",
+				"to": "00:02:29,250"
+			},
+			"offsets": {
+				"from": 149170,
+				"to": 149250
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,250",
+				"to": "00:02:29,580"
+			},
+			"offsets": {
+				"from": 149250,
+				"to": 149580
+			},
+			"text": " Some"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,580",
+				"to": "00:02:30,070"
+			},
+			"offsets": {
+				"from": 149580,
+				"to": 150070
+			},
+			"text": " become"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,070",
+				"to": "00:02:30,160"
+			},
+			"offsets": {
+				"from": 150070,
+				"to": 150160
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,160",
+				"to": "00:02:30,490"
+			},
+			"offsets": {
+				"from": 150160,
+				"to": 150490
+			},
+			"text": " spin"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,490",
+				"to": "00:02:30,650"
+			},
+			"offsets": {
+				"from": 150490,
+				"to": 150650
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,650",
+				"to": "00:02:30,980"
+			},
+			"offsets": {
+				"from": 150650,
+				"to": 150980
+			},
+			"text": " take"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,980",
+				"to": "00:02:31,400"
+			},
+			"offsets": {
+				"from": 150980,
+				"to": 151400
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,400",
+				"to": "00:02:32,070"
+			},
+			"offsets": {
+				"from": 151400,
+				"to": 152070
+			},
+			"text": " marching"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,070",
+				"to": "00:02:32,570"
+			},
+			"offsets": {
+				"from": 152070,
+				"to": 152570
+			},
+			"text": " orders"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,570",
+				"to": "00:02:32,900"
+			},
+			"offsets": {
+				"from": 152570,
+				"to": 152900
+			},
+			"text": " high"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,900",
+				"to": "00:02:33,070"
+			},
+			"offsets": {
+				"from": 152900,
+				"to": 153070
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,070",
+				"to": "00:02:33,240"
+			},
+			"offsets": {
+				"from": 153070,
+				"to": 153240
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,240",
+				"to": "00:02:33,410"
+			},
+			"offsets": {
+				"from": 153240,
+				"to": 153410
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,410",
+				"to": "00:02:33,490"
+			},
+			"offsets": {
+				"from": 153410,
+				"to": 153490
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,490",
+				"to": "00:02:33,920"
+			},
+			"offsets": {
+				"from": 153490,
+				"to": 153920
+			},
+			"text": " Never"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,920",
+				"to": "00:02:34,260"
+			},
+			"offsets": {
+				"from": 153920,
+				"to": 154260
+			},
+			"text": " mind"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,260",
+				"to": "00:02:34,510"
+			},
+			"offsets": {
+				"from": 154260,
+				"to": 154510
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,510",
+				"to": "00:02:34,850"
+			},
+			"offsets": {
+				"from": 154510,
+				"to": 154850
+			},
+			"text": " bass"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,850",
+				"to": "00:02:35,020"
+			},
+			"offsets": {
+				"from": 154850,
+				"to": 155020
+			},
+			"text": "es"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,020",
+				"to": "00:02:35,190"
+			},
+			"offsets": {
+				"from": 155020,
+				"to": 155190
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,190",
+				"to": "00:02:35,440"
+			},
+			"offsets": {
+				"from": 155190,
+				"to": 155440
+			},
+			"text": " one"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,440",
+				"to": "00:02:35,780"
+			},
+			"offsets": {
+				"from": 155440,
+				"to": 155780
+			},
+			"text": " just"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,780",
+				"to": "00:02:36,380"
+			},
+			"offsets": {
+				"from": 155780,
+				"to": 156380
+			},
+			"text": " shuffle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,380",
+				"to": "00:02:36,630"
+			},
+			"offsets": {
+				"from": 156380,
+				"to": 156630
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,630",
+				"to": "00:02:37,230"
+			},
+			"offsets": {
+				"from": 156630,
+				"to": 157230
+			},
+			"text": " goodbye"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,230",
+				"to": "00:02:37,400"
+			},
+			"offsets": {
+				"from": 157230,
+				"to": 157400
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,400",
+				"to": "00:02:37,560"
+			},
+			"offsets": {
+				"from": 157400,
+				"to": 157560
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,560",
+				"to": "00:02:37,750"
+			},
+			"offsets": {
+				"from": 157560,
+				"to": 157750
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,750",
+				"to": "00:02:37,840"
+			},
+			"offsets": {
+				"from": 157750,
+				"to": 157840
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,840",
+				"to": "00:02:37,930"
+			},
+			"offsets": {
+				"from": 157840,
+				"to": 157930
+			},
+			"text": " B"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,930",
+				"to": "00:02:38,210"
+			},
+			"offsets": {
+				"from": 157930,
+				"to": 158210
+			},
+			"text": "ony"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,210",
+				"to": "00:02:38,400"
+			},
+			"offsets": {
+				"from": 158210,
+				"to": 158400
+			},
+			"text": " in"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,400",
+				"to": "00:02:38,690"
+			},
+			"offsets": {
+				"from": 158400,
+				"to": 158690
+			},
+			"text": " red"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,690",
+				"to": "00:02:38,980"
+			},
+			"offsets": {
+				"from": 158690,
+				"to": 158980
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,980",
+				"to": "00:02:39,360"
+			},
+			"offsets": {
+				"from": 158980,
+				"to": 159360
+			},
+			"text": " blue"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,360",
+				"to": "00:02:39,650"
+			},
+			"offsets": {
+				"from": 159360,
+				"to": 159650
+			},
+			"text": " but"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,650",
+				"to": "00:02:40,030"
+			},
+			"offsets": {
+				"from": 159650,
+				"to": 160030
+			},
+			"text": " they"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,030",
+				"to": "00:02:40,510"
+			},
+			"offsets": {
+				"from": 160030,
+				"to": 160510
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,510",
+				"to": "00:02:41,080"
+			},
+			"offsets": {
+				"from": 160510,
+				"to": 161080
+			},
+			"text": " wonder"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,080",
+				"to": "00:02:41,370"
+			},
+			"offsets": {
+				"from": 161080,
+				"to": 161370
+			},
+			"text": " why"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,370",
+				"to": "00:02:41,560"
+			},
+			"offsets": {
+				"from": 161370,
+				"to": 161560
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,560",
+				"to": "00:02:41,720"
+			},
+			"offsets": {
+				"from": 161560,
+				"to": 161720
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,720",
+				"to": "00:02:41,720"
+			},
+			"offsets": {
+				"from": 161720,
+				"to": 161720
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,720",
+				"to": "00:02:41,940"
+			},
+			"offsets": {
+				"from": 161720,
+				"to": 161940
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,940",
+				"to": "00:02:42,050"
+			},
+			"offsets": {
+				"from": 161940,
+				"to": 162050
+			},
+			"text": "ª"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,050",
+				"to": "00:02:42,270"
+			},
+			"offsets": {
+				"from": 162050,
+				"to": 162270
+			},
+			"text": " Br"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,270",
+				"to": "00:02:42,720"
+			},
+			"offsets": {
+				"from": 162270,
+				"to": 162720
+			},
+			"text": "ains"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,720",
+				"to": "00:02:43,290"
+			},
+			"offsets": {
+				"from": 162720,
+				"to": 163290
+			},
+			"text": " drawn"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,290",
+				"to": "00:02:43,510"
+			},
+			"offsets": {
+				"from": 163290,
+				"to": 163510
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,510",
+				"to": "00:02:43,620"
+			},
+			"offsets": {
+				"from": 163510,
+				"to": 163620
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,620",
+				"to": "00:02:44,190"
+			},
+			"offsets": {
+				"from": 163620,
+				"to": 164190
+			},
+			"text": " pilot"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,190",
+				"to": "00:02:44,410"
+			},
+			"offsets": {
+				"from": 164190,
+				"to": 164410
+			},
+			"text": ","
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,410",
+				"to": "00:02:44,980"
+			},
+			"offsets": {
+				"from": 164410,
+				"to": 164980
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,980",
+				"to": "00:02:45,430"
+			},
+			"offsets": {
+				"from": 164980,
+				"to": 165430
+			},
+			"text": " hear"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,430",
+				"to": "00:02:45,770"
+			},
+			"offsets": {
+				"from": 165430,
+				"to": 165770
+			},
+			"text": " our"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,770",
+				"to": "00:02:46,340"
+			},
+			"offsets": {
+				"from": 165770,
+				"to": 166340
+			},
+			"text": " cries"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,340",
+				"to": "00:02:46,560"
+			},
+			"offsets": {
+				"from": 166340,
+				"to": 166560
+			},
+			"text": " â™"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,560",
+				"to": "00:02:46,760"
+			},
+			"offsets": {
+				"from": 166560,
+				"to": 166760
+			},
+			"text": "ª"
+		}
+	]
+}

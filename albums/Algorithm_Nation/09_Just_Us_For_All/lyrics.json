@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "medium",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 1024,
+			"head": 16,
+			"layer": 24
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1024,
+			"head": 16,
+			"layer": 24
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/cdr/.local/models/ggml-medium.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:11,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 11000
+			},
+			"text": " POKEN RECORDS SPINNING FAST HEADLINES NEVER FADE"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,000",
+				"to": "00:00:15,940"
+			},
+			"offsets": {
+				"from": 11000,
+				"to": 15940
+			},
+			"text": " DEPORT A DREAM IN SILENCE TRAIN HOPE FOR BARICADE"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,940",
+				"to": "00:00:21,560"
+			},
+			"offsets": {
+				"from": 15940,
+				"to": 21560
+			},
+			"text": " CORTS ARE CLOTHED FOR BISNETTAS JUST THIS OUT OF STOCK"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,560",
+				"to": "00:00:27,640"
+			},
+			"offsets": {
+				"from": 21560,
+				"to": 27640
+			},
+			"text": " TARE THE WELL-KILLED BANNER GOWN KEEP THE FUTURE LOCKED"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,640",
+				"to": "00:00:33,080"
+			},
+			"offsets": {
+				"from": 27640,
+				"to": 33080
+			},
+			"text": " LOOK AT WHAT WE'VE COME TO NOW PROMISES ARE HALLOWED OUT"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,080",
+				"to": "00:00:49,680"
+			},
+			"offsets": {
+				"from": 33080,
+				"to": 49680
+			},
+			"text": " BUILDING WALLS AROUND OUR PIDE TRADING TRUTH FOR DOLLAR SIGHTS"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,680",
+				"to": "00:00:53,760"
+			},
+			"offsets": {
+				"from": 49680,
+				"to": 53760
+			},
+			"text": " JUST US FOR ALL OR NOT AT ALL WATCH THE PORTERS RISE"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,760",
+				"to": "00:00:57,880"
+			},
+			"offsets": {
+				"from": 53760,
+				"to": 57880
+			},
+			"text": " SEE THE CONSCIONS FALL BRAKERS TORN BRIGHT TONIGHT"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,880",
+				"to": "00:01:12,280"
+			},
+			"offsets": {
+				"from": 57880,
+				"to": 72280
+			},
+			"text": " SPREAD THE WHEEL TIL THE TRUTH IS DIED OHS AND WALLS RINGING OUT"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,280",
+				"to": "00:01:20,120"
+			},
+			"offsets": {
+				"from": 72280,
+				"to": 80120
+			},
+			"text": " ASSIGN AWAY THE FUTURE TIGENTS ON A LIST DEPORT A HUNDRED THOUSAND"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,120",
+				"to": "00:01:25,680"
+			},
+			"offsets": {
+				"from": 80120,
+				"to": 85680
+			},
+			"text": " JUSTICE DON'T EXIST STUDE IT SPEAK AND LOSE IT ALL"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,680",
+				"to": "00:01:30,480"
+			},
+			"offsets": {
+				"from": 85680,
+				"to": 90480
+			},
+			"text": " VOICES ARE NUDE FREEDOM'S JUST A SLUGGED"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,480",
+				"to": "00:01:37,200"
+			},
+			"offsets": {
+				"from": 90480,
+				"to": 97200
+			},
+			"text": " IF YOU'RE NOT IN THE SUIT RUBBER STAMPS FOR THE CHOSEN FEW"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,200",
+				"to": "00:01:42,600"
+			},
+			"offsets": {
+				"from": 97200,
+				"to": 102600
+			},
+			"text": " BLIND EYES AT 'EM LET IT THROUGH FROM WORLDS WATCHING WHILE WE STALL"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,600",
+				"to": "00:01:48,240"
+			},
+			"offsets": {
+				"from": 102600,
+				"to": 108240
+			},
+			"text": " BUT WHO'S LEFT TO MAKE THE CALL JUST US FOR ALL OR NOT AT ALL"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,240",
+				"to": "00:01:51,040"
+			},
+			"offsets": {
+				"from": 108240,
+				"to": 111040
+			},
+			"text": " WATCH THE PORTERS RISE SEE THE CONSCION FALL"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,040",
+				"to": "00:01:57,120"
+			},
+			"offsets": {
+				"from": 111040,
+				"to": 117120
+			},
+			"text": " BRAKERS TORN BRIGHT TONIGHT SPREAD THE WHEEL TIL THE TRUTH IS DIED"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,120",
+				"to": "00:02:04,560"
+			},
+			"offsets": {
+				"from": 117120,
+				"to": 124560
+			},
+			"text": " OHS AND WALLS RINGING OUT"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.77,0:00:56.49,Default,,0,0,0,,Remember when facts had a little more weight?\\NNow it\'s \"Truth Social\" served on a gold dinner plate\\NCongress is streaming on OnlyFans\\NAnd the nukes are auctioned off to the highest stan
+Dialogue: 0,0:00:06.77,0:01:06.49,Default,,0,0,0,,Border walls built from iPhone screens\\NAnd ICE drones fly by Red Bull machines\\NNASA sold to Tesla’s brand\\NBecause Mars is the backup, just not for your fam
+Dialogue: 0,0:00:06.77,0:01:12.51,Default,,0,0,0,,“Well folks, in today’s great America™\\NYou can privatize a prison but not your grandma’s insulin.”
+Dialogue: 0,0:00:06.77,0:02:11.27,Default,,0,0,0,,The working class gets a pat on the back\\N\"Essential heroes\" but your pension\'s hacked\\NSo raise a middle finger to the status quo\\NWhen the rich man\'s system starts to blow

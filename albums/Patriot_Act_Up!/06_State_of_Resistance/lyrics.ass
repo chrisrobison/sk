@@ -1,0 +1,17 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.21,0:02:10.94,Default,,0,0,0,,[Verse 1]\\NBarrio sunrise the tension begins\\NNeighbors trade stories on how it got grim\\NHelicopters circling chasing their ghosts\\NPrayers for the families who need \'em the most\\N[Chorus]\\NBoots on Sunset marching through the night\\NSirens wail and families held tight\\NPower games played in a tired machine\\NBut we see the struggle painted on every street
+Dialogue: 0,0:00:03.21,0:02:10.94,Default,,0,0,0,,[Chorus]\\NBoots on Sunset marching through the night\\NSirens wail and families held tight\\NPower games played in a tired machine\\NBut we see the struggle painted on every street

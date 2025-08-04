@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="16.1718 -7.1644 1769.52 550.0195" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="outline-filter-0" bx:preset="outline 1 2 #dc8700" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feMorphology in="SourceAlpha" result="dilated" operator="dilate" radius="2"></feMorphology>
+      <feFlood flood-color="#dc8700" result="flood"></feFlood>
+      <feComposite in="flood" in2="dilated" operator="in" result="outline"></feComposite>
+      <feMerge>
+        <feMergeNode in="outline"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <filter id="f">
+      <feGaussianBlur stdDeviation="3.7"></feGaussianBlur>
+    </filter>
+    <linearGradient id="a">
+      <stop stop-color="#fff" offset="0"></stop>
+      <stop stop-color="#fff" stop-opacity="0" offset="1"></stop>
+    </linearGradient>
+    <radialGradient id="c" cx="199.28" cy="192.84" r="53.688" gradientTransform="matrix(0 2.8729 -1 0 392.84 -372.51)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f7f7f7" offset="0"></stop>
+      <stop stop-color="#e1e1e1" offset="1"></stop>
+    </radialGradient>
+    <radialGradient id="b" cx="199.28" cy="192.84" r="68.844" gradientTransform="matrix(0 2.7782 -.82388 0 358.88 -353.65)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6c6c6c" offset="0"></stop>
+      <stop stop-color="#3e3e3e" offset="1"></stop>
+    </radialGradient>
+    <radialGradient id="e" cx="289.43" cy="209.67" r="92.5" gradientTransform="matrix(-.86959 .86959 -1.9615 -1.9615 681.51 178.14)" gradientUnits="userSpaceOnUse" href="#a"></radialGradient>
+    <radialGradient id="d" cx="289.43" cy="209.67" r="92.5" gradientTransform="matrix(.86959 -.86959 1.9615 1.9615 -281.51 221.86)" gradientUnits="userSpaceOnUse" href="#a"></radialGradient>
+    <linearGradient id="gradient-1">
+      <stop stop-color="#fff" stop-opacity=".30928" offset="0"></stop>
+      <stop stop-color="#c3ffff" stop-opacity="0" offset="1"></stop>
+    </linearGradient>
+    <linearGradient id="gradient-2" x1="156.12" x2="93.862" y1="334.97" y2="273.03" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity=".50588" offset="0"></stop>
+      <stop stop-opacity="0" offset="1"></stop>
+    </linearGradient>
+    <linearGradient id="h" x1="263.75" x2="331.06" y1="260.13" y2="330.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0"></stop>
+      <stop stop-opacity="0" offset="1"></stop>
+    </linearGradient>
+    <linearGradient id="g" x1="-20.319" x2="93.862" y1="159.44" y2="273.03" gradientUnits="userSpaceOnUse" href="#a"></linearGradient>
+    <linearGradient id="a-1" x1="391.81" x2="331.06" y1="394.54" y2="330.78" gradientUnits="userSpaceOnUse" href="#a"></linearGradient>
+    <radialGradient id="b-1" cx="123.53" cy="130.57" r="180" gradientUnits="userSpaceOnUse" href="#gradient-1"></radialGradient>
+    <radialGradient id="b-2" cx="200.03" cy="-138.31" r="120.19" gradientTransform="matrix(1.1233 0 0 -1.1233 288.85 353.75)" gradientUnits="userSpaceOnUse" href="#gradient-1"></radialGradient>
+    <filter id="i" x="-.079832" y="-.12038" width="1.1597" height="1.2408" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="54.944727"></feGaussianBlur>
+    </filter>
+    <clipPath id="j">
+      <circle cx="3190.5" cy="849.65" r="828.65" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="8" style="isolation:auto;mix-blend-mode:normal"></circle>
+    </clipPath>
+    <bx:export>
+      <bx:file format="png" href="#object-0" path="traqlab-logo.png"></bx:file>
+    </bx:export>
+  </defs>
+  <g>
+    <bx:title>dark background</bx:title>
+    <rect x="16.1718" y="-7.1644" width="1769.52" height="548.683" rx="5" ry="5" style="fill: rgb(255, 255, 255); visibility: hidden;" id="object-0"></rect>
+    <text style="fill: rgb(51, 51, 51); font-family: Lexend; font-size: 249.999px; font-weight: 800; line-height: 239.999px; white-space: pre;" transform="matrix(0.999998, 0, 0, 1.000003, 571.732666, 348.587372)"><tspan style="fill: rgb(255, 255, 255);">Traq</tspan><tspan style="fill: rgb(220, 135, 0);">Lab</tspan></text>
+    <g transform="matrix(0.546983, 0, 0, 0.546983, -269.961914, 48.561855)">
+      <defs></defs>
+      <g transform="translate(-2199.7 -975.95)">
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="400" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="125.49" color="#000000" color-rendering="auto" fill="#e2e3db" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="13.072" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <path transform="matrix(.44278 .13244 -.13244 .44278 1966.7 583.04)" d="m2653.2 222.79a825.9 825.9 0 0 0 -288.66 626.86 825.9 825.9 0 0 0 36.738 243.49l480.88-136.59a326.67 326.67 0 0 1 -18.389 -106.9 326.67 326.67 0 0 1 117.92 -250.89l-328.5-375.97zm1336.8 424.19-483.76 120.03a326.67 326.67 0 0 1 10.84 82.637 326.67 326.67 0 0 1 -58.555 186.42l410.89 282.15a825.9 825.9 0 0 0 146.9 -468.57 825.9 825.9 0 0 0 -26.316 -202.67z" clip-path="url(#j)" color="#000000" color-rendering="auto" fill="#fff" filter="url(#i)" image-rendering="auto" opacity=".612" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"></path>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="360.78" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="4" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="326.8" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="4" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="300.65" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="4" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="248.37" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="4" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="211.76" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="4" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle transform="matrix(.95806 .28656 -.28656 .95806 0 0)" cx="3525.8" cy="387.68" r="177.78" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#000" stroke-width="4" style="isolation:auto;mix-blend-mode:normal"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.27,0:00:19.04,Default,,0,0,0,,Said they\'d fix the rent, end the wars\\NDrain the swamp and clean the floors\\NBut the only thing that ever drains\\NIs hope swirling down the campaign drains
+Dialogue: 0,0:00:00.27,0:00:28.45,Default,,0,0,0,,[Chorus]\\NGrift of the Union, bait and switch\\NEvery speech, another glitch\\NThey said the truth was on their desk\\NTurns out it was just a press request
+Dialogue: 0,0:00:00.27,0:00:52.04,Default,,0,0,0,,Student debt? Still chained to that\\NHealthcare’s just a bureaucratic trap\\NAnd every time they swear “next term!”\\NThey mean next lie that we all learn
+Dialogue: 0,0:00:00.27,0:01:01.35,Default,,0,0,0,,[Chorus]\\NGrift of the Union, smile and con\\NRed or blue — same damn pawn\\NShake your hand, then rob your check\\NKiss your baby, then break your neck

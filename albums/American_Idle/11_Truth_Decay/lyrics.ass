@@ -1,0 +1,19 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.74,0:00:31.83,Default,,0,0,0,,[Start]\\N[Intro]\\NWelcome to the program, sit back in your seat\\NHeadlines scream at you, orders on repeat\\NEvery channel claims that they\'re the only guide\\NBut the more you\'re watching, the less you decide
+Dialogue: 0,0:00:20.74,0:00:56.33,Default,,0,0,0,,[Verse 1]\\NScrolling through disasters splashed across the screen\\NManufactured panic in red and green\\NPicking sides for profit, drama sold as fact\\NThey\'re keeping us divided, never looking back\\N[Chorus]\\NTruth Decay eating away\\NThe facts get twisted every day\\NTruth Decay what can we say\\NWhen headlines drive the rage
+Dialogue: 0,0:00:20.74,0:01:19.93,Default,,0,0,0,,[Verse 2]\\NTalking heads with their agendas set\\NManufacturing outrage to collect\\NLeft versus right, a false dichotomy\\NSelling fear instead of honesty
+Dialogue: 0,0:00:20.74,0:00:56.33,Default,,0,0,0,,[Chorus]\\NTruth Decay eating away\\NThe facts get twisted every day\\NTruth Decay what can we say\\NWhen headlines drive the rage

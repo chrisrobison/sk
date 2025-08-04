@@ -1,0 +1,17 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.42,0:01:09.57,Default,,0,0,0,,[Verse 2]\\NWoke up late, grabbed a Big Mac\\NSpilled ketchup all over a diplomatic pact\\NThrows a tantrum, signs away\\NHoping someone tries to make him obey
+Dialogue: 0,0:00:08.42,0:00:36.79,Default,,0,0,0,,[Chorus]\\NSign it fast don\'t read the text\\NWho needs a Congress when you\'re on deck\\NKing with a pen, wave it again\\NFeels so good to play pretend

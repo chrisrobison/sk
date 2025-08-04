@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Album - The Suicidal Kennedys</title>
+  <style>
+    :root {
+      --bg: #000;
+      --text: #fff;
+      --accent: #ff4c4c;
+      --card-bg: #111;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header {
+      padding: 10px 15px;
+      display: flex;
+      align-items: center;
+      background: #000;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+    }
+    .menu-icon {
+      width: 24px;
+      height: 2px;
+      background: var(--text);
+      position: relative;
+      display: inline-block;
+      margin-right: 10px;
+    }
+    .menu-icon::before, .menu-icon::after {
+      content: "";
+      position: absolute;
+      width: 24px;
+      height: 2px;
+      background: var(--text);
+      left: 0;
+    }
+    .menu-icon::before { top: -8px; }
+    .menu-icon::after { top: 8px; }
+    h1 {
+      font-size: 1.2rem;
+      margin: 0;
+      flex: 1;
+    }
+    .album-hero {
+      text-align: center;
+      padding: 10px;
+    }
+    .album-hero img {
+      max-width: 100%;
+      border-radius: 5px;
+    }
+    .track-list {
+      padding: 10px;
+      flex: 1;
+    }
+    .track {
+      display: flex;
+      align-items: center;
+      background: var(--card-bg);
+      padding: 10px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      cursor: pointer;
+    }
+    .track img {
+      width: 50px;
+      height: 50px;
+      object-fit: cover;
+      border-radius: 4px;
+      margin-right: 10px;
+    }
+    .track-title {
+      flex: 1;
+      font-size: 1rem;
+    }
+    .track-arrow {
+      font-size: 1.2rem;
+      color: #888;
+    }
+    footer {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background: #111;
+      padding: 8px 0;
+      border-top: 1px solid #222;
+    }
+    footer button {
+      background: none;
+      border: none;
+      color: var(--text);
+      font-size: 1.2rem;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="menu-icon"></div>
+    <h1 id="albumTitle">Album</h1>
+  </header>
+
+  <div class="album-hero">
+    <img id="albumCover" alt="Album Cover">
+  </div>
+
+  <div class="track-list" id="trackList"></div>
+
+  <footer>
+    <button>🏠</button>
+    <button>🔍</button>
+    <button>📖</button>
+  </footer>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const albumTitle = urlParams.get('title');
+
+    fetch('songs.json')
+      .then(res => res.json())
+      .then(data => {
+        const album = data.albums.find(a => a.title === albumTitle);
+        if (!album) return;
+        document.getElementById('albumTitle').textContent = album.title;
+        document.getElementById('albumCover').src = `${album.path}/${album.songs[0].art}`;
+
+        const trackList = document.getElementById('trackList');
+        album.songs.forEach(song => {
+          const div = document.createElement('div');
+          div.className = 'track';
+          div.innerHTML = `
+            <img src="${song.folder}/art.png" alt="${song.title}">
+            <div class="track-title">${song.title}</div>
+            <div class="track-arrow">›</div>`;
+          div.addEventListener('click', () => {
+            window.location.href = `${song.folder}/${song.overview}`;
+          });
+          trackList.appendChild(div);
+        });
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:37.12,0:01:13.34,Default,,0,0,0,,[Chorus]\\NWe’re lost in Algorithm Nation!\\NNo free thought, just automation\\NScroll and swipe, no deviation\\NDumb by design, by recommendation
+Dialogue: 0,0:00:37.12,0:01:23.32,Default,,0,0,0,,[Verse 2]\\NThe feed decides who we should blame\\NAI prophets, playin’ the game\\NNo nuance here, just black or white\\NYour thoughts are leased, not yours by right
+Dialogue: 0,0:00:37.12,0:01:35.90,Default,,0,0,0,,Upvotes fuel your dopamine\\NDisagree? You’re off the screen\\NFake news tattooed on your soul\\NSold your mind for hearts and scrolls

@@ -1,0 +1,23 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.75,0:00:23.52,Default,,0,0,0,,Scroll down the feed, it’s a circus every day\\NOpinions over evidence, no one cares what experts say\\NShouting matches everywhere, sense replaced by pride\\NDelusion\'s the currency, logic set aside
+Dialogue: 0,0:00:11.75,0:01:39.63,Default,,0,0,0,,We lost respect for reason\\NLet arrogance ignite\\NEntertainment over truth,\\NIt’s ignorance in the light
+Dialogue: 0,0:00:11.75,0:00:52.08,Default,,0,0,0,,Society\'s in free fall, critical thinking\'s deceased\\NWe celebrate the loudest while intelligence decreased\\NIgnorance is power now, stupidity\'s the trend\\NWatching as our culture takes a nosedive to the end
+Dialogue: 0,0:00:11.75,0:01:12.45,Default,,0,0,0,,Hey! Hey! Hey! Hey!\\NDumb it down! Dumb it down!
+Dialogue: 0,0:00:11.75,0:01:24.46,Default,,0,0,0,,Headlines scream with nonsense, facts don\'t matter anymore\\NConspiracy theories sell while truth gets shown the door\\NExperts are discredited, while fools take center stage\\NWelcome to the kingdom where the jester is the sage
+Dialogue: 0,0:00:11.75,0:01:36.63,Default,,0,0,0,,We\'re trading wisdom for clicks\\NIntelligence for likes\\NBreeding generations of\\NMinds that never think twice
+Dialogue: 0,0:00:11.75,0:00:52.08,Default,,0,0,0,,Society\'s in free fall, critical thinking\'s deceased\\NWe celebrate the loudest while intelligence decreased\\NIgnorance is power now, stupidity\'s the trend\\NWatching as our culture takes a nosedive to the end
+Dialogue: 0,0:00:11.75,0:01:12.45,Default,,0,0,0,,Hey! Hey! Hey! Hey!\\NDumb it down! Dumb it down!

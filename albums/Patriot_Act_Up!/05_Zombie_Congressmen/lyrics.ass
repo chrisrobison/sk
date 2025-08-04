@@ -1,0 +1,21 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.15,0:00:26.23,Default,,0,0,0,,Cracked pavement and static on your morning screen\\NDead eyes behind the podium, parading every scene\\NShuffling their papers, but the ink is running thin\\NHope gets buried while the pandering begins
+Dialogue: 0,0:00:10.15,0:00:43.19,Default,,0,0,0,,Zombie congressmen take their marching orders high\\NNever mind the faces worn, just shuffle and comply\\NVoting red or blue, but they never wonder why\\NBrains on autopilot, never hear our cries
+Dialogue: 0,0:00:10.15,0:02:12.74,Default,,0,0,0,,Hey oh, brains for sale (hey oh)\\NHey oh, brains for sale
+Dialogue: 0,0:00:10.15,0:01:36.51,Default,,0,0,0,,We\'re shouting at their doors\\NBut their minds are locked up tight\\NA stampede of empty suits\\NDawn of the party line tonight
+Dialogue: 0,0:00:10.15,0:00:43.19,Default,,0,0,0,,Zombie congressmen take their marching orders high\\NNever mind the faces worn, just shuffle and comply\\NVoting red or blue, but they never wonder why\\NBrains on autopilot, never hear our cries
+Dialogue: 0,0:00:10.15,0:00:43.19,Default,,0,0,0,,Zombie congressmen take their marching orders high\\NNever mind the faces worn just shuffle and comply\\NVoting red or blue but they never wonder why\\NBrains on autopilot never hear our cries

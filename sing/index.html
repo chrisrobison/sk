@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <title>Singing Skull</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      background-color: #333;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: "Lexend", sans-serif;
+    }
+
+    #skull-container0, #skull-container1, #skull-container2, #skull-container3 {
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      display: none;
+      top: 50px; 
+      left: 50px;
+    }
+    
+    #skull-container0, #skull-container2 {
+      scale: 0.9;
+      translate: 20px -30px;
+    }
+    
+    #skull-container3 {
+      translate: -60px;
+    }
+
+    .top-jaw, .bottom-jaw {
+      position: absolute;
+      left: 0;
+      transition: transform 0.05s linear;
+    }
+    
+    #skull-container0.show, #skull-container1.show, #skull-container2.show, #skull-container3.show {
+      display: block;
+    }
+    
+    #skull-container3 {
+      transform: scaleX(-1);
+    }
+
+    #top-jaw, #top-jaw4 {
+      width: 200px;
+      z-index: 2;
+    }
+
+    #bottom-jaw, #bottom-jaw4 {
+      top: 166px;
+      width: 150px;
+      left: 24px;
+      z-index: 1;
+    }
+
+    #top-jaw3 {
+      width: 200px;
+      z-index: 2;
+    }
+
+    #bottom-jaw3 {
+      width: 130px;
+      transform-origin: 100px 30px;
+      left:35px;
+      top:150px;
+    }
+    #top-jaw2 {
+      width: 200px;
+      z-index: 2;
+    }
+
+    #bottom-jaw2 {
+      width: 130px;
+      transform-origin: 100px 30px;
+      left:35px;
+      top:150px;
+    }
+
+    #album {
+      position: relative;
+      /* background-image: url("art.png"); */
+      background-size: contain;
+      background-repeat: no-repeat;
+      height: 400px;
+      width:400px;
+    }
+    .skull-wrap {
+      height: 400px;
+      width: 400px;
+      position: relative;
+      z-index: 5;
+    }
+
+    #emblem {
+      position: absolute;
+      top: -40px;
+      left: -25px;
+      width: 400px;
+      z-index: 1;
+    }
+    #mic {
+      position: absolute;
+      top:210px;
+      left: 50px;
+      z-index: 10;
+    }
+    #sing-btn {
+      position: absolute;
+      font-size: 24px;
+      border-radius: 50%;
+      height: 70px;
+      width: 70px;
+      left: 40%;
+      top: 10%;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <button id="sing-btn" onclick="sing(); return false;">Sing</button>
+    <div id="album">
+      <div class="skull-wrap">
+        <div id="skull-container0" class="show">
+          <img id="top-jaw" class="top-jaw" src="skull-top.png" />
+          <img id="bottom-jaw" class="bottom-jaw" src="skull-bottom.png" />
+        </div>
+        <div id="skull-container1">
+          <img id="top-jaw2" class="top-jaw" src="skull2-top.png" />
+          <img id="bottom-jaw2" class="bottom-jaw" src="skull2-bottom.png" />
+        </div>
+        <div id="skull-container2">
+          <img id="top-jaw4" class="top-jaw" src="skull-top.png" />
+          <img id="bottom-jaw4" class="bottom-jaw" src="skull-bottom.png" />
+        </div>
+        <div id="skull-container3">
+          <img id="top-jaw3" class="top-jaw" src="skull2-top.png" />
+          <img id="bottom-jaw3" class="bottom-jaw" src="skull2-bottom.png" />
+        </div>
+      </div>
+      <img src="sk-patch.png" id="emblem">
+    </div> 
+  </main>
+
+  <script>
+    const jaw = document.getElementById("bottom-jaw");
+    const jaw2 = document.getElementById("bottom-jaw2");
+    const jaw3 = document.getElementById("bottom-jaw3");
+    const jaw4 = document.getElementById("bottom-jaw4");
+    let currentSkull = 0;
+
+    function animateJaw(open) {
+      jaw.style.transform = open ? "translateY(15px)" : "translateY(0px)";
+      jaw2.style.transform = open ? "rotate(-8deg)" : "rotate(0deg)";
+      jaw3.style.transform = open ? "rotate(-8deg)" : "rotate(0deg)";
+      jaw4.style.transform = open ? "translateY(15px)" : "translateY(0px)";
+    }
+    
+    function switchSkulls() {
+      currentSkull++;
+
+      if (currentSkull > 3) {
+        currentSkull = 0;
+      }
+      document.querySelector(".show").classList.remove("show");
+      document.querySelector(`#skull-container${currentSkull}`).classList.add("show");
+      setTimeout(switchSkulls, Math.floor(Math.random() * 10000) + 2000 );
+    }
+
+    function sing() {
+      setTimeout(switchSkulls, Math.floor(Math.random() * 10000));
+      fetch("align.json")
+        .then(res => res.json())
+        .then(data => {
+          const words = data.words.filter(w => w.case === "success");
+          let current = 0;
+
+          const audio = new Audio("song.mp3"); // make sure this file exists
+          audio.play();
+
+          function tick() {
+            const now = audio.currentTime;
+            const word = words[current];
+
+            if (word && now >= word.start && now <= word.end) {
+              animateJaw(true);
+            } else {
+              animateJaw(false);
+            }
+
+            if (word && now > word.end) {
+              current++;
+            }
+
+            requestAnimationFrame(tick);
+          }
+
+          tick();
+        });
+    }
+  </script>
+</body>
+</html>

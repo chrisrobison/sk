@@ -1,0 +1,18 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.68,0:00:11.97,Default,,0,0,0,,[Verse 1]\\NHe showed up normal, looking clean,\\NThe kind of calm I hadn\'t seen.\\NSaid, \"Just a place to crash, one night—\\NI swear I’ll be gone by morning light.\"
+Dialogue: 0,0:00:00.68,0:00:22.06,Default,,0,0,0,,But he overslept and missed his call,\\NSaid, \"One more night, I’ve lost it all.\"\\NHe’d been through hell, I gave him a shot—\\NBut the cravings came and he just forgot.
+Dialogue: 0,0:00:00.68,0:01:54.93,Default,,0,0,0,,[Verse 2]\\NIt wasn\'t smack, it wasn’t blow,\\NThis shit creeps in quiet and steals the show.\\NYour eyes rolled back, your fists went tight,\\NYou were drowning dry in the pale porch light.\\NYou said, “It’s GBH or maybe G,”\\NBut you were gone before explaining to me.\\NI sat there holding your vacant shell—\\NA front row seat in a private hell.

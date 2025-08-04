@@ -1,0 +1,20 @@
+[Script Info]
+Title: Karaoke Lyrics
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.57,0:00:15.78,Default,,0,0,0,,[Verse]\\NWoke up feeling like I’m 90 years old\\NMy back’s on fire my story’s been told\\NUsed to bounce back like a rubber band snap\\NNow it’s two full days of this recovery trap
+Dialogue: 0,0:00:00.57,0:00:26.73,Default,,0,0,0,,[Chorus]\\NTwo day hangover it used to be one\\NThe party’s still fun but the damage is done\\NI pay double the price for my good time run\\NTwo day hangover it used to be one
+Dialogue: 0,0:00:00.57,0:00:42.82,Default,,0,0,0,,[Verse 2]\\NLast night tequila felt like a great plan\\NThis morning I’m dying can’t even stand\\NHair of the dog but the dog bit back\\NNow I’m trapped in this cycle of panic attack
+Dialogue: 0,0:00:00.57,0:00:53.30,Default,,0,0,0,,[Chorus]\\NTwo day hangover it used to be one\\NThe shots were so smooth now I’m under the gun\\NI party like a fool but the morning’s no fun\\NTwo day hangover it used to be one
+Dialogue: 0,0:00:00.57,0:01:05.84,Default,,0,0,0,,[Bridge]\\NUsed to dance till dawn no care in my head\\NNow I’m Googling remedies from the comfort of bed\\NPills and Gatorade can’t make this right\\NGuess I’ll feel normal by Tuesday night
