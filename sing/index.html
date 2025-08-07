@@ -6,127 +6,128 @@
   <title>Singing Skull</title>
   <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..800&display=swap" rel="stylesheet">
   <style>
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
     body {
       background-color: #333;
       margin: 0;
       padding: 0;
+      font-family: "Lexend", sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    header {
+      padding: 10px;
+      background: #222;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      z-index: 9999;
+    }
+    select {
+      padding: 8px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+    }
+    main {
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
-      font-family: "Lexend", sans-serif;
+      flex: 1;
+      position: relative;
+      width: 100%;
+      max-width: 500px;
+      flex-direction: column;
     }
-
     #skull-container0, #skull-container1, #skull-container2, #skull-container3 {
       position: absolute;
-      width: 300px;
-      height: 300px;
+      width: 300px; height: 300px;
       display: none;
-      top: 50px; 
-      left: 50px;
+      top: 50px; left: 50px;
     }
-    
-    #skull-container0, #skull-container2 {
-      scale: 0.9;
-      translate: 20px -30px;
-    }
-    
-    #skull-container3 {
-      translate: -60px;
-    }
-
-    .top-jaw, .bottom-jaw {
-      position: absolute;
-      left: 0;
-      transition: transform 0.05s linear;
-    }
-    
-    #skull-container0.show, #skull-container1.show, #skull-container2.show, #skull-container3.show {
-      display: block;
-    }
-    
-    #skull-container3 {
-      transform: scaleX(-1);
-    }
-
-    #top-jaw, #top-jaw4 {
-      width: 200px;
-      z-index: 2;
-    }
-
-    #bottom-jaw, #bottom-jaw4 {
-      top: 166px;
-      width: 150px;
-      left: 24px;
-      z-index: 1;
-    }
-
-    #top-jaw3 {
-      width: 200px;
-      z-index: 2;
-    }
-
-    #bottom-jaw3 {
+    #skull-container0, #skull-container2 { scale: 0.9; translate: 20px -30px; }
+    #skull-container1 { translate: 15px 0px; }
+    #skull-container3 { translate: -60px; transform: scaleX(-1); }
+    .top-jaw, .bottom-jaw { position: absolute; left: 0; transition: transform 0.05s linear; }
+    .show { display: block !important; }
+    #top-jaw, #top-jaw4 { width: 200px; z-index: 2; }
+    #bottom-jaw, #bottom-jaw4 { top: 166px; width: 150px; left: 24px; z-index: 1; }
+    #top-jaw3, #top-jaw2 { width: 200px; z-index: 2; }
+    #bottom-jaw3, #bottom-jaw2 {
       width: 130px;
       transform-origin: 100px 30px;
-      left:35px;
-      top:150px;
+      left: 35px;
+      top: 150px;
     }
-    #top-jaw2 {
-      width: 200px;
-      z-index: 2;
-    }
-
-    #bottom-jaw2 {
-      width: 130px;
-      transform-origin: 100px 30px;
-      left:35px;
-      top:150px;
-    }
-
     #album {
       position: relative;
-      /* background-image: url("art.png"); */
       background-size: contain;
       background-repeat: no-repeat;
-      height: 400px;
-      width:400px;
+      height: 400px; width: 400px;
     }
-    .skull-wrap {
-      height: 400px;
-      width: 400px;
-      position: relative;
-      z-index: 5;
-    }
-
-    #emblem {
-      position: absolute;
-      top: -40px;
-      left: -25px;
-      width: 400px;
-      z-index: 1;
-    }
+    .skull-wrap { height: 400px; width: 400px; position: relative; z-index: 5; }
+    #emblem { position: absolute; top: -40px; left: -25px; width: 400px; z-index: 1; }
     #mic {
-      position: absolute;
-      top:210px;
-      left: 50px;
-      z-index: 10;
+        position: absolute;
+        top: 210px;
+        left: 50px;
+        width: 90px;
+        z-index: 10;
+        display: none;
+        filter: grayscale(1) brightness(1.8);
+        rotate: -10deg;
+    }
+    #mic.pos0 {
+    }
+    #mic.pos1 {
+      left: 20px;
+      rotate: -10deg;
+    }
+    #mic.pos2 {
+    }
+    #mic.pos3 {
+      left: 210px;
+      rotate: 10deg;
+      transform: scaleX(-1);
     }
     #sing-btn {
       position: absolute;
-      font-size: 24px;
-      border-radius: 50%;
-      height: 70px;
-      width: 70px;
-      left: 40%;
-      top: 10%;
+      font-size: 18px;
+      padding: 10px 20px;
+      border-radius: 20px;
+      border: none;
+      top: 10px; right: 10px;
+      background: #ff4444;
+      color: #fff;
+      cursor: pointer;
     }
+      #lyrics {
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 10px;
+    background: #111;
+    color: #aaa;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 10px;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 5px;
+  }
+  #lyrics .line { margin-bottom: 5px; }
+  #lyrics .active-line { color: #fff; }
+  #lyrics .active-word { color: #ff0; }
+
   </style>
 </head>
 <body>
+  <header>
+    <select id="albumSelect"></select>
+    <select id="songSelect"></select>
+  </header>
   <main>
     <button id="sing-btn" onclick="sing(); return false;">Sing</button>
     <div id="album">
@@ -149,14 +150,60 @@
         </div>
       </div>
       <img src="sk-patch.png" id="emblem">
-    </div> 
+      <img src="mic.png" id="mic">
+    </div>
+    <div id="lyrics"></div>
   </main>
 
   <script>
+    let songsData = null;
+    let currentSongFolder = null;
+    let lyricsData = [];
+    let wordTimings = [];
+    let audio = null;
+
+    function renderLyrics() {
+      const lyricsDiv = document.getElementById("lyrics");
+      lyricsDiv.innerHTML = '';
+      lyricsData.forEach((line, li) => {
+        const lineEl = document.createElement("div");
+        lineEl.className = "line";
+        line.words.forEach((w, wi) => {
+          const span = document.createElement("span");
+          span.textContent = w.text + " ";
+          span.dataset.line = li;
+          span.dataset.word = wi;
+          lineEl.appendChild(span);
+        });
+        lyricsDiv.appendChild(lineEl);
+      });
+    }
+
+    function updateLyricsHighlight(currentIndex) {
+      const lyricsDiv = document.getElementById("lyrics");
+      const allLines = lyricsDiv.querySelectorAll(".line");
+      allLines.forEach(line => line.classList.remove("active-line"));
+      const allWords = lyricsDiv.querySelectorAll("span");
+      allWords.forEach(word => word.classList.remove("active-word"));
+
+      if (currentIndex < 0 || currentIndex >= wordTimings.length) return;
+      const { lineIdx, wordIdx } = wordTimings[currentIndex];
+      const lineEl = allLines[lineIdx];
+      const wordEl = lineEl.querySelector(`span[data-word="${wordIdx}"]`);
+
+      if (lineEl) lineEl.classList.add("active-line");
+      if (wordEl) wordEl.classList.add("active-word");
+
+      // Scroll active line into view
+      lineEl?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+
     const jaw = document.getElementById("bottom-jaw");
     const jaw2 = document.getElementById("bottom-jaw2");
     const jaw3 = document.getElementById("bottom-jaw3");
     const jaw4 = document.getElementById("bottom-jaw4");
+    const mic = document.getElementById("mic");
     let currentSkull = 0;
 
     function animateJaw(open) {
@@ -165,49 +212,97 @@
       jaw3.style.transform = open ? "rotate(-8deg)" : "rotate(0deg)";
       jaw4.style.transform = open ? "translateY(15px)" : "translateY(0px)";
     }
-    
-    function switchSkulls() {
-      currentSkull++;
 
-      if (currentSkull > 3) {
-        currentSkull = 0;
-      }
+    function switchSkulls() {
+      currentSkull = (currentSkull + 1) % 4;
       document.querySelector(".show").classList.remove("show");
       document.querySelector(`#skull-container${currentSkull}`).classList.add("show");
-      setTimeout(switchSkulls, Math.floor(Math.random() * 10000) + 2000 );
+      mic.className = `pos${currentSkull}`;
+      setTimeout(switchSkulls, Math.floor(Math.random() * 10000) + 2000);
     }
 
     function sing() {
+      if (!currentSongFolder) return alert("Select a song first.");
       setTimeout(switchSkulls, Math.floor(Math.random() * 10000));
-      fetch("align.json")
+
+      fetch(`${currentSongFolder}/align.json`)
         .then(res => res.json())
         .then(data => {
           const words = data.words.filter(w => w.case === "success");
-          let current = 0;
+          wordTimings = [];
+          // Map timings to lyricsData
+          let wordCounter = 0;
+          lyricsData.forEach((line, li) => {
+            line.words.forEach((w, wi) => {
+              if (words[wordCounter]) {
+                w.start = words[wordCounter].start;
+                w.end = words[wordCounter].end;
+                wordTimings.push({ start: w.start, end: w.end, lineIdx: li, wordIdx: wi });
+                wordCounter++;
+              }
+            });
+          });
 
-          const audio = new Audio("song.mp3"); // make sure this file exists
+          let current = 0;
+          audio = new Audio(`${currentSongFolder}/song.ogg`);
           audio.play();
 
           function tick() {
             const now = audio.currentTime;
-            const word = words[current];
-
+            const word = wordTimings[current];
             if (word && now >= word.start && now <= word.end) {
               animateJaw(true);
+              updateLyricsHighlight(current);
             } else {
               animateJaw(false);
             }
-
-            if (word && now > word.end) {
-              current++;
-            }
-
+            if (word && now > word.end) current++;
             requestAnimationFrame(tick);
           }
-
           tick();
         });
     }
+
+    function loadAlbums() {
+      fetch("/albums/songs.json")
+        .then(res => res.json())
+        .then(json => {
+          songsData = json.albums;
+          const albumSelect = document.getElementById("albumSelect");
+          albumSelect.innerHTML = `<option value="">Select Album</option>`;
+          songsData.forEach((album, idx) => {
+            albumSelect.innerHTML += `<option value="${idx}">${album.title}</option>`;
+          });
+        });
+    }
+
+    document.getElementById("albumSelect").addEventListener("change", e => {
+      const albumIdx = e.target.value;
+      const songSelect = document.getElementById("songSelect");
+      songSelect.innerHTML = `<option value="">Select Song</option>`;
+      if (albumIdx !== "") {
+        songsData[albumIdx].songs.forEach((song, idx) => {
+          songSelect.innerHTML += `<option value="${songsData[albumIdx].songs[idx].folder}">${song.title}</option>`;
+        });
+      }
+    });
+
+    document.getElementById("songSelect").addEventListener("change", e => {
+      currentSongFolder = e.target.value;
+      if (!currentSongFolder) return;
+      // Load lyrics.txt
+      fetch(`${currentSongFolder}/lyrics.txt`)
+        .then(res => res.text())
+        .then(txt => {
+          lyricsData = txt.split("\n").map(line => ({
+            text: line.trim(),
+            words: line.trim().split(/\s+/).map(w => ({ text: w }))
+          }));
+          renderLyrics();
+        });
+    });
+
+    loadAlbums();
   </script>
 </body>
 </html>

@@ -100,7 +100,6 @@ for ITEM in "$@"; do
 
     PARTS="${PARTS}${SEP}{
       \"name\": \"${PART_NAME}\",
-      \"html\": \"${PART}.html\",
       \"stem\": \"${STEM}\",
       \"notes\": \"\"
     }"
@@ -118,9 +117,7 @@ for ITEM in "$@"; do
   "overview": "index.html",
   $KARAOKE_LINE
   "audio": {
-    "ogg": "song.ogg",
-    "mp3": "song.mp3",
-    "flac": "song.flac"
+    "ogg": "song.ogg"
   },
   "parts": [ $PARTS ]
 }

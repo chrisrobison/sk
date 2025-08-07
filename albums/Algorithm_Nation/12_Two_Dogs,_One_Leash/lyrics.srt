@@ -1,92 +1,148 @@
 1
-00:00:00,000 --> 00:00:05,200
- Alarm, frogs, greens, I'd sooze like a pro The two pairs of eyes say "Come on, let's
+00:00:00,000 --> 00:00:04,110
+ Alarm, frogs, greens, I'd sooze like a pro The two pairs of
 
 2
+00:00:04,110 --> 00:00:05,200
+ eyes say "Come on, let's
+
+3
 00:00:05,200 --> 00:00:06,200
  go!"
 
-3
-00:00:06,200 --> 00:00:10,600
- The leash is a mess, they're tangled again I know they need to go, just don't know when
-
 4
-00:00:10,600 --> 00:00:15,000
- No thought be yet, but they don't care They're sippin' every bowl, every tree, every
+00:00:06,200 --> 00:00:08,990
+ The leash is a mess, they're tangled again I know they need
 
 5
+00:00:08,990 --> 00:00:10,600
+ to go, just don't know when
+
+6
+00:00:10,600 --> 00:00:13,460
+ No thought be yet, but they don't care They're sippin'
+
+7
+00:00:13,460 --> 00:00:15,000
+ every bowl, every tree, every
+
+8
 00:00:15,000 --> 00:00:17,560
  chair I swear they're puttin' drab feet to the
 
-6
+9
 00:00:17,560 --> 00:00:19,720
  park Damn, no way, we only tell me all these breaths
 
-7
+10
 00:00:19,720 --> 00:00:23,400
  Why I Two dogs, one mince, no beefs
 
-8
-00:00:23,400 --> 00:00:27,240
- And the reggae sets up for a master beef Sunday on five, show up aboard the daily
+11
+00:00:23,400 --> 00:00:26,190
+ And the reggae sets up for a master beef Sunday on five,
 
-9
+12
+00:00:26,190 --> 00:00:27,240
+ show up aboard the daily
+
+13
 00:00:27,240 --> 00:00:29,840
  parade I'll decide, watch, breath, for my big night
 
-10
+14
 00:00:29,840 --> 00:00:34,560
  faves Two dogs, one mince, no beefs
 
-11
-00:00:34,560 --> 00:00:39,160
- Neighbors wave, I pretend I'm the console But B.O.'s like an M.T.O.
+15
+00:00:34,560 --> 00:00:38,120
+ Neighbors wave, I pretend I'm the console But B.O.'s like
 
-12
-00:00:39,160 --> 00:00:43,560
- Juki's biting the mailman's shoe I'm yelling their names like a fuck, but that's
+16
+00:00:38,120 --> 00:00:39,160
+ an M.T.O.
 
-13
+17
+00:00:39,160 --> 00:00:42,430
+ Juki's biting the mailman's shoe I'm yelling their names
+
+18
+00:00:42,430 --> 00:00:43,560
+ like a fuck, but that's
+
+19
 00:00:43,560 --> 00:00:46,460
  who Yes, this is an exercise, this is urban combat
 
-14
+20
 00:00:46,460 --> 00:00:48,880
  I'm Don Ditch, blooters, rollers, and a psycho jack
 
-15
-00:00:48,880 --> 00:00:54,280
- It's the days I dream of the robot fuck And then they look at me and I just shut up
-
-16
-00:00:54,280 --> 00:00:58,560
- Two dogs, one mince, no beefs I am so stretched like a Jesus beast
-
-17
-00:00:58,560 --> 00:01:03,680
- On the ground, barge out of a cave parade Every morning, P.L. is one day and one day
-
-18
-00:01:03,680 --> 00:01:07,600
- Two dogs, one mince, no beefs I love it like Koopa Day, boy it's sane
-
-19
-00:01:07,600 --> 00:01:11,680
- Chasing swirls like it's egg cocaine And when we're home, I'm gay
-
-20
-00:01:11,680 --> 00:01:18,800
- They're just fresh and stored Why, then it will sum a civil war
-
 21
-00:01:18,800 --> 00:01:22,960
- Two dogs, one mince, no beefs Call the U.N. for a parking cease
+00:00:48,880 --> 00:00:52,150
+ It's the days I dream of the robot fuck And then they look
 
 22
-00:01:22,960 --> 00:01:28,280
- But tomorrow at dawn, we'll be out again Just a guy, his dog's send, zero-send
+00:00:52,150 --> 00:00:54,280
+ at me and I just shut up
 
 23
+00:00:54,280 --> 00:00:55,100
+ Two dogs, one mince, no beefs I am so stretched like a
+
+24
+00:00:55,100 --> 00:00:58,560
+ Jesus beast
+
+25
+00:00:58,560 --> 00:01:01,800
+ On the ground, barge out of a cave parade Every morning, P.
+
+26
+00:01:01,800 --> 00:01:03,680
+L. is one day and one day
+
+27
+00:01:03,680 --> 00:01:06,950
+ Two dogs, one mince, no beefs I love it like Koopa Day, boy
+
+28
+00:01:06,950 --> 00:01:07,600
+ it's sane
+
+29
+00:01:07,600 --> 00:01:11,220
+ Chasing swirls like it's egg cocaine And when we're home, I
+
+30
+00:01:11,220 --> 00:01:11,680
+'m gay
+
+31
+00:01:11,680 --> 00:01:18,320
+ They're just fresh and stored Why, then it will sum a civil
+
+32
+00:01:18,320 --> 00:01:18,800
+ war
+
+33
+00:01:18,800 --> 00:01:22,500
+ Two dogs, one mince, no beefs Call the U.N. for a parking
+
+34
+00:01:22,500 --> 00:01:22,960
+ cease
+
+35
+00:01:22,960 --> 00:01:26,440
+ But tomorrow at dawn, we'll be out again Just a guy, his
+
+36
+00:01:26,440 --> 00:01:28,280
+ dog's send, zero-send
+
+37
 00:01:28,280 --> 00:01:31,280
  Two dogs, one mince, no beefs
 

@@ -1,575 +1,228 @@
 1
-00:00:16,960 --> 00:00:21,189
-
-We don't need your maggoty covered.
+00:00:00,000 --> 00:00:09,500
+ [silence]
 
 2
-00:00:21,189 --> 00:00:21,199
-We don't need your maggoty covered.
- 
+00:00:09,500 --> 00:00:11,500
+ Hey! Hey!
 
 3
-00:00:21,199 --> 00:00:24,150
-We don't need your maggoty covered.
-We're super shy of superstardom. No
+00:00:11,500 --> 00:00:14,800
+ [silence]
 
 4
-00:00:24,150 --> 00:00:24,160
-We're super shy of superstardom. No
- 
+00:00:14,800 --> 00:00:16,500
+ Hey! Hey!
 
 5
-00:00:24,160 --> 00:00:26,710
-We're super shy of superstardom. No
-glossy photos, no billboard shark.
+00:00:16,500 --> 00:00:20,500
+ We don't need your nagging cover
 
 6
-00:00:26,710 --> 00:00:26,720
-glossy photos, no billboard shark.
- 
+00:00:20,500 --> 00:00:23,500
+ We're too poor, shy of superstardom
 
 7
-00:00:26,720 --> 00:00:29,189
-glossy photos, no billboard shark.
-Sleeping on couches, playing basement.
+00:00:23,500 --> 00:00:26,500
+ No glossy photos, no billboard chart
 
 8
-00:00:29,189 --> 00:00:29,199
-Sleeping on couches, playing basement.
- 
+00:00:26,500 --> 00:00:29,000
+ Sleeping on couches, playing basements
 
 9
-00:00:29,199 --> 00:00:31,830
-Sleeping on couches, playing basement.
-Free minds won't bow to a corporate art.
+00:00:29,000 --> 00:00:31,500
+ Free minds won't bow to a corporate arch
 
 10
-00:00:31,830 --> 00:00:31,840
-Free minds won't bow to a corporate art.
- 
+00:00:31,500 --> 00:00:34,500
+ They want us clean-shaven, posing pretty
 
 11
-00:00:31,840 --> 00:00:33,910
-Free minds won't bow to a corporate art.
-They want us clean shaven and posing
+00:00:34,500 --> 00:00:37,000
+ Selling our souls for a ten-year plan
 
 12
-00:00:33,910 --> 00:00:33,920
-They want us clean shaven and posing
- 
+00:00:37,000 --> 00:00:39,500
+ But we'd better stink of cheap PBR
 
 13
-00:00:33,920 --> 00:00:36,470
-They want us clean shaven and posing
-pretty. Selling our souls for a 10year
+00:00:39,500 --> 00:00:42,500
+ Then sell our songs to a greased-up man
 
 14
-00:00:36,470 --> 00:00:36,480
-pretty. Selling our souls for a 10year
- 
+00:00:42,500 --> 00:00:44,500
+ Why isn't our souls for a flashy tour?
 
 15
-00:00:36,480 --> 00:00:39,750
-pretty. Selling our souls for a 10year
-plan, but we'd rather stink of cheap PBR
+00:00:44,500 --> 00:00:47,500
+ No, we'll leave that ship at the dock
 
 16
-00:00:39,750 --> 00:00:39,760
-plan, but we'd rather stink of cheap PBR
- 
+00:00:47,500 --> 00:00:52,500
+ Your velvet ropes and VIP rooms get f*cked right off
 
 17
-00:00:39,760 --> 00:00:42,549
-plan, but we'd rather stink of cheap PBR
-than sell our songs to a greased up man.
+00:00:52,500 --> 00:00:55,000
+ Still not famous, still not sorry
 
 18
-00:00:42,549 --> 00:00:42,559
-than sell our songs to a greased up man.
- 
+00:00:55,000 --> 00:00:57,500
+ Rather bleed truth and borrow their story
 
 19
-00:00:42,559 --> 00:00:45,270
-than sell our songs to a greased up man.
-Les our souls for a flashy torn. We'll
+00:00:57,500 --> 00:01:00,000
+ Yo, A&R telling us what to play
 
 20
-00:00:45,270 --> 00:00:45,280
-Les our souls for a flashy torn. We'll
- 
+00:01:00,000 --> 00:01:03,000
+ We write our own rules and sing our own way
 
 21
-00:00:45,280 --> 00:00:48,470
-Les our souls for a flashy torn. We'll
-leave that ship at the dock. Our velvet
+00:01:03,000 --> 00:01:05,500
+ Still not famous, still not sorry
 
 22
-00:00:48,470 --> 00:00:48,480
-leave that ship at the dock. Our velvet
- 
+00:01:05,500 --> 00:01:08,000
+ Rap too proud for sorry-story
 
 23
-00:00:48,480 --> 00:00:52,389
-leave that ship at the dock. Our velvet
-robes and VIP rooms can [\h__\h] right off.
+00:01:08,000 --> 00:01:10,500
+ Keep it in a gorge, crank it 'til it bleeds
 
 24
-00:00:52,389 --> 00:00:52,399
-robes and VIP rooms can [\h__\h] right off.
- 
+00:01:10,500 --> 00:01:14,500
+ Freedom's our drug, face just a disease
 
 25
-00:00:52,399 --> 00:00:55,110
-robes and VIP rooms can [\h__\h] right off.
-Still not famous, still not sorry. We'd
+00:01:14,500 --> 00:01:19,000
+ They promise exposure, a million streams
 
 26
-00:00:55,110 --> 00:00:55,120
-Still not famous, still not sorry. We'd
- 
+00:01:19,000 --> 00:01:21,500
+ But it's just state of mind in your teenage dreams
 
 27
-00:00:55,120 --> 00:00:57,750
-Still not famous, still not sorry. We'd
-rather bleed truth than further story.
+00:01:21,500 --> 00:01:24,500
+ We're fine with free fans in a sweaty room
 
 28
-00:00:57,750 --> 00:00:57,760
-rather bleed truth than further story.
- 
+00:01:24,500 --> 00:01:27,000
+ Trading our fame for creative perfume
 
 29
-00:00:57,760 --> 00:01:00,389
-rather bleed truth than further story.
-No way or telling us what to play. We
+00:01:27,000 --> 00:01:29,500
+ No neon signs, no corporate bailout
 
 30
-00:01:00,389 --> 00:01:00,399
-No way or telling us what to play. We
- 
+00:01:29,500 --> 00:01:32,000
+ We live for the core changes in our veins
 
 31
-00:01:00,399 --> 00:01:02,389
-No way or telling us what to play. We
-write our own rules and sing your own
+00:01:32,000 --> 00:01:35,000
+ If the scene goes sideways, we'll still stay true
 
 32
-00:01:02,389 --> 00:01:02,399
-write our own rules and sing your own
- 
+00:01:35,000 --> 00:01:37,500
+ 'Cause selling us the only thing that's lame
 
 33
-00:01:02,399 --> 00:01:05,590
-write our own rules and sing your own
-way. Still not famous, still not sorry.
+00:01:37,500 --> 00:01:40,000
+ Call track for gold bars and grand illusions
 
 34
-00:01:05,590 --> 00:01:05,600
-way. Still not famous, still not sorry.
- 
+00:01:40,000 --> 00:01:42,500
+ We laugh so hard we almost pissed
 
 35
-00:01:05,600 --> 00:01:08,630
-way. Still not famous, still not sorry.
-Loud to proud for sorry story. Keep it
+00:01:42,500 --> 00:01:46,500
+ We're allergic to mansions and red-guitar solos
 
 36
-00:01:08,630 --> 00:01:08,640
-Loud to proud for sorry story. Keep it
- 
+00:01:46,500 --> 00:01:50,000
+ Give us scrappy real, not famous, still not sorry
 
 37
-00:01:08,640 --> 00:01:10,870
-Loud to proud for sorry story. Keep it
-in a gar. Drink it till it bleeds.
+00:01:50,000 --> 00:01:52,500
+ Rather bleed truth and borrow their story
 
 38
-00:01:10,870 --> 00:01:10,880
-in a gar. Drink it till it bleeds.
- 
+00:01:52,500 --> 00:01:55,500
+ No, A&R telling us what to play
 
 39
-00:01:10,880 --> 00:01:16,630
-in a gar. Drink it till it bleeds.
-Freedoms aren't drug just a disease.
+00:01:55,500 --> 00:01:58,000
+ We write our own rules and sing our own way
 
 40
-00:01:16,630 --> 00:01:16,640
-
- 
+00:01:58,000 --> 00:02:00,500
+ Still not famous, still not sorry
 
 41
-00:01:16,640 --> 00:01:19,030
-
-They promise exposure a million streams,
+00:02:00,500 --> 00:02:03,500
+ Rap too proud for sorry-story
 
 42
-00:01:19,030 --> 00:01:19,040
-They promise exposure a million streams,
- 
+00:02:03,500 --> 00:02:06,000
+ Keep it in a gorge, crank it 'til it bleeds
 
 43
-00:01:19,040 --> 00:01:21,270
-They promise exposure a million streams,
-but it's just data mine in your teenage
+00:02:06,000 --> 00:02:09,500
+ Freedom's our drug, face just a disease
 
 44
-00:01:21,270 --> 00:01:21,280
-but it's just data mine in your teenage
- 
+00:02:09,500 --> 00:02:15,500
+ No leather jackets in boardrooms
 
 45
-00:01:21,280 --> 00:01:23,429
-but it's just data mine in your teenage
-dreams. We're fine with three fans in a
+00:02:15,500 --> 00:02:21,000
+ No punched up smiles for apt campaign pains
 
 46
-00:01:23,429 --> 00:01:23,439
-dreams. We're fine with three fans in a
- 
+00:02:21,000 --> 00:02:26,000
+ We'll stay broken, loud and restless
 
 47
-00:01:23,439 --> 00:01:25,990
-dreams. We're fine with three fans in a
-sweaty room. Trading our fame for
+00:02:26,000 --> 00:02:32,000
+ While your stars decay in fame's chains
 
 48
-00:01:25,990 --> 00:01:26,000
-sweaty room. Trading our fame for
- 
+00:02:32,000 --> 00:02:35,000
+ Still not famous, still not sorry
 
 49
-00:01:26,000 --> 00:01:28,710
-sweaty room. Trading our fame for
-creative perfume. No neon signs, no
+00:02:35,000 --> 00:02:37,500
+ Still not famous, still not sorry
 
 50
-00:01:28,710 --> 00:01:28,720
-creative perfume. No neon signs, no
- 
+00:02:37,500 --> 00:02:40,000
+ We'd rather bleed truth than bother sorry
 
 51
-00:01:28,720 --> 00:01:31,030
-creative perfume. No neon signs, no
-corporate bailout. We live for the core
+00:02:40,000 --> 00:02:42,500
+ No, A&R telling us what to play
 
 52
-00:01:31,030 --> 00:01:31,040
-corporate bailout. We live for the core
- 
+00:02:42,500 --> 00:02:45,500
+ We write our own rules and sing our own way
 
 53
-00:01:31,040 --> 00:01:33,350
-corporate bailout. We live for the core
-changes in our veins. If the scene goes
+00:02:45,500 --> 00:02:48,000
+ Still not famous, still not sorry
 
 54
-00:01:33,350 --> 00:01:33,360
-changes in our veins. If the scene goes
- 
+00:02:48,000 --> 00:02:51,000
+ Rap too proud for sorry-story
 
 55
-00:01:33,360 --> 00:01:36,149
-changes in our veins. If the scene goes
-sideways, we'll still stay true. Cuz the
+00:02:51,000 --> 00:02:53,500
+ Keep it in a gorge, crank it 'til it bleeds
 
 56
-00:01:36,149 --> 00:01:36,159
-sideways, we'll still stay true. Cuz the
- 
+00:02:53,500 --> 00:02:59,000
+ Freedom's our drug, face just a disease
 
 57
-00:01:36,159 --> 00:01:39,350
-sideways, we'll still stay true. Cuz the
-only thing that's lame for gold bars and
-
-58
-00:01:39,350 --> 00:01:39,360
-only thing that's lame for gold bars and
- 
-
-59
-00:01:39,360 --> 00:01:41,670
-only thing that's lame for gold bars and
-grand illusions. We laugh so hard we
-
-60
-00:01:41,670 --> 00:01:41,680
-grand illusions. We laugh so hard we
- 
-
-61
-00:01:41,680 --> 00:01:43,830
-grand illusions. We laugh so hard we
-almost pissed. We're allergic to
-
-62
-00:01:43,830 --> 00:01:43,840
-almost pissed. We're allergic to
- 
-
-63
-00:01:43,840 --> 00:01:47,670
-almost pissed. We're allergic to
-mentions and rap guitar solos. Give us
-
-64
-00:01:47,670 --> 00:01:47,680
-mentions and rap guitar solos. Give us
- 
-
-65
-00:01:47,680 --> 00:01:49,830
-mentions and rap guitar solos. Give us
-real not
-
-66
-00:01:49,830 --> 00:01:49,840
-real not
- 
-
-67
-00:01:49,840 --> 00:01:51,749
-real not
-sorry. We'd rather play truth than
-
-68
-00:01:51,749 --> 00:01:51,759
-sorry. We'd rather play truth than
- 
-
-69
-00:01:51,759 --> 00:01:54,469
-sorry. We'd rather play truth than
-borrow their story. No, we are telling
-
-70
-00:01:54,469 --> 00:01:54,479
-borrow their story. No, we are telling
- 
-
-71
-00:01:54,479 --> 00:01:56,789
-borrow their story. No, we are telling
-us what to play. We write our own rules
-
-72
-00:01:56,789 --> 00:01:56,799
-us what to play. We write our own rules
- 
-
-73
-00:01:56,799 --> 00:01:59,670
-us what to play. We write our own rules
-and sing our own way. Still not famous,
-
-74
-00:01:59,670 --> 00:01:59,680
-and sing our own way. Still not famous,
- 
-
-75
-00:01:59,680 --> 00:02:02,389
-and sing our own way. Still not famous,
-still not sorry. Loud to pray for your
-
-76
-00:02:02,389 --> 00:02:02,399
-still not sorry. Loud to pray for your
- 
-
-77
-00:02:02,399 --> 00:02:05,190
-still not sorry. Loud to pray for your
-sorry story. Keep it in a garage. Take
-
-78
-00:02:05,190 --> 00:02:05,200
-sorry story. Keep it in a garage. Take
- 
-
-79
-00:02:05,200 --> 00:02:08,150
-sorry story. Keep it in a garage. Take
-it till it bleeds. Freedoms ar just a
-
-80
-00:02:08,150 --> 00:02:08,160
-it till it bleeds. Freedoms ar just a
- 
-
-81
-00:02:08,160 --> 00:02:11,350
-it till it bleeds. Freedoms ar just a
-disease.
-
-82
-00:02:11,350 --> 00:02:11,360
-
- 
-
-83
-00:02:11,360 --> 00:02:15,830
-
-No leather jackets in boardrooms.
-
-84
-00:02:15,830 --> 00:02:15,840
-No leather jackets in boardrooms.
- 
-
-85
-00:02:15,840 --> 00:02:21,589
-No leather jackets in boardrooms.
-No punched up smiles for campaign pains.
-
-86
-00:02:21,589 --> 00:02:21,599
-No punched up smiles for campaign pains.
- 
-
-87
-00:02:21,599 --> 00:02:26,390
-No punched up smiles for campaign pains.
-We'll stay broken, loud and restless
-
-88
-00:02:26,390 --> 00:02:26,400
-We'll stay broken, loud and restless
- 
-
-89
-00:02:26,400 --> 00:02:32,630
-We'll stay broken, loud and restless
-while your stars decay and faves chase.
-
-90
-00:02:32,630 --> 00:02:32,640
-while your stars decay and faves chase.
- 
-
-91
-00:02:32,640 --> 00:02:35,670
-while your stars decay and faves chase.
-Still not famous. Still not sorry. Still
-
-92
-00:02:35,670 --> 00:02:35,680
-Still not famous. Still not sorry. Still
- 
-
-93
-00:02:35,680 --> 00:02:38,309
-Still not famous. Still not sorry. Still
-not famous. Still not sorry. We'd rather
-
-94
-00:02:38,309 --> 00:02:38,319
-not famous. Still not sorry. We'd rather
- 
-
-95
-00:02:38,319 --> 00:02:41,270
-not famous. Still not sorry. We'd rather
-play truth than bother story. No, we
-
-96
-00:02:41,270 --> 00:02:41,280
-play truth than bother story. No, we
- 
-
-97
-00:02:41,280 --> 00:02:43,910
-play truth than bother story. No, we
-know what to play. We write our own
-
-98
-00:02:43,910 --> 00:02:43,920
-know what to play. We write our own
- 
-
-99
-00:02:43,920 --> 00:02:46,630
-know what to play. We write our own
-rules and sing our own right. Still not
-
-100
-00:02:46,630 --> 00:02:46,640
-rules and sing our own right. Still not
- 
-
-101
-00:02:46,640 --> 00:02:49,910
-rules and sing our own right. Still not
-famous, still not sorry. Well, through
-
-102
-00:02:49,910 --> 00:02:49,920
-famous, still not sorry. Well, through
- 
-
-103
-00:02:49,920 --> 00:02:52,710
-famous, still not sorry. Well, through
-sorry story
-
-104
-00:02:52,710 --> 00:02:52,720
-sorry story
- 
-
-105
-00:02:52,720 --> 00:03:00,630
-sorry story
-until it bleeds Prince.
-
-106
-00:03:00,630 --> 00:03:00,640
-
- 
-
-107
-00:03:00,640 --> 00:03:02,149
-
-Here's to the unsold records and
-
-108
-00:03:02,149 --> 00:03:02,159
-Here's to the unsold records and
- 
-
-109
-00:03:02,159 --> 00:03:05,110
-Here's to the unsold records and
-midnight scars.
-
-110
-00:03:05,110 --> 00:03:05,120
-midnight scars.
- 
-
-111
-00:03:05,120 --> 00:03:08,390
-midnight scars.
-[\h__\h] your fame, we'll keep the scars.
-
-112
-00:03:08,390 --> 00:03:08,400
-[\h__\h] your fame, we'll keep the scars.
- 
-
-113
-00:03:08,400 --> 00:03:11,030
-[\h__\h] your fame, we'll keep the scars.
-Hey. Hey.
-
-114
-00:03:11,030 --> 00:03:11,040
-Hey. Hey.
- 
-
-115
-00:03:11,040 --> 00:03:14,040
-Hey. Hey.
-Heat. Heat.
+00:03:18,000 --> 00:03:20,000
+ [ Silence ]
 

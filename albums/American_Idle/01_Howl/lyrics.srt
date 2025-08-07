@@ -1,415 +1,124 @@
 1
-00:00:00,000 --> 00:00:17,510
-
-[Music]
+00:00:00,000 --> 00:00:20,480
+ Fast and loud the strings ignite, running wild on Frisco
 
 2
-00:00:17,510 --> 00:00:17,520
-
- 
+00:00:20,480 --> 00:00:21,760
+ nights, history books with
 
 3
-00:00:17,520 --> 00:00:19,349
-
-Fast and loud, the strings ignite.
+00:00:21,760 --> 00:00:24,740
+ missing lines, coyotes creeping back through time, never
 
 4
-00:00:19,349 --> 00:00:19,359
-Fast and loud, the strings ignite.
- 
+00:00:24,740 --> 00:00:26,360
+ thought they'd roam again, past
 
 5
-00:00:19,359 --> 00:00:21,429
-Fast and loud, the strings ignite.
-Running wild on Frisco nights. History
+00:00:26,360 --> 00:00:29,340
+ the branch and city bends, we drove 'em out in olden days,
 
 6
-00:00:21,429 --> 00:00:21,439
-Running wild on Frisco nights. History
- 
+00:00:29,340 --> 00:00:30,960
+ but hunger finds its modern
 
 7
-00:00:21,439 --> 00:00:23,590
-Running wild on Frisco nights. History
-books with missing lines. Coyos creeping
+00:00:30,960 --> 00:00:34,150
+ way, steel and fog the Golden Gate, open pathways shifting
 
 8
-00:00:23,590 --> 00:00:23,600
-books with missing lines. Coyos creeping
- 
+00:00:34,150 --> 00:00:35,440
+ fate, through Marin they made their
 
 9
-00:00:23,600 --> 00:00:25,670
-books with missing lines. Coyos creeping
-back for time. Never thought they'd roam
+00:00:35,440 --> 00:00:38,520
+ claim, scratched the past it's not the same, lines are
 
 10
-00:00:25,670 --> 00:00:25,680
-back for time. Never thought they'd roam
- 
+00:00:38,520 --> 00:00:40,220
+ drawn in yards and hearts, sidewalk
 
 11
-00:00:25,680 --> 00:00:27,750
-back for time. Never thought they'd roam
-again. Pass the bridge and city bends.
+00:00:40,220 --> 00:00:43,940
+ meetings, dog park barks, debate in every local bar, are we
 
 12
-00:00:27,750 --> 00:00:27,760
-again. Pass the bridge and city bends.
- 
+00:00:43,940 --> 00:00:46,040
+ safe for Orib war, out on
 
 13
-00:00:27,760 --> 00:00:29,669
-again. Pass the bridge and city bends.
-We drove them out in olden days, but
+00:00:46,040 --> 00:00:49,900
+ the streets again, coyotes running free, San Francisco
 
 14
-00:00:29,669 --> 00:00:29,679
-We drove them out in olden days, but
- 
+00:00:49,900 --> 00:00:52,640
+ shaking out the old history, from
 
 15
-00:00:29,679 --> 00:00:31,750
-We drove them out in olden days, but
-hunger finds its modern way. Steel and
+00:00:52,640 --> 00:00:56,490
+ Marin they came, crossed the red steel frame, now the city
 
 16
-00:00:31,750 --> 00:00:31,760
-hunger finds its modern way. Steel and
- 
+00:00:56,490 --> 00:00:58,520
+ splits two sides of the coyote
 
 17
-00:00:31,760 --> 00:00:33,910
-hunger finds its modern way. Steel and
-fog the golden gate. Open pathways
+00:00:58,520 --> 00:01:13,180
+ game, how it the night, how it the night, back in the day
 
 18
-00:00:33,910 --> 00:00:33,920
-fog the golden gate. Open pathways
- 
+00:01:13,180 --> 00:01:16,000
+ went the way 1895, we thought
 
 19
-00:00:33,920 --> 00:00:35,670
-fog the golden gate. Open pathways
-shifting faith their marinate their
+00:01:16,000 --> 00:01:19,540
+ they'd dead be gone but San Francisco survives, leaping
 
 20
-00:00:35,670 --> 00:00:35,680
-shifting faith their marinate their
- 
+00:01:19,540 --> 00:01:21,920
+ from the forest riding on the northbound
 
 21
-00:00:35,680 --> 00:00:37,750
-shifting faith their marinate their
-claim. Spreads the past. It's not the
+00:01:21,920 --> 00:01:26,010
+ wind, sneak through the brazilio, a reckless oncoming, some
 
 22
-00:00:37,750 --> 00:00:37,760
-claim. Spreads the past. It's not the
- 
+00:01:26,010 --> 00:01:28,020
+ clutch their dogs tight, keep
 
 23
-00:00:37,760 --> 00:00:39,510
-claim. Spreads the past. It's not the
-same. Lines are drawn in yards and
+00:01:28,020 --> 00:01:32,400
+ the backyard light, kids off the grass, fear a yellow stare
 
 24
-00:00:39,510 --> 00:00:39,520
-same. Lines are drawn in yards and
- 
+00:01:32,400 --> 00:01:34,760
+ at night, others see balance,
 
 25
-00:00:39,520 --> 00:00:41,590
-same. Lines are drawn in yards and
-hearts. Sidewalk meetings, dog parks,
+00:01:34,760 --> 00:01:39,170
+ nature on patrol, clearing out the rats, chasing cats,
 
 26
-00:00:41,590 --> 00:00:41,600
-hearts. Sidewalk meetings, dog parks,
- 
+00:01:39,170 --> 00:01:41,300
+ filling up the hole, out on the streets
 
 27
-00:00:41,600 --> 00:00:43,990
-hearts. Sidewalk meetings, dog parks,
-debate in every local bar. Are we safe
+00:01:41,300 --> 00:01:45,950
+ again, coyotes running free, San Francisco shaking out the
 
 28
-00:00:43,990 --> 00:00:44,000
-debate in every local bar. Are we safe
- 
+00:01:45,950 --> 00:01:48,240
+ old history, from Marin they
 
 29
-00:00:44,000 --> 00:00:47,350
-debate in every local bar. Are we safe
-for war out on the streets of dead?
+00:01:48,240 --> 00:01:52,900
+ came, crossed the red steel frame, now the city splits two
 
 30
-00:00:47,350 --> 00:00:47,360
-for war out on the streets of dead?
- 
+00:01:52,900 --> 00:01:55,040
+ sides of the coyote game,
 
 31
-00:00:47,360 --> 00:00:50,150
-for war out on the streets of dead?
-Coyotes running free. San Francisco
-
-32
-00:00:50,150 --> 00:00:50,160
-Coyotes running free. San Francisco
- 
-
-33
-00:00:50,160 --> 00:00:53,110
-Coyotes running free. San Francisco
-shaping out the old history. From there
-
-34
-00:00:53,110 --> 00:00:53,120
-shaping out the old history. From there
- 
-
-35
-00:00:53,120 --> 00:00:56,069
-shaping out the old history. From there
-in they came plaster steel frame. Now
-
-36
-00:00:56,069 --> 00:00:56,079
-in they came plaster steel frame. Now
- 
-
-37
-00:00:56,079 --> 00:00:58,790
-in they came plaster steel frame. Now
-the city splits two sides of the coyote
-
-38
-00:00:58,790 --> 00:00:58,800
-the city splits two sides of the coyote
- 
-
-39
-00:00:58,800 --> 00:01:01,430
-the city splits two sides of the coyote
-day.
-
-40
-00:01:01,430 --> 00:01:01,440
-day.
- 
-
-41
-00:01:01,440 --> 00:01:05,109
-day.
-How the night
-
-42
-00:01:05,109 --> 00:01:05,119
-How the night
- 
-
-43
-00:01:05,119 --> 00:01:06,620
-How the night
-with the night
-
-44
-00:01:06,620 --> 00:01:06,630
-with the night
- 
-
-45
-00:01:06,630 --> 00:01:12,390
-with the night
-[Music]
-
-46
-00:01:12,390 --> 00:01:12,400
-[Music]
- 
-
-47
-00:01:12,400 --> 00:01:15,750
-[Music]
-back in the day went away 1,895.
-
-48
-00:01:15,750 --> 00:01:15,760
-back in the day went away 1,895.
- 
-
-49
-00:01:15,760 --> 00:01:17,429
-back in the day went away 1,895.
-We thought faith had be gone, but San
-
-50
-00:01:17,429 --> 00:01:17,439
-We thought faith had be gone, but San
- 
-
-51
-00:01:17,439 --> 00:01:20,149
-We thought faith had be gone, but San
-Francisco survives. Leaving from the
-
-52
-00:01:20,149 --> 00:01:20,159
-Francisco survives. Leaving from the
- 
-
-53
-00:01:20,159 --> 00:01:22,710
-Francisco survives. Leaving from the
-forest, riding on the northbound wind
-
-54
-00:01:22,710 --> 00:01:22,720
-forest, riding on the northbound wind
- 
-
-55
-00:01:22,720 --> 00:01:24,870
-forest, riding on the northbound wind
-sneak through the presidio. A Rick was
-
-56
-00:01:24,870 --> 00:01:24,880
-sneak through the presidio. A Rick was
- 
-
-57
-00:01:24,880 --> 00:01:27,910
-sneak through the presidio. A Rick was
-homecoming. Some push their dogs tight.
-
-58
-00:01:27,910 --> 00:01:27,920
-homecoming. Some push their dogs tight.
- 
-
-59
-00:01:27,920 --> 00:01:30,469
-homecoming. Some push their dogs tight.
-Keep the backyard light. Chins off the
-
-60
-00:01:30,469 --> 00:01:30,479
-Keep the backyard light. Chins off the
- 
-
-61
-00:01:30,479 --> 00:01:33,109
-Keep the backyard light. Chins off the
-grass. Fear a young bear at night.
-
-62
-00:01:33,109 --> 00:01:33,119
-grass. Fear a young bear at night.
- 
-
-63
-00:01:33,119 --> 00:01:35,990
-grass. Fear a young bear at night.
-Others see balance. Nature on patrol.
-
-64
-00:01:35,990 --> 00:01:36,000
-Others see balance. Nature on patrol.
- 
-
-65
-00:01:36,000 --> 00:01:38,149
-Others see balance. Nature on patrol.
-Clearing out the rats. Chasing cats.
-
-66
-00:01:38,149 --> 00:01:38,159
-Clearing out the rats. Chasing cats.
- 
-
-67
-00:01:38,159 --> 00:01:40,550
-Clearing out the rats. Chasing cats.
-Filling up the home.
-
-68
-00:01:40,550 --> 00:01:40,560
-Filling up the home.
- 
-
-69
-00:01:40,560 --> 00:01:42,870
-Filling up the home.
-Out on the streets again. Coyotes
-
-70
-00:01:42,870 --> 00:01:42,880
-Out on the streets again. Coyotes
- 
-
-71
-00:01:42,880 --> 00:01:45,670
-Out on the streets again. Coyotes
-running free. San Francisco shaping out
-
-72
-00:01:45,670 --> 00:01:45,680
-running free. San Francisco shaping out
- 
-
-73
-00:01:45,680 --> 00:01:50,230
-running free. San Francisco shaping out
-the old history. From there they change
-
-74
-00:01:50,230 --> 00:01:50,240
-the old history. From there they change
- 
-
-75
-00:01:50,240 --> 00:01:52,630
-the old history. From there they change
-frame. Then the city splits two sides of
-
-76
-00:01:52,630 --> 00:01:52,640
-frame. Then the city splits two sides of
- 
-
-77
-00:01:52,640 --> 00:01:56,310
-frame. Then the city splits two sides of
-the ty.
-
-78
-00:01:56,310 --> 00:01:56,320
-
- 
-
-79
-00:01:56,320 --> 00:01:59,749
-
-How is the night?
-
-80
-00:01:59,749 --> 00:01:59,759
-How is the night?
- 
-
-81
-00:01:59,759 --> 00:02:05,440
-How is the night?
-How is the night?
-
-82
-00:02:05,440 --> 00:02:05,450
-
- 
-
-83
-00:02:05,450 --> 00:02:21,910
-
-[Music]
+00:01:55,040 --> 00:02:21,080
+ how it the night, how it the night,
 

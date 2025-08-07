@@ -1,375 +1,152 @@
 1
-00:00:00,240 --> 00:00:00,670
-
-[Applause]
+00:00:00,000 --> 00:00:03,000
+ (whispering "Maggie-lo")
 
 2
-00:00:00,670 --> 00:00:00,680
-[Applause]
- 
+00:00:03,000 --> 00:00:10,000
+ (singing)
 
 3
-00:00:00,680 --> 00:00:00,980
-[Applause]
-[Music]
+00:00:10,000 --> 00:00:13,000
+ You step up, swing it on the first green
 
 4
-00:00:00,980 --> 00:00:00,990
-
- 
+00:00:13,000 --> 00:00:15,000
+ Drive straight down like a laser beam
 
 5
-00:00:00,990 --> 00:00:11,110
-[Applause]
-[Music]
+00:00:15,000 --> 00:00:17,000
+ Confidence drive they've never seen
 
 6
-00:00:11,110 --> 00:00:11,120
-
- 
+00:00:17,000 --> 00:00:19,000
+ But I know how this will go
 
 7
-00:00:11,120 --> 00:00:13,030
-
-You step out, swing it on the first
+00:00:19,000 --> 00:00:22,000
+ Ball's in the bunker on whole tree
 
 8
-00:00:13,030 --> 00:00:13,040
-You step out, swing it on the first
- 
+00:00:22,000 --> 00:00:24,000
+ Still you smile like it's old routine
 
 9
-00:00:13,040 --> 00:00:15,190
-You step out, swing it on the first
-screen. Drive straight down like a laser
+00:00:24,000 --> 00:00:26,000
+ You line it up, you play it clean
 
 10
-00:00:15,190 --> 00:00:15,200
-screen. Drive straight down like a laser
- 
+00:00:26,000 --> 00:00:28,000
+ Never cheat or let it roll
 
 11
-00:00:15,200 --> 00:00:17,430
-screen. Drive straight down like a laser
-beam. Confidence drive they've never
+00:00:28,000 --> 00:00:30,000
+ Straight shooter who can't shoot straight
 
 12
-00:00:17,430 --> 00:00:17,440
-beam. Confidence drive they've never
- 
+00:00:30,000 --> 00:00:33,000
+ You never won, never hesitate
 
 13
-00:00:17,440 --> 00:00:20,550
-beam. Confidence drive they've never
-seen. But I know this will go. Balls in
+00:00:33,000 --> 00:00:35,000
+ Chocolate strokes put you on your fate
 
 14
-00:00:20,550 --> 00:00:20,560
-seen. But I know this will go. Balls in
- 
+00:00:35,000 --> 00:00:37,000
+ You tee it up, but you won't escape
 
 15
-00:00:20,560 --> 00:00:23,189
-seen. But I know this will go. Balls in
-the bunker on all three. Still you smile
+00:00:37,000 --> 00:00:40,000
+ I watch the score climb with the sun
 
 16
-00:00:23,189 --> 00:00:23,199
-the bunker on all three. Still you smile
- 
+00:00:40,000 --> 00:00:42,000
+ We're way past par, but having fun
 
 17
-00:00:23,199 --> 00:00:25,509
-the bunker on all three. Still you smile
-like it's old routine. You light it up.
+00:00:42,000 --> 00:00:44,000
+ Hit the water, you never run
 
 18
-00:00:25,509 --> 00:00:25,519
-like it's old routine. You light it up.
- 
+00:00:44,000 --> 00:00:46,000
+ It's a magic valley where
 
 19
-00:00:25,519 --> 00:00:27,990
-like it's old routine. You light it up.
-You play it queen. Never to your let it
+00:00:46,000 --> 00:00:49,000
+ Fork put, freeze and rump that bite
 
 20
-00:00:27,990 --> 00:00:28,000
-You play it queen. Never to your let it
- 
+00:00:49,000 --> 00:00:51,000
+ Still you laugh through every slice
 
 21
-00:00:28,000 --> 00:00:30,870
-You play it queen. Never to your let it
-roll. Trace you catch you straight. You
+00:00:51,000 --> 00:00:53,000
+ No like is no secret, right?
 
 22
-00:00:30,870 --> 00:00:30,880
-roll. Trace you catch you straight. You
- 
+00:00:53,000 --> 00:00:55,000
+ Sponge to a fold, I swear
 
 23
-00:00:30,880 --> 00:00:34,150
-roll. Trace you catch you straight. You
-never hesitate. Drop the strokes put you
+00:00:55,000 --> 00:00:57,000
+ Straight shooter who can't shoot straight
 
 24
-00:00:34,150 --> 00:00:34,160
-never hesitate. Drop the strokes put you
- 
+00:00:57,000 --> 00:00:59,000
+ You never won, never hesitate
 
 25
-00:00:34,160 --> 00:00:36,069
-never hesitate. Drop the strokes put you
-on your fing
+00:00:59,000 --> 00:01:01,000
+ You tee it up, but you won't escape
 
 26
-00:00:36,069 --> 00:00:36,079
-on your fing
- 
+00:01:01,000 --> 00:01:03,000
+ Could've kicked it out, but that's not you
 
 27
-00:00:36,079 --> 00:00:38,950
-on your fing
-but you want escape. I watch the sport
+00:01:03,000 --> 00:01:06,000
+ Counting every swing, no matter true or screwed
 
 28
-00:00:38,950 --> 00:00:38,960
-but you want escape. I watch the sport
- 
+00:01:06,000 --> 00:01:08,000
+ You score card, looks like modern art
 
 29
-00:00:38,960 --> 00:00:41,430
-but you want escape. I watch the sport
-line with the sun. We're way past but
+00:01:08,000 --> 00:01:10,000
+ But you play around with an honest heart
 
 30
-00:00:41,430 --> 00:00:41,440
-line with the sun. We're way past but
- 
+00:01:10,000 --> 00:01:12,000
+ Straight shooter who can't shoot straight
 
 31
-00:00:41,440 --> 00:00:44,630
-line with the sun. We're way past but
-having fun. Hit the water you never run.
+00:01:12,000 --> 00:01:15,000
+ You never won, never hesitate
 
 32
-00:00:44,630 --> 00:00:44,640
-having fun. Hit the water you never run.
- 
+00:01:15,000 --> 00:01:17,000
+ Chocolate strokes put you on your fate
 
 33
-00:00:44,640 --> 00:00:47,430
-having fun. Hit the water you never run.
-It's a magic round where
+00:01:17,000 --> 00:01:19,000
+ You tee it up, but you won't escape
 
 34
-00:00:47,430 --> 00:00:47,440
-It's a magic round where
- 
+00:01:28,000 --> 00:01:30,000
+ Still you smile through every hole
 
 35
-00:00:47,440 --> 00:00:49,670
-It's a magic round where
-freeze and rub the bikes. Still you
+00:01:30,000 --> 00:01:32,000
+ A legend with a bougie soul
 
 36
-00:00:49,670 --> 00:00:49,680
-freeze and rub the bikes. Still you
- 
+00:01:32,000 --> 00:01:35,000
+ Can't shoot straight, but it makes you whole
 
 37
-00:00:49,680 --> 00:00:52,229
-freeze and rub the bikes. Still you
-laugh through every slice. The mind is
+00:01:35,000 --> 00:01:37,000
+ Can't shoot straight, but it makes you whole
 
 38
-00:00:52,229 --> 00:00:52,239
-laugh through every slice. The mind is
- 
-
-39
-00:00:52,239 --> 00:00:54,470
-laugh through every slice. The mind is
-no secret.
-
-40
-00:00:54,470 --> 00:00:54,480
-no secret.
- 
-
-41
-00:00:54,480 --> 00:00:57,510
-no secret.
-I swear you can't shoot straight. You
-
-42
-00:00:57,510 --> 00:00:57,520
-I swear you can't shoot straight. You
- 
-
-43
-00:00:57,520 --> 00:01:00,549
-I swear you can't shoot straight. You
-never mind. Never hesitate. Continue.
-
-44
-00:01:00,549 --> 00:01:00,559
-never mind. Never hesitate. Continue.
- 
-
-45
-00:01:00,559 --> 00:01:02,150
-never mind. Never hesitate. Continue.
-But you want to escape. Could have
-
-46
-00:01:02,150 --> 00:01:02,160
-But you want to escape. Could have
- 
-
-47
-00:01:02,160 --> 00:01:04,070
-But you want to escape. Could have
-kicked it out, but that's not you.
-
-48
-00:01:04,070 --> 00:01:04,080
-kicked it out, but that's not you.
- 
-
-49
-00:01:04,080 --> 00:01:05,830
-kicked it out, but that's not you.
-Counting every single matter of true or
-
-50
-00:01:05,830 --> 00:01:05,840
-Counting every single matter of true or
- 
-
-51
-00:01:05,840 --> 00:01:07,510
-Counting every single matter of true or
-screwed. Your scorecard looks like
-
-52
-00:01:07,510 --> 00:01:07,520
-screwed. Your scorecard looks like
- 
-
-53
-00:01:07,520 --> 00:01:09,830
-screwed. Your scorecard looks like
-modern art, but you play around with an
-
-54
-00:01:09,830 --> 00:01:09,840
-modern art, but you play around with an
- 
-
-55
-00:01:09,840 --> 00:01:13,030
-modern art, but you play around with an
-honest heart. Straight through. You
-
-56
-00:01:13,030 --> 00:01:13,040
-honest heart. Straight through. You
- 
-
-57
-00:01:13,040 --> 00:01:18,310
-honest heart. Straight through. You
-never lie. You're hesitate. Char,
-
-58
-00:01:18,310 --> 00:01:18,320
-never lie. You're hesitate. Char,
- 
-
-59
-00:01:18,320 --> 00:01:21,250
-never lie. You're hesitate. Char,
-but you want escape.
-
-60
-00:01:21,250 --> 00:01:21,260
-but you want escape.
- 
-
-61
-00:01:21,260 --> 00:01:24,900
-but you want escape.
-[Music]
-
-62
-00:01:24,900 --> 00:01:24,910
-[Music]
- 
-
-63
-00:01:24,910 --> 00:01:28,550
-[Music]
-[Applause]
-
-64
-00:01:28,550 --> 00:01:28,560
-
- 
-
-65
-00:01:28,560 --> 00:01:30,789
-
-Still
-
-66
-00:01:30,789 --> 00:01:30,799
-Still
- 
-
-67
-00:01:30,799 --> 00:01:37,050
-Still
-a legend with soul tissue.
-
-68
-00:01:37,050 --> 00:01:37,060
-
- 
-
-69
-00:01:37,060 --> 00:01:47,910
-
-[Music]
-
-70
-00:01:47,910 --> 00:01:47,920
-[Music]
- 
-
-71
-00:01:47,920 --> 00:01:59,670
-[Music]
-Heat.
-
-72
-00:01:59,670 --> 00:01:59,680
-
- 
-
-73
-00:01:59,680 --> 00:02:08,490
-
-Heat.
-
-74
-00:02:08,490 --> 00:02:08,500
-
- 
-
-75
-00:02:08,500 --> 00:02:14,120
-
-[Music]
+00:01:57,000 --> 00:01:59,000
+ Can't shoot straight, but it makes you whole
 

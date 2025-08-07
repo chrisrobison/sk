@@ -1,445 +1,132 @@
 1
-00:00:01,460 --> 00:00:04,309
-
-[Music]
+00:00:00,000 --> 00:00:07,170
+ Took the micro swagger, shot a self-made crown, planned to
 
 2
-00:00:04,309 --> 00:00:04,319
-[Music]
- 
+00:00:07,170 --> 00:00:08,560
+ drain the system to your corruption
 
 3
-00:00:04,319 --> 00:00:05,749
-[Music]
-Took the mic with swagger to shine a
+00:00:08,560 --> 00:00:12,050
+ down, but all we got were hashtags, anime parade, cryptic
 
 4
-00:00:05,749 --> 00:00:05,759
-Took the mic with swagger to shine a
- 
+00:00:12,050 --> 00:00:13,040
+ jokes and punchlines, nothing
 
 5
-00:00:05,759 --> 00:00:07,990
-Took the mic with swagger to shine a
-self-made crown to drain the system
+00:00:13,040 --> 00:00:15,480
+ really changed, rode the hike with tweets like kings of
 
 6
-00:00:07,990 --> 00:00:08,000
-self-made crown to drain the system
- 
+00:00:15,480 --> 00:00:17,240
+ clown town, towards that revolution
 
 7
-00:00:08,000 --> 00:00:09,910
-self-made crown to drain the system
-corruption down. But all we got were
+00:00:17,240 --> 00:00:24,970
+ chain back run down, thought you'd duck, fix the mess, save
 
 8
-00:00:09,910 --> 00:00:09,920
-corruption down. But all we got were
- 
+00:00:24,970 --> 00:00:26,680
+ the day, clad a trillion in
 
 9
-00:00:09,920 --> 00:00:12,150
-corruption down. But all we got were
-hashtags. Enemy parade. Crypto the jokes
+00:00:26,680 --> 00:00:30,070
+ waste, you said hooray, but your rocket crashed on launch,
 
 10
-00:00:12,150 --> 00:00:12,160
-hashtags. Enemy parade. Crypto the jokes
- 
+00:00:30,070 --> 00:00:32,000
+ so cliche, 9 billion pennies, that's
 
 11
-00:00:12,160 --> 00:00:13,990
-hashtags. Enemy parade. Crypto the jokes
-with punchlines. Nothing really changed.
+00:00:32,000 --> 00:00:38,920
+ all you saved, hey you, so not special anyway, hey you,
 
 12
-00:00:13,990 --> 00:00:14,000
-with punchlines. Nothing really changed.
- 
+00:00:38,920 --> 00:00:43,200
+ just a meme of yesterday, tape rocking
 
 13
-00:00:14,000 --> 00:00:15,589
-with punchlines. Nothing really changed.
-Rode the hype with tweets like kings of
+00:00:43,200 --> 00:00:46,520
+ for dough, wild on the stage, selling moon tickets but just
 
 14
-00:00:15,589 --> 00:00:15,599
-Rode the hype with tweets like kings of
- 
+00:00:46,520 --> 00:00:48,120
+ pocket change, big suit in
 
 15
-00:00:15,599 --> 00:00:17,670
-Rode the hype with tweets like kings of
-clown town. Don't have revolution came
+00:00:48,120 --> 00:00:52,370
+ black eye, the circus, the act, golden key from trump,
 
 16
-00:00:17,670 --> 00:00:17,680
-clown town. Don't have revolution came
- 
+00:00:52,370 --> 00:00:54,080
+ hollow as a fax, camera clashes,
 
 17
-00:00:17,680 --> 00:00:20,870
-clown town. Don't have revolution came
-back. Run down
+00:00:54,080 --> 00:00:59,380
+ thick confetti, paper crown, you're a punchline painted as
 
 18
-00:00:20,870 --> 00:00:20,880
-back. Run down
- 
+00:00:59,380 --> 00:01:02,560
+ a breakthrough clown, thought you'd
 
 19
-00:00:20,880 --> 00:00:24,550
-back. Run down
-[Music]
+00:01:02,560 --> 00:01:05,630
+ duck, fix the mess, save the day, cut a trillion in waste,
 
 20
-00:00:24,550 --> 00:00:24,560
-[Music]
- 
+00:01:05,630 --> 00:01:07,320
+ you said hooray, but your rocket
 
 21
-00:00:24,560 --> 00:00:26,070
-[Music]
-fix the mess. Save the day. But a
+00:01:07,320 --> 00:01:12,080
+ crashed on launch, so cliche, 9 billion pennies, that's all
 
 22
-00:00:26,070 --> 00:00:26,080
-fix the mess. Save the day. But a
- 
+00:01:12,080 --> 00:01:14,800
+ you saved, hey you, so not special
 
 23
-00:00:26,080 --> 00:00:28,390
-fix the mess. Save the day. But a
-trillion in waste. You said hooray.
+00:01:14,800 --> 00:01:21,910
+ anyway, hey you, just a meme of yesterday, big suit in
 
 24
-00:00:28,390 --> 00:00:28,400
-trillion in waste. You said hooray.
- 
+00:01:21,910 --> 00:01:26,320
+ black eye, the circus, the act,
 
 25
-00:00:28,400 --> 00:00:30,150
-trillion in waste. You said hooray.
-What's your market crashed on what? So
+00:01:26,320 --> 00:01:32,260
+ golden key from trump, hollow as a fax, camera clashes,
 
 26
-00:00:30,150 --> 00:00:30,160
-What's your market crashed on what? So
- 
+00:01:32,260 --> 00:01:36,360
+ thick confetti, paper crown, you're
 
 27
-00:00:30,160 --> 00:00:32,229
-What's your market crashed on what? So
-cliche. 9 billion pennies. That's all
+00:01:36,360 --> 00:01:43,390
+ a punchline painted as a breakthrough clown, thought you,
 
 28
-00:00:32,229 --> 00:00:32,239
-cliche. 9 billion pennies. That's all
- 
+00:01:43,390 --> 00:01:47,200
+ fix the mess, save the day, cut
 
 29
-00:00:32,239 --> 00:00:36,310
-cliche. 9 billion pennies. That's all
-you saved. Hey you, so not special
+00:01:47,200 --> 00:01:52,840
+ a trillion in waste, you said hooray, but your rocket
 
 30
-00:00:36,310 --> 00:00:36,320
-you saved. Hey you, so not special
- 
+00:01:52,840 --> 00:01:56,280
+ crashed on launch, so cliche,
 
 31
-00:00:36,320 --> 00:00:38,790
-you saved. Hey you, so not special
-anyway.
+00:01:56,280 --> 00:02:03,780
+ 9 billion pennies, that's all you saved, hey you, so not
 
 32
-00:00:38,790 --> 00:00:38,800
-anyway.
- 
+00:02:03,780 --> 00:02:07,600
+ special anyway, hey you, just
 
 33
-00:00:38,800 --> 00:00:42,790
-anyway.
-Hey you, just a meme of yesterday.
-
-34
-00:00:42,790 --> 00:00:42,800
-Hey you, just a meme of yesterday.
- 
-
-35
-00:00:42,800 --> 00:00:45,190
-Hey you, just a meme of yesterday.
-They barking for dope. Wild on the stage
-
-36
-00:00:45,190 --> 00:00:45,200
-They barking for dope. Wild on the stage
- 
-
-37
-00:00:45,200 --> 00:00:47,110
-They barking for dope. Wild on the stage
-selling moon tickets but just bought a
-
-38
-00:00:47,110 --> 00:00:47,120
-selling moon tickets but just bought a
- 
-
-39
-00:00:47,120 --> 00:00:49,270
-selling moon tickets but just bought a
-chain. Big suit and black guy to circus
-
-40
-00:00:49,270 --> 00:00:49,280
-chain. Big suit and black guy to circus
- 
-
-41
-00:00:49,280 --> 00:00:51,750
-chain. Big suit and black guy to circus
-the act. Golden key from Trump hollow as
-
-42
-00:00:51,750 --> 00:00:51,760
-the act. Golden key from Trump hollow as
- 
-
-43
-00:00:51,760 --> 00:00:55,510
-the act. Golden key from Trump hollow as
-a fat. Camera flashes fake confetti
-
-44
-00:00:55,510 --> 00:00:55,520
-a fat. Camera flashes fake confetti
- 
-
-45
-00:00:55,520 --> 00:00:57,830
-a fat. Camera flashes fake confetti
-paper crown.
-
-46
-00:00:57,830 --> 00:00:57,840
-paper crown.
- 
-
-47
-00:00:57,840 --> 00:01:00,229
-paper crown.
-You're a punchline painted as a
-
-48
-00:01:00,229 --> 00:01:00,239
-You're a punchline painted as a
- 
-
-49
-00:01:00,239 --> 00:01:03,349
-You're a punchline painted as a
-breakthrough clown. But your duck fixing
-
-50
-00:01:03,349 --> 00:01:03,359
-breakthrough clown. But your duck fixing
- 
-
-51
-00:01:03,359 --> 00:01:05,429
-breakthrough clown. But your duck fixing
-this save the day. But a trillion ways
-
-52
-00:01:05,429 --> 00:01:05,439
-this save the day. But a trillion ways
- 
-
-53
-00:01:05,439 --> 00:01:07,830
-this save the day. But a trillion ways
-to send hooray. But your bucket crashed
-
-54
-00:01:07,830 --> 00:01:07,840
-to send hooray. But your bucket crashed
- 
-
-55
-00:01:07,840 --> 00:01:10,469
-to send hooray. But your bucket crashed
-once cliche. 9 billion pennies. That's
-
-56
-00:01:10,469 --> 00:01:10,479
-once cliche. 9 billion pennies. That's
- 
-
-57
-00:01:10,479 --> 00:01:14,789
-once cliche. 9 billion pennies. That's
-all you saved. Hey you. So not special
-
-58
-00:01:14,789 --> 00:01:14,799
-all you saved. Hey you. So not special
- 
-
-59
-00:01:14,799 --> 00:01:17,109
-all you saved. Hey you. So not special
-anyway.
-
-60
-00:01:17,109 --> 00:01:17,119
-anyway.
- 
-
-61
-00:01:17,119 --> 00:01:21,590
-anyway.
-Hey you. Just a meme of yester change.
-
-62
-00:01:21,590 --> 00:01:21,600
-Hey you. Just a meme of yester change.
- 
-
-63
-00:01:21,600 --> 00:01:24,950
-Hey you. Just a meme of yester change.
-Big suit and black eye. The circus the
-
-64
-00:01:24,950 --> 00:01:24,960
-Big suit and black eye. The circus the
- 
-
-65
-00:01:24,960 --> 00:01:29,749
-Big suit and black eye. The circus the
-act. Golden key from Trump hollow as the
-
-66
-00:01:29,749 --> 00:01:29,759
-act. Golden key from Trump hollow as the
- 
-
-67
-00:01:29,759 --> 00:01:31,429
-act. Golden key from Trump hollow as the
-facts.
-
-68
-00:01:31,429 --> 00:01:31,439
-facts.
- 
-
-69
-00:01:31,439 --> 00:01:36,230
-facts.
-Tamra flashes fake confetti paper crown.
-
-70
-00:01:36,230 --> 00:01:36,240
-Tamra flashes fake confetti paper crown.
- 
-
-71
-00:01:36,240 --> 00:01:38,630
-Tamra flashes fake confetti paper crown.
-You're a punchline painted as a
-
-72
-00:01:38,630 --> 00:01:38,640
-You're a punchline painted as a
- 
-
-73
-00:01:38,640 --> 00:01:43,510
-You're a punchline painted as a
-breakthrough clown.
-
-74
-00:01:43,510 --> 00:01:43,520
-
- 
-
-75
-00:01:43,520 --> 00:01:47,030
-
-It's the mess. Save the day.
-
-76
-00:01:47,030 --> 00:01:47,040
-It's the mess. Save the day.
- 
-
-77
-00:01:47,040 --> 00:01:51,910
-It's the mess. Save the day.
-Got a trillion in ways you said hooray.
-
-78
-00:01:51,910 --> 00:01:51,920
-Got a trillion in ways you said hooray.
- 
-
-79
-00:01:51,920 --> 00:01:54,469
-Got a trillion in ways you said hooray.
-But your rocket crushed on lots of
-
-80
-00:01:54,469 --> 00:01:54,479
-But your rocket crushed on lots of
- 
-
-81
-00:01:54,479 --> 00:01:56,389
-But your rocket crushed on lots of
-cliche.
-
-82
-00:01:56,389 --> 00:01:56,399
-cliche.
- 
-
-83
-00:01:56,399 --> 00:02:01,670
-cliche.
-9 billion pennies, that's all you.
-
-84
-00:02:01,670 --> 00:02:01,680
-9 billion pennies, that's all you.
- 
-
-85
-00:02:01,680 --> 00:02:06,469
-9 billion pennies, that's all you.
-Hey, you're so not special anyway.
-
-86
-00:02:06,469 --> 00:02:06,479
-Hey, you're so not special anyway.
- 
-
-87
-00:02:06,479 --> 00:02:11,020
-Hey, you're so not special anyway.
-Hey, you just me yesterday.
-
-88
-00:02:11,020 --> 00:02:11,030
-Hey, you just me yesterday.
- 
-
-89
-00:02:11,030 --> 00:02:14,300
-Hey, you just me yesterday.
-[Music]
+00:02:07,600 --> 00:02:09,160
+ a meme of yesterday
 

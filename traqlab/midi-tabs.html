@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MIDI to Music Notation</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #222;
+            color: #fff;
+            padding: 2em;
+        }
+        #output {
+            margin-top: 2em;
+        }
+        .svg-sheet {
+            background: #fff;
+            border: 2px solid #222;
+            margin: 1em 0;
+        }
+        input[type="file"] {
+            font-size: 1.1em;
+            padding: 0.5em;
+            margin: 1em 0;
+        }
+        input[type="radio"] {
+            margin-right: 0.5em;
+        }
+        .notation-selector {
+            background: #333;
+            padding: 1em;
+            border-radius: 4px;
+            margin: 1em 0;
+        }
+        .notation-selector label {
+            margin-right: 2em;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .notation-selector label:hover {
+            color: #51cf66;
+        }
+        .error {
+            color: #ff6b6b;
+            background: #441;
+            padding: 1em;
+            border-radius: 4px;
+            margin: 1em 0;
+        }
+        .success {
+            color: #51cf66;
+            background: #144;
+            padding: 1em;
+            border-radius: 4px;
+            margin: 1em 0;
+        }
+        #track-selector {
+            background: #333;
+            padding: 1em;
+            border-radius: 4px;
+            margin: 1em 0;
+        }
+        #track-checkboxes {
+            margin: 1em 0;
+        }
+        .track-option {
+            display: block;
+            margin: 0.5em 0;
+            padding: 0.5em;
+            background: #444;
+            border-radius: 4px;
+        }
+        .track-option label {
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .track-info {
+            font-size: 0.9em;
+            color: #ccc;
+        }
+        button {
+            background: #51cf66;
+            color: #000;
+            border: none;
+            padding: 0.8em 1.5em;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: bold;
+        }
+        button:hover {
+            background: #40c057;
+        }
+        .track-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin: 1.5em 0 0.5em 0;
+            color: #51cf66;
+        }
+    </style>
+</head>
+<body>
+    <h2>MIDI to Music Notation</h2>
+    <p>Upload a MIDI file to convert it to sheet music or guitar tabs</p>
+    
+    <div class="notation-selector">
+        <label>
+            <input type="radio" name="notation" value="sheet" checked> Sheet Music
+        </label>
+        <label>
+            <input type="radio" name="notation" value="tabs"> Guitar Tabs
+        </label>
+    </div>
+    
+    <input type="file" id="midifile" accept=".mid,.midi">
+    
+    <div id="track-selector" style="display: none;">
+        <h3>Select Tracks to Display:</h3>
+        <div id="track-checkboxes"></div>
+        <button id="render-selected">Render Selected Tracks</button>
+    </div>
+    
+    <div id="status"></div>
+    <div id="output"></div>
+
+    <script>
+        // Global storage for parsed tracks
+        let allTracks = [];
+        let selectedTrackIndices = [];
+        
+        // Staff positions for treble clef
+        const NOTES_ON_STAFF = [
+            "G5", "F5", "E5", "D5", "C5", "B4", "A4", "G4", "F4", "E4", "D4", "C4", "B3", "A3"
+        ];
+
+        // Guitar tuning (standard tuning, low to high)
+        const GUITAR_STRINGS = [
+            { note: 'E', octave: 2, midi: 40 },  // Low E
+            { note: 'A', octave: 2, midi: 45 },  // A
+            { note: 'D', octave: 3, midi: 50 },  // D
+            { note: 'G', octave: 3, midi: 55 },  // G
+            { note: 'B', octave: 3, midi: 59 },  // B
+            { note: 'E', octave: 4, midi: 64 }   // High E
+        ];
+
+        // Status display
+        function showStatus(message, isError = false) {
+            const status = document.getElementById('status');
+            status.innerHTML = `<div class="${isError ? 'error' : 'success'}">${message}</div>`;
+        }
+
+        function midiToLabel(midi) {
+            const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+            const note = notes[midi % 12];
+            const octave = Math.floor(midi / 12) - 1;
+            return note + octave;
+        }
+
+        function svgNoteY(label, lineOffset = 0) {
+            // Handle sharp/flat notes by using the base note
+            const baseLabel = label.replace(/#|b/, '');
+            const idx = NOTES_ON_STAFF.indexOf(baseLabel);
+            if (idx === -1) return null;
+            return 60 + lineOffset + idx * 10;
+        }
+
+        function midiToFret(midiNote) {
+            let bestFret = null;
+            let bestString = null;
+            
+            // Find the best string/fret combination
+            GUITAR_STRINGS.forEach((string, stringIndex) => {
+                const fret = midiNote - string.midi;
+                if (fret >= 0 && fret <= 24) { // Standard guitar range
+                    if (bestFret === null || fret < bestFret) {
+                        bestFret = fret;
+                        bestString = stringIndex;
+                    }
+                }
+            });
+            
+            return { string: bestString, fret: bestFret };
+        }
+
+        function renderGuitarTabs(notes) {
+            if (!notes || notes.length === 0) return '';
+
+            const notesPerLine = 16;
+            const numLines = Math.ceil(notes.length / notesPerLine);
+            const width = 100 + Math.min(notes.length, notesPerLine) * 30;
+            const height = 200 * numLines;
+
+            let svg = `<svg class="svg-sheet" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`;
+
+            for (let l = 0; l < numLines; l++) {
+                const yOffset = l * 200;
+                
+                // String labels
+                GUITAR_STRINGS.slice().reverse().forEach((string, i) => {
+                    const y = 60 + i * 20 + yOffset;
+                    svg += `<text x="20" y="${y + 5}" font-size="14" font-family="monospace" text-anchor="middle">${string.note}</text>`;
+                    svg += `<line x1="40" y1="${y}" x2="${width - 20}" y2="${y}" stroke="#222" stroke-width="1"/>`;
+                });
+
+                // Title for this line
+                if (l === 0) {
+                    svg += `<text x="20" y="30" font-size="12" font-family="sans-serif" fill="#666">Guitar Tablature</text>`;
+                }
+            }
+
+            // Add fret numbers
+            notes.forEach((n, i) => {
+                const line = Math.floor(i / notesPerLine);
+                const x = 60 + (i % notesPerLine) * 30;
+                const fretInfo = midiToFret(n.midi);
+                
+                if (fretInfo.string !== null && fretInfo.fret !== null) {
+                    // String 0 is low E, but we display high E at top
+                    const displayString = 5 - fretInfo.string;
+                    const y = 60 + displayString * 20 + line * 200;
+                    
+                    // Fret number
+                    svg += `<text x="${x}" y="${y + 5}" font-size="12" font-family="monospace" text-anchor="middle" fill="#000">${fretInfo.fret}</text>`;
+                    
+                    // Note label below for reference
+                    svg += `<text x="${x}" y="${y + 140}" font-size="8" font-family="sans-serif" text-anchor="middle" fill="#666">${n.label}</text>`;
+                } else {
+                    // Note can't be played on guitar in standard tuning
+                    const y = 60 + line * 200;
+                    svg += `<text x="${x}" y="${y + 80}" font-size="10" font-family="sans-serif" text-anchor="middle" fill="#f44">X</text>`;
+                }
+            });
+
+            svg += `</svg>`;
+            return svg;
+        }
+
+        function renderSVGSheet(notes) {
+            if (!notes || notes.length === 0) return '';
+
+            const notesPerLine = 12;
+            const numLines = Math.ceil(notes.length / notesPerLine);
+            const width = 70 + Math.min(notes.length, notesPerLine) * 40;
+            const height = 170 * numLines;
+
+            let svg = `<svg class="svg-sheet" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`;
+
+            // Draw staff lines for each line
+            for(let l = 0; l < numLines; l++) {
+                let yOffset = l * 170;
+                
+                // Staff lines (E, G, B, D, F)
+                [60, 70, 80, 90, 100].forEach(y => {
+                    svg += `<line x1="40" y1="${y + yOffset}" x2="${width - 20}" y2="${y + yOffset}" stroke="#222" stroke-width="2"/>`;
+                });
+
+                // Treble clef
+                svg += `<text x="46" y="${92 + yOffset}" font-size="40" font-family="serif">𝄞</text>`;
+            }
+
+            // Draw notes
+            notes.forEach((n, i) => {
+                const line = Math.floor(i / notesPerLine);
+                const x = 80 + (i % notesPerLine) * 40;
+                const y = svgNoteY(n.label, line * 170);
+
+                if (y !== null) {
+                    // Note head
+                    svg += `<ellipse cx="${x}" cy="${y}" rx="10" ry="7" fill="#222" stroke="#000"/>`;
+
+                    // Stem direction based on position
+                    const staffCenter = 80 + line * 170;
+                    if (y > staffCenter) {
+                        // Stem up (left side)
+                        svg += `<rect x="${x - 10}" y="${y - 28}" width="2" height="28" fill="#000"/>`;
+                    } else {
+                        // Stem down (right side)
+                        svg += `<rect x="${x + 8}" y="${y}" width="2" height="28" fill="#000"/>`;
+                    }
+
+                    // Ledger lines for notes outside the staff
+                    const staffTop = 60 + line * 170;
+                    const staffBottom = 100 + line * 170;
+                    
+                    if (y < staffTop) {
+                        // Above staff - add ledger lines as needed
+                        for (let ledger = staffTop - 10; ledger >= y; ledger -= 20) {
+                            svg += `<line x1="${x - 14}" y1="${ledger}" x2="${x + 14}" y2="${ledger}" stroke="#000" stroke-width="2"/>`;
+                        }
+                    }
+                    if (y > staffBottom) {
+                        // Below staff - add ledger lines as needed
+                        for (let ledger = staffBottom + 10; ledger <= y; ledger += 20) {
+                            svg += `<line x1="${x - 14}" y1="${ledger}" x2="${x + 14}" y2="${ledger}" stroke="#000" stroke-width="2"/>`;
+                        }
+                    }
+
+                    // Add note label for debugging
+                    svg += `<text x="${x}" y="${y + 35}" text-anchor="middle" font-size="10" fill="#666">${n.label}</text>`;
+                }
+            });
+
+            svg += `</svg>`;
+            return svg;
+        }
+
+        // Enhanced MIDI parser that handles multiple tracks
+        async function parseMIDI(arrayBuffer) {
+            try {
+                const view = new DataView(arrayBuffer);
+                let offset = 0;
+                
+                // Read MIDI header
+                const headerChunk = new TextDecoder().decode(new Uint8Array(arrayBuffer, 0, 4));
+                if (headerChunk !== 'MThd') {
+                    throw new Error('Invalid MIDI file: Missing header');
+                }
+                
+                offset += 4; // Skip "MThd"
+                const headerLength = view.getUint32(offset); offset += 4;
+                const format = view.getUint16(offset); offset += 2;
+                const numTracks = view.getUint16(offset); offset += 2;
+                const timeDivision = view.getUint16(offset); offset += 2;
+                
+                console.log(`MIDI Format: ${format}, Tracks: ${numTracks}, Time Division: ${timeDivision}`);
+                
+                const tracks = [];
+                
+                // Parse each track
+                for (let trackNum = 0; trackNum < numTracks; trackNum++) {
+                    const trackData = parseTrack(view, offset);
+                    if (trackData) {
+                        tracks.push({
+                            index: trackNum,
+                            name: trackData.name || `Track ${trackNum + 1}`,
+                            notes: trackData.notes,
+                            noteCount: trackData.notes.length,
+                            instrument: trackData.instrument || 'Unknown'
+                        });
+                        offset = trackData.nextOffset;
+                    }
+                }
+                
+                return tracks;
+            } catch (error) {
+                console.error('MIDI parsing error:', error);
+                // Fallback to simple parser
+                return [await simpleNoteParse(arrayBuffer)];
+            }
+        }
+        
+        function parseTrack(view, offset) {
+            try {
+                // Check for track header
+                const trackHeader = new TextDecoder().decode(new Uint8Array(view.buffer, offset, 4));
+                if (trackHeader !== 'MTrk') {
+                    console.log('No track header found, trying to continue...');
+                    return null;
+                }
+                
+                offset += 4; // Skip "MTrk"
+                const trackLength = view.getUint32(offset); offset += 4;
+                const trackEnd = offset + trackLength;
+                
+                const notes = [];
+                let trackName = null;
+                let instrument = null;
+                let runningStatus = 0;
+                
+                while (offset < trackEnd) {
+                    try {
+                        // Read variable-length delta time
+                        const deltaTime = readVariableLength(view, offset);
+                        offset = deltaTime.nextOffset;
+                        
+                        // Read event
+                        let status = view.getUint8(offset);
+                        
+                        // Handle running status
+                        if ((status & 0x80) === 0) {
+                            status = runningStatus;
+                            offset--; // Back up one byte
+                        } else {
+                            runningStatus = status;
+                        }
+                        offset++;
+                        
+                        const eventType = status & 0xF0;
+                        const channel = status & 0x0F;
+                        
+                        if (eventType === 0x90) { // Note On
+                            const note = view.getUint8(offset++);
+                            const velocity = view.getUint8(offset++);
+                            if (velocity > 0) {
+                                const label = midiToLabel(note);
+                                notes.push({ label, midi: note, velocity });
+                            }
+                        } else if (eventType === 0x80) { // Note Off
+                            offset += 2; // Skip note and velocity
+                        } else if (eventType === 0xC0) { // Program Change
+                            instrument = view.getUint8(offset++);
+                        } else if (eventType === 0xB0) { // Control Change
+                            offset += 2; // Skip controller and value
+                        } else if (eventType === 0xE0) { // Pitch Bend
+                            offset += 2; // Skip pitch bend data
+                        } else if (status === 0xFF) { // Meta Event
+                            const metaType = view.getUint8(offset++);
+                            const length = readVariableLength(view, offset);
+                            offset = length.nextOffset;
+                            
+                            if (metaType === 0x03) { // Track Name
+                                trackName = new TextDecoder().decode(new Uint8Array(view.buffer, offset, length.value));
+                            }
+                            offset += length.value;
+                        } else {
+                            // Skip unknown events
+                            if ((status & 0x80) !== 0) {
+                                offset++; // Skip one byte for unknown status
+                            }
+                        }
+                    } catch (e) {
+                        console.log('Error parsing event, skipping...', e);
+                        offset++;
+                    }
+                }
+                
+                return {
+                    name: trackName,
+                    notes: notes,
+                    instrument: instrument,
+                    nextOffset: trackEnd
+                };
+            } catch (error) {
+                console.error('Track parsing error:', error);
+                return null;
+            }
+        }
+        
+        function readVariableLength(view, offset) {
+            let value = 0;
+            let byte;
+            do {
+                byte = view.getUint8(offset++);
+                value = (value << 7) | (byte & 0x7F);
+            } while (byte & 0x80);
+            return { value, nextOffset: offset };
+        }
+        
+        // Simple fallback parser
+        async function simpleNoteParse(arrayBuffer) {
+            const view = new DataView(arrayBuffer);
+            const notes = [];
+            
+            // Look for Note On events (0x90-0x9F)
+            for (let i = 0; i < view.byteLength - 2; i++) {
+                const byte = view.getUint8(i);
+                if ((byte & 0xF0) === 0x90) { // Note On event
+                    const note = view.getUint8(i + 1);
+                    const velocity = view.getUint8(i + 2);
+                    if (velocity > 0) { // Velocity 0 is Note Off
+                        const label = midiToLabel(note);
+                        notes.push({ label, midi: note });
+                    }
+                }
+            }
+            
+            return {
+                index: 0,
+                name: 'All Notes',
+                notes: notes,
+                noteCount: notes.length,
+                instrument: 'Mixed'
+            };
+        }
+
+        // Function to display track selector
+        function showTrackSelector(tracks) {
+            const selector = document.getElementById('track-selector');
+            const checkboxes = document.getElementById('track-checkboxes');
+            
+            checkboxes.innerHTML = '';
+            
+            tracks.forEach((track, index) => {
+                const div = document.createElement('div');
+                div.className = 'track-option';
+                
+                const label = document.createElement('label');
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = index;
+                checkbox.checked = track.noteCount > 0; // Auto-check tracks with notes
+                
+                const trackInfo = document.createElement('span');
+                trackInfo.innerHTML = `
+                    <strong>${track.name}</strong>
+                    <span class="track-info">${track.noteCount} notes | ${track.instrument}</span>
+                `;
+                
+                label.appendChild(checkbox);
+                label.appendChild(trackInfo);
+                div.appendChild(label);
+                checkboxes.appendChild(div);
+            });
+            
+            selector.style.display = 'block';
+        }
+        
+        // Function to render selected tracks
+        function renderSelectedTracks() {
+            const checkboxes = document.querySelectorAll('#track-checkboxes input[type="checkbox"]:checked');
+            selectedTrackIndices = Array.from(checkboxes).map(cb => parseInt(cb.value));
+            
+            if (selectedTrackIndices.length === 0) {
+                showStatus('Please select at least one track to render.', true);
+                return;
+            }
+            
+            const selectedTracks = selectedTrackIndices.map(index => allTracks[index]);
+            const notationType = document.querySelector('input[name="notation"]:checked').value;
+            
+            let output = '';
+            let totalNotes = 0;
+            
+            selectedTracks.forEach((track, i) => {
+                if (track.noteCount === 0) return;
+                
+                const limitedNotes = track.notes.slice(0, 50); // Limit per track
+                totalNotes += limitedNotes.length;
+                
+                let renderedContent;
+                let notesToRender = limitedNotes;
+                
+                if (notationType === 'tabs') {
+                    renderedContent = renderGuitarTabs(limitedNotes);
+                } else {
+                    // Filter notes that can be displayed on staff for sheet music
+                    const displayableNotes = limitedNotes.filter(n => 
+                        NOTES_ON_STAFF.includes(n.label.replace(/#|b/, ''))
+                    );
+                    
+                    if (displayableNotes.length > 0) {
+                        renderedContent = renderSVGSheet(displayableNotes);
+                        notesToRender = displayableNotes;
+                    } else {
+                        renderedContent = '<p style="color: #999; font-style: italic;">No displayable notes in treble clef range</p>';
+                    }
+                }
+                
+                output += `
+                    <div class="track-title">${track.name} (${notesToRender.length} notes)</div>
+                    ${renderedContent}
+                `;
+            });
+            
+            const title = notationType === 'tabs' ? 'Guitar Tablature' : 'Sheet Music';
+            document.getElementById('output').innerHTML = 
+                `<h3>${title} - ${selectedTracks.length} Track(s)</h3>${output}`;
+                
+            showStatus(`Successfully rendered ${totalNotes} notes from ${selectedTracks.length} track(s)!`);
+        }
+
+        // Function to render current notation (updated for multiple tracks)
+        function renderCurrentNotation() {
+            if (allTracks.length === 0) {
+                document.getElementById('output').innerHTML = '';
+                return;
+            }
+            
+            // If we have track selections, use those
+            if (selectedTrackIndices.length > 0) {
+                renderSelectedTracks();
+            } else {
+                // Auto-select all tracks with notes
+                selectedTrackIndices = allTracks
+                    .map((track, index) => track.noteCount > 0 ? index : -1)
+                    .filter(index => index !== -1);
+                renderSelectedTracks();
+            }
+        }
+
+        // Event listeners
+        document.getElementById('midifile').addEventListener('change', async (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            showStatus('Loading MIDI file...');
+
+            try {
+                const arrayBuffer = await file.arrayBuffer();
+                showStatus('Parsing MIDI tracks...');
+                
+                const tracks = await parseMIDI(arrayBuffer);
+                
+                if (tracks.length === 0) {
+                    showStatus('No tracks found in MIDI file.', true);
+                    allTracks = [];
+                    selectedTrackIndices = [];
+                    document.getElementById('track-selector').style.display = 'none';
+                    document.getElementById('output').innerHTML = '';
+                    return;
+                }
+
+                allTracks = tracks;
+                const totalNotes = tracks.reduce((sum, track) => sum + track.noteCount, 0);
+                
+                showStatus(`Found ${tracks.length} track(s) with ${totalNotes} total notes.`);
+                
+                // Show track selector if multiple tracks or if single track has a name
+                if (tracks.length > 1 || tracks[0].name !== 'All Notes') {
+                    showTrackSelector(tracks);
+                    showStatus('Select tracks to render below.');
+                } else {
+                    // Single track, render immediately
+                    selectedTrackIndices = [0];
+                    document.getElementById('track-selector').style.display = 'none';
+                    renderCurrentNotation();
+                }
+
+            } catch (error) {
+                console.error('Error processing MIDI file:', error);
+                showStatus(`Error: ${error.message}`, true);
+            }
+        });
+
+        // Render selected tracks button
+        document.getElementById('render-selected').addEventListener('click', renderSelectedTracks);
+
+        // Add event listeners for notation type changes
+        document.querySelectorAll('input[name="notation"]').forEach(radio => {
+            radio.addEventListener('change', () => {
+                if (allTracks.length > 0) {
+                    renderCurrentNotation();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

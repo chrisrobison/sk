@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SVG Sheet & Tab - Instrument Picker</title>
+  <style>
+    body { font-family: sans-serif; background: #222; color: #fff; }
+    #controls { margin: 1em 0; }
+    #sheet { background: #fff; border: 2px solid #222; display: block; margin: 20px 0;}
+    #note { font-size: 1.5em; margin-top: 10px;}
+    #output { margin-top: 20px; }
+    .svg-sheet, .svg-tab { background: #fff; border: 2px solid #222; margin: 1em 0; }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <input type="file" id="audiofile">
+    <select id="instrument">
+      <option value="guitar">Guitar (E A D G B E)</option>
+      <option value="bass">Bass (E A D G)</option>
+    </select>
+    <button id="export">Export SVG</button>
+  </div>
+  <canvas id="sheet" width="600" height="200"></canvas>
+  <div id="note"></div>
+  <div id="output"></div>
+  <script>
+    // --- Instrument tunings ---
+    const TUNINGS = {
+      guitar: [
+        { name: "E", octave: 4, midi: 64 },
+        { name: "B", octave: 3, midi: 59 },
+        { name: "G", octave: 3, midi: 55 },
+        { name: "D", octave: 3, midi: 50 },
+        { name: "A", octave: 2, midi: 45 },
+        { name: "E", octave: 2, midi: 40 }
+      ],
+      bass: [
+        { name: "G", octave: 2, midi: 43 },
+        { name: "D", octave: 2, midi: 38 },
+        { name: "A", octave: 1, midi: 33 },
+        { name: "E", octave: 1, midi: 28 }
+      ]
+    };
+    // Staff notes for sheet music (adjust as needed)
+    const NOTES_ON_STAFF = [
+      "F5", "E5", "D5", "C5", "B4", "A4", "G4", "F4", "E4", "D4", "C4"
+    ];
+
+    function freqToNote(freq) {
+      if (!freq || freq < 40 || freq > 2000) return null;
+      const A4 = 440;
+      const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+      const n = 12 * Math.log2(freq / A4);
+      const midi = Math.round(n) + 69;
+      const name = notes[(midi + 12*10) % 12];
+      const octave = Math.floor(midi / 12) - 1;
+      return { name, octave, midi, label: name + octave };
+    }
+    function noteToTab(midi, tuning) {
+      // Find the string and fret for the given midi using selected tuning (return lowest fret)
+      for (let s = 0; s < tuning.length; s++) {
+        let fret = midi - tuning[s].midi;
+        if (fret >= 0 && fret <= 22) return { string: s, fret }; // string 0 = top line
+      }
+      return null;
+    }
+    // --- Live note logging ---
+    let notesBuffer = [];
+    let notesLog = [];
+    // Canvas staff for live feedback (same as before)
+    const canvas = document.getElementById('sheet');
+    const ctx = canvas.getContext('2d');
+    const staffTop = 40, staffSpacing = 20, staffLines = 5, noteRadius = 10;
+    function drawStaff() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.strokeStyle = "#222";
+      ctx.lineWidth = 2;
+      for (let i = 0; i < staffLines; i++) {
+        const y = staffTop + i * staffSpacing;
+        ctx.beginPath();
+        ctx.moveTo(20, y);
+        ctx.lineTo(canvas.width - 20, y);
+        ctx.stroke();
+      }
+      ctx.font = "30px serif";
+      ctx.fillText("𝄞", 25, staffTop + staffSpacing * 3.5);
+    }
+    function noteToY(note) {
+      if (!note) return null;
+      const label = note.label;
+      const idx = NOTES_ON_STAFF.indexOf(label);
+      if (idx === -1) return null;
+      return staffTop + (NOTES_ON_STAFF.length - 1 - idx) * (staffSpacing / 2);
+    }
+    function drawNotes() {
+      drawStaff();
+      for (let i = 0; i < notesBuffer.length; i++) {
+        const note = notesBuffer[i];
+        if (!note) continue;
+        const y = noteToY(note);
+        if (y !== null) {
+          ctx.beginPath();
+          ctx.ellipse(120 + i*40, y, noteRadius+2, noteRadius, -0.3, 0, 2 * Math.PI);
+          ctx.fillStyle = "#333";
+          ctx.fill();
+          ctx.strokeStyle = "#000";
+          ctx.stroke();
+        }
+      }
+    }
+    // --- Pitch detection (autocorrelation) ---
+    function autoCorrelate(buffer, sampleRate) {
+      let SIZE = buffer.length;
+      let rms = 0;
+      for (let i = 0; i < SIZE; i++) rms += buffer[i] * buffer[i];
+      rms = Math.sqrt(rms / SIZE);
+      if (rms < 0.01) return -1;
+      let r1 = 0, r2 = SIZE - 1, thres = 0.2;
+      for (let i = 0; i < SIZE/2; i++) if (Math.abs(buffer[i]) < thres) { r1 = i; break; }
+      for (let i = 1; i < SIZE/2; i++) if (Math.abs(buffer[SIZE - i]) < thres) { r2 = SIZE - i; break; }
+      buffer = buffer.slice(r1, r2);
+      SIZE = buffer.length;
+      let c = new Array(SIZE).fill(0);
+      for (let i = 0; i < SIZE; i++)
+        for (let j = 0; j < SIZE - i; j++)
+          c[i] = c[i] + buffer[j] * buffer[j + i];
+      let d = 0;
+      while (c[d] > c[d + 1]) d++;
+      let maxval = -1, maxpos = -1;
+      for (let i = d; i < SIZE; i++) {
+        if (c[i] > maxval) {
+          maxval = c[i];
+          maxpos = i;
+        }
+      }
+      let T0 = maxpos;
+      return sampleRate / T0;
+    }
+    // --- Live Note Detection ---
+    const noteElem = document.getElementById('note');
+    let detectRAF = null, playing = false, audioCtx = null, source = null;
+    document.getElementById('audiofile').addEventListener('change', async (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      if (audioCtx) { audioCtx.close(); }
+      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      const arrayBuffer = await file.arrayBuffer();
+      const audioBuffer = await audioCtx.decodeAudioData(arrayBuffer);
+      source = audioCtx.createBufferSource();
+      source.buffer = audioBuffer;
+      const analyser = audioCtx.createAnalyser();
+      analyser.fftSize = 2048;
+      source.connect(analyser);
+      analyser.connect(audioCtx.destination);
+      notesBuffer = new Array(10).fill(null);
+      notesLog = [];
+      const buf = new Float32Array(analyser.fftSize);
+      let lastNote = null;
+      let startTime = audioCtx.currentTime;
+      function detect() {
+        analyser.getFloatTimeDomainData(buf);
+        const freq = autoCorrelate(buf, audioCtx.sampleRate);
+        const note = freqToNote(freq);
+        if (note && NOTES_ON_STAFF.includes(note.label)) {
+          noteElem.innerText = `Detected note: ${note.label} (${freq.toFixed(2)} Hz)`;
+          notesBuffer.push(note);
+          if (notesBuffer.length > 10) notesBuffer.shift();
+          if (!lastNote || note.label !== lastNote.label) {
+            notesLog.push({
+              note: note.label,
+              midi: note.midi,
+              freq: freq,
+              time: (audioCtx.currentTime - startTime).toFixed(2)
+            });
+            lastNote = note;
+          }
+        } else {
+          noteElem.innerText = 'Listening...';
+          notesBuffer.push(null);
+          if (notesBuffer.length > 10) notesBuffer.shift();
+        }
+        drawNotes();
+        detectRAF = requestAnimationFrame(detect);
+      }
+      source.onended = () => {
+        playing = false;
+        if (detectRAF) cancelAnimationFrame(detectRAF);
+      };
+      playing = true;
+      source.start();
+      detect();
+    });
+
+    // --- SVG Sheet Music ---
+    function svgNoteY(note) {
+      const idx = NOTES_ON_STAFF.indexOf(note.note);
+      if (idx === -1) return null;
+      return 60 + (NOTES_ON_STAFF.length - 1 - idx) * 10;
+    }
+    function renderSVGSheet(notes) {
+      if (!notes || notes.length === 0) return '';
+      const width = 70 + notes.length * 40;
+      const height = 150;
+      const staffY = [60, 70, 80, 90, 100];
+      let svg = `<svg class="svg-sheet" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`;
+      staffY.forEach(y => {
+        svg += `<line x1="40" y1="${y}" x2="${width-20}" y2="${y}" stroke="#222" stroke-width="2"/>`;
+      });
+      svg += `<text x="46" y="92" font-size="40" font-family="serif">𝄞</text>`;
+      notes.forEach((n, i) => {
+        const x = 80 + i*40;
+        const y = svgNoteY(n);
+        if (y !== null) {
+          svg += `<ellipse cx="${x}" cy="${y}" rx="10" ry="7" fill="#222" stroke="#000"/>`;
+          if (y > 80) svg += `<rect x="${x+8}" y="${y-1}" width="2" height="28" fill="#000"/>`;
+          else svg += `<rect x="${x-10}" y="${y-28}" width="2" height="28" fill="#000"/>`;
+          if (y < 60) svg += `<line x1="${x-14}" y1="60" x2="${x+14}" y2="60" stroke="#000" stroke-width="2"/>`;
+          if (y > 100) svg += `<line x1="${x-14}" y1="100" x2="${x+14}" y2="100" stroke="#000" stroke-width="2"/>`;
+        }
+      });
+      svg += `</svg>`;
+      return svg;
+    }
+    // --- SVG Guitar/Bass Tab ---
+    function renderSVGTab(notes, tuning) {
+      if (!notes || notes.length === 0) return '';
+      const numStrings = tuning.length;
+      const width = 80 + notes.length * 40;
+      const height = 80 + (numStrings-1)*20;
+      let svg = `<svg class="svg-tab" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`;
+      // Draw strings
+      for (let s = 0; s < numStrings; s++) {
+        const y = 40 + s * 20;
+        svg += `<line x1="60" y1="${y}" x2="${width-20}" y2="${y}" stroke="#333" stroke-width="2"/>`;
+        // Draw string name at start
+        svg += `<text x="30" y="${y+6}" font-size="16" font-family="monospace" fill="#222">${tuning[s].name}</text>`;
+      }
+      // Place fret numbers
+      notes.forEach((n, i) => {
+        const tab = noteToTab(n.midi, tuning);
+        if (tab) {
+          const x = 80 + i*40;
+          const y = 40 + tab.string * 20;
+          svg += `<text x="${x-5}" y="${y+6}" font-size="16" font-family="monospace" fill="#0d0">${tab.fret}</text>`;
+        }
+      });
+      svg += `</svg>`;
+      return svg;
+    }
+    // --- Export SVGs ---
+    document.getElementById('export').onclick = () => {
+      const instrument = document.getElementById('instrument').value;
+      const tuning = TUNINGS[instrument];
+      // Prepare notes for SVGs
+      const notesForSVG = notesLog.map(n => ({note: n.note, midi: n.midi}));
+      const svgSheet = renderSVGSheet(notesForSVG);
+      const svgTab = renderSVGTab(notesForSVG, tuning);
+      document.getElementById('output').innerHTML =
+        `<div><b>Sheet Music</b><br>${svgSheet}</div>
+         <div><b>${instrument.charAt(0).toUpperCase()+instrument.slice(1)} Tab</b><br>${svgTab}</div>`;
+    };
+    // Initial staff
+    drawStaff();
+  </script>
+</body>
+</html>
