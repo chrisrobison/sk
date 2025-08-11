@@ -1,0 +1,1616 @@
+1
+00:00:08,907 --> 00:00:09,447
+<u>Sirens</u> scream, but I don't hear a thing.
+
+2
+00:00:09,447 --> 00:00:09,488
+Sirens scream, but I don't hear a thing.
+
+3
+00:00:09,488 --> 00:00:09,828
+Sirens <u>scream,</u> but I don't hear a thing.
+
+4
+00:00:09,828 --> 00:00:09,848
+Sirens scream, but I don't hear a thing.
+
+5
+00:00:09,848 --> 00:00:09,988
+Sirens scream, <u>but</u> I don't hear a thing.
+
+6
+00:00:09,988 --> 00:00:10,068
+Sirens scream, but I don't hear a thing.
+
+7
+00:00:10,068 --> 00:00:10,148
+Sirens scream, but <u>I</u> don't hear a thing.
+
+8
+00:00:10,148 --> 00:00:10,188
+Sirens scream, but I don't hear a thing.
+
+9
+00:00:10,188 --> 00:00:10,548
+Sirens scream, but I <u>don't</u> hear a thing.
+
+10
+00:00:10,548 --> 00:00:10,589
+Sirens scream, but I don't hear a thing.
+
+11
+00:00:10,589 --> 00:00:10,789
+Sirens scream, but I don't <u>hear</u> a thing.
+
+12
+00:00:10,789 --> 00:00:10,949
+Sirens scream, but I don't hear a thing.
+
+13
+00:00:10,949 --> 00:00:11,089
+Sirens scream, but I don't hear <u>a</u> thing.
+
+14
+00:00:11,089 --> 00:00:11,109
+Sirens scream, but I don't hear a thing.
+
+15
+00:00:11,109 --> 00:00:11,569
+Sirens scream, but I don't hear a <u>thing.</u>
+
+16
+00:00:13,711 --> 00:00:14,532
+<u>Clipboards</u> and contracts they try to bring.
+
+17
+00:00:14,532 --> 00:00:14,552
+Clipboards and contracts they try to bring.
+
+18
+00:00:14,552 --> 00:00:14,672
+Clipboards <u>and</u> contracts they try to bring.
+
+19
+00:00:14,672 --> 00:00:14,712
+Clipboards and contracts they try to bring.
+
+20
+00:00:14,712 --> 00:00:15,313
+Clipboards and <u>contracts</u> they try to bring.
+
+21
+00:00:15,313 --> 00:00:15,333
+Clipboards and contracts they try to bring.
+
+22
+00:00:15,333 --> 00:00:15,593
+Clipboards and contracts <u>they</u> try to bring.
+
+23
+00:00:15,593 --> 00:00:15,633
+Clipboards and contracts they try to bring.
+
+24
+00:00:15,633 --> 00:00:16,013
+Clipboards and contracts they <u>try</u> to bring.
+
+25
+00:00:16,013 --> 00:00:16,113
+Clipboards and contracts they try to bring.
+
+26
+00:00:16,113 --> 00:00:16,234
+Clipboards and contracts they try <u>to</u> bring.
+
+27
+00:00:16,234 --> 00:00:16,254
+Clipboards and contracts they try to bring.
+
+28
+00:00:16,254 --> 00:00:16,734
+Clipboards and contracts they try to <u>bring.</u>
+
+29
+00:00:18,756 --> 00:00:19,116
+<u>Hands</u> reaching out like I'm some kind of case.
+
+30
+00:00:19,116 --> 00:00:19,176
+Hands reaching out like I'm some kind of case.
+
+31
+00:00:19,176 --> 00:00:19,637
+Hands <u>reaching</u> out like I'm some kind of case.
+
+32
+00:00:19,637 --> 00:00:19,857
+Hands reaching out like I'm some kind of case.
+
+33
+00:00:19,857 --> 00:00:19,997
+Hands reaching <u>out</u> like I'm some kind of case.
+
+34
+00:00:19,997 --> 00:00:20,057
+Hands reaching out like I'm some kind of case.
+
+35
+00:00:20,057 --> 00:00:20,337
+Hands reaching out <u>like</u> I'm some kind of case.
+
+36
+00:00:20,337 --> 00:00:20,497
+Hands reaching out like I'm some kind of case.
+
+37
+00:00:20,497 --> 00:00:20,637
+Hands reaching out like <u>I'm</u> some kind of case.
+
+38
+00:00:20,637 --> 00:00:20,678
+Hands reaching out like I'm some kind of case.
+
+39
+00:00:20,678 --> 00:00:20,898
+Hands reaching out like I'm <u>some</u> kind of case.
+
+40
+00:00:20,898 --> 00:00:20,918
+Hands reaching out like I'm some kind of case.
+
+41
+00:00:20,918 --> 00:00:21,218
+Hands reaching out like I'm some <u>kind</u> of case.
+
+42
+00:00:21,218 --> 00:00:21,258
+Hands reaching out like I'm some kind of case.
+
+43
+00:00:21,258 --> 00:00:21,318
+Hands reaching out like I'm some kind <u>of</u> case.
+
+44
+00:00:21,318 --> 00:00:21,358
+Hands reaching out like I'm some kind of case.
+
+45
+00:00:21,358 --> 00:00:23,860
+Hands reaching out like I'm some kind of <u>case.</u>
+
+46
+00:00:23,880 --> 00:00:24,021
+<u>But</u> my answer's written all over my face.
+
+47
+00:00:24,021 --> 00:00:24,061
+But my answer's written all over my face.
+
+48
+00:00:24,061 --> 00:00:24,221
+But <u>my</u> answer's written all over my face.
+
+49
+00:00:24,221 --> 00:00:24,361
+But my answer's written all over my face.
+
+50
+00:00:24,361 --> 00:00:24,801
+But my <u>answer's</u> written all over my face.
+
+51
+00:00:24,801 --> 00:00:24,861
+But my answer's written all over my face.
+
+52
+00:00:24,861 --> 00:00:25,142
+But my answer's <u>written</u> all over my face.
+
+53
+00:00:25,142 --> 00:00:25,342
+But my answer's written all over my face.
+
+54
+00:00:25,342 --> 00:00:25,462
+But my answer's written <u>all</u> over my face.
+
+55
+00:00:25,462 --> 00:00:25,662
+But my answer's written all over my face.
+
+56
+00:00:25,662 --> 00:00:25,862
+But my answer's written all <u>over</u> my face.
+
+57
+00:00:25,862 --> 00:00:25,942
+But my answer's written all over my face.
+
+58
+00:00:25,942 --> 00:00:26,343
+But my answer's written all over <u>my</u> face.
+
+59
+00:00:26,343 --> 00:00:26,403
+But my answer's written all over my face.
+
+60
+00:00:26,403 --> 00:00:28,264
+But my answer's written all over my <u>face.</u>
+
+61
+00:00:28,284 --> 00:00:28,525
+<u>Your</u> statement is a paper disguise.
+
+62
+00:00:28,525 --> 00:00:28,565
+Your statement is a paper disguise.
+
+63
+00:00:28,565 --> 00:00:29,305
+Your <u>statement</u> is a paper disguise.
+
+64
+00:00:29,305 --> 00:00:29,686
+Your statement is a paper disguise.
+
+65
+00:00:29,686 --> 00:00:29,846
+Your statement <u>is</u> a paper disguise.
+
+66
+00:00:29,846 --> 00:00:30,006
+Your statement is a paper disguise.
+
+67
+00:00:30,006 --> 00:00:30,106
+Your statement is <u>a</u> paper disguise.
+
+68
+00:00:30,106 --> 00:00:30,146
+Your statement is a paper disguise.
+
+69
+00:00:30,146 --> 00:00:30,787
+Your statement is a <u>paper</u> disguise.
+
+70
+00:00:30,787 --> 00:00:30,847
+Your statement is a paper disguise.
+
+71
+00:00:30,847 --> 00:00:31,607
+Your statement is a paper <u>disguise.</u>
+
+72
+00:00:34,090 --> 00:00:34,210
+<u>I've</u> read of all that swallow the mice.
+
+73
+00:00:34,210 --> 00:00:34,270
+I've read of all that swallow the mice.
+
+74
+00:00:34,270 --> 00:00:34,450
+I've <u>read</u> of all that swallow the mice.
+
+75
+00:00:34,450 --> 00:00:34,490
+I've read of all that swallow the mice.
+
+76
+00:00:34,490 --> 00:00:34,550
+I've read <u>of</u> all that swallow the mice.
+
+77
+00:00:34,550 --> 00:00:34,750
+I've read of all that swallow the mice.
+
+78
+00:00:34,750 --> 00:00:34,890
+I've read of <u>all</u> that swallow the mice.
+
+79
+00:00:34,890 --> 00:00:35,231
+I've read of all that swallow the mice.
+
+80
+00:00:35,231 --> 00:00:35,531
+I've read of all <u>that</u> swallow the mice.
+
+81
+00:00:35,531 --> 00:00:35,551
+I've read of all that swallow the mice.
+
+82
+00:00:35,551 --> 00:00:35,911
+I've read of all that <u>swallow</u> the mice.
+
+83
+00:00:35,911 --> 00:00:35,931
+I've read of all that swallow the mice.
+
+84
+00:00:35,931 --> 00:00:36,031
+I've read of all that swallow <u>the</u> mice.
+
+85
+00:00:36,031 --> 00:00:36,071
+I've read of all that swallow the mice.
+
+86
+00:00:36,071 --> 00:00:36,872
+I've read of all that swallow the <u>mice.</u>
+
+87
+00:00:38,067 --> 00:00:38,327
+<u>D</u> and I need just a quart, just let me be.
+
+88
+00:00:38,327 --> 00:00:38,347
+D and I need just a quart, just let me be.
+
+89
+00:00:38,347 --> 00:00:38,427
+D <u>and</u> I need just a quart, just let me be.
+
+90
+00:00:38,427 --> 00:00:38,487
+D and I need just a quart, just let me be.
+
+91
+00:00:38,487 --> 00:00:38,568
+D and <u>I</u> need just a quart, just let me be.
+
+92
+00:00:38,568 --> 00:00:38,608
+D and I need just a quart, just let me be.
+
+93
+00:00:38,608 --> 00:00:38,848
+D and I <u>need</u> just a quart, just let me be.
+
+94
+00:00:38,848 --> 00:00:38,948
+D and I need just a quart, just let me be.
+
+95
+00:00:38,948 --> 00:00:39,088
+D and I need <u>just</u> a quart, just let me be.
+
+96
+00:00:39,088 --> 00:00:39,108
+D and I need just a quart, just let me be.
+
+97
+00:00:39,108 --> 00:00:39,148
+D and I need just <u>a</u> quart, just let me be.
+
+98
+00:00:39,148 --> 00:00:39,188
+D and I need just a quart, just let me be.
+
+99
+00:00:39,188 --> 00:00:39,609
+D and I need just a <u>quart,</u> just let me be.
+
+100
+00:00:39,609 --> 00:00:39,629
+D and I need just a quart, just let me be.
+
+101
+00:00:39,629 --> 00:00:39,929
+D and I need just a quart, <u>just</u> let me be.
+
+102
+00:00:39,929 --> 00:00:39,989
+D and I need just a quart, just let me be.
+
+103
+00:00:39,989 --> 00:00:40,149
+D and I need just a quart, just <u>let</u> me be.
+
+104
+00:00:40,149 --> 00:00:40,169
+D and I need just a quart, just let me be.
+
+105
+00:00:40,169 --> 00:00:40,390
+D and I need just a quart, just let <u>me</u> be.
+
+106
+00:00:40,390 --> 00:00:40,450
+D and I need just a quart, just let me be.
+
+107
+00:00:40,450 --> 00:00:40,770
+D and I need just a quart, just let me <u>be.</u>
+
+108
+00:00:41,051 --> 00:00:41,191
+<u>The</u> rest of the day, don't rest me, don't fix me.
+
+109
+00:00:41,191 --> 00:00:41,231
+The rest of the day, don't rest me, don't fix me.
+
+110
+00:00:41,231 --> 00:00:41,411
+The <u>rest</u> of the day, don't rest me, don't fix me.
+
+111
+00:00:41,411 --> 00:00:41,451
+The rest of the day, don't rest me, don't fix me.
+
+112
+00:00:41,451 --> 00:00:41,531
+The rest <u>of</u> the day, don't rest me, don't fix me.
+
+113
+00:00:41,531 --> 00:00:41,571
+The rest of the day, don't rest me, don't fix me.
+
+114
+00:00:41,571 --> 00:00:41,691
+The rest of <u>the</u> day, don't rest me, don't fix me.
+
+115
+00:00:41,691 --> 00:00:41,711
+The rest of the day, don't rest me, don't fix me.
+
+116
+00:00:41,711 --> 00:00:41,952
+The rest of the <u>day,</u> don't rest me, don't fix me.
+
+117
+00:00:41,952 --> 00:00:42,172
+The rest of the day, don't rest me, don't fix me.
+
+118
+00:00:42,172 --> 00:00:42,452
+The rest of the day, <u>don't</u> rest me, don't fix me.
+
+119
+00:00:42,452 --> 00:00:42,492
+The rest of the day, don't rest me, don't fix me.
+
+120
+00:00:42,492 --> 00:00:42,692
+The rest of the day, don't <u>rest</u> me, don't fix me.
+
+121
+00:00:42,692 --> 00:00:42,712
+The rest of the day, don't rest me, don't fix me.
+
+122
+00:00:42,712 --> 00:00:42,833
+The rest of the day, don't rest <u>me,</u> don't fix me.
+
+123
+00:00:42,833 --> 00:00:42,853
+The rest of the day, don't rest me, don't fix me.
+
+124
+00:00:42,853 --> 00:00:43,073
+The rest of the day, don't rest me, <u>don't</u> fix me.
+
+125
+00:00:43,073 --> 00:00:43,113
+The rest of the day, don't rest me, don't fix me.
+
+126
+00:00:43,113 --> 00:00:43,333
+The rest of the day, don't rest me, don't <u>fix</u> me.
+
+127
+00:00:43,333 --> 00:00:43,373
+The rest of the day, don't rest me, don't fix me.
+
+128
+00:00:43,373 --> 00:00:43,533
+The rest of the day, don't rest me, don't fix <u>me.</u>
+
+129
+00:00:43,654 --> 00:00:43,714
+<u>I</u> won't sign a point for you, sip on pee.
+
+130
+00:00:43,714 --> 00:00:43,754
+I won't sign a point for you, sip on pee.
+
+131
+00:00:43,754 --> 00:00:43,934
+I <u>won't</u> sign a point for you, sip on pee.
+
+132
+00:00:43,934 --> 00:00:43,994
+I won't sign a point for you, sip on pee.
+
+133
+00:00:43,994 --> 00:00:44,134
+I won't <u>sign</u> a point for you, sip on pee.
+
+134
+00:00:44,134 --> 00:00:44,154
+I won't sign a point for you, sip on pee.
+
+135
+00:00:44,154 --> 00:00:44,174
+I won't sign <u>a</u> point for you, sip on pee.
+
+136
+00:00:44,174 --> 00:00:44,214
+I won't sign a point for you, sip on pee.
+
+137
+00:00:44,214 --> 00:00:44,495
+I won't sign a <u>point</u> for you, sip on pee.
+
+138
+00:00:44,495 --> 00:00:44,515
+I won't sign a point for you, sip on pee.
+
+139
+00:00:44,515 --> 00:00:44,855
+I won't sign a point <u>for</u> you, sip on pee.
+
+140
+00:00:44,855 --> 00:00:44,875
+I won't sign a point for you, sip on pee.
+
+141
+00:00:44,875 --> 00:00:44,975
+I won't sign a point for <u>you,</u> sip on pee.
+
+142
+00:00:44,975 --> 00:00:44,995
+I won't sign a point for you, sip on pee.
+
+143
+00:00:44,995 --> 00:00:45,175
+I won't sign a point for you, <u>sip</u> on pee.
+
+144
+00:00:45,175 --> 00:00:45,316
+I won't sign a point for you, sip on pee.
+
+145
+00:00:45,316 --> 00:00:45,456
+I won't sign a point for you, sip <u>on</u> pee.
+
+146
+00:00:45,456 --> 00:00:45,476
+I won't sign a point for you, sip on pee.
+
+147
+00:00:45,476 --> 00:00:45,816
+I won't sign a point for you, sip on <u>pee.</u>
+
+148
+00:00:46,277 --> 00:00:46,517
+<u>D</u> and I need, D and I need.
+
+149
+00:00:46,517 --> 00:00:46,537
+D and I need, D and I need.
+
+150
+00:00:46,537 --> 00:00:46,637
+D <u>and</u> I need, D and I need.
+
+151
+00:00:46,637 --> 00:00:46,697
+D and I need, D and I need.
+
+152
+00:00:46,697 --> 00:00:46,757
+D and <u>I</u> need, D and I need.
+
+153
+00:00:46,757 --> 00:00:46,797
+D and I need, D and I need.
+
+154
+00:00:46,797 --> 00:00:47,418
+D and I <u>need,</u> D and I need.
+
+155
+00:00:47,418 --> 00:00:47,438
+D and I need, D and I need.
+
+156
+00:00:47,438 --> 00:00:47,458
+D and I need, <u>D</u> and I need.
+
+157
+00:00:47,458 --> 00:00:47,478
+D and I need, D and I need.
+
+158
+00:00:47,478 --> 00:00:47,618
+D and I need, D <u>and</u> I need.
+
+159
+00:00:47,618 --> 00:00:47,638
+D and I need, D and I need.
+
+160
+00:00:47,638 --> 00:00:47,698
+D and I need, D and <u>I</u> need.
+
+161
+00:00:47,698 --> 00:00:48,059
+D and I need, D and I need.
+
+162
+00:00:48,059 --> 00:00:48,259
+D and I need, D and I <u>need.</u>
+
+163
+00:00:50,001 --> 00:00:50,342
+<u>Said</u> he'd breathe, way late, oh oh.
+
+164
+00:00:50,342 --> 00:00:50,542
+Said he'd breathe, way late, oh oh.
+
+165
+00:00:50,542 --> 00:00:50,662
+Said <u>he'd</u> breathe, way late, oh oh.
+
+166
+00:00:50,662 --> 00:00:50,702
+Said he'd breathe, way late, oh oh.
+
+167
+00:00:50,702 --> 00:00:51,363
+Said he'd <u>breathe,</u> way late, oh oh.
+
+168
+00:00:51,363 --> 00:00:51,723
+Said he'd breathe, way late, oh oh.
+
+169
+00:00:51,723 --> 00:00:52,224
+Said he'd breathe, <u>way</u> late, oh oh.
+
+170
+00:00:52,224 --> 00:00:52,244
+Said he'd breathe, way late, oh oh.
+
+171
+00:00:52,244 --> 00:00:52,664
+Said he'd breathe, way <u>late,</u> oh oh.
+
+172
+00:00:52,664 --> 00:00:53,285
+Said he'd breathe, way late, oh oh.
+
+173
+00:00:53,285 --> 00:00:53,405
+Said he'd breathe, way late, <u>oh</u> oh.
+
+174
+00:00:53,405 --> 00:00:53,746
+Said he'd breathe, way late, oh oh.
+
+175
+00:00:53,746 --> 00:00:53,906
+Said he'd breathe, way late, oh <u>oh.</u>
+
+176
+00:00:56,609 --> 00:00:57,190
+<u>Now</u> he runs in this show.
+
+177
+00:00:57,190 --> 00:00:57,250
+Now he runs in this show.
+
+178
+00:00:57,250 --> 00:00:57,510
+Now <u>he</u> runs in this show.
+
+179
+00:00:57,510 --> 00:00:57,570
+Now he runs in this show.
+
+180
+00:00:57,570 --> 00:00:57,870
+Now he <u>runs</u> in this show.
+
+181
+00:00:57,870 --> 00:00:58,011
+Now he runs in this show.
+
+182
+00:00:58,011 --> 00:00:58,131
+Now he runs <u>in</u> this show.
+
+183
+00:00:58,131 --> 00:00:58,171
+Now he runs in this show.
+
+184
+00:00:58,171 --> 00:00:58,391
+Now he runs in <u>this</u> show.
+
+185
+00:00:58,391 --> 00:00:58,451
+Now he runs in this show.
+
+186
+00:00:58,451 --> 00:00:59,232
+Now he runs in this <u>show.</u>
+
+187
+00:01:06,232 --> 00:01:06,552
+<u>You</u> chase me down with your answers and meds.
+
+188
+00:01:06,552 --> 00:01:06,572
+You chase me down with your answers and meds.
+
+189
+00:01:06,572 --> 00:01:06,913
+You <u>chase</u> me down with your answers and meds.
+
+190
+00:01:06,913 --> 00:01:06,953
+You chase me down with your answers and meds.
+
+191
+00:01:06,953 --> 00:01:07,173
+You chase <u>me</u> down with your answers and meds.
+
+192
+00:01:07,173 --> 00:01:07,233
+You chase me down with your answers and meds.
+
+193
+00:01:07,233 --> 00:01:07,533
+You chase me <u>down</u> with your answers and meds.
+
+194
+00:01:07,533 --> 00:01:07,573
+You chase me down with your answers and meds.
+
+195
+00:01:07,573 --> 00:01:07,794
+You chase me down <u>with</u> your answers and meds.
+
+196
+00:01:07,794 --> 00:01:07,874
+You chase me down with your answers and meds.
+
+197
+00:01:07,874 --> 00:01:08,414
+You chase me down with <u>your</u> answers and meds.
+
+198
+00:01:08,414 --> 00:01:08,575
+You chase me down with your answers and meds.
+
+199
+00:01:08,575 --> 00:01:08,835
+You chase me down with your <u>answers</u> and meds.
+
+200
+00:01:08,835 --> 00:01:08,955
+You chase me down with your answers and meds.
+
+201
+00:01:08,955 --> 00:01:09,115
+You chase me down with your answers <u>and</u> meds.
+
+202
+00:01:09,115 --> 00:01:09,135
+You chase me down with your answers and meds.
+
+203
+00:01:09,135 --> 00:01:09,496
+You chase me down with your answers and <u>meds.</u>
+
+204
+00:01:11,318 --> 00:01:11,918
+<u>Rectate</u> men, that has just been in my head.
+
+205
+00:01:11,918 --> 00:01:11,958
+Rectate men, that has just been in my head.
+
+206
+00:01:11,958 --> 00:01:12,219
+Rectate <u>men,</u> that has just been in my head.
+
+207
+00:01:12,219 --> 00:01:12,259
+Rectate men, that has just been in my head.
+
+208
+00:01:12,259 --> 00:01:12,419
+Rectate men, <u>that</u> has just been in my head.
+
+209
+00:01:12,419 --> 00:01:12,459
+Rectate men, that has just been in my head.
+
+210
+00:01:12,459 --> 00:01:12,539
+Rectate men, that <u>has</u> just been in my head.
+
+211
+00:01:12,539 --> 00:01:12,579
+Rectate men, that has just been in my head.
+
+212
+00:01:12,579 --> 00:01:12,839
+Rectate men, that has <u>just</u> been in my head.
+
+213
+00:01:12,839 --> 00:01:12,899
+Rectate men, that has just been in my head.
+
+214
+00:01:12,899 --> 00:01:13,200
+Rectate men, that has just <u>been</u> in my head.
+
+215
+00:01:13,200 --> 00:01:13,260
+Rectate men, that has just been in my head.
+
+216
+00:01:13,260 --> 00:01:13,320
+Rectate men, that has just been <u>in</u> my head.
+
+217
+00:01:13,320 --> 00:01:13,380
+Rectate men, that has just been in my head.
+
+218
+00:01:13,380 --> 00:01:13,820
+Rectate men, that has just been in <u>my</u> head.
+
+219
+00:01:13,820 --> 00:01:13,880
+Rectate men, that has just been in my head.
+
+220
+00:01:13,880 --> 00:01:14,341
+Rectate men, that has just been in my <u>head.</u>
+
+221
+00:01:16,703 --> 00:01:16,864
+<u>Don't</u> call my name like I need to be fixed.
+
+222
+00:01:16,864 --> 00:01:16,904
+Don't call my name like I need to be fixed.
+
+223
+00:01:16,904 --> 00:01:17,044
+Don't <u>call</u> my name like I need to be fixed.
+
+224
+00:01:17,044 --> 00:01:17,064
+Don't call my name like I need to be fixed.
+
+225
+00:01:17,064 --> 00:01:17,164
+Don't call <u>my</u> name like I need to be fixed.
+
+226
+00:01:17,164 --> 00:01:17,224
+Don't call my name like I need to be fixed.
+
+227
+00:01:17,224 --> 00:01:17,464
+Don't call my <u>name</u> like I need to be fixed.
+
+228
+00:01:17,464 --> 00:01:17,544
+Don't call my name like I need to be fixed.
+
+229
+00:01:17,544 --> 00:01:17,665
+Don't call my name <u>like</u> I need to be fixed.
+
+230
+00:01:17,665 --> 00:01:17,865
+Don't call my name like I need to be fixed.
+
+231
+00:01:17,865 --> 00:01:17,925
+Don't call my name like <u>I</u> need to be fixed.
+
+232
+00:01:17,925 --> 00:01:17,985
+Don't call my name like I need to be fixed.
+
+233
+00:01:17,985 --> 00:01:18,285
+Don't call my name like I <u>need</u> to be fixed.
+
+234
+00:01:18,285 --> 00:01:18,325
+Don't call my name like I need to be fixed.
+
+235
+00:01:18,325 --> 00:01:18,425
+Don't call my name like I need <u>to</u> be fixed.
+
+236
+00:01:18,425 --> 00:01:18,465
+Don't call my name like I need to be fixed.
+
+237
+00:01:18,465 --> 00:01:18,866
+Don't call my name like I need to <u>be</u> fixed.
+
+238
+00:01:18,866 --> 00:01:18,946
+Don't call my name like I need to be fixed.
+
+239
+00:01:18,946 --> 00:01:20,788
+Don't call my name like I need to be <u>fixed.</u>
+
+240
+00:01:20,808 --> 00:01:21,108
+<u>Don't</u> write me off with your stat treats and tricks.
+
+241
+00:01:21,108 --> 00:01:21,148
+Don't write me off with your stat treats and tricks.
+
+242
+00:01:21,148 --> 00:01:21,449
+Don't <u>write</u> me off with your stat treats and tricks.
+
+243
+00:01:21,449 --> 00:01:21,489
+Don't write me off with your stat treats and tricks.
+
+244
+00:01:21,489 --> 00:01:21,789
+Don't write <u>me</u> off with your stat treats and tricks.
+
+245
+00:01:21,789 --> 00:01:22,009
+Don't write me off with your stat treats and tricks.
+
+246
+00:01:22,009 --> 00:01:22,149
+Don't write me <u>off</u> with your stat treats and tricks.
+
+247
+00:01:22,149 --> 00:01:22,430
+Don't write me off with your stat treats and tricks.
+
+248
+00:01:22,430 --> 00:01:22,690
+Don't write me off <u>with</u> your stat treats and tricks.
+
+249
+00:01:22,690 --> 00:01:22,730
+Don't write me off with your stat treats and tricks.
+
+250
+00:01:22,730 --> 00:01:22,950
+Don't write me off with <u>your</u> stat treats and tricks.
+
+251
+00:01:22,950 --> 00:01:22,970
+Don't write me off with your stat treats and tricks.
+
+252
+00:01:22,970 --> 00:01:23,311
+Don't write me off with your <u>stat</u> treats and tricks.
+
+253
+00:01:23,311 --> 00:01:23,331
+Don't write me off with your stat treats and tricks.
+
+254
+00:01:23,331 --> 00:01:23,671
+Don't write me off with your stat <u>treats</u> and tricks.
+
+255
+00:01:23,671 --> 00:01:23,851
+Don't write me off with your stat treats and tricks.
+
+256
+00:01:23,851 --> 00:01:23,971
+Don't write me off with your stat treats <u>and</u> tricks.
+
+257
+00:01:23,971 --> 00:01:24,012
+Don't write me off with your stat treats and tricks.
+
+258
+00:01:24,012 --> 00:01:24,512
+Don't write me off with your stat treats and <u>tricks.</u>
+
+259
+00:01:25,593 --> 00:01:25,854
+<u>You've</u> got your lists and your boss and your savior plans.
+
+260
+00:01:25,854 --> 00:01:25,894
+You've got your lists and your boss and your savior plans.
+
+261
+00:01:25,894 --> 00:01:26,154
+You've <u>got</u> your lists and your boss and your savior plans.
+
+262
+00:01:26,154 --> 00:01:26,194
+You've got your lists and your boss and your savior plans.
+
+263
+00:01:26,194 --> 00:01:26,474
+You've got <u>your</u> lists and your boss and your savior plans.
+
+264
+00:01:26,474 --> 00:01:26,534
+You've got your lists and your boss and your savior plans.
+
+265
+00:01:26,534 --> 00:01:27,075
+You've got your <u>lists</u> and your boss and your savior plans.
+
+266
+00:01:27,075 --> 00:01:27,095
+You've got your lists and your boss and your savior plans.
+
+267
+00:01:27,095 --> 00:01:27,235
+You've got your lists <u>and</u> your boss and your savior plans.
+
+268
+00:01:27,235 --> 00:01:27,295
+You've got your lists and your boss and your savior plans.
+
+269
+00:01:27,295 --> 00:01:27,515
+You've got your lists and <u>your</u> boss and your savior plans.
+
+270
+00:01:27,515 --> 00:01:27,615
+You've got your lists and your boss and your savior plans.
+
+271
+00:01:27,615 --> 00:01:28,076
+You've got your lists and your <u>boss</u> and your savior plans.
+
+272
+00:01:28,076 --> 00:01:28,096
+You've got your lists and your boss and your savior plans.
+
+273
+00:01:28,096 --> 00:01:28,216
+You've got your lists and your boss <u>and</u> your savior plans.
+
+274
+00:01:28,216 --> 00:01:28,236
+You've got your lists and your boss and your savior plans.
+
+275
+00:01:28,236 --> 00:01:28,336
+You've got your lists and your boss and <u>your</u> savior plans.
+
+276
+00:01:28,336 --> 00:01:28,356
+You've got your lists and your boss and your savior plans.
+
+277
+00:01:28,356 --> 00:01:28,797
+You've got your lists and your boss and your <u>savior</u> plans.
+
+278
+00:01:28,797 --> 00:01:28,837
+You've got your lists and your boss and your savior plans.
+
+279
+00:01:28,837 --> 00:01:29,357
+You've got your lists and your boss and your savior <u>plans.</u>
+
+280
+00:01:30,739 --> 00:01:30,899
+<u>But</u> it'll burn another day just like where I stand.
+
+281
+00:01:30,899 --> 00:01:30,979
+But it'll burn another day just like where I stand.
+
+282
+00:01:30,979 --> 00:01:31,159
+But <u>it'll</u> burn another day just like where I stand.
+
+283
+00:01:31,159 --> 00:01:31,199
+But it'll burn another day just like where I stand.
+
+284
+00:01:31,199 --> 00:01:31,480
+But it'll <u>burn</u> another day just like where I stand.
+
+285
+00:01:31,480 --> 00:01:31,540
+But it'll burn another day just like where I stand.
+
+286
+00:01:31,540 --> 00:01:31,860
+But it'll burn <u>another</u> day just like where I stand.
+
+287
+00:01:31,860 --> 00:01:31,900
+But it'll burn another day just like where I stand.
+
+288
+00:01:31,900 --> 00:01:32,301
+But it'll burn another <u>day</u> just like where I stand.
+
+289
+00:01:32,301 --> 00:01:32,341
+But it'll burn another day just like where I stand.
+
+290
+00:01:32,341 --> 00:01:32,701
+But it'll burn another day <u>just</u> like where I stand.
+
+291
+00:01:32,701 --> 00:01:32,761
+But it'll burn another day just like where I stand.
+
+292
+00:01:32,761 --> 00:01:33,041
+But it'll burn another day just <u>like</u> where I stand.
+
+293
+00:01:33,041 --> 00:01:33,102
+But it'll burn another day just like where I stand.
+
+294
+00:01:33,102 --> 00:01:33,442
+But it'll burn another day just like <u>where</u> I stand.
+
+295
+00:01:33,442 --> 00:01:33,582
+But it'll burn another day just like where I stand.
+
+296
+00:01:33,582 --> 00:01:33,662
+But it'll burn another day just like where <u>I</u> stand.
+
+297
+00:01:33,662 --> 00:01:33,702
+But it'll burn another day just like where I stand.
+
+298
+00:01:33,702 --> 00:01:34,483
+But it'll burn another day just like where I <u>stand.</u>
+
+299
+00:01:36,235 --> 00:01:36,776
+<u>D&I</u> needs at the court, just let me be.
+
+300
+00:01:36,776 --> 00:01:36,916
+D&I needs at the court, just let me be.
+
+301
+00:01:36,916 --> 00:01:37,136
+D&I <u>needs</u> at the court, just let me be.
+
+302
+00:01:37,136 --> 00:01:37,156
+D&I needs at the court, just let me be.
+
+303
+00:01:37,156 --> 00:01:37,236
+D&I needs <u>at</u> the court, just let me be.
+
+304
+00:01:37,236 --> 00:01:37,256
+D&I needs at the court, just let me be.
+
+305
+00:01:37,256 --> 00:01:37,336
+D&I needs at <u>the</u> court, just let me be.
+
+306
+00:01:37,336 --> 00:01:37,376
+D&I needs at the court, just let me be.
+
+307
+00:01:37,376 --> 00:01:37,817
+D&I needs at the <u>court,</u> just let me be.
+
+308
+00:01:37,817 --> 00:01:37,837
+D&I needs at the court, just let me be.
+
+309
+00:01:37,837 --> 00:01:38,117
+D&I needs at the court, <u>just</u> let me be.
+
+310
+00:01:38,117 --> 00:01:38,177
+D&I needs at the court, just let me be.
+
+311
+00:01:38,177 --> 00:01:38,318
+D&I needs at the court, just <u>let</u> me be.
+
+312
+00:01:38,318 --> 00:01:38,358
+D&I needs at the court, just let me be.
+
+313
+00:01:38,358 --> 00:01:38,558
+D&I needs at the court, just let <u>me</u> be.
+
+314
+00:01:38,558 --> 00:01:38,638
+D&I needs at the court, just let me be.
+
+315
+00:01:38,638 --> 00:01:38,958
+D&I needs at the court, just let me <u>be.</u>
+
+316
+00:01:39,259 --> 00:01:39,399
+<u>The</u> list has a date, don't risk it, don't fix me.
+
+317
+00:01:39,399 --> 00:01:39,439
+The list has a date, don't risk it, don't fix me.
+
+318
+00:01:39,439 --> 00:01:39,599
+The <u>list</u> has a date, don't risk it, don't fix me.
+
+319
+00:01:39,599 --> 00:01:39,639
+The list has a date, don't risk it, don't fix me.
+
+320
+00:01:39,639 --> 00:01:39,759
+The list <u>has</u> a date, don't risk it, don't fix me.
+
+321
+00:01:39,759 --> 00:01:39,820
+The list has a date, don't risk it, don't fix me.
+
+322
+00:01:39,820 --> 00:01:39,880
+The list has <u>a</u> date, don't risk it, don't fix me.
+
+323
+00:01:39,880 --> 00:01:39,920
+The list has a date, don't risk it, don't fix me.
+
+324
+00:01:39,920 --> 00:01:40,180
+The list has a <u>date,</u> don't risk it, don't fix me.
+
+325
+00:01:40,180 --> 00:01:40,360
+The list has a date, don't risk it, don't fix me.
+
+326
+00:01:40,360 --> 00:01:40,581
+The list has a date, <u>don't</u> risk it, don't fix me.
+
+327
+00:01:40,581 --> 00:01:40,641
+The list has a date, don't risk it, don't fix me.
+
+328
+00:01:40,641 --> 00:01:40,821
+The list has a date, don't <u>risk</u> it, don't fix me.
+
+329
+00:01:40,821 --> 00:01:40,921
+The list has a date, don't risk it, don't fix me.
+
+330
+00:01:40,921 --> 00:01:40,981
+The list has a date, don't risk <u>it,</u> don't fix me.
+
+331
+00:01:40,981 --> 00:01:41,001
+The list has a date, don't risk it, don't fix me.
+
+332
+00:01:41,001 --> 00:01:41,221
+The list has a date, don't risk it, <u>don't</u> fix me.
+
+333
+00:01:41,221 --> 00:01:41,281
+The list has a date, don't risk it, don't fix me.
+
+334
+00:01:41,281 --> 00:01:41,482
+The list has a date, don't risk it, don't <u>fix</u> me.
+
+335
+00:01:41,482 --> 00:01:41,522
+The list has a date, don't risk it, don't fix me.
+
+336
+00:01:41,522 --> 00:01:41,702
+The list has a date, don't risk it, don't fix <u>me.</u>
+
+337
+00:01:41,842 --> 00:01:41,922
+<u>I</u> won't sign your play phone, though you'll sit by fee.
+
+338
+00:01:41,922 --> 00:01:41,962
+I won't sign your play phone, though you'll sit by fee.
+
+339
+00:01:41,962 --> 00:01:42,082
+I <u>won't</u> sign your play phone, though you'll sit by fee.
+
+340
+00:01:42,082 --> 00:01:42,142
+I won't sign your play phone, though you'll sit by fee.
+
+341
+00:01:42,142 --> 00:01:42,263
+I won't <u>sign</u> your play phone, though you'll sit by fee.
+
+342
+00:01:42,263 --> 00:01:42,283
+I won't sign your play phone, though you'll sit by fee.
+
+343
+00:01:42,283 --> 00:01:42,363
+I won't sign <u>your</u> play phone, though you'll sit by fee.
+
+344
+00:01:42,363 --> 00:01:42,383
+I won't sign your play phone, though you'll sit by fee.
+
+345
+00:01:42,383 --> 00:01:42,663
+I won't sign your <u>play</u> phone, though you'll sit by fee.
+
+346
+00:01:42,663 --> 00:01:42,683
+I won't sign your play phone, though you'll sit by fee.
+
+347
+00:01:42,683 --> 00:01:42,863
+I won't sign your play <u>phone,</u> though you'll sit by fee.
+
+348
+00:01:42,863 --> 00:01:42,883
+I won't sign your play phone, though you'll sit by fee.
+
+349
+00:01:42,883 --> 00:01:43,024
+I won't sign your play phone, <u>though</u> you'll sit by fee.
+
+350
+00:01:43,024 --> 00:01:43,044
+I won't sign your play phone, though you'll sit by fee.
+
+351
+00:01:43,044 --> 00:01:43,184
+I won't sign your play phone, though <u>you'll</u> sit by fee.
+
+352
+00:01:43,184 --> 00:01:43,204
+I won't sign your play phone, though you'll sit by fee.
+
+353
+00:01:43,204 --> 00:01:43,344
+I won't sign your play phone, though you'll <u>sit</u> by fee.
+
+354
+00:01:43,344 --> 00:01:43,384
+I won't sign your play phone, though you'll sit by fee.
+
+355
+00:01:43,384 --> 00:01:43,624
+I won't sign your play phone, though you'll sit <u>by</u> fee.
+
+356
+00:01:43,624 --> 00:01:43,664
+I won't sign your play phone, though you'll sit by fee.
+
+357
+00:01:43,664 --> 00:01:43,965
+I won't sign your play phone, though you'll sit by <u>fee.</u>
+
+358
+00:01:44,425 --> 00:01:44,906
+<u>D&I</u> me, D&I me.
+
+359
+00:01:44,906 --> 00:01:44,946
+D&I me, D&I me.
+
+360
+00:01:44,946 --> 00:01:45,146
+D&I <u>me,</u> D&I me.
+
+361
+00:01:45,146 --> 00:01:45,407
+D&I me, D&I me.
+
+362
+00:01:45,407 --> 00:01:45,907
+D&I me, <u>D&I</u> me.
+
+363
+00:01:45,907 --> 00:01:46,248
+D&I me, D&I me.
+
+364
+00:01:46,248 --> 00:01:46,408
+D&I me, D&I <u>me.</u>
+
+365
+00:01:47,970 --> 00:01:48,250
+<u>Set</u> me free, free me, oh, oh.
+
+366
+00:01:48,250 --> 00:01:48,310
+Set me free, free me, oh, oh.
+
+367
+00:01:48,310 --> 00:01:48,491
+Set <u>me</u> free, free me, oh, oh.
+
+368
+00:01:48,491 --> 00:01:48,591
+Set me free, free me, oh, oh.
+
+369
+00:01:48,591 --> 00:01:48,931
+Set me <u>free,</u> free me, oh, oh.
+
+370
+00:01:48,931 --> 00:01:49,171
+Set me free, free me, oh, oh.
+
+371
+00:01:49,171 --> 00:01:49,632
+Set me free, <u>free</u> me, oh, oh.
+
+372
+00:01:49,632 --> 00:01:49,752
+Set me free, free me, oh, oh.
+
+373
+00:01:49,752 --> 00:01:50,153
+Set me free, free <u>me,</u> oh, oh.
+
+374
+00:01:50,153 --> 00:01:50,793
+Set me free, free me, oh, oh.
+
+375
+00:01:50,793 --> 00:01:51,234
+Set me free, free me, <u>oh,</u> oh.
+
+376
+00:01:51,234 --> 00:01:51,254
+Set me free, free me, oh, oh.
+
+377
+00:01:51,254 --> 00:01:51,414
+Set me free, free me, oh, <u>oh.</u>
+
+378
+00:01:54,198 --> 00:01:54,638
+<u>Now</u> me and Ralph beat me south.
+
+379
+00:01:54,638 --> 00:01:54,698
+Now me and Ralph beat me south.
+
+380
+00:01:54,698 --> 00:01:54,839
+Now <u>me</u> and Ralph beat me south.
+
+381
+00:01:54,839 --> 00:01:54,859
+Now me and Ralph beat me south.
+
+382
+00:01:54,859 --> 00:01:54,919
+Now me <u>and</u> Ralph beat me south.
+
+383
+00:01:54,919 --> 00:01:54,939
+Now me and Ralph beat me south.
+
+384
+00:01:54,939 --> 00:01:55,239
+Now me and <u>Ralph</u> beat me south.
+
+385
+00:01:55,239 --> 00:01:55,259
+Now me and Ralph beat me south.
+
+386
+00:01:55,259 --> 00:01:55,540
+Now me and Ralph <u>beat</u> me south.
+
+387
+00:01:55,540 --> 00:01:55,580
+Now me and Ralph beat me south.
+
+388
+00:01:55,580 --> 00:01:55,840
+Now me and Ralph beat <u>me</u> south.
+
+389
+00:01:55,840 --> 00:01:55,860
+Now me and Ralph beat me south.
+
+390
+00:01:55,860 --> 00:01:56,421
+Now me and Ralph beat me <u>south.</u>
+
+391
+00:01:59,104 --> 00:02:00,025
+<u>Baby,</u> oh, oh.
+
+392
+00:02:00,025 --> 00:02:00,686
+Baby, oh, oh.
+
+393
+00:02:00,686 --> 00:02:01,127
+Baby, <u>oh,</u> oh.
+
+394
+00:02:01,127 --> 00:02:01,147
+Baby, oh, oh.
+
+395
+00:02:01,147 --> 00:02:01,467
+Baby, oh, <u>oh.</u>
+
+396
+00:02:04,012 --> 00:02:04,578
+<u>TNR</u> just let me know.
+
+397
+00:02:04,578 --> 00:02:04,860
+TNR just let me know.
+
+398
+00:02:04,860 --> 00:02:05,123
+TNR <u>just</u> let me know.
+
+399
+00:02:05,123 --> 00:02:05,183
+TNR just let me know.
+
+400
+00:02:05,183 --> 00:02:05,446
+TNR just <u>let</u> me know.
+
+401
+00:02:05,446 --> 00:02:05,628
+TNR just let me know.
+
+402
+00:02:05,628 --> 00:02:05,850
+TNR just let <u>me</u> know.
+
+403
+00:02:05,850 --> 00:02:06,496
+TNR just let me know.
+
+404
+00:02:06,496 --> 00:02:06,597
+TNR just let me <u>know.</u>
+

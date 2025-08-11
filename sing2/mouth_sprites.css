@@ -1,0 +1,97 @@
+/* Mouth Sprites CSS for SVG
+ * Grid: 5x5
+ * Cell Size: 150px x 100px
+ */
+
+.mouth-sprite-svg {
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('mouth_sprites.svg');
+    background-repeat: no-repeat;
+    scale: 0.5;
+}
+
+.mouth-a_e_i {
+    background-position: 0px 0px;
+}
+
+.mouth-ah {
+    background-position: -150px 0px;
+}
+
+.mouth-b_m_p {
+    background-position: -300px 0px;
+}
+
+.mouth-c_d_g_K_n_s_t_x_y_z {
+    background-position: -450px 0px;
+}
+
+.mouth-default {
+    background-position: -600px 0px;
+}
+
+.mouth-d {
+    background-position: 0px -100px;
+}
+
+.mouth-e {
+    background-position: -150px -100px;
+}
+
+.mouth-f {
+    background-position: -300px -100px;
+}
+
+.mouth-f_w {
+    background-position: -450px -100px;
+}
+
+.mouth-l2 {
+    background-position: -600px -100px;
+}
+
+.mouth-l {
+    background-position: 0px -200px;
+}
+
+.mouth-m {
+    background-position: -150px -200px;
+}
+
+.mouth-oh {
+    background-position: -300px -200px;
+}
+
+.mouth-o {
+    background-position: -450px -200px;
+}
+
+.mouth-o_w {
+    background-position: -600px -200px;
+}
+
+.mouth-r {
+    background-position: 0px -300px;
+}
+
+.mouth-s {
+    background-position: -150px -300px;
+}
+
+.mouth-sc {
+    background-position: -300px -300px;
+}
+
+.mouth-th {
+    background-position: -450px -300px;
+}
+
+.mouth-un {
+    background-position: -600px -300px;
+}
+
+.mouth-wo {
+    background-position: 0px -400px;
+}

@@ -1,0 +1,976 @@
+1
+00:00:08,198 --> 00:00:08,839
+<u>TV</u> dinner on the golden place.
+
+2
+00:00:08,839 --> 00:00:08,879
+TV dinner on the golden place.
+
+3
+00:00:08,879 --> 00:00:09,179
+TV <u>dinner</u> on the golden place.
+
+4
+00:00:09,179 --> 00:00:09,259
+TV dinner on the golden place.
+
+5
+00:00:09,259 --> 00:00:09,339
+TV dinner <u>on</u> the golden place.
+
+6
+00:00:09,339 --> 00:00:09,359
+TV dinner on the golden place.
+
+7
+00:00:09,359 --> 00:00:09,460
+TV dinner on <u>the</u> golden place.
+
+8
+00:00:09,460 --> 00:00:09,500
+TV dinner on the golden place.
+
+9
+00:00:09,500 --> 00:00:10,040
+TV dinner on the <u>golden</u> place.
+
+10
+00:00:10,040 --> 00:00:10,100
+TV dinner on the golden place.
+
+11
+00:00:10,100 --> 00:00:10,541
+TV dinner on the golden <u>place.</u>
+
+12
+00:00:13,224 --> 00:00:13,444
+<u>Late</u> night tweets decide the fate.
+
+13
+00:00:13,444 --> 00:00:13,505
+Late night tweets decide the fate.
+
+14
+00:00:13,505 --> 00:00:13,765
+Late <u>night</u> tweets decide the fate.
+
+15
+00:00:13,765 --> 00:00:13,845
+Late night tweets decide the fate.
+
+16
+00:00:13,845 --> 00:00:14,165
+Late night <u>tweets</u> decide the fate.
+
+17
+00:00:14,165 --> 00:00:14,225
+Late night tweets decide the fate.
+
+18
+00:00:14,225 --> 00:00:14,726
+Late night tweets <u>decide</u> the fate.
+
+19
+00:00:14,726 --> 00:00:14,766
+Late night tweets decide the fate.
+
+20
+00:00:14,766 --> 00:00:14,926
+Late night tweets decide <u>the</u> fate.
+
+21
+00:00:14,926 --> 00:00:15,026
+Late night tweets decide the fate.
+
+22
+00:00:15,026 --> 00:00:15,467
+Late night tweets decide the <u>fate.</u>
+
+23
+00:00:17,509 --> 00:00:18,090
+<u>Billion</u> dollar bill for another wall.
+
+24
+00:00:18,090 --> 00:00:18,150
+Billion dollar bill for another wall.
+
+25
+00:00:18,150 --> 00:00:18,511
+Billion <u>dollar</u> bill for another wall.
+
+26
+00:00:18,511 --> 00:00:18,591
+Billion dollar bill for another wall.
+
+27
+00:00:18,591 --> 00:00:18,951
+Billion dollar <u>bill</u> for another wall.
+
+28
+00:00:18,951 --> 00:00:19,031
+Billion dollar bill for another wall.
+
+29
+00:00:19,031 --> 00:00:19,232
+Billion dollar bill <u>for</u> another wall.
+
+30
+00:00:19,232 --> 00:00:19,312
+Billion dollar bill for another wall.
+
+31
+00:00:19,312 --> 00:00:19,892
+Billion dollar bill for <u>another</u> wall.
+
+32
+00:00:19,892 --> 00:00:19,972
+Billion dollar bill for another wall.
+
+33
+00:00:19,972 --> 00:00:20,573
+Billion dollar bill for another <u>wall.</u>
+
+34
+00:00:22,416 --> 00:00:22,756
+<u>Rules</u> don't matter if you want it, scumbag.
+
+35
+00:00:22,756 --> 00:00:22,796
+Rules don't matter if you want it, scumbag.
+
+36
+00:00:22,796 --> 00:00:23,016
+Rules <u>don't</u> matter if you want it, scumbag.
+
+37
+00:00:23,016 --> 00:00:23,076
+Rules don't matter if you want it, scumbag.
+
+38
+00:00:23,076 --> 00:00:23,397
+Rules don't <u>matter</u> if you want it, scumbag.
+
+39
+00:00:23,397 --> 00:00:23,457
+Rules don't matter if you want it, scumbag.
+
+40
+00:00:23,457 --> 00:00:23,517
+Rules don't matter <u>if</u> you want it, scumbag.
+
+41
+00:00:23,517 --> 00:00:23,557
+Rules don't matter if you want it, scumbag.
+
+42
+00:00:23,557 --> 00:00:23,697
+Rules don't matter if <u>you</u> want it, scumbag.
+
+43
+00:00:23,697 --> 00:00:23,737
+Rules don't matter if you want it, scumbag.
+
+44
+00:00:23,737 --> 00:00:24,158
+Rules don't matter if you <u>want</u> it, scumbag.
+
+45
+00:00:24,158 --> 00:00:24,358
+Rules don't matter if you want it, scumbag.
+
+46
+00:00:24,358 --> 00:00:24,538
+Rules don't matter if you want <u>it,</u> scumbag.
+
+47
+00:00:24,538 --> 00:00:24,558
+Rules don't matter if you want it, scumbag.
+
+48
+00:00:24,558 --> 00:00:25,499
+Rules don't matter if you want it, <u>scumbag.</u>
+
+49
+00:00:27,322 --> 00:00:27,622
+<u>Sign</u> it fast, don't read the checks.
+
+50
+00:00:27,622 --> 00:00:27,702
+Sign it fast, don't read the checks.
+
+51
+00:00:27,702 --> 00:00:27,802
+Sign <u>it</u> fast, don't read the checks.
+
+52
+00:00:27,802 --> 00:00:27,842
+Sign it fast, don't read the checks.
+
+53
+00:00:27,842 --> 00:00:28,183
+Sign it <u>fast,</u> don't read the checks.
+
+54
+00:00:28,183 --> 00:00:28,243
+Sign it fast, don't read the checks.
+
+55
+00:00:28,243 --> 00:00:28,343
+Sign it fast, <u>don't</u> read the checks.
+
+56
+00:00:28,343 --> 00:00:28,363
+Sign it fast, don't read the checks.
+
+57
+00:00:28,363 --> 00:00:28,443
+Sign it fast, don't <u>read</u> the checks.
+
+58
+00:00:28,443 --> 00:00:28,463
+Sign it fast, don't read the checks.
+
+59
+00:00:28,463 --> 00:00:28,603
+Sign it fast, don't read <u>the</u> checks.
+
+60
+00:00:28,603 --> 00:00:28,623
+Sign it fast, don't read the checks.
+
+61
+00:00:28,623 --> 00:00:29,344
+Sign it fast, don't read the <u>checks.</u>
+
+62
+00:00:29,364 --> 00:00:29,544
+<u>Who</u> needs a conference when you're on debt?
+
+63
+00:00:29,544 --> 00:00:29,564
+Who needs a conference when you're on debt?
+
+64
+00:00:29,564 --> 00:00:29,724
+Who <u>needs</u> a conference when you're on debt?
+
+65
+00:00:29,724 --> 00:00:29,785
+Who needs a conference when you're on debt?
+
+66
+00:00:29,785 --> 00:00:29,825
+Who needs <u>a</u> conference when you're on debt?
+
+67
+00:00:29,825 --> 00:00:29,885
+Who needs a conference when you're on debt?
+
+68
+00:00:29,885 --> 00:00:30,646
+Who needs a <u>conference</u> when you're on debt?
+
+69
+00:00:30,646 --> 00:00:30,666
+Who needs a conference when you're on debt?
+
+70
+00:00:30,666 --> 00:00:30,806
+Who needs a conference <u>when</u> you're on debt?
+
+71
+00:00:30,806 --> 00:00:30,846
+Who needs a conference when you're on debt?
+
+72
+00:00:30,846 --> 00:00:30,986
+Who needs a conference when <u>you're</u> on debt?
+
+73
+00:00:30,986 --> 00:00:31,026
+Who needs a conference when you're on debt?
+
+74
+00:00:31,026 --> 00:00:31,106
+Who needs a conference when you're <u>on</u> debt?
+
+75
+00:00:31,106 --> 00:00:31,126
+Who needs a conference when you're on debt?
+
+76
+00:00:31,126 --> 00:00:31,807
+Who needs a conference when you're on <u>debt?</u>
+
+77
+00:00:31,827 --> 00:00:31,987
+<u>King</u> with a pen, way better than feel so good to play pretend.
+
+78
+00:00:31,987 --> 00:00:32,007
+King with a pen, way better than feel so good to play pretend.
+
+79
+00:00:32,007 --> 00:00:32,147
+King <u>with</u> a pen, way better than feel so good to play pretend.
+
+80
+00:00:32,147 --> 00:00:32,208
+King with a pen, way better than feel so good to play pretend.
+
+81
+00:00:32,208 --> 00:00:32,268
+King with <u>a</u> pen, way better than feel so good to play pretend.
+
+82
+00:00:32,268 --> 00:00:32,308
+King with a pen, way better than feel so good to play pretend.
+
+83
+00:00:32,308 --> 00:00:32,708
+King with a <u>pen,</u> way better than feel so good to play pretend.
+
+84
+00:00:32,708 --> 00:00:33,089
+King with a pen, way better than feel so good to play pretend.
+
+85
+00:00:33,089 --> 00:00:33,229
+King with a pen, <u>way</u> better than feel so good to play pretend.
+
+86
+00:00:33,229 --> 00:00:33,289
+King with a pen, way better than feel so good to play pretend.
+
+87
+00:00:33,289 --> 00:00:33,509
+King with a pen, way <u>better</u> than feel so good to play pretend.
+
+88
+00:00:33,509 --> 00:00:33,529
+King with a pen, way better than feel so good to play pretend.
+
+89
+00:00:33,529 --> 00:00:33,790
+King with a pen, way better <u>than</u> feel so good to play pretend.
+
+90
+00:00:33,790 --> 00:00:33,830
+King with a pen, way better than feel so good to play pretend.
+
+91
+00:00:33,830 --> 00:00:34,010
+King with a pen, way better than <u>feel</u> so good to play pretend.
+
+92
+00:00:34,010 --> 00:00:34,030
+King with a pen, way better than feel so good to play pretend.
+
+93
+00:00:34,030 --> 00:00:34,170
+King with a pen, way better than feel <u>so</u> good to play pretend.
+
+94
+00:00:34,170 --> 00:00:34,210
+King with a pen, way better than feel so good to play pretend.
+
+95
+00:00:34,210 --> 00:00:34,430
+King with a pen, way better than feel so <u>good</u> to play pretend.
+
+96
+00:00:34,430 --> 00:00:34,450
+King with a pen, way better than feel so good to play pretend.
+
+97
+00:00:34,450 --> 00:00:34,671
+King with a pen, way better than feel so good <u>to</u> play pretend.
+
+98
+00:00:34,671 --> 00:00:34,731
+King with a pen, way better than feel so good to play pretend.
+
+99
+00:00:34,731 --> 00:00:35,051
+King with a pen, way better than feel so good to <u>play</u> pretend.
+
+100
+00:00:35,051 --> 00:00:35,091
+King with a pen, way better than feel so good to play pretend.
+
+101
+00:00:35,091 --> 00:00:36,653
+King with a pen, way better than feel so good to play <u>pretend.</u>
+
+102
+00:00:37,747 --> 00:00:39,429
+<u>Pay</u> each second a day.
+
+103
+00:00:39,429 --> 00:00:39,529
+Pay each second a day.
+
+104
+00:00:39,529 --> 00:00:39,710
+Pay <u>each</u> second a day.
+
+105
+00:00:39,710 --> 00:00:39,730
+Pay each second a day.
+
+106
+00:00:39,730 --> 00:00:40,050
+Pay each <u>second</u> a day.
+
+107
+00:00:40,050 --> 00:00:40,070
+Pay each second a day.
+
+108
+00:00:40,070 --> 00:00:40,090
+Pay each second <u>a</u> day.
+
+109
+00:00:40,090 --> 00:00:40,130
+Pay each second a day.
+
+110
+00:00:40,130 --> 00:00:41,172
+Pay each second a <u>day.</u>
+
+111
+00:00:42,353 --> 00:00:43,074
+<u>Oh,</u> oh, oh, unlimited play.
+
+112
+00:00:43,074 --> 00:00:43,094
+Oh, oh, oh, unlimited play.
+
+113
+00:00:43,094 --> 00:00:44,115
+Oh, <u>oh,</u> oh, unlimited play.
+
+114
+00:00:44,115 --> 00:00:44,135
+Oh, oh, oh, unlimited play.
+
+115
+00:00:44,135 --> 00:00:44,456
+Oh, oh, <u>oh,</u> unlimited play.
+
+116
+00:00:44,456 --> 00:00:44,476
+Oh, oh, oh, unlimited play.
+
+117
+00:00:44,476 --> 00:00:45,097
+Oh, oh, oh, <u>unlimited</u> play.
+
+118
+00:00:45,097 --> 00:00:45,157
+Oh, oh, oh, unlimited play.
+
+119
+00:00:45,157 --> 00:00:46,078
+Oh, oh, oh, unlimited <u>play.</u>
+
+120
+00:00:52,547 --> 00:00:52,887
+<u>Woke</u> up late, grabbed a big mat.
+
+121
+00:00:52,887 --> 00:00:53,047
+Woke up late, grabbed a big mat.
+
+122
+00:00:53,047 --> 00:00:53,147
+Woke <u>up</u> late, grabbed a big mat.
+
+123
+00:00:53,147 --> 00:00:53,227
+Woke up late, grabbed a big mat.
+
+124
+00:00:53,227 --> 00:00:53,588
+Woke up <u>late,</u> grabbed a big mat.
+
+125
+00:00:53,588 --> 00:00:53,628
+Woke up late, grabbed a big mat.
+
+126
+00:00:53,628 --> 00:00:53,968
+Woke up late, <u>grabbed</u> a big mat.
+
+127
+00:00:53,968 --> 00:00:54,049
+Woke up late, grabbed a big mat.
+
+128
+00:00:54,049 --> 00:00:54,089
+Woke up late, grabbed <u>a</u> big mat.
+
+129
+00:00:54,089 --> 00:00:54,149
+Woke up late, grabbed a big mat.
+
+130
+00:00:54,149 --> 00:00:54,409
+Woke up late, grabbed a <u>big</u> mat.
+
+131
+00:00:54,409 --> 00:00:54,469
+Woke up late, grabbed a big mat.
+
+132
+00:00:54,469 --> 00:00:54,930
+Woke up late, grabbed a big <u>mat.</u>
+
+133
+00:00:57,093 --> 00:00:57,453
+<u>Spilled</u> ketchup all over a diplomatic fact.
+
+134
+00:00:57,453 --> 00:00:57,493
+Spilled ketchup all over a diplomatic fact.
+
+135
+00:00:57,493 --> 00:00:57,834
+Spilled <u>ketchup</u> all over a diplomatic fact.
+
+136
+00:00:57,834 --> 00:00:57,994
+Spilled ketchup all over a diplomatic fact.
+
+137
+00:00:57,994 --> 00:00:58,174
+Spilled ketchup <u>all</u> over a diplomatic fact.
+
+138
+00:00:58,174 --> 00:00:58,334
+Spilled ketchup all over a diplomatic fact.
+
+139
+00:00:58,334 --> 00:00:58,595
+Spilled ketchup all <u>over</u> a diplomatic fact.
+
+140
+00:00:58,595 --> 00:00:58,635
+Spilled ketchup all over a diplomatic fact.
+
+141
+00:00:58,635 --> 00:00:58,675
+Spilled ketchup all over <u>a</u> diplomatic fact.
+
+142
+00:00:58,675 --> 00:00:58,695
+Spilled ketchup all over a diplomatic fact.
+
+143
+00:00:58,695 --> 00:00:59,336
+Spilled ketchup all over a <u>diplomatic</u> fact.
+
+144
+00:00:59,336 --> 00:00:59,396
+Spilled ketchup all over a diplomatic fact.
+
+145
+00:00:59,396 --> 00:00:59,856
+Spilled ketchup all over a diplomatic <u>fact.</u>
+
+146
+00:01:01,178 --> 00:01:01,558
+<u>Throws</u> the tantrum signs away.
+
+147
+00:01:01,558 --> 00:01:01,599
+Throws the tantrum signs away.
+
+148
+00:01:01,599 --> 00:01:01,779
+Throws <u>the</u> tantrum signs away.
+
+149
+00:01:01,779 --> 00:01:01,859
+Throws the tantrum signs away.
+
+150
+00:01:01,859 --> 00:01:03,000
+Throws the <u>tantrum</u> signs away.
+
+151
+00:01:03,000 --> 00:01:03,521
+Throws the tantrum signs away.
+
+152
+00:01:03,521 --> 00:01:03,962
+Throws the tantrum <u>signs</u> away.
+
+153
+00:01:03,962 --> 00:01:04,142
+Throws the tantrum signs away.
+
+154
+00:01:04,142 --> 00:01:05,003
+Throws the tantrum signs <u>away.</u>
+
+155
+00:01:06,923 --> 00:01:07,304
+<u>Morphine</u> someone tries to make him obey.
+
+156
+00:01:07,304 --> 00:01:07,344
+Morphine someone tries to make him obey.
+
+157
+00:01:07,344 --> 00:01:07,865
+Morphine <u>someone</u> tries to make him obey.
+
+158
+00:01:07,865 --> 00:01:07,905
+Morphine someone tries to make him obey.
+
+159
+00:01:07,905 --> 00:01:08,285
+Morphine someone <u>tries</u> to make him obey.
+
+160
+00:01:08,285 --> 00:01:08,325
+Morphine someone tries to make him obey.
+
+161
+00:01:08,325 --> 00:01:08,426
+Morphine someone tries <u>to</u> make him obey.
+
+162
+00:01:08,426 --> 00:01:08,466
+Morphine someone tries to make him obey.
+
+163
+00:01:08,466 --> 00:01:08,726
+Morphine someone tries to <u>make</u> him obey.
+
+164
+00:01:08,726 --> 00:01:08,766
+Morphine someone tries to make him obey.
+
+165
+00:01:08,766 --> 00:01:08,906
+Morphine someone tries to make <u>him</u> obey.
+
+166
+00:01:08,906 --> 00:01:09,067
+Morphine someone tries to make him obey.
+
+167
+00:01:09,067 --> 00:01:09,768
+Morphine someone tries to make him <u>obey.</u>
+
+168
+00:01:11,010 --> 00:01:11,371
+<u>Checks</u> and balances sound like a bore.
+
+169
+00:01:11,371 --> 00:01:11,531
+Checks and balances sound like a bore.
+
+170
+00:01:11,531 --> 00:01:11,631
+Checks <u>and</u> balances sound like a bore.
+
+171
+00:01:11,631 --> 00:01:11,691
+Checks and balances sound like a bore.
+
+172
+00:01:11,691 --> 00:01:12,833
+Checks and <u>balances</u> sound like a bore.
+
+173
+00:01:12,833 --> 00:01:12,914
+Checks and balances sound like a bore.
+
+174
+00:01:12,914 --> 00:01:13,334
+Checks and balances <u>sound</u> like a bore.
+
+175
+00:01:13,334 --> 00:01:13,394
+Checks and balances sound like a bore.
+
+176
+00:01:13,394 --> 00:01:13,755
+Checks and balances sound <u>like</u> a bore.
+
+177
+00:01:13,755 --> 00:01:13,975
+Checks and balances sound like a bore.
+
+178
+00:01:13,975 --> 00:01:14,096
+Checks and balances sound like <u>a</u> bore.
+
+179
+00:01:14,096 --> 00:01:14,116
+Checks and balances sound like a bore.
+
+180
+00:01:14,116 --> 00:01:14,837
+Checks and balances sound like a <u>bore.</u>
+
+181
+00:01:15,959 --> 00:01:16,279
+<u>Toss</u> the Constitution onto the floor.
+
+182
+00:01:16,279 --> 00:01:16,320
+Toss the Constitution onto the floor.
+
+183
+00:01:16,320 --> 00:01:16,540
+Toss <u>the</u> Constitution onto the floor.
+
+184
+00:01:16,540 --> 00:01:16,600
+Toss the Constitution onto the floor.
+
+185
+00:01:16,600 --> 00:01:17,842
+Toss the <u>Constitution</u> onto the floor.
+
+186
+00:01:17,842 --> 00:01:18,083
+Toss the Constitution onto the floor.
+
+187
+00:01:18,083 --> 00:01:18,644
+Toss the Constitution <u>onto</u> the floor.
+
+188
+00:01:18,644 --> 00:01:18,764
+Toss the Constitution onto the floor.
+
+189
+00:01:18,764 --> 00:01:18,924
+Toss the Constitution onto <u>the</u> floor.
+
+190
+00:01:18,924 --> 00:01:19,024
+Toss the Constitution onto the floor.
+
+191
+00:01:19,024 --> 00:01:19,746
+Toss the Constitution onto the <u>floor.</u>
+
+192
+00:01:21,509 --> 00:01:21,789
+<u>Sign</u> it fast, don't read the text.
+
+193
+00:01:21,789 --> 00:01:21,869
+Sign it fast, don't read the text.
+
+194
+00:01:21,869 --> 00:01:21,929
+Sign <u>it</u> fast, don't read the text.
+
+195
+00:01:21,929 --> 00:01:21,990
+Sign it fast, don't read the text.
+
+196
+00:01:21,990 --> 00:01:22,310
+Sign it <u>fast,</u> don't read the text.
+
+197
+00:01:22,310 --> 00:01:22,330
+Sign it fast, don't read the text.
+
+198
+00:01:22,330 --> 00:01:22,470
+Sign it fast, <u>don't</u> read the text.
+
+199
+00:01:22,470 --> 00:01:22,490
+Sign it fast, don't read the text.
+
+200
+00:01:22,490 --> 00:01:22,631
+Sign it fast, don't <u>read</u> the text.
+
+201
+00:01:22,631 --> 00:01:22,651
+Sign it fast, don't read the text.
+
+202
+00:01:22,651 --> 00:01:22,731
+Sign it fast, don't read <u>the</u> text.
+
+203
+00:01:22,731 --> 00:01:22,811
+Sign it fast, don't read the text.
+
+204
+00:01:22,811 --> 00:01:23,152
+Sign it fast, don't read the <u>text.</u>
+
+205
+00:01:23,512 --> 00:01:23,693
+<u>We'll</u> meet at Congress when you're a dick.
+
+206
+00:01:23,693 --> 00:01:23,713
+We'll meet at Congress when you're a dick.
+
+207
+00:01:23,713 --> 00:01:23,873
+We'll <u>meet</u> at Congress when you're a dick.
+
+208
+00:01:23,873 --> 00:01:23,933
+We'll meet at Congress when you're a dick.
+
+209
+00:01:23,933 --> 00:01:23,993
+We'll meet <u>at</u> Congress when you're a dick.
+
+210
+00:01:23,993 --> 00:01:24,033
+We'll meet at Congress when you're a dick.
+
+211
+00:01:24,033 --> 00:01:24,774
+We'll meet at <u>Congress</u> when you're a dick.
+
+212
+00:01:24,774 --> 00:01:24,814
+We'll meet at Congress when you're a dick.
+
+213
+00:01:24,814 --> 00:01:24,915
+We'll meet at Congress <u>when</u> you're a dick.
+
+214
+00:01:24,915 --> 00:01:24,955
+We'll meet at Congress when you're a dick.
+
+215
+00:01:24,955 --> 00:01:25,095
+We'll meet at Congress when <u>you're</u> a dick.
+
+216
+00:01:25,095 --> 00:01:25,155
+We'll meet at Congress when you're a dick.
+
+217
+00:01:25,155 --> 00:01:25,175
+We'll meet at Congress when you're <u>a</u> dick.
+
+218
+00:01:25,175 --> 00:01:25,255
+We'll meet at Congress when you're a dick.
+
+219
+00:01:25,255 --> 00:01:25,957
+We'll meet at Congress when you're a <u>dick.</u>
+
+220
+00:01:25,977 --> 00:01:26,197
+<u>King</u> with a pen, wave it again.
+
+221
+00:01:26,197 --> 00:01:26,217
+King with a pen, wave it again.
+
+222
+00:01:26,217 --> 00:01:26,337
+King <u>with</u> a pen, wave it again.
+
+223
+00:01:26,337 --> 00:01:26,417
+King with a pen, wave it again.
+
+224
+00:01:26,417 --> 00:01:26,457
+King with <u>a</u> pen, wave it again.
+
+225
+00:01:26,457 --> 00:01:26,497
+King with a pen, wave it again.
+
+226
+00:01:26,497 --> 00:01:26,898
+King with a <u>pen,</u> wave it again.
+
+227
+00:01:26,898 --> 00:01:27,239
+King with a pen, wave it again.
+
+228
+00:01:27,239 --> 00:01:27,419
+King with a pen, <u>wave</u> it again.
+
+229
+00:01:27,419 --> 00:01:27,479
+King with a pen, wave it again.
+
+230
+00:01:27,479 --> 00:01:27,539
+King with a pen, wave <u>it</u> again.
+
+231
+00:01:27,539 --> 00:01:27,619
+King with a pen, wave it again.
+
+232
+00:01:27,619 --> 00:01:27,960
+King with a pen, wave it <u>again.</u>
+
+233
+00:01:27,980 --> 00:01:28,180
+<u>Feels</u> so good to play pretend.
+
+234
+00:01:28,180 --> 00:01:28,200
+Feels so good to play pretend.
+
+235
+00:01:28,200 --> 00:01:28,321
+Feels <u>so</u> good to play pretend.
+
+236
+00:01:28,321 --> 00:01:28,361
+Feels so good to play pretend.
+
+237
+00:01:28,361 --> 00:01:28,581
+Feels so <u>good</u> to play pretend.
+
+238
+00:01:28,581 --> 00:01:28,621
+Feels so good to play pretend.
+
+239
+00:01:28,621 --> 00:01:28,842
+Feels so good <u>to</u> play pretend.
+
+240
+00:01:28,842 --> 00:01:28,902
+Feels so good to play pretend.
+
+241
+00:01:28,902 --> 00:01:29,202
+Feels so good to <u>play</u> pretend.
+
+242
+00:01:29,202 --> 00:01:29,242
+Feels so good to play pretend.
+
+243
+00:01:29,242 --> 00:01:30,805
+Feels so good to play <u>pretend.</u>
+
+244
+00:01:31,882 --> 00:01:40,407
+<u>Bae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae</u>
+

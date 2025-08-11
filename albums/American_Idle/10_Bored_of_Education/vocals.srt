@@ -1,0 +1,1128 @@
+1
+00:00:01,465 --> 00:00:01,789
+<u>How</u> muted now, of course.
+
+2
+00:00:01,789 --> 00:00:01,830
+How muted now, of course.
+
+3
+00:00:01,830 --> 00:00:02,255
+How <u>muted</u> now, of course.
+
+4
+00:00:02,255 --> 00:00:02,275
+How muted now, of course.
+
+5
+00:00:02,275 --> 00:00:02,417
+How muted <u>now,</u> of course.
+
+6
+00:00:02,417 --> 00:00:02,437
+How muted now, of course.
+
+7
+00:00:02,437 --> 00:00:02,478
+How muted now, <u>of</u> course.
+
+8
+00:00:02,478 --> 00:00:02,498
+How muted now, of course.
+
+9
+00:00:02,498 --> 00:00:05,029
+How muted now, of <u>course.</u>
+
+10
+00:00:12,856 --> 00:00:13,677
+<u>Marching</u> to the lowest bar.
+
+11
+00:00:13,677 --> 00:00:13,757
+Marching to the lowest bar.
+
+12
+00:00:13,757 --> 00:00:14,117
+Marching <u>to</u> the lowest bar.
+
+13
+00:00:14,117 --> 00:00:14,238
+Marching to the lowest bar.
+
+14
+00:00:14,238 --> 00:00:14,458
+Marching to <u>the</u> lowest bar.
+
+15
+00:00:14,458 --> 00:00:14,598
+Marching to the lowest bar.
+
+16
+00:00:14,598 --> 00:00:15,138
+Marching to the <u>lowest</u> bar.
+
+17
+00:00:15,138 --> 00:00:15,199
+Marching to the lowest bar.
+
+18
+00:00:15,199 --> 00:00:15,739
+Marching to the lowest <u>bar.</u>
+
+19
+00:00:16,180 --> 00:00:16,900
+<u>Thinking</u> less gets you far.
+
+20
+00:00:16,900 --> 00:00:16,980
+Thinking less gets you far.
+
+21
+00:00:16,980 --> 00:00:17,361
+Thinking <u>less</u> gets you far.
+
+22
+00:00:17,361 --> 00:00:17,801
+Thinking less gets you far.
+
+23
+00:00:17,801 --> 00:00:18,142
+Thinking less <u>gets</u> you far.
+
+24
+00:00:18,142 --> 00:00:18,182
+Thinking less gets you far.
+
+25
+00:00:18,182 --> 00:00:18,362
+Thinking less gets <u>you</u> far.
+
+26
+00:00:18,362 --> 00:00:18,442
+Thinking less gets you far.
+
+27
+00:00:18,442 --> 00:00:18,923
+Thinking less gets you <u>far.</u>
+
+28
+00:00:19,403 --> 00:00:20,104
+<u>Logic's</u> left behind the trend.
+
+29
+00:00:20,104 --> 00:00:20,204
+Logic's left behind the trend.
+
+30
+00:00:20,204 --> 00:00:20,524
+Logic's <u>left</u> behind the trend.
+
+31
+00:00:20,524 --> 00:00:20,604
+Logic's left behind the trend.
+
+32
+00:00:20,604 --> 00:00:21,385
+Logic's left <u>behind</u> the trend.
+
+33
+00:00:21,385 --> 00:00:21,425
+Logic's left behind the trend.
+
+34
+00:00:21,425 --> 00:00:21,525
+Logic's left behind <u>the</u> trend.
+
+35
+00:00:21,525 --> 00:00:21,565
+Logic's left behind the trend.
+
+36
+00:00:21,565 --> 00:00:22,346
+Logic's left behind the <u>trend.</u>
+
+37
+00:00:22,366 --> 00:00:22,927
+<u>Idiots</u> get to set the end.
+
+38
+00:00:22,927 --> 00:00:22,987
+Idiots get to set the end.
+
+39
+00:00:22,987 --> 00:00:23,167
+Idiots <u>get</u> to set the end.
+
+40
+00:00:23,167 --> 00:00:23,207
+Idiots get to set the end.
+
+41
+00:00:23,207 --> 00:00:23,327
+Idiots get <u>to</u> set the end.
+
+42
+00:00:23,327 --> 00:00:23,387
+Idiots get to set the end.
+
+43
+00:00:23,387 --> 00:00:23,728
+Idiots get to <u>set</u> the end.
+
+44
+00:00:23,728 --> 00:00:23,788
+Idiots get to set the end.
+
+45
+00:00:23,788 --> 00:00:24,288
+Idiots get to set <u>the</u> end.
+
+46
+00:00:24,288 --> 00:00:24,308
+Idiots get to set the end.
+
+47
+00:00:24,308 --> 00:00:24,529
+Idiots get to set the <u>end.</u>
+
+48
+00:00:25,850 --> 00:00:26,351
+<u>Reason</u> drowned by empty noise.
+
+49
+00:00:26,351 --> 00:00:26,371
+Reason drowned by empty noise.
+
+50
+00:00:26,371 --> 00:00:26,951
+Reason <u>drowned</u> by empty noise.
+
+51
+00:00:26,951 --> 00:00:27,011
+Reason drowned by empty noise.
+
+52
+00:00:27,011 --> 00:00:27,372
+Reason drowned <u>by</u> empty noise.
+
+53
+00:00:27,372 --> 00:00:27,512
+Reason drowned by empty noise.
+
+54
+00:00:27,512 --> 00:00:27,912
+Reason drowned by <u>empty</u> noise.
+
+55
+00:00:27,912 --> 00:00:28,033
+Reason drowned by empty noise.
+
+56
+00:00:28,033 --> 00:00:28,633
+Reason drowned by empty <u>noise.</u>
+
+57
+00:00:28,994 --> 00:00:29,594
+<u>Common</u> sense replaced by poise.
+
+58
+00:00:29,594 --> 00:00:29,634
+Common sense replaced by poise.
+
+59
+00:00:29,634 --> 00:00:30,115
+Common <u>sense</u> replaced by poise.
+
+60
+00:00:30,115 --> 00:00:30,215
+Common sense replaced by poise.
+
+61
+00:00:30,215 --> 00:00:30,956
+Common sense <u>replaced</u> by poise.
+
+62
+00:00:30,956 --> 00:00:31,016
+Common sense replaced by poise.
+
+63
+00:00:31,016 --> 00:00:31,236
+Common sense replaced <u>by</u> poise.
+
+64
+00:00:31,236 --> 00:00:31,256
+Common sense replaced by poise.
+
+65
+00:00:31,256 --> 00:00:32,177
+Common sense replaced by <u>poise.</u>
+
+66
+00:00:32,197 --> 00:00:32,738
+<u>Blindly</u> led by liars bold.
+
+67
+00:00:32,738 --> 00:00:32,838
+Blindly led by liars bold.
+
+68
+00:00:32,838 --> 00:00:33,318
+Blindly <u>led</u> by liars bold.
+
+69
+00:00:33,318 --> 00:00:33,418
+Blindly led by liars bold.
+
+70
+00:00:33,418 --> 00:00:33,779
+Blindly led <u>by</u> liars bold.
+
+71
+00:00:33,779 --> 00:00:33,839
+Blindly led by liars bold.
+
+72
+00:00:33,839 --> 00:00:34,379
+Blindly led by <u>liars</u> bold.
+
+73
+00:00:34,379 --> 00:00:34,440
+Blindly led by liars bold.
+
+74
+00:00:34,440 --> 00:00:35,120
+Blindly led by liars <u>bold.</u>
+
+75
+00:00:35,421 --> 00:00:35,701
+<u>Truth</u> gets bought and cheaply sold if knowledge is a crime.
+
+76
+00:00:35,701 --> 00:00:35,741
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+77
+00:00:35,741 --> 00:00:36,041
+Truth <u>gets</u> bought and cheaply sold if knowledge is a crime.
+
+78
+00:00:36,041 --> 00:00:36,121
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+79
+00:00:36,121 --> 00:00:36,722
+Truth gets <u>bought</u> and cheaply sold if knowledge is a crime.
+
+80
+00:00:36,722 --> 00:00:36,902
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+81
+00:00:36,902 --> 00:00:37,022
+Truth gets bought <u>and</u> cheaply sold if knowledge is a crime.
+
+82
+00:00:37,022 --> 00:00:37,082
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+83
+00:00:37,082 --> 00:00:37,703
+Truth gets bought and <u>cheaply</u> sold if knowledge is a crime.
+
+84
+00:00:37,703 --> 00:00:37,723
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+85
+00:00:37,723 --> 00:00:38,304
+Truth gets bought and cheaply <u>sold</u> if knowledge is a crime.
+
+86
+00:00:38,304 --> 00:00:38,504
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+87
+00:00:38,504 --> 00:00:38,604
+Truth gets bought and cheaply sold <u>if</u> knowledge is a crime.
+
+88
+00:00:38,604 --> 00:00:38,684
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+89
+00:00:38,684 --> 00:00:39,285
+Truth gets bought and cheaply sold if <u>knowledge</u> is a crime.
+
+90
+00:00:39,285 --> 00:00:39,725
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+91
+00:00:39,725 --> 00:00:39,885
+Truth gets bought and cheaply sold if knowledge <u>is</u> a crime.
+
+92
+00:00:39,885 --> 00:00:39,946
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+93
+00:00:39,946 --> 00:00:39,986
+Truth gets bought and cheaply sold if knowledge is <u>a</u> crime.
+
+94
+00:00:39,986 --> 00:00:40,046
+Truth gets bought and cheaply sold if knowledge is a crime.
+
+95
+00:00:40,046 --> 00:00:41,327
+Truth gets bought and cheaply sold if knowledge is a <u>crime.</u>
+
+96
+00:00:41,307 --> 00:00:41,768
+<u>Then</u> what's the price we paid?
+
+97
+00:00:41,768 --> 00:00:41,868
+Then what's the price we paid?
+
+98
+00:00:41,868 --> 00:00:42,188
+Then <u>what's</u> the price we paid?
+
+99
+00:00:42,188 --> 00:00:42,269
+Then what's the price we paid?
+
+100
+00:00:42,269 --> 00:00:42,529
+Then what's <u>the</u> price we paid?
+
+101
+00:00:42,529 --> 00:00:42,629
+Then what's the price we paid?
+
+102
+00:00:42,629 --> 00:00:43,010
+Then what's the <u>price</u> we paid?
+
+103
+00:00:43,010 --> 00:00:43,090
+Then what's the price we paid?
+
+104
+00:00:43,090 --> 00:00:43,250
+Then what's the price <u>we</u> paid?
+
+105
+00:00:43,250 --> 00:00:43,310
+Then what's the price we paid?
+
+106
+00:00:43,310 --> 00:00:44,011
+Then what's the price we <u>paid?</u>
+
+107
+00:00:45,093 --> 00:00:45,654
+<u>Dumbing</u> down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+108
+00:00:45,654 --> 00:00:45,714
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+109
+00:00:45,714 --> 00:00:46,275
+Dumbing <u>down</u> is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+110
+00:00:46,275 --> 00:00:46,595
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+111
+00:00:46,595 --> 00:00:46,695
+Dumbing down <u>is</u> trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+112
+00:00:46,695 --> 00:00:46,735
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+113
+00:00:46,735 --> 00:00:47,276
+Dumbing down is <u>trending</u> now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+114
+00:00:47,276 --> 00:00:47,336
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+115
+00:00:47,336 --> 00:00:47,937
+Dumbing down is trending <u>now</u> Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+116
+00:00:47,937 --> 00:00:48,478
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+117
+00:00:48,478 --> 00:00:49,520
+Dumbing down is trending now <u>Ignorance</u> is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+118
+00:00:49,520 --> 00:00:49,740
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+119
+00:00:49,740 --> 00:00:49,920
+Dumbing down is trending now Ignorance <u>is</u> bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+120
+00:00:49,920 --> 00:00:49,940
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+121
+00:00:49,940 --> 00:00:50,201
+Dumbing down is trending now Ignorance is <u>bliss</u> they say Critical thought grown away Standing proud to be cliched Hey!
+
+122
+00:00:50,201 --> 00:00:50,241
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+123
+00:00:50,241 --> 00:00:50,481
+Dumbing down is trending now Ignorance is bliss <u>they</u> say Critical thought grown away Standing proud to be cliched Hey!
+
+124
+00:00:50,481 --> 00:00:50,561
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+125
+00:00:50,561 --> 00:00:51,102
+Dumbing down is trending now Ignorance is bliss they <u>say</u> Critical thought grown away Standing proud to be cliched Hey!
+
+126
+00:00:51,102 --> 00:00:51,563
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+127
+00:00:51,563 --> 00:00:52,765
+Dumbing down is trending now Ignorance is bliss they say <u>Critical</u> thought grown away Standing proud to be cliched Hey!
+
+128
+00:00:52,765 --> 00:00:52,945
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+129
+00:00:52,945 --> 00:00:53,105
+Dumbing down is trending now Ignorance is bliss they say Critical <u>thought</u> grown away Standing proud to be cliched Hey!
+
+130
+00:00:53,105 --> 00:00:53,145
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+131
+00:00:53,145 --> 00:00:53,506
+Dumbing down is trending now Ignorance is bliss they say Critical thought <u>grown</u> away Standing proud to be cliched Hey!
+
+132
+00:00:53,506 --> 00:00:53,686
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+133
+00:00:53,686 --> 00:00:54,307
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown <u>away</u> Standing proud to be cliched Hey!
+
+134
+00:00:54,307 --> 00:00:54,788
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+135
+00:00:54,788 --> 00:00:55,369
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away <u>Standing</u> proud to be cliched Hey!
+
+136
+00:00:55,369 --> 00:00:55,469
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+137
+00:00:55,469 --> 00:00:56,070
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing <u>proud</u> to be cliched Hey!
+
+138
+00:00:56,070 --> 00:00:56,210
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+139
+00:00:56,210 --> 00:00:56,391
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud <u>to</u> be cliched Hey!
+
+140
+00:00:56,391 --> 00:00:56,431
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+141
+00:00:56,431 --> 00:00:56,611
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to <u>be</u> cliched Hey!
+
+142
+00:00:56,611 --> 00:00:56,631
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+143
+00:00:56,631 --> 00:00:57,572
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be <u>cliched</u> Hey!
+
+144
+00:00:57,572 --> 00:00:58,414
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched Hey!
+
+145
+00:00:58,414 --> 00:00:58,494
+Dumbing down is trending now Ignorance is bliss they say Critical thought grown away Standing proud to be cliched <u>Hey!</u>
+
+146
+00:01:00,437 --> 00:01:00,858
+<u>Stips</u> all the rage Hey!
+
+147
+00:01:00,858 --> 00:01:01,018
+Stips all the rage Hey!
+
+148
+00:01:01,018 --> 00:01:01,158
+Stips <u>all</u> the rage Hey!
+
+149
+00:01:01,158 --> 00:01:01,178
+Stips all the rage Hey!
+
+150
+00:01:01,178 --> 00:01:01,298
+Stips all <u>the</u> rage Hey!
+
+151
+00:01:01,298 --> 00:01:01,378
+Stips all the rage Hey!
+
+152
+00:01:01,378 --> 00:01:01,939
+Stips all the <u>rage</u> Hey!
+
+153
+00:01:01,939 --> 00:01:04,684
+Stips all the rage Hey!
+
+154
+00:01:04,684 --> 00:01:05,124
+Stips all the rage <u>Hey!</u>
+
+155
+00:01:07,167 --> 00:01:07,508
+<u>Turn</u> out the page
+
+156
+00:01:07,508 --> 00:01:07,728
+Turn out the page
+
+157
+00:01:07,728 --> 00:01:07,808
+Turn <u>out</u> the page
+
+158
+00:01:07,808 --> 00:01:07,828
+Turn out the page
+
+159
+00:01:07,828 --> 00:01:07,989
+Turn out <u>the</u> page
+
+160
+00:01:07,989 --> 00:01:08,049
+Turn out the page
+
+161
+00:01:08,049 --> 00:01:08,850
+Turn out the <u>page</u>
+
+162
+00:01:21,082 --> 00:01:21,803
+<u>TV</u> screens blast mindless shows.
+
+163
+00:01:21,803 --> 00:01:21,843
+TV screens blast mindless shows.
+
+164
+00:01:21,843 --> 00:01:22,304
+TV <u>screens</u> blast mindless shows.
+
+165
+00:01:22,304 --> 00:01:22,364
+TV screens blast mindless shows.
+
+166
+00:01:22,364 --> 00:01:22,704
+TV screens <u>blast</u> mindless shows.
+
+167
+00:01:22,704 --> 00:01:22,764
+TV screens blast mindless shows.
+
+168
+00:01:22,764 --> 00:01:23,325
+TV screens blast <u>mindless</u> shows.
+
+169
+00:01:23,325 --> 00:01:23,365
+TV screens blast mindless shows.
+
+170
+00:01:23,365 --> 00:01:23,966
+TV screens blast mindless <u>shows.</u>
+
+171
+00:01:24,347 --> 00:01:25,088
+<u>Social</u> media feeds the flame.
+
+172
+00:01:25,088 --> 00:01:25,168
+Social media feeds the flame.
+
+173
+00:01:25,168 --> 00:01:25,829
+Social <u>media</u> feeds the flame.
+
+174
+00:01:25,829 --> 00:01:25,929
+Social media feeds the flame.
+
+175
+00:01:25,929 --> 00:01:26,329
+Social media <u>feeds</u> the flame.
+
+176
+00:01:26,329 --> 00:01:26,389
+Social media feeds the flame.
+
+177
+00:01:26,389 --> 00:01:26,489
+Social media feeds <u>the</u> flame.
+
+178
+00:01:26,489 --> 00:01:26,550
+Social media feeds the flame.
+
+179
+00:01:26,550 --> 00:01:27,130
+Social media feeds the <u>flame.</u>
+
+180
+00:01:27,591 --> 00:01:27,972
+<u>Fools</u> get famous overnight while Libra collects the dust.
+
+181
+00:01:27,972 --> 00:01:28,032
+Fools get famous overnight while Libra collects the dust.
+
+182
+00:01:28,032 --> 00:01:28,272
+Fools <u>get</u> famous overnight while Libra collects the dust.
+
+183
+00:01:28,272 --> 00:01:28,372
+Fools get famous overnight while Libra collects the dust.
+
+184
+00:01:28,372 --> 00:01:29,193
+Fools get <u>famous</u> overnight while Libra collects the dust.
+
+185
+00:01:29,193 --> 00:01:29,494
+Fools get famous overnight while Libra collects the dust.
+
+186
+00:01:29,494 --> 00:01:30,275
+Fools get famous <u>overnight</u> while Libra collects the dust.
+
+187
+00:01:30,275 --> 00:01:30,375
+Fools get famous overnight while Libra collects the dust.
+
+188
+00:01:30,375 --> 00:01:30,715
+Fools get famous overnight <u>while</u> Libra collects the dust.
+
+189
+00:01:30,715 --> 00:01:30,795
+Fools get famous overnight while Libra collects the dust.
+
+190
+00:01:30,795 --> 00:01:31,376
+Fools get famous overnight while <u>Libra</u> collects the dust.
+
+191
+00:01:31,376 --> 00:01:31,416
+Fools get famous overnight while Libra collects the dust.
+
+192
+00:01:31,416 --> 00:01:31,957
+Fools get famous overnight while Libra <u>collects</u> the dust.
+
+193
+00:01:31,957 --> 00:01:32,017
+Fools get famous overnight while Libra collects the dust.
+
+194
+00:01:32,017 --> 00:01:32,117
+Fools get famous overnight while Libra collects <u>the</u> dust.
+
+195
+00:01:32,117 --> 00:01:32,217
+Fools get famous overnight while Libra collects the dust.
+
+196
+00:01:32,217 --> 00:01:32,678
+Fools get famous overnight while Libra collects the <u>dust.</u>
+
+197
+00:01:34,120 --> 00:01:34,240
+<u>In</u> formation at our fingertips, we choose to stay in the dark.
+
+198
+00:01:34,240 --> 00:01:34,260
+In formation at our fingertips, we choose to stay in the dark.
+
+199
+00:01:34,260 --> 00:01:35,342
+In <u>formation</u> at our fingertips, we choose to stay in the dark.
+
+200
+00:01:35,342 --> 00:01:35,442
+In formation at our fingertips, we choose to stay in the dark.
+
+201
+00:01:35,442 --> 00:01:35,522
+In formation <u>at</u> our fingertips, we choose to stay in the dark.
+
+202
+00:01:35,522 --> 00:01:35,602
+In formation at our fingertips, we choose to stay in the dark.
+
+203
+00:01:35,602 --> 00:01:35,662
+In formation at <u>our</u> fingertips, we choose to stay in the dark.
+
+204
+00:01:35,662 --> 00:01:35,682
+In formation at our fingertips, we choose to stay in the dark.
+
+205
+00:01:35,682 --> 00:01:36,944
+In formation at our <u>fingertips,</u> we choose to stay in the dark.
+
+206
+00:01:36,944 --> 00:01:37,385
+In formation at our fingertips, we choose to stay in the dark.
+
+207
+00:01:37,385 --> 00:01:37,685
+In formation at our fingertips, <u>we</u> choose to stay in the dark.
+
+208
+00:01:37,685 --> 00:01:37,765
+In formation at our fingertips, we choose to stay in the dark.
+
+209
+00:01:37,765 --> 00:01:38,146
+In formation at our fingertips, we <u>choose</u> to stay in the dark.
+
+210
+00:01:38,146 --> 00:01:38,186
+In formation at our fingertips, we choose to stay in the dark.
+
+211
+00:01:38,186 --> 00:01:38,466
+In formation at our fingertips, we choose <u>to</u> stay in the dark.
+
+212
+00:01:38,466 --> 00:01:38,526
+In formation at our fingertips, we choose to stay in the dark.
+
+213
+00:01:38,526 --> 00:01:39,007
+In formation at our fingertips, we choose to <u>stay</u> in the dark.
+
+214
+00:01:39,007 --> 00:01:39,127
+In formation at our fingertips, we choose to stay in the dark.
+
+215
+00:01:39,127 --> 00:01:39,227
+In formation at our fingertips, we choose to stay <u>in</u> the dark.
+
+216
+00:01:39,227 --> 00:01:39,267
+In formation at our fingertips, we choose to stay in the dark.
+
+217
+00:01:39,267 --> 00:01:39,447
+In formation at our fingertips, we choose to stay in <u>the</u> dark.
+
+218
+00:01:39,447 --> 00:01:39,548
+In formation at our fingertips, we choose to stay in the dark.
+
+219
+00:01:39,548 --> 00:01:40,609
+In formation at our fingertips, we choose to stay in the <u>dark.</u>
+
+220
+00:01:40,629 --> 00:01:41,891
+<u>Celebrating</u> mediocrity, it's daring us to fart.
+
+221
+00:01:41,891 --> 00:01:41,911
+Celebrating mediocrity, it's daring us to fart.
+
+222
+00:01:41,911 --> 00:01:43,413
+Celebrating <u>mediocrity,</u> it's daring us to fart.
+
+223
+00:01:43,413 --> 00:01:43,793
+Celebrating mediocrity, it's daring us to fart.
+
+224
+00:01:43,793 --> 00:01:43,914
+Celebrating mediocrity, <u>it's</u> daring us to fart.
+
+225
+00:01:43,914 --> 00:01:43,954
+Celebrating mediocrity, it's daring us to fart.
+
+226
+00:01:43,954 --> 00:01:44,554
+Celebrating mediocrity, it's <u>daring</u> us to fart.
+
+227
+00:01:44,554 --> 00:01:44,975
+Celebrating mediocrity, it's daring us to fart.
+
+228
+00:01:44,975 --> 00:01:45,135
+Celebrating mediocrity, it's daring <u>us</u> to fart.
+
+229
+00:01:45,135 --> 00:01:45,235
+Celebrating mediocrity, it's daring us to fart.
+
+230
+00:01:45,235 --> 00:01:45,316
+Celebrating mediocrity, it's daring us <u>to</u> fart.
+
+231
+00:01:45,316 --> 00:01:45,356
+Celebrating mediocrity, it's daring us to fart.
+
+232
+00:01:45,356 --> 00:01:46,397
+Celebrating mediocrity, it's daring us to <u>fart.</u>
+
+233
+00:01:47,086 --> 00:01:47,667
+<u>Dumping</u> down is trending now.
+
+234
+00:01:47,667 --> 00:01:47,747
+Dumping down is trending now.
+
+235
+00:01:47,747 --> 00:01:48,288
+Dumping <u>down</u> is trending now.
+
+236
+00:01:48,288 --> 00:01:48,648
+Dumping down is trending now.
+
+237
+00:01:48,648 --> 00:01:48,748
+Dumping down <u>is</u> trending now.
+
+238
+00:01:48,748 --> 00:01:48,788
+Dumping down is trending now.
+
+239
+00:01:48,788 --> 00:01:49,349
+Dumping down is <u>trending</u> now.
+
+240
+00:01:49,349 --> 00:01:49,429
+Dumping down is trending now.
+
+241
+00:01:49,429 --> 00:01:50,070
+Dumping down is trending <u>now.</u>
+
+242
+00:01:50,571 --> 00:01:51,593
+<u>Ignorance</u> is bliss, they say.
+
+243
+00:01:51,593 --> 00:01:51,813
+Ignorance is bliss, they say.
+
+244
+00:01:51,813 --> 00:01:52,013
+Ignorance <u>is</u> bliss, they say.
+
+245
+00:01:52,013 --> 00:01:52,033
+Ignorance is bliss, they say.
+
+246
+00:01:52,033 --> 00:01:52,334
+Ignorance is <u>bliss,</u> they say.
+
+247
+00:01:52,334 --> 00:01:52,354
+Ignorance is bliss, they say.
+
+248
+00:01:52,354 --> 00:01:52,594
+Ignorance is bliss, <u>they</u> say.
+
+249
+00:01:52,594 --> 00:01:52,674
+Ignorance is bliss, they say.
+
+250
+00:01:52,674 --> 00:01:53,235
+Ignorance is bliss, they <u>say.</u>
+
+251
+00:01:53,696 --> 00:01:54,877
+<u>Critical</u> thought thrown away.
+
+252
+00:01:54,877 --> 00:01:54,917
+Critical thought thrown away.
+
+253
+00:01:54,917 --> 00:01:55,238
+Critical <u>thought</u> thrown away.
+
+254
+00:01:55,238 --> 00:01:55,278
+Critical thought thrown away.
+
+255
+00:01:55,278 --> 00:01:55,659
+Critical thought <u>thrown</u> away.
+
+256
+00:01:55,659 --> 00:01:55,839
+Critical thought thrown away.
+
+257
+00:01:55,839 --> 00:01:56,440
+Critical thought thrown <u>away.</u>
+
+258
+00:01:56,820 --> 00:01:57,501
+<u>Extending</u> proud to beat Miche.
+
+259
+00:01:57,501 --> 00:01:57,561
+Extending proud to beat Miche.
+
+260
+00:01:57,561 --> 00:01:58,122
+Extending <u>proud</u> to beat Miche.
+
+261
+00:01:58,122 --> 00:01:58,162
+Extending proud to beat Miche.
+
+262
+00:01:58,162 --> 00:01:58,463
+Extending proud <u>to</u> beat Miche.
+
+263
+00:01:58,463 --> 00:01:58,543
+Extending proud to beat Miche.
+
+264
+00:01:58,543 --> 00:01:58,823
+Extending proud to <u>beat</u> Miche.
+
+265
+00:01:58,823 --> 00:01:58,863
+Extending proud to beat Miche.
+
+266
+00:01:58,863 --> 00:01:59,684
+Extending proud to beat <u>Miche.</u>
+
+267
+00:02:00,165 --> 00:02:02,609
+<u>Hey!</u>
+
+268
+00:02:02,629 --> 00:02:03,069
+<u>Stupid's</u> all the rage!
+
+269
+00:02:03,069 --> 00:02:03,210
+Stupid's all the rage!
+
+270
+00:02:03,210 --> 00:02:03,350
+Stupid's <u>all</u> the rage!
+
+271
+00:02:03,350 --> 00:02:03,370
+Stupid's all the rage!
+
+272
+00:02:03,370 --> 00:02:03,490
+Stupid's all <u>the</u> rage!
+
+273
+00:02:03,490 --> 00:02:03,570
+Stupid's all the rage!
+
+274
+00:02:03,570 --> 00:02:04,151
+Stupid's all the <u>rage!</u>
+
+275
+00:02:06,915 --> 00:02:09,399
+<u>Hey!</u>
+
+276
+00:02:09,419 --> 00:02:09,779
+<u>Turn</u> out the page!
+
+277
+00:02:09,779 --> 00:02:09,919
+Turn out the page!
+
+278
+00:02:09,919 --> 00:02:10,080
+Turn <u>out</u> the page!
+
+279
+00:02:10,080 --> 00:02:10,100
+Turn out the page!
+
+280
+00:02:10,100 --> 00:02:10,200
+Turn out <u>the</u> page!
+
+281
+00:02:10,200 --> 00:02:10,260
+Turn out the page!
+
+282
+00:02:10,260 --> 00:02:11,001
+Turn out the <u>page!</u>
+

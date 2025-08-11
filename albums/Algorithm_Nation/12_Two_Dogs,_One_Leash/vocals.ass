@@ -1,0 +1,50 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.77,0:00:06.74,Lyrics,,0,0,70,,{\k44}Alarm {\k30}clock {\k82}screams, {\k4}I {\k46}hit {\k10}snooze {\k14}like {\k6}a {\k28}pro
+Dialogue: 0,0:00:06.76,0:00:11.11,Lyrics,,0,0,70,,{\k24}But {\k10}two {\k32}pairs {\k24}of {\k28}eyes {\k24}say, {\k30}“C’mon, {\k18}let’s {\k26}go!”
+Dialogue: 0,0:00:12.05,0:00:17.18,Lyrics,,0,0,70,,{\k18}The {\k20}leash {\k8}is {\k30}a {\k18}mess, {\k4}they’re {\k44}tangled {\k32}again
+Dialogue: 0,0:00:17.22,0:00:26.16,Lyrics,,0,0,70,,{\k10}Like {\k12}my {\k10}thoughts {\k32}at {\k54}3 {\k6}AM, {\k18}running {\k6}in {\k12}the {\k46}rain
+Dialogue: 0,0:00:26.18,0:00:27.79,Lyrics,,0,0,70,,{\k14}Coffee’s {\k4}cold {\k8}but {\k10}they {\k44}don’t {\k48}care
+Dialogue: 0,0:00:27.83,0:00:29.87,Lyrics,,0,0,70,,{\k8}They’re {\k8}sniffing {\k56}every {\k30}pole, {\k16}every {\k12}tree, {\k30}every {\k24}chair
+Dialogue: 0,0:00:35.15,0:00:39.64,Lyrics,,0,0,70,,{\k6}I {\k38}swear {\k10}they’re {\k10}plotting {\k52}to {\k2}drag {\k34}me {\k104}to {\k44}hell
+Dialogue: 0,0:00:39.70,0:00:42.28,Lyrics,,0,0,70,,{\k42}Through {\k18}puddles {\k62}and {\k52}mud, {\k8}can’t {\k28}you {\k24}tell?
+Dialogue: 0,0:00:42.36,0:00:43.86,Lyrics,,0,0,70,,{\k28}Two {\k12}dogs, {\k2}one {\k46}leash, {\k26}no {\k16}peace
+Dialogue: 0,0:00:44.18,0:00:48.79,Lyrics,,0,0,70,,{\k20}Every {\k10}day’s {\k4}a {\k60}tug-of-war {\k30}masterpiece
+Dialogue: 0,0:00:49.61,0:00:52.79,Lyrics,,0,0,70,,{\k10}I’m {\k14}the {\k12}unpaid {\k14}chauffeur {\k6}for {\k16}their {\k8}daily {\k10}parade
+Dialogue: 0,0:00:52.81,0:00:55.86,Lyrics,,0,0,70,,{\k28}Oh, {\k34}the {\k54}sidewalks {\k34}crack {\k34}where {\k10}my {\k42}dignity {\k14}fades
+Dialogue: 0,0:00:55.90,0:00:57.54,Lyrics,,0,0,70,,{\k30}Two {\k6}dogs, {\k8}one {\k10}leash, {\k30}no {\k12}peace
+Dialogue: 0,0:00:57.60,0:01:04.15,Lyrics,,0,0,70,,{\k2}Neighbors {\k30}wave, {\k2}I {\k18}pretend {\k48}I’m {\k16}in {\k24}control
+Dialogue: 0,0:01:06.65,0:01:16.46,Lyrics,,0,0,70,,{\k18}But {\k8}Rio’s {\k42}barking {\k12}then {\k20}digging {\k6}a {\k42}hole,
+Dialogue: 0,0:01:16.54,0:01:23.17,Lyrics,,0,0,70,,{\k138}Yuki’s {\k28}biting {\k4}at {\k54}the {\k30}mailman’s {\k12}shoe
+Dialogue: 0,0:01:23.19,0:01:29.68,Lyrics,,0,0,70,,{\k54}I’m {\k8}yelling {\k26}their {\k18}names {\k14}'cause {\k4}I {\k30}don't {\k16}know {\k32}what {\k18}to {\k28}do
+Dialogue: 0,0:01:29.80,0:01:33.07,Lyrics,,0,0,70,,{\k172}This {\k26}isn’t {\k26}exercise, {\k26}this {\k26}is {\k26}urban {\k26}combat
+Dialogue: 0,0:01:33.07,0:01:35.12,Lyrics,,0,0,70,,{\k26}I’m {\k26}dodging {\k26}scooters, {\k26}strollers, {\k26}and {\k26}a {\k26}psycho {\k26}cat
+Dialogue: 0,0:01:35.12,0:01:37.17,Lyrics,,0,0,70,,{\k26}Some {\k26}days {\k26}I {\k26}dream {\k26}of {\k26}a {\k26}robot {\k26}pup
+Dialogue: 0,0:01:37.17,0:01:40.00,Lyrics,,0,0,70,,{\k26}But {\k26}then {\k26}they {\k26}look {\k26}at {\k26}me {\k26}and {\k26}I {\k26}just {\k26}shut {\k26}up
+Dialogue: 0,0:01:40.00,0:01:41.54,Lyrics,,0,0,70,,{\k26}Two {\k26}dogs, {\k26}one {\k26}leash, {\k26}no {\k26}peace
+Dialogue: 0,0:01:41.54,0:01:43.59,Lyrics,,0,0,70,,{\k26}My {\k26}arms {\k26}are {\k26}stretched {\k26}like {\k26}a {\k26}Jesus {\k26}piece
+Dialogue: 0,0:01:43.59,0:01:45.90,Lyrics,,0,0,70,,{\k26}I’m {\k26}the {\k26}clown {\k26}car {\k26}driver {\k26}of {\k26}a {\k26}canine {\k26}parade
+Dialogue: 0,0:01:45.90,0:01:47.70,Lyrics,,0,0,70,,{\k26}Every {\k26}morning {\k26}feels {\k26}like {\k26}a {\k26}hand {\k26}grenade
+Dialogue: 0,0:01:47.70,0:01:49.24,Lyrics,,0,0,70,,{\k26}Two {\k26}dogs, {\k26}one {\k26}leash, {\k26}no {\k26}peace
+Dialogue: 0,0:01:49.24,0:01:51.55,Lyrics,,0,0,70,,{\k26}I {\k26}love {\k26}‘em, {\k26}I {\k26}do, {\k26}but {\k26}they’re {\k26}both {\k26}insane
+Dialogue: 0,0:01:51.55,0:01:53.09,Lyrics,,0,0,70,,{\k26}Chasing {\k26}squirrels {\k26}like {\k26}it’s {\k26}their {\k26}cocaine
+Dialogue: 0,0:01:53.09,0:01:55.40,Lyrics,,0,0,70,,{\k26}And {\k26}when {\k26}we’re {\k26}home, {\k26}they {\k26}just {\k26}crash {\k26}and {\k26}snore
+Dialogue: 0,0:01:55.40,0:01:57.46,Lyrics,,0,0,70,,{\k26}While {\k26}I’m {\k26}bandaging {\k26}wounds {\k26}from {\k26}the {\k26}civil {\k26}war
+Dialogue: 0,0:01:57.46,0:01:59.00,Lyrics,,0,0,70,,{\k26}Two {\k26}dogs, {\k26}one {\k26}leash, {\k26}no {\k26}peace
+Dialogue: 0,0:01:59.00,0:02:00.80,Lyrics,,0,0,70,,{\k26}Call {\k26}the {\k26}UN {\k26}for {\k26}a {\k26}barking {\k26}cease
+Dialogue: 0,0:02:00.80,0:02:02.85,Lyrics,,0,0,70,,{\k26}But {\k26}tomorrow {\k26}at {\k26}dawn, {\k26}we’ll {\k26}be {\k26}out {\k26}again
+Dialogue: 0,0:02:02.85,0:02:04.90,Lyrics,,0,0,70,,{\k26}Just {\k26}a {\k26}guy, {\k26}his {\k26}dogs, {\k26}and {\k26}zero {\k26}zen
+Dialogue: 0,0:02:04.90,0:02:06.44,Lyrics,,0,0,70,,{\k26}Two {\k26}dogs, {\k26}one {\k26}leash, {\k26}no {\k26}peace!

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MIDI to SVG Sheet/Tab Music – Power Demo</title>
+  <style>
+    body { font-family: sans-serif; background: #222; color: #fff; padding: 2em;}
+    #controls { margin-bottom: 2em; }
+    .svg-sheet, .svg-tab { background: #fff; border: 2px solid #222; margin: 1em 0; }
+    .switch { margin: 0 1em; }
+    label { margin-right: 1em; }
+  </style>
+</head>
+<body>
+  <h2>MIDI to SVG Sheet Music & Tab</h2>
+  <div id="controls">
+    <input type="file" id="midifile" accept=".mid,.midi">
+    <label>
+      Track:
+      <select id="track"></select>
+    </label>
+    <label>
+      <input type="radio" name="view" id="view-staff" checked>
+      Staff
+    </label>
+    <label>
+      <input type="radio" name="view" id="view-tab">
+      Tab
+    </label>
+    <span id="keysig"></span>
+    <span id="timesig"></span>
+  </div>
+  <div id="output"></div>
+
+  <!-- Tone.js Midi parser from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi@2.0.28/build/Midi.min.js"></script>
+  <script>
+    // ---- Constants ----
+    const STAFF_NOTES = [
+      "F5", "E5", "D5", "C5", "B4", "A4", "G4", "F4", "E4", "D4", "C4", "B3", "A3", "G3", "F3", "E3"
+    ]; // Staff range, adjustable
+    const GUITAR_TUNING = [
+      { name: "E", octave: 4, midi: 64 },
+      { name: "B", octave: 3, midi: 59 },
+      { name: "G", octave: 3, midi: 55 },
+      { name: "D", octave: 3, midi: 50 },
+      { name: "A", octave: 2, midi: 45 },
+      { name: "E", octave: 2, midi: 40 }
+    ];
+
+    // ---- MIDI helpers ----
+    function midiToLabel(midi) {
+      const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+      const note = notes[midi % 12];
+      const octave = Math.floor(midi / 12) - 1;
+      return note + octave;
+    }
+
+    function getTrackName(track, i) {
+      let nameEvt = track.name || (track.metaEvents && track.metaEvents.find(e => e.type === 'trackName'));
+      return nameEvt ? nameEvt : `Track ${i+1}`;
+    }
+
+    function getKeySignature(midi) {
+      // Try to read key signature meta-event from any track
+      for (const t of midi.tracks) {
+        for (const ev of t.metaEvents || []) {
+          if (ev.type === 'keySignature') {
+            // ev.key: 0 = C, 1 = G, -1 = F, etc.
+            const keys = [
+              "C", "G", "D", "A", "E", "B", "F#", "C#", "G#", "D#", "A#", "E#", // sharps
+              "F", "Bb", "Eb", "Ab", "Db", "Gb", "Cb" // flats
+            ];
+            let key = ev.key;
+            let isMinor = ev.scale === 1;
+            let name = (keys[ev.key + 7] || "C") + (isMinor ? "m" : ""); // hacky offset
+            return name;
+          }
+        }
+      }
+      return "C";
+    }
+    function getTimeSignature(midi) {
+      for (const t of midi.tracks) {
+        for (const ev of t.metaEvents || []) {
+          if (ev.type === 'timeSignature') {
+            return `${ev.numerator}/${ev.denominator}`;
+          }
+        }
+      }
+      return "4/4";
+    }
+
+    function noteToTab(midi) {
+      for (let s = 0; s < GUITAR_TUNING.length; s++) {
+        let fret = midi - GUITAR_TUNING[s].midi;
+        if (fret >= 0 && fret <= 22) return { string: s, fret }; // string 0 = top
+      }
+      return null;
+    }
+
+    // ---- SVG Renders ----
+    function svgNoteY(label) {
+      const idx = STAFF_NOTES.indexOf(label);
+      if (idx === -1) return null;
+      return 60 + (STAFF_NOTES.length - 1 - idx) * 10;
+    }
+    function svgKeySignature(key) {
+      // Just text for now, but you could add accidentals!
+      return `<text x="70" y="50" font-size="24" font-family="serif" fill="#111">${key}</text>`;
+    }
+    function svgTimeSignature(timesig) {
+      // Simple fraction
+      let [num, denom] = timesig.split("/");
+      return `<text x="70" y="95" font-size="24" font-family="serif" fill="#111">${num}\n${denom}</text>`;
+    }
+
+    function svgRest(x, y, duration) {
+      // Simple quarter/half/whole rest glyphs (using text/symbols)
+      if(duration >= 4) {
+        // whole rest: rectangle hanging from 4th line
+        return `<rect x="${x-6}" y="${y-17}" width="12" height="6" fill="#111"/>`;
+      } else if(duration >= 2) {
+        // half rest: rectangle sitting on 3rd line
+        return `<rect x="${x-6}" y="${y-12}" width="12" height="6" fill="#111"/>`;
+      } else {
+        // quarter rest: squiggle (using text for now)
+        return `<text x="${x-4}" y="${y-7}" font-size="16" fill="#111">𝄽</text>`;
+      }
+    }
+
+    function renderSVGSheet(notes, key, timesig) {
+      if (!notes || notes.length === 0) return '';
+      // Notes: {label, midi, time, duration, rest}
+      const notesPerLine = 12;
+      const numLines = Math.ceil(notes.length / notesPerLine);
+      const width = 110 + Math.min(notes.length, notesPerLine) * 40;
+      const height = 170 * numLines;
+      let svg = `<svg class="svg-sheet" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`;
+      for(let l=0; l<numLines; l++){
+        let yOffset = l*170;
+        // Staff lines
+        [60, 70, 80, 90, 100].forEach(y => {
+          svg += `<line x1="40" y1="${y+yOffset}" x2="${width-20}" y2="${y+yOffset}" stroke="#222" stroke-width="2"/>`;
+        });
+        // Treble clef
+        svg += `<text x="46" y="${92+yOffset}" font-size="40" font-family="serif">𝄞</text>`;
+        // Key sig
+        if(l === 0) svg += svgKeySignature(key);
+        // Time sig
+        if(l === 0) svg += svgTimeSignature(timesig);
+      }
+      // Notes/rests
+      notes.forEach((n, i) => {
+        let line = Math.floor(i / notesPerLine);
+        const x = 120 + (i % notesPerLine) * 40;
+        let y = svgNoteY(n.label) + (line*170);
+        if(n.rest) {
+          svg += svgRest(x, 90 + (line*170), n.rest);
+        } else if (y !== null) {
+          svg += `<ellipse cx="${x}" cy="${y}" rx="10" ry="7" fill="#222" stroke="#000"/>`;
+          // Stems
+          if (y > 80 + line*170) svg += `<rect x="${x+8}" y="${y-1}" width="2" height="28" fill="#000"/>`;
+          else svg += `<rect x="${x-10}" y="${y-28}" width="2" height="28" fill="#000"/>`;
+          // Ledger lines
+          if (y < 60 + line*170) svg += `<line x1="${x-14}" y1="${60+line*170}" x2="${x+14}" y2="${60+line*170}" stroke="#000" stroke-width="2"/>`;
+          if (y > 100 + line*170) svg += `<line x1="${x-14}" y1="${100+line*170}" x2="${x+14}" y2="${100+line*170}" stroke="#000" stroke-width="2"/>`;
+        }
+      });
+      svg += `</svg>`;
+      return svg;
+    }
+
+    function renderSVGTab(notes) {
+      if (!notes || notes.length === 0) return '';
+      const numStrings = GUITAR_TUNING.length;
+      const notesPerLine = 12;
+      const numLines = Math.ceil(notes.length / notesPerLine);
+      const width = 120 + Math.min(notes.length, notesPerLine) * 40;
+      const height = 60 + (numStrings-1)*20 + numLines*40;
+      let svg = `<svg class="svg-tab" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`;
+      for(let l=0; l<numLines; l++){
+        let yOffset = l*40;
+        // Strings
+        for (let s = 0; s < numStrings; s++) {
+          const y = 40 + s * 20 + yOffset;
+          svg += `<line x1="80" y1="${y}" x2="${width-20}" y2="${y}" stroke="#333" stroke-width="2"/>`;
+          // String name
+          svg += `<text x="55" y="${y+6}" font-size="16" font-family="monospace" fill="#222">${GUITAR_TUNING[s].name}</text>`;
+        }
+      }
+      // Frets/rests
+      notes.forEach((n, i) => {
+        let line = Math.floor(i / notesPerLine);
+        const x = 120 + (i % notesPerLine) * 40;
+        const yOffset = line*40;
+        if(n.rest) {
+          svg += `<text x="${x-4}" y="${50+yOffset}" font-size="18" fill="#c00">R</text>`;
+        } else {
+          const tab = noteToTab(n.midi);
+          if(tab) {
+            const y = 40 + tab.string * 20 + yOffset;
+            svg += `<text x="${x-5}" y="${y+6}" font-size="18" font-family="monospace" fill="#0d0">${tab.fret}</text>`;
+          }
+        }
+      });
+      svg += `</svg>`;
+      return svg;
+    }
+
+    // ---- MIDI Loader and Display ----
+    let midiGlobal = null;
+    let trackNotes = [];
+    let keySig = "C";
+    let timeSig = "4/4";
+
+    document.getElementById('midifile').addEventListener('change', async (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const arrayBuffer = await file.arrayBuffer();
+      const midi = new window.Midi(arrayBuffer);
+      midiGlobal = midi;
+      // Populate track selector
+      const trackSel = document.getElementById('track');
+      trackSel.innerHTML = '';
+      midi.tracks.forEach((t,i) => {
+        let name = t.name || (t.instrument && t.instrument.name) || `Track ${i+1}`;
+        let notes = t.notes.length;
+        let opt = document.createElement('option');
+        opt.value = i;
+        opt.textContent = `${i+1}: ${name} (${notes} notes)`;
+        trackSel.appendChild(opt);
+      });
+      // Set key/time signatures
+      keySig = getKeySignature(midi);
+      timeSig = getTimeSignature(midi);
+      document.getElementById('keysig').textContent = `Key: ${keySig}`;
+      document.getElementById('timesig').textContent = ` | Time: ${timeSig}`;
+      // Render default first track
+      showTrack(0);
+    });
+    document.getElementById('track').addEventListener('change', (e) => {
+      showTrack(Number(e.target.value));
+    });
+    document.getElementById('view-staff').addEventListener('change', ()=>showTrack(document.getElementById('track').value));
+    document.getElementById('view-tab').addEventListener('change', ()=>showTrack(document.getElementById('track').value));
+
+    function quantizeBeat(time, q=0.25) { // q = quarter note
+      return Math.round(time / q) * q;
+    }
+    function showTrack(trackIdx) {
+      if(!midiGlobal) return;
+      let track = midiGlobal.tracks[trackIdx];
+      // Collect notes, quantize, add rests
+      let notes = [];
+      let prevEnd = 0;
+      let quarter = 1; // Tone.js uses seconds, but .ticks and .PPQ could be used for more accuracy
+      for(const n of track.notes) {
+        let label = midiToLabel(n.midi);
+        if(STAFF_NOTES.includes(label)) {
+          // Simple quantization to nearest quarter note for rests
+          let t0 = quantizeBeat(n.time, quarter);
+          let dur = quantizeBeat(n.duration, quarter);
+          // Insert rest if needed
+          if(notes.length > 0 && t0 > prevEnd + 0.01) {
+            let restDur = t0 - prevEnd;
+            while(restDur >= quarter) {
+              notes.push({rest: quarter});
+              restDur -= quarter;
+            }
+            if(restDur > 0.01) notes.push({rest: restDur});
+          }
+          notes.push({label, midi: n.midi, duration: dur});
+          prevEnd = t0 + dur;
+        }
+      }
+      trackNotes = notes;
+      // Show staff or tab
+      updateOutput();
+    }
+    function updateOutput() {
+      const isStaff = document.getElementById('view-staff').checked;
+      document.getElementById('output').innerHTML = isStaff
+        ? renderSVGSheet(trackNotes, keySig, timeSig)
+        : renderSVGTab(trackNotes);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Sing-Along: Text to Mouth Animation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="mouth_sprites.css">
+    <style>
+        body {
+            background: #222;
+            color: #fafafa;
+            margin: 0;
+            font-family: "Lexend", "Helvetica Neue", "Helvetica", sans-serif;
+        }
+        header {
+            background: #111;
+            padding: 18px 0 8px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            justify-content: center;
+            z-index: 10;
+        }
+        select {
+            padding: 8px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: none;
+        }
+        main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 32px;
+            width: 100%;
+            max-width: 550px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .mouth-container {
+            width: 280px;
+            height: 330px;
+            background-image: url("head.svg");
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            margin-bottom: 24px;
+            position: relative;
+            border-radius: 10px;
+        }
+        .mouth-sprite-container {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            pointer-events: none;
+        }
+        #mouth-sprite-inner {
+            position: relative;
+            top: -30px;
+            left: 0;
+            display: inline-block;
+            transition: filter 0.07s;
+        }
+        .lyrics-box {
+            background: #181818;
+            border-radius: 7px;
+            margin-top: 18px;
+            padding: 14px 16px 10px 16px;
+            font-size: 17px;
+            min-width: 260px;
+            max-width: 100%;
+            color: #aaa;
+            box-shadow: 0 3px 16px #0006;
+            line-height: 1.5;
+            max-height: 160px;
+            overflow-y: auto;
+        }
+        .lyrics-box .line {
+            margin-bottom: 6px;
+            white-space: pre-line;
+            transition: color 0.12s;
+        }
+        .lyrics-box .active-line {
+            color: #fff;
+        }
+        .lyrics-box .active-word {
+            color: #ffd700;
+            font-weight: 600;
+        }
+        .controls {
+            margin-bottom: 22px;
+        }
+        #sing-btn {
+            font-size: 18px;
+            padding: 10px 22px;
+            border-radius: 20px;
+            border: none;
+            background: #ff4444;
+            color: #fff;
+            cursor: pointer;
+            font-family: inherit;
+            margin-left: 18px;
+        }
+        #sing-btn:disabled {
+            background: #888;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <select id="albumSelect"></select>
+    <select id="songSelect"></select>
+    <button id="sing-btn" disabled>Sing</button>
+</header>
+<main>
+    <div class="mouth-container">
+        <div class="mouth-sprite-container">
+            <div id="mouth-sprite-inner" class="mouth-sprite-svg mouth-default"></div>
+        </div>
+    </div>
+    <div class="lyrics-box" id="lyrics"></div>
+</main>
+<script>
+const mouthSounds = [
+    { sound: ["A", "E", "I"], image: "a_e_i.png" },
+    { sound: ["AH"], image: "ah.png" },
+    { sound: ["B", "M", "P"], image: "b_m_p.png" },
+    { sound: ["C", "D", "G", "K", "N", "S", "T", "X", "Y", "Z"], image: "c_d_g_K_n_s_t_x_y_z.png" },
+    { sound: ["D"], image: "d.png" },
+    { sound: ["E"], image: "e.png" },
+    { sound: ["F"], image: "f.png" },
+    { sound: ["F", "W"], image: "f_w.png" },
+    { sound: ["L"], image: "l.png" },
+    { sound: ["L"], image: "l2.png" },
+    { sound: ["M"], image: "m.png" },
+    { sound: ["O"], image: "o.png" },
+    { sound: ["O", "W"], image: "o_w.png" },
+    { sound: ["OH"], image: "oh.png" },
+    { sound: ["R"], image: "r.png" },
+    { sound: ["S"], image: "s.png" },
+    { sound: ["SC"], image: "sc.png" },
+    { sound: ["TH"], image: "th.png" },
+    { sound: ["UN"], image: "un.png" },
+    { sound: ["WO"], image: "wo.png" }
+];
+// Quick phoneme to image map:
+const phonemeMap = (() => {
+    let map = {};
+    mouthSounds.forEach(m => m.sound.forEach(s => map[s.toUpperCase()] = m.image));
+    // Add custom and fallback mappings
+    Object.assign(map, {
+        'CH': 'c_d_g_K_n_s_t_x_y_z.png',
+        'J': 'd.png',
+        'Q': 'c_d_g_K_n_s_t_x_y_z.png',
+        'V': 'f.png',
+        ' ': 'default.png',  '.': 'default.png', ',': 'default.png',
+        '!': 'default.png',  '?': 'default.png', ':': 'default.png', ';': 'default.png', '-': 'default.png'
+    });
+    return map;
+})();
+function toPhoneme(word) {
+    // SUPER basic: Just pick first letter, do uppercase, match vowel/consonant.
+    // Replace this with a real G2P if you want better results!
+    if (!word) return ' ';
+    let w = word.trim().toUpperCase();
+    if (/^[A-Z]+$/.test(w)) {
+        // Check for digraphs:
+        const digraphs = ['TH','CH','SH','PH','WH','GH','SC','WO'];
+        for(let dg of digraphs)
+            if(w.startsWith(dg)) return dg;
+        // Vowel mapping
+        if("AEIOU".includes(w[0])) {
+            if(w[0]==='A') return 'A';
+            if(w[0]==='E' || w[0]==='I') return 'E';
+            if(w[0]==='O') return 'O';
+            if(w[0]==='U') return 'UN';
+        }
+        // Otherwise, just use first consonant
+        return w[0];
+    }
+    // For punctuation or space:
+    return ' ';
+}
+function updateMouthSprite(phoneme) {
+    const imageFile = phonemeMap[phoneme.toUpperCase()] || 'default.png';
+    const spriteClass = 'mouth-' + imageFile.replace('.png', '');
+    document.getElementById("mouth-sprite-inner").className = 'mouth-sprite-svg ' + spriteClass;
+}
+// --- Lyrics + Timing Handling ---
+let songsData = null, lyricsData = [], wordTimings = [], audio = null;
+let currentSongFolder = null;
+function renderLyrics() {
+    const lyricsDiv = document.getElementById("lyrics");
+    lyricsDiv.innerHTML = '';
+    lyricsData.forEach((line, li) => {
+        const lineEl = document.createElement("div");
+        lineEl.className = "line";
+        line.words.forEach((w, wi) => {
+            const span = document.createElement("span");
+            span.textContent = w.text + " ";
+            span.dataset.line = li;
+            span.dataset.word = wi;
+            lineEl.appendChild(span);
+        });
+        lyricsDiv.appendChild(lineEl);
+    });
+}
+function updateLyricsHighlight(currentIndex) {
+    const lyricsDiv = document.getElementById("lyrics");
+    const allLines = lyricsDiv.querySelectorAll(".line");
+    allLines.forEach(line => line.classList.remove("active-line"));
+    const allWords = lyricsDiv.querySelectorAll("span");
+    allWords.forEach(word => word.classList.remove("active-word"));
+    if (currentIndex < 0 || currentIndex >= wordTimings.length) return;
+    const { lineIdx, wordIdx } = wordTimings[currentIndex];
+    const lineEl = allLines[lineIdx];
+    const wordEl = lineEl.querySelector(`span[data-word="${wordIdx}"]`);
+    if (lineEl) lineEl.classList.add("active-line");
+    if (wordEl) wordEl.classList.add("active-word");
+    // Scroll active line into view
+    lineEl?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+// --- Song Selection Logic ---
+function loadAlbums() {
+    fetch("/albums/songs.json")
+      .then(res => res.json())
+      .then(json => {
+          songsData = json.albums;
+          const albumSelect = document.getElementById("albumSelect");
+          albumSelect.innerHTML = `<option value="">Select Album</option>`;
+          songsData.forEach((album, idx) => {
+              albumSelect.innerHTML += `<option value="${idx}">${album.title}</option>`;
+          });
+      });
+}
+document.getElementById("albumSelect").addEventListener("change", e => {
+    const albumIdx = e.target.value;
+    const songSelect = document.getElementById("songSelect");
+    songSelect.innerHTML = `<option value="">Select Song</option>`;
+    if (albumIdx !== "") {
+        songsData[albumIdx].songs.forEach((song, idx) => {
+            songSelect.innerHTML += `<option value="${songsData[albumIdx].songs[idx].folder}">${song.title}</option>`;
+        });
+    }
+    document.getElementById("sing-btn").disabled = true;
+});
+document.getElementById("songSelect").addEventListener("change", e => {
+    currentSongFolder = e.target.value;
+    document.getElementById("sing-btn").disabled = !currentSongFolder;
+    if (!currentSongFolder) return;
+    
+    // Load lyrics.txt
+    fetch(`${currentSongFolder}/lyrics.txt`)
+      .then(res => res.text())
+      .then(txt => {
+        lyricsData = txt.split("\n").map(line => {
+          const t = line.trim();
+          return {
+            text: t,
+            words: t ? t.split(/\s+/).map(w => ({ text: w })) : []
+          };
+        });
+        renderLyrics();
+      });
+
+    fetch(`${currentSongFolder}/vocals.json`)
+      .then(res => res.json())
+      .then(data => {
+        // Prefer flat word list if present; otherwise flatten segments->words
+        const raw = (Array.isArray(data.word_segments) && data.word_segments.length)
+          ? data.word_segments
+          : ((data.segments || []).flatMap(seg => seg.words || []));
+
+        // Normalize to {word,start,end}
+        const words = raw
+          .map(w => ({
+            word: (w.word ?? w.text ?? '').trim(),
+            start: Number(w.start),
+            end: Number(w.end)
+          }))
+          .filter(w => w.word && Number.isFinite(w.start) && Number.isFinite(w.end));
+
+        wordTimings = [];
+        let i = 0;
+
+        // Sequentially assign timings to lyrics words (tolerates mismatches by truncation)
+        for (let li = 0; li < lyricsData.length; li++) {
+          const line = lyricsData[li];
+          for (let wi = 0; wi < line.words.length; wi++) {
+            const w = line.words[wi];
+            const src = words[i++];
+            if (!src) break;
+            w.start = src.start;
+            w.end = src.end;
+            wordTimings.push({
+              start: w.start,
+              end: w.end,
+              lineIdx: li,
+              wordIdx: wi,
+              text: w.text
+            });
+          }
+        }
+      });
+});
+document.getElementById("sing-btn").addEventListener("click", sing);
+function sing() {
+    if (!currentSongFolder) return alert("Select a song first.");
+    audio && audio.pause();
+    audio = new Audio(`${currentSongFolder}/song.ogg`);
+    audio.play();
+    let current = 0;
+    function tick() {
+        const now = audio.currentTime;
+        const word = wordTimings[current];
+        if (word && now >= word.start && now <= word.end) {
+            updateLyricsHighlight(current);
+            // Animate mouth for the current word
+            animateMouthForWord(word.text);
+        }
+        else if (word && now < word.start) {
+            // Pre-word: closed mouth
+            updateMouthSprite(' ');
+        }
+        if (word && now > word.end) current++;
+        if (current < wordTimings.length && !audio.paused) requestAnimationFrame(tick);
+        if (audio.ended || current >= wordTimings.length) {
+            // All done, reset
+            updateLyricsHighlight(-1);
+            updateMouthSprite(' ');
+        }
+    }
+    tick();
+}
+function animateMouthForWord(word) {
+    // (OPTIONAL: You can improve this to animate through the phonemes within the word)
+    let phoneme = toPhoneme(word);
+    updateMouthSprite(phoneme);
+}
+loadAlbums();
+</script>
+</body>
+</html>

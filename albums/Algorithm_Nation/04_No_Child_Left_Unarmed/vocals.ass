@@ -1,0 +1,59 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.02,0:00:09.32,Lyrics,,0,0,70,,{\k76}Morning {\k36}bell {\k44}rings, {\k38}lock {\k12}and {\k44}load
+Dialogue: 0,0:00:10.12,0:00:13.41,Lyrics,,0,0,70,,{\k66}Tiny {\k84}backpacks, {\k80}trauma {\k46}mode
+Dialogue: 0,0:00:13.93,0:00:17.31,Lyrics,,0,0,70,,{\k66}Metal {\k102}detectors {\k32}greet {\k18}the {\k44}day
+Dialogue: 0,0:00:17.91,0:00:21.49,Lyrics,,0,0,70,,{\k96}Bulletproof {\k126}smiles, {\k36}just {\k24}to {\k52}pray
+Dialogue: 0,0:00:21.55,0:00:25.50,Lyrics,,0,0,70,,{\k36}They {\k40}say {\k12}it’s {\k68}freedom, {\k44}loud {\k10}and {\k50}proud
+Dialogue: 0,0:00:25.76,0:00:29.98,Lyrics,,0,0,70,,{\k22}While {\k96}silence {\k62}echoes {\k42}through {\k18}the {\k96}crowd
+Dialogue: 0,0:00:29.96,0:00:33.55,Lyrics,,0,0,70,,{\k76}Thoughts {\k8}and {\k52}prayers {\k14}in {\k62}bullet {\k46}form
+Dialogue: 0,0:00:33.83,0:00:37.71,Lyrics,,0,0,70,,{\k22}This {\k16}is {\k34}the {\k100}American {\k108}uniform
+Dialogue: 0,0:00:37.73,0:00:42.86,Lyrics,,0,0,70,,{\k36}No {\k46}child {\k28}left {\k58}unarmed {\k5}— {\k50}that’s {\k16}the {\k88}plan
+Dialogue: 0,0:00:44.20,0:00:46.92,Lyrics,,0,0,70,,{\k48}Training {\k28}kids {\k12}to {\k36}take {\k18}a {\k88}stand
+Dialogue: 0,0:00:48.24,0:00:51.15,Lyrics,,0,0,70,,{\k46}Pencil {\k28}box {\k8}and {\k74}pepper {\k106}spray
+Dialogue: 0,0:00:52.47,0:01:09.39,Lyrics,,0,0,70,,{\k8}In {\k16}the {\k14}land {\k48}of {\k14}the {\k74}NRA
+Dialogue: 0,0:01:09.47,0:01:14.02,Lyrics,,0,0,70,,{\k38}No {\k22}child {\k20}left {\k50}unarmed {\k5}— {\k12}what {\k72}a {\k50}joke
+Dialogue: 0,0:01:14.52,0:01:41.83,Lyrics,,0,0,70,,{\k20}Duck {\k10}and {\k62}cover {\k42}when {\k10}the {\k40}system's {\k22}broke
+Dialogue: 0,0:01:41.91,0:01:45.02,Lyrics,,0,0,70,,{\k6}Armed {\k34}with {\k16}fear {\k10}and {\k52}classroom {\k34}drills
+Dialogue: 0,0:01:45.22,0:01:48.02,Lyrics,,0,0,70,,{\k26}We {\k10}raise {\k42}our {\k12}kids {\k18}for {\k26}battlefields
+Dialogue: 0,0:01:48.04,0:01:49.04,Lyrics,,0,0,70,,{\k12}Active {\k18}shooter, {\k24}lesson {\k30}three
+Dialogue: 0,0:01:49.24,0:01:52.67,Lyrics,,0,0,70,,{\k38}Alongside {\k36}math {\k42}and {\k190}history
+Dialogue: 0,0:01:52.65,0:01:54.19,Lyrics,,0,0,70,,{\k34}Tiny {\k30}hands {\k20}now {\k30}clutching {\k30}steel
+Dialogue: 0,0:01:54.27,0:01:56.78,Lyrics,,0,0,70,,{\k8}‘Cause {\k30}safety’s {\k46}just {\k50}a {\k16}brand {\k14}new {\k38}deal
+Dialogue: 0,0:01:57.00,0:01:58.80,Lyrics,,0,0,70,,{\k36}Lobby {\k28}cash {\k8}and {\k46}blood-stained {\k34}ties
+Dialogue: 0,0:01:59.00,0:02:00.86,Lyrics,,0,0,70,,{\k22}Feed {\k12}the {\k18}lie {\k20}that {\k54}never {\k40}dies
+Dialogue: 0,0:02:01.10,0:02:02.91,Lyrics,,0,0,70,,{\k16}Rights {\k28}for {\k18}guns {\k32}but {\k18}not {\k14}for {\k32}youth
+Dialogue: 0,0:02:03.01,0:02:03.89,Lyrics,,0,0,70,,{\k8}Another {\k2}corpse, {\k42}another {\k20}truth
+Dialogue: 0,0:02:03.95,0:02:07.09,Lyrics,,0,0,70,,{\k24}No {\k30}child {\k36}left {\k32}unarmed {\k5}— {\k8}say {\k12}it {\k24}loud
+Dialogue: 0,0:02:07.33,0:02:10.38,Lyrics,,0,0,70,,{\k18}Marching {\k68}blindly {\k18}with {\k10}the {\k56}crowd
+Dialogue: 0,0:02:10.44,0:02:11.62,Lyrics,,0,0,70,,{\k20}Bullet {\k14}points {\k28}in {\k10}lesson {\k12}plans
+Dialogue: 0,0:02:11.64,0:02:17.53,Lyrics,,0,0,70,,{\k22}Brought {\k22}to {\k14}you {\k48}by {\k18}gun-slinging {\k60}clans
+Dialogue: 0,0:02:18.62,0:02:20.73,Lyrics,,0,0,70,,{\k28}No {\k30}child {\k10}left {\k42}unarmed {\k5}— {\k13}this {\k8}ain't {\k34}peace
+Dialogue: 0,0:02:20.93,0:02:29.89,Lyrics,,0,0,70,,{\k36}It's {\k38}a {\k6}cycle {\k20}that {\k4}will {\k34}never {\k46}cease
+Dialogue: 0,0:02:29.95,0:02:32.08,Lyrics,,0,0,70,,{\k24}Prayers {\k10}on {\k18}paper, {\k12}stained {\k8}in {\k52}red
+Dialogue: 0,0:02:32.12,0:02:33.87,Lyrics,,0,0,70,,{\k24}More {\k6}statistics, {\k62}more {\k30}kids {\k14}dead
+Dialogue: 0,0:02:33.93,0:02:35.81,Lyrics,,0,0,70,,{\k14}"Arm {\k16}the {\k22}teachers!" {\k5}— {\k6}they {\k35}all {\k35}cheer
+Dialogue: 0,0:02:35.81,0:02:38.25,Lyrics,,0,0,70,,{\k35}But {\k35}won’t {\k35}fund {\k35}books {\k35}year {\k35}after {\k35}year
+Dialogue: 0,0:02:38.25,0:02:40.00,Lyrics,,0,0,70,,{\k35}Hallway {\k35}heroes, {\k35}chalk {\k35}outline {\k35}fate
+Dialogue: 0,0:02:40.00,0:02:41.74,Lyrics,,0,0,70,,{\k35}America, {\k35}you {\k35}educate {\k35}with {\k35}hate
+Dialogue: 0,0:02:41.74,0:02:44.24,Lyrics,,0,0,70,,{\k35}No {\k35}child {\k35}left {\k35}unarmed {\k5}— {\k35}make {\k35}it {\k35}trend
+Dialogue: 0,0:02:44.24,0:02:45.63,Lyrics,,0,0,70,,{\k35}Another {\k35}life, {\k35}another {\k35}end
+Dialogue: 0,0:02:45.63,0:02:48.07,Lyrics,,0,0,70,,{\k35}We {\k35}chant {\k35}and {\k35}cry {\k35}but {\k35}nothing's {\k35}done
+Dialogue: 0,0:02:48.07,0:02:50.17,Lyrics,,0,0,70,,{\k35}Except {\k35}another {\k35}AR {\k35}in {\k35}the {\k35}sun
+Dialogue: 0,0:02:50.17,0:02:52.66,Lyrics,,0,0,70,,{\k35}No {\k35}child {\k35}left {\k35}unarmed {\k5}— {\k35}what {\k35}a {\k35}shame
+Dialogue: 0,0:02:52.66,0:02:54.76,Lyrics,,0,0,70,,{\k35}Safety’s {\k35}sold {\k35}out {\k35}to {\k35}the {\k35}game
+Dialogue: 0,0:02:54.76,0:02:56.85,Lyrics,,0,0,70,,{\k35}If {\k35}freedom’s {\k35}just {\k35}a {\k35}smoking {\k35}gun…
+Dialogue: 0,0:02:56.85,0:02:59.64,Lyrics,,0,0,70,,{\k35}Then {\k35}tell {\k35}me {\k35}who {\k35}the {\k35}hell {\k35}has {\k35}won?

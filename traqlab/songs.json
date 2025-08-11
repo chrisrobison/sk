@@ -102,7 +102,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -148,7 +148,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -194,7 +194,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -240,7 +240,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -281,7 +281,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -322,7 +322,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -363,7 +363,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -404,7 +404,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -445,7 +445,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -478,6 +478,88 @@
             "notes": ""
           } ]
       }
+,
+      {
+        "track": "12",
+        "folder": "albums/Algorithm_Nation/12_Two_Dogs,_One_Leash",
+        "title": "Two Dogs, One Leash",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "13",
+        "folder": "albums/Algorithm_Nation/13_Thanks,_Man",
+        "title": "Thanks, Man",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Percussion",
+            "html": "percussion.html",
+            "stem": "stems/percussion.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
     ]
   }
 ,
@@ -499,64 +581,29 @@
           "flac": "song.flac"
         },
         "parts": [ {
-            "name": "1_song_(Bass)",
-            "html": "1_song_(Bass).html",
-            "stem": "stems/1_song_(Bass).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Drums)",
-            "html": "1_song_(Drums).html",
-            "stem": "stems/1_song_(Drums).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_backing_vocals)",
-            "html": "1_song_(Instrumental_with_backing_vocals).html",
-            "stem": "stems/1_song_(Instrumental_with_backing_vocals).ogg",
-            "notes": ""
-          },{
             "name": "Bass",
             "html": "bass.html",
-            "stem": "stems/bass.ogg",
+            "stem": "stems/bass.wav",
             "notes": ""
           },{
             "name": "Drums",
             "html": "drums.html",
-            "stem": "stems/drums.ogg",
+            "stem": "stems/drums.wav",
             "notes": ""
           },{
             "name": "Guitar",
             "html": "guitar.html",
-            "stem": "stems/guitar.ogg",
+            "stem": "stems/guitar.wav",
             "notes": ""
           },{
-            "name": "Instrumental_with_lead_vocals",
-            "html": "Instrumental_with_lead_vocals.html",
-            "stem": "stems/Instrumental_with_lead_vocals.ogg",
-            "notes": ""
-          },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
-            "notes": ""
-          },{
-            "name": "Other",
-            "html": "Other.html",
-            "stem": "stems/Other.ogg",
-            "notes": ""
-          },{
-            "name": "Vocals_ai",
-            "html": "Vocals_ai.html",
-            "stem": "stems/Vocals_ai.ogg",
-            "notes": ""
-          },{
-            "name": "Vocals_backing_only",
-            "html": "Vocals_backing_only.html",
-            "stem": "stems/Vocals_backing_only.ogg",
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.wav",
             "notes": ""
           },{
             "name": "Vocals",
             "html": "vocals.html",
-            "stem": "stems/vocals.ogg",
+            "stem": "stems/vocals.wav",
             "notes": ""
           } ]
       }
@@ -575,112 +622,36 @@
           "flac": "song.flac"
         },
         "parts": [ {
-            "name": "1_song_(Bass)",
-            "html": "1_song_(Bass).html",
-            "stem": "stems/1_song_(Bass).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Drums)",
-            "html": "1_song_(Drums).html",
-            "stem": "stems/1_song_(Drums).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_backing_vocals)-48k",
-            "html": "1_song_(Instrumental_with_backing_vocals)-48k.html",
-            "stem": "stems/1_song_(Instrumental_with_backing_vocals)-48k.ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_lead_vocals)",
-            "html": "1_song_(Instrumental_with_lead_vocals).html",
-            "stem": "stems/1_song_(Instrumental_with_lead_vocals).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Other)",
-            "html": "1_song_(Other).html",
-            "stem": "stems/1_song_(Other).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals_backing_only)",
-            "html": "1_song_(Vocals_backing_only).html",
-            "stem": "stems/1_song_(Vocals_backing_only).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals_lead_only)",
-            "html": "1_song_(Vocals_lead_only).html",
-            "stem": "stems/1_song_(Vocals_lead_only).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals)",
-            "html": "1_song_(Vocals).html",
-            "stem": "stems/1_song_(Vocals).ogg",
-            "notes": ""
-          },{
             "name": "Bass",
             "html": "bass.html",
-            "stem": "stems/bass.ogg",
+            "stem": "stems/bass.wav",
             "notes": ""
           },{
             "name": "Drums",
             "html": "drums.html",
-            "stem": "stems/drums.ogg",
+            "stem": "stems/drums.wav",
             "notes": ""
           },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.wav",
             "notes": ""
           },{
             "name": "Vocals",
             "html": "vocals.html",
-            "stem": "stems/vocals.ogg",
+            "stem": "stems/vocals.wav",
             "notes": ""
           } ]
       }
 ,
       {
         "track": "03",
-        "folder": "albums/American_Idle/03_Swipe_Left_on_Reality",
-        "title": "Swipe Left on Reality",
+        "folder": "albums/American_Idle/03_American_Idle",
+        "title": "American Idle",
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
         "karaoke": "karaoke.mp4",
-        "audio": {
-          "ogg": "song.ogg",
-          "mp3": "song.mp3",
-          "flac": "song.flac"
-        },
-        "parts": [ {
-            "name": "Bass",
-            "html": "bass.html",
-            "stem": "stems/bass.ogg",
-            "notes": ""
-          },{
-            "name": "Drums",
-            "html": "drums.html",
-            "stem": "stems/drums.ogg",
-            "notes": ""
-          },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
-            "notes": ""
-          },{
-            "name": "Vocals",
-            "html": "vocals.html",
-            "stem": "stems/vocals.ogg",
-            "notes": ""
-          } ]
-      }
-,
-      {
-        "track": "04",
-        "folder": "albums/American_Idle/04_The_Caulk_Song",
-        "title": "The Caulk Song",
-        "art": "art.png",
-        "loop": "art.mp4",
-        "overview": "index.html",
-        "karaoke": null,
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -702,9 +673,60 @@
             "stem": "stems/guitar.ogg",
             "notes": ""
           },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
+            "name": "Percussion",
+            "html": "percussion.html",
+            "stem": "stems/percussion.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "04",
+        "folder": "albums/American_Idle/04_Swipe_Left_on_Reality",
+        "title": "Swipe Left on Reality",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -728,46 +750,6 @@
           "flac": "song.flac"
         },
         "parts": [ {
-            "name": "1_song_(Bass)",
-            "html": "1_song_(Bass).html",
-            "stem": "stems/1_song_(Bass).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Drums)",
-            "html": "1_song_(Drums).html",
-            "stem": "stems/1_song_(Drums).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_backing_vocals)",
-            "html": "1_song_(Instrumental_with_backing_vocals).html",
-            "stem": "stems/1_song_(Instrumental_with_backing_vocals).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_lead_vocals)",
-            "html": "1_song_(Instrumental_with_lead_vocals).html",
-            "stem": "stems/1_song_(Instrumental_with_lead_vocals).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Other)",
-            "html": "1_song_(Other).html",
-            "stem": "stems/1_song_(Other).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals_backing_only)",
-            "html": "1_song_(Vocals_backing_only).html",
-            "stem": "stems/1_song_(Vocals_backing_only).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals_lead_only)",
-            "html": "1_song_(Vocals_lead_only).html",
-            "stem": "stems/1_song_(Vocals_lead_only).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals)",
-            "html": "1_song_(Vocals).html",
-            "stem": "stems/1_song_(Vocals).ogg",
-            "notes": ""
-          },{
             "name": "Bass",
             "html": "bass.html",
             "stem": "stems/bass.ogg",
@@ -778,9 +760,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -840,19 +822,9 @@
           "flac": "song.flac"
         },
         "parts": [ {
-            "name": "1_cdr420 - Punk With Benefits - Sonauto_(Instrumental_with_backing_vocals)",
-            "html": "1_cdr420 - Punk With Benefits - Sonauto_(Instrumental_with_backing_vocals).html",
-            "stem": "stems/1_cdr420 - Punk With Benefits - Sonauto_(Instrumental_with_backing_vocals).ogg",
-            "notes": ""
-          },{
-            "name": "1_cdr420 - Punk With Benefits - Sonauto_(Other)",
-            "html": "1_cdr420 - Punk With Benefits - Sonauto_(Other).html",
-            "stem": "stems/1_cdr420 - Punk With Benefits - Sonauto_(Other).ogg",
-            "notes": ""
-          },{
-            "name": "1_cdr420 - Punk With Benefits - Sonauto_(Vocals_backing_only)",
-            "html": "1_cdr420 - Punk With Benefits - Sonauto_(Vocals_backing_only).html",
-            "stem": "stems/1_cdr420 - Punk With Benefits - Sonauto_(Vocals_backing_only).ogg",
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
             "notes": ""
           },{
             "name": "Bass",
@@ -865,9 +837,14 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -930,7 +907,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -947,14 +924,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
-            "notes": ""
-          },{
-            "name": "Song",
-            "html": "song.html",
-            "stem": "stems/song.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -971,7 +943,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1017,7 +989,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1034,14 +1006,14 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
-            "name": "Song",
-            "html": "song.html",
-            "stem": "stems/song.ogg",
+            "name": "Percussion",
+            "html": "percussion.html",
+            "stem": "stems/percussion.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1058,7 +1030,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1075,9 +1047,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Instrumental",
+            "html": "instrumental.html",
+            "stem": "stems/instrumental.ogg",
             "notes": ""
           },{
             "name": "Song",
@@ -1121,9 +1093,40 @@
             "stem": "stems/guitar.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
+            "notes": ""
+          } ]
+      }
+,
+      {
+        "track": "14",
+        "folder": "albums/American_Idle/14_The_Caulk_Song",
+        "title": "The Caulk Song",
+        "art": "art.png",
+        "loop": "art.mp4",
+        "overview": "index.html",
+        "karaoke": "karaoke.mp4",
+        "audio": {
+          "ogg": "song.ogg",
+          "mp3": "song.mp3",
+          "flac": "song.flac"
+        },
+        "parts": [ {
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
+            "notes": ""
+          },{
+            "name": "Drums",
+            "html": "drums.html",
+            "stem": "stems/drums.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1155,27 +1158,27 @@
         "parts": [ {
             "name": "Backing_vocals",
             "html": "backing_vocals.html",
-            "stem": "stems/backing_vocals.wav",
+            "stem": "stems/backing_vocals.ogg",
             "notes": ""
           },{
             "name": "Bass",
             "html": "bass.html",
-            "stem": "stems/bass.wav",
-            "notes": ""
-          },{
-            "name": "Dept. of Ignorance (Vocals)",
-            "html": "Dept. of Ignorance (Vocals).html",
-            "stem": "stems/Dept. of Ignorance (Vocals).wav",
+            "stem": "stems/bass.ogg",
             "notes": ""
           },{
             "name": "Drums",
             "html": "drums.html",
-            "stem": "stems/drums.wav",
+            "stem": "stems/drums.ogg",
             "notes": ""
           },{
             "name": "Guitar",
             "html": "guitar.html",
-            "stem": "stems/guitar.wav",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
             "notes": ""
           } ]
       }
@@ -1228,18 +1231,13 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
           "flac": "song.flac"
         },
         "parts": [ {
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
-            "notes": ""
-          },{
             "name": "Instrumental1",
             "html": "instrumental1.html",
             "stem": "stems/instrumental1.ogg",
@@ -1266,49 +1264,9 @@
           "flac": "song.flac"
         },
         "parts": [ {
-            "name": "1_song_(Bass)",
-            "html": "1_song_(Bass).html",
-            "stem": "stems/1_song_(Bass).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Drums)",
-            "html": "1_song_(Drums).html",
-            "stem": "stems/1_song_(Drums).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_backing_vocals)",
-            "html": "1_song_(Instrumental_with_backing_vocals).html",
-            "stem": "stems/1_song_(Instrumental_with_backing_vocals).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Instrumental_with_lead_vocals)",
-            "html": "1_song_(Instrumental_with_lead_vocals).html",
-            "stem": "stems/1_song_(Instrumental_with_lead_vocals).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Other)",
-            "html": "1_song_(Other).html",
-            "stem": "stems/1_song_(Other).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals_backing_only)",
-            "html": "1_song_(Vocals_backing_only).html",
-            "stem": "stems/1_song_(Vocals_backing_only).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals_lead_only)",
-            "html": "1_song_(Vocals_lead_only).html",
-            "stem": "stems/1_song_(Vocals_lead_only).ogg",
-            "notes": ""
-          },{
-            "name": "1_song_(Vocals)",
-            "html": "1_song_(Vocals).html",
-            "stem": "stems/1_song_(Vocals).ogg",
-            "notes": ""
-          },{
-            "name": "Bass-48k",
-            "html": "bass-48k.html",
-            "stem": "stems/bass-48k.ogg",
+            "name": "Bass",
+            "html": "bass.html",
+            "stem": "stems/bass.ogg",
             "notes": ""
           },{
             "name": "Drums",
@@ -1316,14 +1274,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Guitar-48k",
-            "html": "guitar-48k.html",
-            "stem": "stems/guitar-48k.ogg",
-            "notes": ""
-          },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1349,37 +1302,42 @@
         "parts": [ {
             "name": "Backing_vocals",
             "html": "backing_vocals.html",
-            "stem": "stems/backing_vocals.wav",
+            "stem": "stems/backing_vocals.ogg",
             "notes": ""
           },{
             "name": "Bass",
             "html": "bass.html",
-            "stem": "stems/bass.wav",
+            "stem": "stems/bass.ogg",
             "notes": ""
           },{
             "name": "Brass",
             "html": "brass.html",
-            "stem": "stems/brass.wav",
+            "stem": "stems/brass.ogg",
             "notes": ""
           },{
             "name": "Drums",
             "html": "drums.html",
-            "stem": "stems/drums.wav",
+            "stem": "stems/drums.ogg",
             "notes": ""
           },{
             "name": "Guitar",
             "html": "guitar.html",
-            "stem": "stems/guitar.wav",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Synth",
             "html": "synth.html",
-            "stem": "stems/synth.wav",
+            "stem": "stems/synth.ogg",
+            "notes": ""
+          },{
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
             "notes": ""
           },{
             "name": "Vocals.v1",
             "html": "vocals.v1.html",
-            "stem": "stems/vocals.v1.wav",
+            "stem": "stems/vocals.v1.ogg",
             "notes": ""
           } ]
       }
@@ -1391,7 +1349,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1411,11 +1369,6 @@
             "name": "Drums",
             "html": "drums.html",
             "stem": "stems/drums.ogg",
-            "notes": ""
-          },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
             "notes": ""
           },{
             "name": "Other",
@@ -1454,11 +1407,6 @@
             "stem": "stems/guitar.ogg",
             "notes": ""
           },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
-            "notes": ""
-          },{
             "name": "Other",
             "html": "other.html",
             "stem": "stems/other.ogg",
@@ -1487,22 +1435,22 @@
         "parts": [ {
             "name": "Bass",
             "html": "bass.html",
-            "stem": "stems/bass.wav",
+            "stem": "stems/bass.ogg",
             "notes": ""
           },{
             "name": "Drums",
             "html": "drums.html",
-            "stem": "stems/drums.wav",
+            "stem": "stems/drums.ogg",
             "notes": ""
           },{
             "name": "Guitar",
             "html": "guitar.html",
-            "stem": "stems/guitar.wav",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
             "html": "vocals.html",
-            "stem": "stems/vocals.wav",
+            "stem": "stems/vocals.ogg",
             "notes": ""
           } ]
       }
@@ -1582,11 +1530,6 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
-            "notes": ""
-          },{
             "name": "Vocals",
             "html": "vocals.html",
             "stem": "stems/vocals.ogg",
@@ -1608,6 +1551,11 @@
           "flac": "song.flac"
         },
         "parts": [ {
+            "name": "Backing_vocals",
+            "html": "backing_vocals.html",
+            "stem": "stems/backing_vocals.ogg",
+            "notes": ""
+          },{
             "name": "Bass",
             "html": "bass.html",
             "stem": "stems/bass.ogg",
@@ -1618,9 +1566,24 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
+            "notes": ""
+          },{
+            "name": "Keyboard",
+            "html": "keyboard.html",
+            "stem": "stems/keyboard.ogg",
+            "notes": ""
+          },{
+            "name": "Synth",
+            "html": "synth.html",
+            "stem": "stems/synth.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1652,11 +1615,6 @@
             "name": "Drums",
             "html": "drums.html",
             "stem": "stems/drums.ogg",
-            "notes": ""
-          },{
-            "name": "Instrumental",
-            "html": "instrumental.html",
-            "stem": "stems/instrumental.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1742,9 +1700,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1793,9 +1751,9 @@
             "stem": "stems/percussion.ogg",
             "notes": ""
           },{
-            "name": "Vocals-48k",
-            "html": "vocals-48k.html",
-            "stem": "stems/vocals-48k.ogg",
+            "name": "Vocals",
+            "html": "vocals.html",
+            "stem": "stems/vocals.ogg",
             "notes": ""
           } ]
       }
@@ -1853,7 +1811,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1903,22 +1861,22 @@
         "parts": [ {
             "name": "Bass",
             "html": "bass.html",
-            "stem": "stems/bass.wav",
+            "stem": "stems/bass.ogg",
             "notes": ""
           },{
             "name": "Drums",
             "html": "drums.html",
-            "stem": "stems/drums.wav",
+            "stem": "stems/drums.ogg",
             "notes": ""
           },{
             "name": "Guitar",
             "html": "guitar.html",
-            "stem": "stems/guitar.wav",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
             "html": "vocals.html",
-            "stem": "stems/vocals.wav",
+            "stem": "stems/vocals.ogg",
             "notes": ""
           } ]
       }
@@ -1930,7 +1888,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1947,9 +1905,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -1966,7 +1924,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -1983,9 +1941,14 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Fx",
+            "html": "fx.html",
+            "stem": "stems/fx.ogg",
+            "notes": ""
+          },{
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -2002,7 +1965,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -2019,9 +1982,9 @@
             "stem": "stems/drums.ogg",
             "notes": ""
           },{
-            "name": "Instrumentals",
-            "html": "instrumentals.html",
-            "stem": "stems/instrumentals.ogg",
+            "name": "Guitar",
+            "html": "guitar.html",
+            "stem": "stems/guitar.ogg",
             "notes": ""
           },{
             "name": "Vocals",
@@ -2038,7 +2001,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -2106,11 +2069,6 @@
             "stem": "stems/guitar.ogg",
             "notes": ""
           },{
-            "name": "Karaoke",
-            "html": "karaoke.html",
-            "stem": "stems/karaoke.wav",
-            "notes": ""
-          },{
             "name": "Vocals",
             "html": "vocals.html",
             "stem": "stems/vocals.ogg",
@@ -2125,7 +2083,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -2166,7 +2124,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",
@@ -2207,7 +2165,7 @@
         "art": "art.png",
         "loop": "art.mp4",
         "overview": "index.html",
-        "karaoke": null,
+        "karaoke": "karaoke.mp4",
         "audio": {
           "ogg": "song.ogg",
           "mp3": "song.mp3",

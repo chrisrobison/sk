@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 444.1791 438.2962">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="211.398" y1="68.517" x2="211.398" y2="343.665" id="gradient-0" gradientTransform="matrix(0.79628, -0.604929, 0.583934, 0.768642, -70.908448, 180.427837)">
+      <stop offset="0" style="stop-color: rgb(101, 101, 101);"></stop>
+      <stop offset="1" style="stop-color: rgb(37, 37, 37);"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="219.052" y1="72.275" x2="219.052" y2="350.647" id="gradient-1" gradientTransform="matrix(0.776489, -0.63013, 0.628091, 0.773977, -75.409573, 181.355262)">
+      <stop offset="0" style="stop-color: rgb(74, 74, 74);"></stop>
+      <stop offset="1" style="stop-color: rgb(29, 29, 29);"></stop>
+    </linearGradient>
+  </defs>
+  <circle style="stroke-miterlimit: 4.4; stroke-width: 50; fill: none; stroke-dasharray: 10, 92; stroke: rgba(0, 0, 0, 0.51);" cx="217.397" cy="209.58" r="177.286"></circle>
+  <circle style="stroke-miterlimit: 4.4; stroke-width: 50px; fill: none; stroke: rgb(199, 199, 199); stroke-dasharray: 10, 92;" cx="219.514" cy="212.954" r="177.286"></circle>
+  <circle style="fill: url(#gradient-0); stroke: url(#gradient-1); stroke-width: 18px;" cx="219.052" cy="211.461" r="139.186"></circle>
+</svg>

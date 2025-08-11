@@ -1,0 +1,63 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.43,0:00:07.95,Lyrics,,0,0,70,,{\k36}Pam {\k58}Bondi {\k34}said {\k10}it’s {\k10}on {\k20}her {\k40}desk
+Dialogue: 0,0:00:08.05,0:00:10.53,Lyrics,,0,0,70,,{\k28}Right {\k26}next {\k10}to {\k32}truth {\k14}and {\k30}civil {\k46}unrest
+Dialogue: 0,0:00:10.71,0:00:12.36,Lyrics,,0,0,70,,{\k12}One {\k32}day {\k14}it’s {\k30}there, {\k10}the {\k32}next—poof!
+Dialogue: 0,0:00:12.76,0:00:15.12,Lyrics,,0,0,70,,{\k34}Vanished {\k24}like {\k26}ethics {\k8}in {\k6}a {\k42}voting {\k62}booth
+Dialogue: 0,0:00:15.30,0:00:17.48,Lyrics,,0,0,70,,{\k60}Promises {\k24}made {\k16}from {\k6}the {\k46}podium {\k42}high
+Dialogue: 0,0:00:17.54,0:00:19.99,Lyrics,,0,0,70,,{\k26}Now {\k28}they {\k58}gaslight {\k14}with {\k4}a {\k48}straight-up {\k38}lie
+Dialogue: 0,0:00:20.03,0:00:22.55,Lyrics,,0,0,70,,{\k20}Said {\k10}“we’ll {\k30}drain {\k8}the {\k38}swamp,” {\k24}yeah, {\k22}sure {\k18}you {\k42}did—
+Dialogue: 0,0:00:22.59,0:00:25.13,Lyrics,,0,0,70,,{\k26}Just {\k30}made {\k2}a {\k28}list {\k8}and {\k32}buried {\k8}it {\k12}with {\k10}the {\k50}kids
+Dialogue: 0,0:00:25.15,0:00:27.56,Lyrics,,0,0,70,,{\k26}The {\k42}list {\k24}that {\k34}doesn’t {\k46}exist
+Dialogue: 0,0:00:27.64,0:00:36.64,Lyrics,,0,0,70,,{\k28}Gets {\k56}burned {\k46}while {\k24}they {\k34}shake {\k34}their {\k12}fists
+Dialogue: 0,0:00:37.12,0:00:40.11,Lyrics,,0,0,70,,{\k8}The {\k22}list {\k20}that {\k40}never {\k24}saw {\k14}light
+Dialogue: 0,0:00:40.31,0:00:47.67,Lyrics,,0,0,70,,{\k10}Buried {\k8}deep {\k32}in {\k16}a {\k18}billionaire’s {\k36}flight
+Dialogue: 0,0:00:48.65,0:01:00.26,Lyrics,,0,0,70,,{\k10}They {\k44}scream {\k30}“fake {\k28}news!” {\k12}and {\k46}twist {\k8}the {\k72}plot
+Dialogue: 0,0:01:00.33,0:01:08.29,Lyrics,,0,0,70,,{\k48}But {\k10}the {\k34}names {\k12}on {\k2}the {\k40}list {\k26}sure {\k34}remember {\k48}a {\k24}lot
+Dialogue: 0,0:01:08.37,0:01:13.36,Lyrics,,0,0,70,,{\k90}It’s {\k12}the {\k68}list {\k46}(shhh), {\k6}the {\k42}list {\k26}(shhh)
+Dialogue: 0,0:01:13.40,0:01:14.62,Lyrics,,0,0,70,,{\k30}The {\k8}list {\k2}that {\k28}doesn’t {\k26}exist!
+Dialogue: 0,0:01:14.66,0:01:20.55,Lyrics,,0,0,70,,{\k34}Reporter {\k12}asks, {\k14}they {\k58}start {\k12}to {\k48}sweat
+Dialogue: 0,0:01:20.67,0:01:24.09,Lyrics,,0,0,70,,{\k14}Cue {\k10}the {\k106}yelling {\k12}and {\k12}the {\k26}press {\k24}reset
+Dialogue: 0,0:01:24.15,0:01:27.10,Lyrics,,0,0,70,,{\k32}"That’s {\k52}fake! {\k40}That’s {\k8}false! {\k12}That’s {\k16}Soros {\k16}trash!"
+Dialogue: 0,0:01:27.18,0:01:29.46,Lyrics,,0,0,70,,{\k8}While {\k8}justice {\k74}drowns {\k4}in {\k20}private {\k32}jets {\k16}and {\k28}cash
+Dialogue: 0,0:01:29.56,0:01:31.36,Lyrics,,0,0,70,,{\k16}Their {\k2}fingers {\k92}all {\k14}smell {\k16}like {\k14}kerosene
+Dialogue: 0,0:01:31.40,0:01:33.63,Lyrics,,0,0,70,,{\k2}While {\k100}they {\k6}gas {\k20}up {\k18}the {\k10}memory {\k28}machine
+Dialogue: 0,0:01:33.95,0:01:51.08,Lyrics,,0,0,70,,{\k16}Rewrite {\k8}the {\k32}script {\k26}with {\k38}a {\k40}sharpie {\k66}pen
+Dialogue: 0,0:01:51.16,0:01:52.97,Lyrics,,0,0,70,,{\k32}While {\k10}Epstein’s {\k52}ghost {\k12}just {\k20}laughs {\k18}again
+Dialogue: 0,0:02:02.27,0:02:04.81,Lyrics,,0,0,70,,{\k32}The {\k40}list {\k24}that {\k36}doesn’t {\k48}exist
+Dialogue: 0,0:02:04.85,0:02:07.32,Lyrics,,0,0,70,,{\k30}Got {\k56}filed {\k18}with {\k8}the {\k44}other {\k38}grifts
+Dialogue: 0,0:02:07.40,0:02:11.02,Lyrics,,0,0,70,,{\k26}The {\k38}list {\k24}that {\k20}slipped {\k20}through {\k8}the {\k32}cracks
+Dialogue: 0,0:02:11.16,0:02:16.71,Lyrics,,0,0,70,,{\k14}Now {\k32}sits {\k8}on {\k70}a {\k14}yacht {\k28}with {\k10}knives {\k8}in {\k12}backs
+Dialogue: 0,0:02:17.69,0:02:22.20,Lyrics,,0,0,70,,{\k12}They {\k36}say {\k12}“hoax” {\k106}and {\k10}“witch {\k26}hunt,” {\k22}same {\k32}old {\k82}spin
+Dialogue: 0,0:02:22.20,0:02:24.22,Lyrics,,0,0,70,,{\k29}While {\k29}victims {\k29}wait {\k29}for {\k29}truth {\k29}to {\k29}begin
+Dialogue: 0,0:02:24.22,0:02:26.24,Lyrics,,0,0,70,,{\k29}It’s {\k29}the {\k29}list {\k29}(shhh), {\k29}the {\k29}list {\k29}(shhh)
+Dialogue: 0,0:02:26.24,0:02:27.68,Lyrics,,0,0,70,,{\k29}The {\k29}list {\k29}that {\k29}doesn’t {\k29}exist!
+Dialogue: 0,0:02:27.68,0:02:29.99,Lyrics,,0,0,70,,{\k29}“Sir, {\k29}do {\k29}you {\k29}know {\k29}who’s {\k29}on {\k29}the {\k29}list?”
+Dialogue: 0,0:02:29.99,0:02:32.30,Lyrics,,0,0,70,,{\k29}“I {\k29}don’t {\k29}know. {\k29}I’ve {\k29}never {\k29}seen {\k29}a {\k29}list.
+Dialogue: 0,0:02:32.30,0:02:35.19,Lyrics,,0,0,70,,{\k29}There {\k29}may {\k29}be {\k29}a {\k29}list. {\k29}It {\k29}might {\k29}not {\k29}be {\k29}real.
+Dialogue: 0,0:02:35.19,0:02:37.78,Lyrics,,0,0,70,,{\k29}What {\k29}even {\k29}is {\k29}a {\k29}list? {\k29}Is {\k29}it {\k29}even {\k29}legal?”
+Dialogue: 0,0:02:37.78,0:02:39.52,Lyrics,,0,0,70,,{\k29}Flashbulbs {\k29}pop, {\k29}the {\k29}crowd {\k29}goes {\k29}numb
+Dialogue: 0,0:02:39.52,0:02:40.96,Lyrics,,0,0,70,,{\k29}Another {\k29}scandal, {\k29}here {\k29}it {\k29}comes
+Dialogue: 0,0:02:40.96,0:02:42.98,Lyrics,,0,0,70,,{\k29}But {\k29}don’t {\k29}you {\k29}dare {\k29}try {\k29}to {\k29}insist—
+Dialogue: 0,0:02:42.98,0:02:45.29,Lyrics,,0,0,70,,{\k29}That {\k29}there’s {\k29}anything {\k29}real {\k29}on {\k29}that {\k29}damn {\k29}list!
+Dialogue: 0,0:02:45.29,0:02:46.73,Lyrics,,0,0,70,,{\k29}The {\k29}list {\k29}that {\k29}doesn’t {\k29}exist
+Dialogue: 0,0:02:46.73,0:02:48.46,Lyrics,,0,0,70,,{\k29}Stays {\k29}sealed {\k29}with {\k29}a {\k29}pervert’s {\k29}kiss
+Dialogue: 0,0:02:48.46,0:02:50.19,Lyrics,,0,0,70,,{\k29}The {\k29}list {\k29}that {\k29}we’ll {\k29}never {\k29}see
+Dialogue: 0,0:02:50.19,0:02:52.21,Lyrics,,0,0,70,,{\k29}Because {\k29}the {\k29}truth {\k29}ain’t {\k29}“Made {\k29}in {\k29}D.C.”
+Dialogue: 0,0:02:52.21,0:02:54.52,Lyrics,,0,0,70,,{\k29}So {\k29}scream {\k29}it {\k29}loud, {\k29}don't {\k29}let {\k29}them {\k29}win—
+Dialogue: 0,0:02:54.52,0:02:56.83,Lyrics,,0,0,70,,{\k29}They {\k29}hid {\k29}the {\k29}list... {\k29}and {\k29}all {\k29}their {\k29}sins
+Dialogue: 0,0:02:56.83,0:02:58.85,Lyrics,,0,0,70,,{\k29}It’s {\k29}the {\k29}list {\k29}(shhh), {\k29}the {\k29}list {\k29}(shhh)
+Dialogue: 0,0:02:58.85,0:03:00.29,Lyrics,,0,0,70,,{\k29}The {\k29}list {\k29}that {\k29}doesn’t {\k29}exist!

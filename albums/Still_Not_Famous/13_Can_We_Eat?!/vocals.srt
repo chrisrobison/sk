@@ -1,0 +1,1164 @@
+1
+00:00:46,589 --> 00:00:47,010
+<u>Fridge</u> is empty, dandries are chilled.
+
+2
+00:00:47,010 --> 00:00:47,030
+Fridge is empty, dandries are chilled.
+
+3
+00:00:47,030 --> 00:00:47,170
+Fridge <u>is</u> empty, dandries are chilled.
+
+4
+00:00:47,170 --> 00:00:47,290
+Fridge is empty, dandries are chilled.
+
+5
+00:00:47,290 --> 00:00:47,651
+Fridge is <u>empty,</u> dandries are chilled.
+
+6
+00:00:47,651 --> 00:00:47,971
+Fridge is empty, dandries are chilled.
+
+7
+00:00:47,971 --> 00:00:48,412
+Fridge is empty, <u>dandries</u> are chilled.
+
+8
+00:00:48,412 --> 00:00:48,472
+Fridge is empty, dandries are chilled.
+
+9
+00:00:48,472 --> 00:00:48,532
+Fridge is empty, dandries <u>are</u> chilled.
+
+10
+00:00:48,532 --> 00:00:48,572
+Fridge is empty, dandries are chilled.
+
+11
+00:00:48,572 --> 00:00:49,534
+Fridge is empty, dandries are <u>chilled.</u>
+
+12
+00:00:49,554 --> 00:00:49,674
+<u>One</u> sad pickle and some diet coke.
+
+13
+00:00:49,674 --> 00:00:49,794
+One sad pickle and some diet coke.
+
+14
+00:00:49,794 --> 00:00:49,914
+One <u>sad</u> pickle and some diet coke.
+
+15
+00:00:49,914 --> 00:00:49,974
+One sad pickle and some diet coke.
+
+16
+00:00:49,974 --> 00:00:50,315
+One sad <u>pickle</u> and some diet coke.
+
+17
+00:00:50,315 --> 00:00:50,375
+One sad pickle and some diet coke.
+
+18
+00:00:50,375 --> 00:00:50,455
+One sad pickle <u>and</u> some diet coke.
+
+19
+00:00:50,455 --> 00:00:50,495
+One sad pickle and some diet coke.
+
+20
+00:00:50,495 --> 00:00:50,615
+One sad pickle and <u>some</u> diet coke.
+
+21
+00:00:50,615 --> 00:00:50,676
+One sad pickle and some diet coke.
+
+22
+00:00:50,676 --> 00:00:51,096
+One sad pickle and some <u>diet</u> coke.
+
+23
+00:00:51,096 --> 00:00:51,136
+One sad pickle and some diet coke.
+
+24
+00:00:51,136 --> 00:00:51,857
+One sad pickle and some diet <u>coke.</u>
+
+25
+00:00:51,877 --> 00:00:51,978
+<u>We</u> swore we'd shop, but we slept instead.
+
+26
+00:00:51,978 --> 00:00:51,998
+We swore we'd shop, but we slept instead.
+
+27
+00:00:51,998 --> 00:00:52,238
+We <u>swore</u> we'd shop, but we slept instead.
+
+28
+00:00:52,238 --> 00:00:52,258
+We swore we'd shop, but we slept instead.
+
+29
+00:00:52,258 --> 00:00:52,458
+We swore <u>we'd</u> shop, but we slept instead.
+
+30
+00:00:52,458 --> 00:00:52,498
+We swore we'd shop, but we slept instead.
+
+31
+00:00:52,498 --> 00:00:52,819
+We swore we'd <u>shop,</u> but we slept instead.
+
+32
+00:00:52,819 --> 00:00:52,839
+We swore we'd shop, but we slept instead.
+
+33
+00:00:52,839 --> 00:00:53,059
+We swore we'd shop, <u>but</u> we slept instead.
+
+34
+00:00:53,059 --> 00:00:53,099
+We swore we'd shop, but we slept instead.
+
+35
+00:00:53,099 --> 00:00:53,220
+We swore we'd shop, but <u>we</u> slept instead.
+
+36
+00:00:53,220 --> 00:00:53,260
+We swore we'd shop, but we slept instead.
+
+37
+00:00:53,260 --> 00:00:53,560
+We swore we'd shop, but we <u>slept</u> instead.
+
+38
+00:00:53,560 --> 00:00:53,640
+We swore we'd shop, but we slept instead.
+
+39
+00:00:53,640 --> 00:00:54,241
+We swore we'd shop, but we slept <u>instead.</u>
+
+40
+00:00:54,862 --> 00:00:55,002
+<u>Now</u> we're starvin' full of dread.
+
+41
+00:00:55,002 --> 00:00:55,042
+Now we're starvin' full of dread.
+
+42
+00:00:55,042 --> 00:00:55,223
+Now <u>we're</u> starvin' full of dread.
+
+43
+00:00:55,223 --> 00:00:55,283
+Now we're starvin' full of dread.
+
+44
+00:00:55,283 --> 00:00:55,744
+Now we're <u>starvin'</u> full of dread.
+
+45
+00:00:55,744 --> 00:00:55,864
+Now we're starvin' full of dread.
+
+46
+00:00:55,864 --> 00:00:56,184
+Now we're starvin' <u>full</u> of dread.
+
+47
+00:00:56,184 --> 00:00:56,325
+Now we're starvin' full of dread.
+
+48
+00:00:56,325 --> 00:00:56,445
+Now we're starvin' full <u>of</u> dread.
+
+49
+00:00:56,445 --> 00:00:56,465
+Now we're starvin' full of dread.
+
+50
+00:00:56,465 --> 00:00:56,966
+Now we're starvin' full of <u>dread.</u>
+
+51
+00:00:57,947 --> 00:00:58,528
+<u>Stomach's</u> rumbling, now the clock strikes six.
+
+52
+00:00:58,528 --> 00:00:58,548
+Stomach's rumbling, now the clock strikes six.
+
+53
+00:00:58,548 --> 00:00:59,249
+Stomach's <u>rumbling,</u> now the clock strikes six.
+
+54
+00:00:59,249 --> 00:01:00,171
+Stomach's rumbling, now the clock strikes six.
+
+55
+00:01:00,171 --> 00:01:00,351
+Stomach's rumbling, <u>now</u> the clock strikes six.
+
+56
+00:01:00,351 --> 00:01:00,371
+Stomach's rumbling, now the clock strikes six.
+
+57
+00:01:00,371 --> 00:01:00,451
+Stomach's rumbling, now <u>the</u> clock strikes six.
+
+58
+00:01:00,451 --> 00:01:00,491
+Stomach's rumbling, now the clock strikes six.
+
+59
+00:01:00,491 --> 00:01:00,792
+Stomach's rumbling, now the <u>clock</u> strikes six.
+
+60
+00:01:00,792 --> 00:01:00,832
+Stomach's rumbling, now the clock strikes six.
+
+61
+00:01:00,832 --> 00:01:01,212
+Stomach's rumbling, now the clock <u>strikes</u> six.
+
+62
+00:01:01,212 --> 00:01:01,292
+Stomach's rumbling, now the clock strikes six.
+
+63
+00:01:01,292 --> 00:01:02,915
+Stomach's rumbling, now the clock strikes <u>six.</u>
+
+64
+00:01:02,935 --> 00:01:03,115
+<u>We</u> argue and we disagree, lick and mix.
+
+65
+00:01:03,115 --> 00:01:03,256
+We argue and we disagree, lick and mix.
+
+66
+00:01:03,256 --> 00:01:03,756
+We <u>argue</u> and we disagree, lick and mix.
+
+67
+00:01:03,756 --> 00:01:03,997
+We argue and we disagree, lick and mix.
+
+68
+00:01:03,997 --> 00:01:04,157
+We argue <u>and</u> we disagree, lick and mix.
+
+69
+00:01:04,157 --> 00:01:04,217
+We argue and we disagree, lick and mix.
+
+70
+00:01:04,217 --> 00:01:04,437
+We argue and <u>we</u> disagree, lick and mix.
+
+71
+00:01:04,437 --> 00:01:04,498
+We argue and we disagree, lick and mix.
+
+72
+00:01:04,498 --> 00:01:05,599
+We argue and we <u>disagree,</u> lick and mix.
+
+73
+00:01:05,599 --> 00:01:06,060
+We argue and we disagree, lick and mix.
+
+74
+00:01:06,060 --> 00:01:06,300
+We argue and we disagree, <u>lick</u> and mix.
+
+75
+00:01:06,300 --> 00:01:06,320
+We argue and we disagree, lick and mix.
+
+76
+00:01:06,320 --> 00:01:06,461
+We argue and we disagree, lick <u>and</u> mix.
+
+77
+00:01:06,461 --> 00:01:06,501
+We argue and we disagree, lick and mix.
+
+78
+00:01:06,501 --> 00:01:08,544
+We argue and we disagree, lick and <u>mix.</u>
+
+79
+00:01:08,564 --> 00:01:08,764
+<u>You</u> want sushi, I want fries and shakes.
+
+80
+00:01:08,764 --> 00:01:08,925
+You want sushi, I want fries and shakes.
+
+81
+00:01:08,925 --> 00:01:09,105
+You <u>want</u> sushi, I want fries and shakes.
+
+82
+00:01:09,105 --> 00:01:09,165
+You want sushi, I want fries and shakes.
+
+83
+00:01:09,165 --> 00:01:09,986
+You want <u>sushi,</u> I want fries and shakes.
+
+84
+00:01:09,986 --> 00:01:10,006
+You want sushi, I want fries and shakes.
+
+85
+00:01:10,006 --> 00:01:10,127
+You want sushi, <u>I</u> want fries and shakes.
+
+86
+00:01:10,127 --> 00:01:10,167
+You want sushi, I want fries and shakes.
+
+87
+00:01:10,167 --> 00:01:10,547
+You want sushi, I <u>want</u> fries and shakes.
+
+88
+00:01:10,547 --> 00:01:11,188
+You want sushi, I want fries and shakes.
+
+89
+00:01:11,188 --> 00:01:11,589
+You want sushi, I want <u>fries</u> and shakes.
+
+90
+00:01:11,589 --> 00:01:11,729
+You want sushi, I want fries and shakes.
+
+91
+00:01:11,729 --> 00:01:11,909
+You want sushi, I want fries <u>and</u> shakes.
+
+92
+00:01:11,909 --> 00:01:11,989
+You want sushi, I want fries and shakes.
+
+93
+00:01:11,989 --> 00:01:12,951
+You want sushi, I want fries and <u>shakes.</u>
+
+94
+00:01:13,808 --> 00:01:14,189
+<u>Round</u> and round, another fight you undertake.
+
+95
+00:01:14,189 --> 00:01:14,349
+Round and round, another fight you undertake.
+
+96
+00:01:14,349 --> 00:01:14,489
+Round <u>and</u> round, another fight you undertake.
+
+97
+00:01:14,489 --> 00:01:14,549
+Round and round, another fight you undertake.
+
+98
+00:01:14,549 --> 00:01:15,150
+Round and <u>round,</u> another fight you undertake.
+
+99
+00:01:15,150 --> 00:01:15,170
+Round and round, another fight you undertake.
+
+100
+00:01:15,170 --> 00:01:15,731
+Round and round, <u>another</u> fight you undertake.
+
+101
+00:01:15,731 --> 00:01:15,812
+Round and round, another fight you undertake.
+
+102
+00:01:15,812 --> 00:01:16,152
+Round and round, another <u>fight</u> you undertake.
+
+103
+00:01:16,152 --> 00:01:16,192
+Round and round, another fight you undertake.
+
+104
+00:01:16,192 --> 00:01:16,453
+Round and round, another fight <u>you</u> undertake.
+
+105
+00:01:16,453 --> 00:01:16,693
+Round and round, another fight you undertake.
+
+106
+00:01:16,693 --> 00:01:17,695
+Round and round, another fight you <u>undertake.</u>
+
+107
+00:01:19,378 --> 00:01:20,380
+<u>Chun-Li!</u>
+
+108
+00:01:21,762 --> 00:01:21,922
+<u>Oh,</u> Chun-Li!
+
+109
+00:01:21,922 --> 00:01:21,942
+Oh, Chun-Li!
+
+110
+00:01:21,942 --> 00:01:23,104
+Oh, <u>Chun-Li!</u>
+
+111
+00:01:24,607 --> 00:01:25,629
+<u>Chun-Li!</u>
+
+112
+00:01:27,071 --> 00:01:27,232
+<u>Oh,</u> Chun-Li!
+
+113
+00:01:27,232 --> 00:01:27,252
+Oh, Chun-Li!
+
+114
+00:01:27,252 --> 00:01:28,273
+Oh, <u>Chun-Li!</u>
+
+115
+00:01:29,155 --> 00:01:29,395
+<u>Meet</u> us on my phone.
+
+116
+00:01:29,395 --> 00:01:29,496
+Meet us on my phone.
+
+117
+00:01:29,496 --> 00:01:29,616
+Meet <u>us</u> on my phone.
+
+118
+00:01:29,616 --> 00:01:29,836
+Meet us on my phone.
+
+119
+00:01:29,836 --> 00:01:29,976
+Meet us <u>on</u> my phone.
+
+120
+00:01:29,976 --> 00:01:30,017
+Meet us on my phone.
+
+121
+00:01:30,017 --> 00:01:30,317
+Meet us on <u>my</u> phone.
+
+122
+00:01:30,317 --> 00:01:30,357
+Meet us on my phone.
+
+123
+00:01:30,357 --> 00:01:30,938
+Meet us on my <u>phone.</u>
+
+124
+00:01:31,940 --> 00:01:32,080
+<u>We</u> scroll for an hour.
+
+125
+00:01:32,080 --> 00:01:32,100
+We scroll for an hour.
+
+126
+00:01:32,100 --> 00:01:32,461
+We <u>scroll</u> for an hour.
+
+127
+00:01:32,461 --> 00:01:32,501
+We scroll for an hour.
+
+128
+00:01:32,501 --> 00:01:32,761
+We scroll <u>for</u> an hour.
+
+129
+00:01:32,761 --> 00:01:32,902
+We scroll for an hour.
+
+130
+00:01:32,902 --> 00:01:32,982
+We scroll for <u>an</u> hour.
+
+131
+00:01:32,982 --> 00:01:33,162
+We scroll for an hour.
+
+132
+00:01:33,162 --> 00:01:34,264
+We scroll for an <u>hour.</u>
+
+133
+00:01:34,750 --> 00:01:35,030
+<u>You</u> say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+134
+00:01:35,030 --> 00:01:35,091
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+135
+00:01:35,091 --> 00:01:35,331
+You <u>say</u> you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+136
+00:01:35,331 --> 00:01:35,371
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+137
+00:01:35,371 --> 00:01:35,591
+You say <u>you're</u> vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+138
+00:01:35,591 --> 00:01:35,772
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+139
+00:01:35,772 --> 00:01:36,273
+You say you're <u>vegan</u> now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+140
+00:01:36,273 --> 00:01:36,313
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+141
+00:01:36,313 --> 00:01:36,773
+You say you're vegan <u>now</u> If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+142
+00:01:36,773 --> 00:01:37,334
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+143
+00:01:37,334 --> 00:01:37,374
+You say you're vegan now <u>If</u> you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+144
+00:01:37,374 --> 00:01:37,394
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+145
+00:01:37,394 --> 00:01:37,454
+You say you're vegan now If <u>you</u> want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+146
+00:01:37,454 --> 00:01:37,495
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+147
+00:01:37,495 --> 00:01:37,655
+You say you're vegan now If you <u>want</u> a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+148
+00:01:37,655 --> 00:01:37,735
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+149
+00:01:37,735 --> 00:01:37,755
+You say you're vegan now If you want <u>a</u> cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+150
+00:01:37,755 --> 00:01:37,815
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+151
+00:01:37,815 --> 00:01:38,977
+You say you're vegan now If you want a <u>cauliflower</u> I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+152
+00:01:38,977 --> 00:01:39,878
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+153
+00:01:39,878 --> 00:01:39,979
+You say you're vegan now If you want a cauliflower <u>I</u> just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+154
+00:01:39,979 --> 00:01:40,019
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+155
+00:01:40,019 --> 00:01:40,299
+You say you're vegan now If you want a cauliflower I <u>just</u> want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+156
+00:01:40,299 --> 00:01:40,359
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+157
+00:01:40,359 --> 00:01:40,580
+You say you're vegan now If you want a cauliflower I just <u>want</u> burritos Or maybe some wings Why does dinner Turn to a million things?
+
+158
+00:01:40,580 --> 00:01:40,660
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+159
+00:01:40,660 --> 00:01:41,762
+You say you're vegan now If you want a cauliflower I just want <u>burritos</u> Or maybe some wings Why does dinner Turn to a million things?
+
+160
+00:01:41,762 --> 00:01:42,883
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+161
+00:01:42,883 --> 00:01:43,004
+You say you're vegan now If you want a cauliflower I just want burritos <u>Or</u> maybe some wings Why does dinner Turn to a million things?
+
+162
+00:01:43,004 --> 00:01:43,044
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+163
+00:01:43,044 --> 00:01:43,384
+You say you're vegan now If you want a cauliflower I just want burritos Or <u>maybe</u> some wings Why does dinner Turn to a million things?
+
+164
+00:01:43,384 --> 00:01:43,444
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+165
+00:01:43,444 --> 00:01:43,705
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe <u>some</u> wings Why does dinner Turn to a million things?
+
+166
+00:01:43,705 --> 00:01:43,745
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+167
+00:01:43,745 --> 00:01:44,266
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some <u>wings</u> Why does dinner Turn to a million things?
+
+168
+00:01:44,266 --> 00:01:45,868
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+169
+00:01:45,868 --> 00:01:46,089
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings <u>Why</u> does dinner Turn to a million things?
+
+170
+00:01:46,089 --> 00:01:46,109
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+171
+00:01:46,109 --> 00:01:46,329
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why <u>does</u> dinner Turn to a million things?
+
+172
+00:01:46,329 --> 00:01:46,429
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+173
+00:01:46,429 --> 00:01:47,030
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does <u>dinner</u> Turn to a million things?
+
+174
+00:01:47,030 --> 00:01:47,852
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+175
+00:01:47,852 --> 00:01:48,132
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner <u>Turn</u> to a million things?
+
+176
+00:01:48,132 --> 00:01:48,152
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+177
+00:01:48,152 --> 00:01:48,312
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn <u>to</u> a million things?
+
+178
+00:01:48,312 --> 00:01:48,332
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+179
+00:01:48,332 --> 00:01:48,433
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to <u>a</u> million things?
+
+180
+00:01:48,433 --> 00:01:48,493
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+181
+00:01:48,493 --> 00:01:49,054
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a <u>million</u> things?
+
+182
+00:01:49,054 --> 00:01:49,114
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million things?
+
+183
+00:01:49,114 --> 00:01:49,735
+You say you're vegan now If you want a cauliflower I just want burritos Or maybe some wings Why does dinner Turn to a million <u>things?</u>
+
+184
+00:01:51,297 --> 00:01:51,478
+<u>We</u> had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+185
+00:01:51,478 --> 00:01:51,518
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+186
+00:01:51,518 --> 00:01:51,718
+We <u>had</u> breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+187
+00:01:51,718 --> 00:01:51,778
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+188
+00:01:51,778 --> 00:01:52,439
+We had <u>breakfast</u> cold And lunch was late They say food brings luck But this might bring hate
+
+189
+00:01:52,439 --> 00:01:52,499
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+190
+00:01:52,499 --> 00:01:52,960
+We had breakfast <u>cold</u> And lunch was late They say food brings luck But this might bring hate
+
+191
+00:01:52,960 --> 00:01:54,242
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+192
+00:01:54,242 --> 00:01:54,362
+We had breakfast cold <u>And</u> lunch was late They say food brings luck But this might bring hate
+
+193
+00:01:54,362 --> 00:01:54,483
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+194
+00:01:54,483 --> 00:01:54,783
+We had breakfast cold And <u>lunch</u> was late They say food brings luck But this might bring hate
+
+195
+00:01:54,783 --> 00:01:54,843
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+196
+00:01:54,843 --> 00:01:55,104
+We had breakfast cold And lunch <u>was</u> late They say food brings luck But this might bring hate
+
+197
+00:01:55,104 --> 00:01:55,184
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+198
+00:01:55,184 --> 00:01:55,604
+We had breakfast cold And lunch was <u>late</u> They say food brings luck But this might bring hate
+
+199
+00:01:55,604 --> 00:01:56,466
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+200
+00:01:56,466 --> 00:01:56,706
+We had breakfast cold And lunch was late <u>They</u> say food brings luck But this might bring hate
+
+201
+00:01:56,706 --> 00:01:56,766
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+202
+00:01:56,766 --> 00:01:57,067
+We had breakfast cold And lunch was late They <u>say</u> food brings luck But this might bring hate
+
+203
+00:01:57,067 --> 00:01:57,127
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+204
+00:01:57,127 --> 00:01:57,427
+We had breakfast cold And lunch was late They say <u>food</u> brings luck But this might bring hate
+
+205
+00:01:57,427 --> 00:01:57,467
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+206
+00:01:57,467 --> 00:01:57,788
+We had breakfast cold And lunch was late They say food <u>brings</u> luck But this might bring hate
+
+207
+00:01:57,788 --> 00:01:57,868
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+208
+00:01:57,868 --> 00:01:58,129
+We had breakfast cold And lunch was late They say food brings <u>luck</u> But this might bring hate
+
+209
+00:01:58,129 --> 00:01:58,269
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+210
+00:01:58,269 --> 00:01:58,409
+We had breakfast cold And lunch was late They say food brings luck <u>But</u> this might bring hate
+
+211
+00:01:58,409 --> 00:01:58,449
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+212
+00:01:58,449 --> 00:01:58,750
+We had breakfast cold And lunch was late They say food brings luck But <u>this</u> might bring hate
+
+213
+00:01:58,750 --> 00:01:59,130
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+214
+00:01:59,130 --> 00:01:59,431
+We had breakfast cold And lunch was late They say food brings luck But this <u>might</u> bring hate
+
+215
+00:01:59,431 --> 00:01:59,471
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+216
+00:01:59,471 --> 00:01:59,972
+We had breakfast cold And lunch was late They say food brings luck But this might <u>bring</u> hate
+
+217
+00:01:59,972 --> 00:01:59,992
+We had breakfast cold And lunch was late They say food brings luck But this might bring hate
+
+218
+00:01:59,992 --> 00:02:00,252
+We had breakfast cold And lunch was late They say food brings luck But this might bring <u>hate</u>
+
+219
+00:02:01,767 --> 00:02:02,428
+<u>Stomach's</u> rumbling.
+
+220
+00:02:02,428 --> 00:02:02,488
+Stomach's rumbling.
+
+221
+00:02:02,488 --> 00:02:03,189
+Stomach's <u>rumbling.</u>
+
+222
+00:02:04,110 --> 00:02:04,271
+<u>Now</u> the clock strikes six.
+
+223
+00:02:04,271 --> 00:02:04,311
+Now the clock strikes six.
+
+224
+00:02:04,311 --> 00:02:04,391
+Now <u>the</u> clock strikes six.
+
+225
+00:02:04,391 --> 00:02:04,451
+Now the clock strikes six.
+
+226
+00:02:04,451 --> 00:02:04,751
+Now the <u>clock</u> strikes six.
+
+227
+00:02:04,751 --> 00:02:04,791
+Now the clock strikes six.
+
+228
+00:02:04,791 --> 00:02:05,152
+Now the clock <u>strikes</u> six.
+
+229
+00:02:05,152 --> 00:02:05,232
+Now the clock strikes six.
+
+230
+00:02:05,232 --> 00:02:05,612
+Now the clock strikes <u>six.</u>
+
+231
+00:02:06,894 --> 00:02:07,115
+<u>We</u> argue and we disagree.
+
+232
+00:02:07,115 --> 00:02:07,275
+We argue and we disagree.
+
+233
+00:02:07,275 --> 00:02:07,715
+We <u>argue</u> and we disagree.
+
+234
+00:02:07,715 --> 00:02:07,976
+We argue and we disagree.
+
+235
+00:02:07,976 --> 00:02:08,116
+We argue <u>and</u> we disagree.
+
+236
+00:02:08,116 --> 00:02:08,156
+We argue and we disagree.
+
+237
+00:02:08,156 --> 00:02:08,416
+We argue and <u>we</u> disagree.
+
+238
+00:02:08,416 --> 00:02:08,457
+We argue and we disagree.
+
+239
+00:02:08,457 --> 00:02:09,558
+We argue and we <u>disagree.</u>
+
+240
+00:02:09,959 --> 00:02:10,279
+<u>Pick</u> and mix.
+
+241
+00:02:10,279 --> 00:02:10,299
+Pick and mix.
+
+242
+00:02:10,299 --> 00:02:10,459
+Pick <u>and</u> mix.
+
+243
+00:02:10,459 --> 00:02:10,499
+Pick and mix.
+
+244
+00:02:10,499 --> 00:02:12,542
+Pick and <u>mix.</u>
+
+245
+00:02:12,562 --> 00:02:12,783
+<u>You</u> want sushi, I want flies and shakes.
+
+246
+00:02:12,783 --> 00:02:12,903
+You want sushi, I want flies and shakes.
+
+247
+00:02:12,903 --> 00:02:13,083
+You <u>want</u> sushi, I want flies and shakes.
+
+248
+00:02:13,083 --> 00:02:13,143
+You want sushi, I want flies and shakes.
+
+249
+00:02:13,143 --> 00:02:13,984
+You want <u>sushi,</u> I want flies and shakes.
+
+250
+00:02:13,984 --> 00:02:14,004
+You want sushi, I want flies and shakes.
+
+251
+00:02:14,004 --> 00:02:14,085
+You want sushi, <u>I</u> want flies and shakes.
+
+252
+00:02:14,085 --> 00:02:14,145
+You want sushi, I want flies and shakes.
+
+253
+00:02:14,145 --> 00:02:14,605
+You want sushi, I <u>want</u> flies and shakes.
+
+254
+00:02:14,605 --> 00:02:15,106
+You want sushi, I want flies and shakes.
+
+255
+00:02:15,106 --> 00:02:15,587
+You want sushi, I want <u>flies</u> and shakes.
+
+256
+00:02:15,587 --> 00:02:15,607
+You want sushi, I want flies and shakes.
+
+257
+00:02:15,607 --> 00:02:15,767
+You want sushi, I want flies <u>and</u> shakes.
+
+258
+00:02:15,767 --> 00:02:15,827
+You want sushi, I want flies and shakes.
+
+259
+00:02:15,827 --> 00:02:17,810
+You want sushi, I want flies and <u>shakes.</u>
+
+260
+00:02:17,830 --> 00:02:18,130
+<u>Round</u> and round, another bite you want to take.
+
+261
+00:02:18,130 --> 00:02:18,291
+Round and round, another bite you want to take.
+
+262
+00:02:18,291 --> 00:02:18,411
+Round <u>and</u> round, another bite you want to take.
+
+263
+00:02:18,411 --> 00:02:18,471
+Round and round, another bite you want to take.
+
+264
+00:02:18,471 --> 00:02:18,831
+Round and <u>round,</u> another bite you want to take.
+
+265
+00:02:18,831 --> 00:02:18,971
+Round and round, another bite you want to take.
+
+266
+00:02:18,971 --> 00:02:19,652
+Round and round, <u>another</u> bite you want to take.
+
+267
+00:02:19,652 --> 00:02:19,733
+Round and round, another bite you want to take.
+
+268
+00:02:19,733 --> 00:02:20,113
+Round and round, another <u>bite</u> you want to take.
+
+269
+00:02:20,113 --> 00:02:20,133
+Round and round, another bite you want to take.
+
+270
+00:02:20,133 --> 00:02:20,414
+Round and round, another bite <u>you</u> want to take.
+
+271
+00:02:20,414 --> 00:02:20,574
+Round and round, another bite you want to take.
+
+272
+00:02:20,574 --> 00:02:20,734
+Round and round, another bite you <u>want</u> to take.
+
+273
+00:02:20,734 --> 00:02:20,754
+Round and round, another bite you want to take.
+
+274
+00:02:20,754 --> 00:02:21,034
+Round and round, another bite you want <u>to</u> take.
+
+275
+00:02:21,034 --> 00:02:21,054
+Round and round, another bite you want to take.
+
+276
+00:02:21,054 --> 00:02:21,615
+Round and round, another bite you want to <u>take.</u>
+
+277
+00:02:23,278 --> 00:02:24,279
+<u>To</u> eat!
+
+278
+00:02:24,279 --> 00:02:24,299
+To eat!
+
+279
+00:02:24,299 --> 00:02:24,559
+To <u>eat!</u>
+
+280
+00:02:25,761 --> 00:02:25,921
+<u>All</u> can we eat!
+
+281
+00:02:25,921 --> 00:02:25,941
+All can we eat!
+
+282
+00:02:25,941 --> 00:02:26,202
+All <u>can</u> we eat!
+
+283
+00:02:26,202 --> 00:02:26,242
+All can we eat!
+
+284
+00:02:26,242 --> 00:02:26,983
+All can <u>we</u> eat!
+
+285
+00:02:26,983 --> 00:02:27,003
+All can we eat!
+
+286
+00:02:27,003 --> 00:02:27,083
+All can we <u>eat!</u>
+
+287
+00:02:30,809 --> 00:02:31,225
+<u>Oh,</u> tell me
+
+288
+00:02:31,225 --> 00:02:31,267
+Oh, tell me
+
+289
+00:02:31,267 --> 00:02:31,558
+Oh, <u>tell</u> me
+
+290
+00:02:31,558 --> 00:02:32,037
+Oh, tell me
+
+291
+00:02:32,037 --> 00:02:32,079
+Oh, tell <u>me</u>
+

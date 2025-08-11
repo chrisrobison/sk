@@ -1,0 +1,82 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.65,0:00:02.01,Lyrics,,0,0,70,,{\k32}Woke {\k6}up {\k18}quick, {\k8}at {\k18}about {\k16}noon
+Dialogue: 0,0:00:02.05,0:00:03.97,Lyrics,,0,0,70,,{\k12}jus' {\k16}thought {\k8}that {\k2}I {\k8}had {\k4}to {\k8}be {\k4}in {\k18}compton {\k12}soon.
+Dialogue: 0,0:00:05.14,0:00:06.38,Lyrics,,0,0,70,,{\k2}I {\k10}gotta {\k4}get {\k14}drunk {\k18}before {\k12}the {\k12}day {\k32}begins
+Dialogue: 0,0:00:06.58,0:00:07.70,Lyrics,,0,0,70,,{\k10}before {\k6}my {\k14}mother {\k2}starts {\k14}bitchin' {\k14}about {\k14}ma' {\k20}friends
+Dialogue: 0,0:00:07.72,0:00:10.58,Lyrics,,0,0,70,,{\k10}About {\k20}to {\k4}go {\k6}and {\k22}damn {\k2}near {\k18}went {\k6}blind
+Dialogue: 0,0:00:10.60,0:00:12.29,Lyrics,,0,0,70,,{\k6}young {\k28}fellas {\k22}at {\k6}the {\k12}path {\k4}throwin' {\k6}up {\k14}fun {\k22}signs
+Dialogue: 0,0:00:12.35,0:00:17.85,Lyrics,,0,0,70,,{\k30}Ran {\k8}in {\k6}the {\k16}house, {\k6}and {\k12}grabbed {\k8}the {\k4}clip
+Dialogue: 0,0:00:17.87,0:00:24.26,Lyrics,,0,0,70,,{\k8}with {\k26}the {\k14}mack {\k14}10 {\k20}on {\k6}the {\k16}side {\k4}of {\k4}my {\k18}hip
+Dialogue: 0,0:00:24.28,0:00:25.74,Lyrics,,0,0,70,,{\k12}bailed {\k34}outside {\k22}and {\k6}pointed {\k30}ma' {\k24}weapon
+Dialogue: 0,0:00:25.76,0:00:27.03,Lyrics,,0,0,70,,{\k6}just {\k22}as {\k14}i {\k8}thought {\k8}the {\k18}fools {\k8}kept {\k10}steppin'
+Dialogue: 0,0:00:27.05,0:00:32.56,Lyrics,,0,0,70,,{\k8}jumped {\k28}in {\k38}the {\k8}Ford, {\k30}hit {\k16}the {\k24}juice {\k26}on {\k16}my {\k2}ride
+Dialogue: 0,0:00:33.04,0:00:33.98,Lyrics,,0,0,70,,{\k2}I {\k4}got {\k10}front {\k16}back, {\k6}and {\k8}side {\k20}to {\k8}side
+Dialogue: 0,0:00:34.20,0:00:42.54,Lyrics,,0,0,70,,{\k6}then {\k16}I {\k74}let {\k16}the {\k10}alpine {\k16}play {\k14}(play)
+Dialogue: 0,0:00:42.60,0:00:45.94,Lyrics,,0,0,70,,{\k58}pumpin' {\k14}new {\k26}shit {\k34}by {\k26}NWA
+Dialogue: 0,0:00:51.22,0:00:54.74,Lyrics,,0,0,70,,{\k22}It {\k16}was {\k28}gangsta' {\k20}gangsta' {\k2}at {\k8}the {\k32}top {\k34}of {\k18}the {\k6}list
+Dialogue: 0,0:00:54.92,0:01:00.43,Lyrics,,0,0,70,,{\k16}then {\k2}I {\k10}played {\k6}my {\k32}own {\k22}shit {\k8}and {\k6}it {\k8}went {\k4}somethin' {\k4}like {\k10}this,
+Dialogue: 0,0:01:00.45,0:01:01.67,Lyrics,,0,0,70,,{\k20}Cruisin' {\k12}down {\k28}the {\k8}street {\k2}in {\k12}my {\k16}six-fo'
+Dialogue: 0,0:01:01.69,0:01:04.15,Lyrics,,0,0,70,,{\k10}jockin' {\k2}the {\k22}bitches, {\k8}slappin' {\k6}the {\k16}hoes
+Dialogue: 0,0:01:04.27,0:01:08.53,Lyrics,,0,0,70,,{\k10}Went {\k14}to {\k6}the {\k16}park {\k8}to {\k14}get {\k6}the {\k42}scoop
+Dialogue: 0,0:01:08.55,0:01:10.54,Lyrics,,0,0,70,,{\k24}Knuckleheads {\k18}out {\k26}there {\k18}cold, {\k14}shootin' {\k24}some {\k28}hoops
+Dialogue: 0,0:01:12.78,0:01:15.98,Lyrics,,0,0,70,,{\k2}a {\k22}car {\k12}pulls {\k20}up, {\k18}who {\k24}can {\k24}it {\k10}be?
+Dialogue: 0,0:01:16.02,0:01:19.09,Lyrics,,0,0,70,,{\k24}a {\k16}fresh {\k6}El {\k16}Camino {\k18}rollin {\k8}kilo {\k2}G
+Dialogue: 0,0:01:23.95,0:01:37.65,Lyrics,,0,0,70,,{\k10}he {\k86}rolled {\k14}down {\k62}his {\k8}window {\k14}and {\k92}he {\k14}started {\k12}to {\k18}say
+Dialogue: 0,0:01:37.67,0:01:39.62,Lyrics,,0,0,70,,{\k44}it's {\k14}all {\k16}about {\k12}makin' {\k30}that {\k20}G.T.A.
+Dialogue: 0,0:01:39.84,0:01:46.29,Lyrics,,0,0,70,,{\k6}'Cause {\k8}the {\k20}boys {\k6}in {\k8}the {\k18}hood {\k8}are {\k16}always {\k8}hard
+Dialogue: 0,0:01:46.31,0:01:52.54,Lyrics,,0,0,70,,{\k22}you {\k14}come {\k6}talkin' {\k4}that {\k12}trash, {\k2}we'll {\k36}pull {\k4}ya {\k16}car
+Dialogue: 0,0:01:52.56,0:01:53.58,Lyrics,,0,0,70,,{\k16}knowin' {\k18}nutin' {\k6}in {\k14}life {\k6}but {\k6}to {\k14}be {\k4}legit
+Dialogue: 0,0:01:53.60,0:01:56.04,Lyrics,,0,0,70,,{\k6}don't {\k10}quote {\k6}me {\k20}boy {\k6}'cause {\k6}I {\k22}ain't {\k10}said {\k18}shit
+Dialogue: 0,0:01:56.06,0:02:17.70,Lyrics,,0,0,70,,{\k6}Bored {\k2}as {\k84}hell {\k303}and {\k1096}I {\k19}wanna {\k19}get {\k19}ill
+Dialogue: 0,0:02:17.70,0:02:19.63,Lyrics,,0,0,70,,{\k19}so {\k19}I {\k19}went {\k19}to {\k19}a {\k19}spot {\k19}where {\k19}ma' {\k19}homeboys {\k19}chill
+Dialogue: 0,0:02:19.63,0:02:20.98,Lyrics,,0,0,70,,{\k19}the {\k19}fellas {\k19}out {\k19}there {\k19}makin' {\k19}'dat {\k19}dollar
+Dialogue: 0,0:02:20.98,0:02:22.53,Lyrics,,0,0,70,,{\k19}I {\k19}pulled {\k19}up {\k19}in {\k19}ma' {\k19}6 {\k19}fo' {\k19}impala
+Dialogue: 0,0:02:22.53,0:02:24.27,Lyrics,,0,0,70,,{\k19}they {\k19}greet {\k19}mewit {\k19}a {\k19}40 {\k19}and {\k19}I {\k19}start {\k19}drinkin'
+Dialogue: 0,0:02:24.27,0:02:26.00,Lyrics,,0,0,70,,{\k19}and {\k19}from {\k19}the {\k19}8 {\k19}ball, {\k19}my {\k19}breath {\k19}starts {\k19}stinkin'
+Dialogue: 0,0:02:26.00,0:02:27.74,Lyrics,,0,0,70,,{\k19}left {\k19}to {\k19}get {\k19}ma' {\k19}girl {\k19}to {\k19}rock {\k19}that {\k19}body
+Dialogue: 0,0:02:27.74,0:02:29.09,Lyrics,,0,0,70,,{\k19}before {\k19}I {\k19}left, {\k19}I {\k19}hit {\k19}the {\k19}bac-ardi
+Dialogue: 0,0:02:29.09,0:02:31.22,Lyrics,,0,0,70,,{\k19}went {\k19}to {\k19}her {\k19}house {\k19}to {\k19}get {\k19}her {\k19}out {\k19}of {\k19}the {\k19}pad
+Dialogue: 0,0:02:31.22,0:02:32.76,Lyrics,,0,0,70,,{\k19}dumb {\k19}hoe {\k19}said {\k19}somethin' {\k19}that {\k19}made {\k19}me {\k19}mad
+Dialogue: 0,0:02:32.76,0:02:34.11,Lyrics,,0,0,70,,{\k19}she {\k19}said {\k19}somethin' {\k19}that {\k19}I {\k19}couldn't {\k19}believe
+Dialogue: 0,0:02:34.11,0:02:36.04,Lyrics,,0,0,70,,{\k19}so {\k19}I {\k19}grabbed {\k19}the {\k19}stupid {\k19}bitch {\k19}by {\k19}her {\k19}nappy-ass {\k19}weave
+Dialogue: 0,0:02:36.04,0:02:37.40,Lyrics,,0,0,70,,{\k19}she {\k19}started {\k19}talkin' {\k19}shit, {\k19}wouldn't {\k19}you {\k19}know?
+Dialogue: 0,0:02:37.40,0:02:38.94,Lyrics,,0,0,70,,{\k19}reached {\k19}back {\k19}like {\k19}a {\k19}pimp, {\k19}slapped {\k19}the {\k19}hoe
+Dialogue: 0,0:02:38.94,0:02:40.68,Lyrics,,0,0,70,,{\k19}her {\k19}father {\k19}jumped {\k19}up {\k19}and {\k19}he {\k19}started {\k19}to {\k19}shout
+Dialogue: 0,0:02:40.68,0:02:42.80,Lyrics,,0,0,70,,{\k19}so {\k19}I {\k19}threw {\k19}a {\k19}right {\k19}cross {\k19}and {\k19}knocked {\k19}his {\k19}old-ass {\k19}out
+Dialogue: 0,0:02:42.80,0:02:44.54,Lyrics,,0,0,70,,{\k19}'Cause {\k19}the {\k19}boys {\k19}in {\k19}the {\k19}hood {\k19}are {\k19}always {\k19}hard
+Dialogue: 0,0:02:44.54,0:02:46.28,Lyrics,,0,0,70,,{\k19}you {\k19}come {\k19}talkin' {\k19}that {\k19}trash, {\k19}we'll {\k19}pull {\k19}ya {\k19}car
+Dialogue: 0,0:02:46.28,0:02:47.82,Lyrics,,0,0,70,,{\k19}knowin' {\k19}nutin' {\k19}in {\k19}life {\k19}but {\k19}to {\k19}be {\k19}legit
+Dialogue: 0,0:02:47.82,0:02:49.56,Lyrics,,0,0,70,,{\k19}don't {\k19}quote {\k19}me {\k19}boy {\k19}'cause {\k19}I {\k19}ain't {\k19}said {\k19}shit
+Dialogue: 0,0:02:49.56,0:02:50.72,Lyrics,,0,0,70,,{\k19}I'm {\k19}rollin' {\k19}hard, {\k19}now {\k19}under {\k19}control
+Dialogue: 0,0:02:50.72,0:02:52.46,Lyrics,,0,0,70,,{\k19}then {\k19}wrapped {\k19}the {\k19}6 {\k19}fo' {\k19}round {\k19}a {\k19}telephone {\k19}pole
+Dialogue: 0,0:02:52.46,0:02:54.39,Lyrics,,0,0,70,,{\k19}I {\k19}looked {\k19}at {\k19}ma' {\k19}car {\k19}and {\k19}I {\k19}said {\k19}"oh {\k19}brother"
+Dialogue: 0,0:02:54.39,0:02:56.32,Lyrics,,0,0,70,,{\k19}I'll {\k19}throw {\k19}it {\k19}in {\k19}the {\k19}gutter {\k19}and {\k19}go {\k19}buy {\k19}another
+Dialogue: 0,0:02:56.32,0:02:57.86,Lyrics,,0,0,70,,{\k19}walkin' {\k19}home {\k19}and {\k19}I {\k19}seen {\k19}the {\k19}g {\k19}ride
+Dialogue: 0,0:02:57.86,0:02:59.41,Lyrics,,0,0,70,,{\k19}now {\k19}cat {\k19}is {\k19}drivin', {\k19}kilo {\k19}on {\k19}the {\k19}side
+Dialogue: 0,0:02:59.41,0:03:01.14,Lyrics,,0,0,70,,{\k19}as {\k19}they {\k19}busted {\k19}a {\k19}U, {\k19}they {\k19}got {\k19}pulled {\k19}over
+Dialogue: 0,0:03:01.14,0:03:02.69,Lyrics,,0,0,70,,{\k19}a {\k19}undercover {\k19}cop {\k19}in {\k19}a {\k19}dark {\k19}green {\k19}Nova
+Dialogue: 0,0:03:02.69,0:03:03.85,Lyrics,,0,0,70,,{\k19}cat {\k19}got {\k19}beat {\k19}for {\k19}resistin' {\k19}arrest
+Dialogue: 0,0:03:03.85,0:03:05.97,Lyrics,,0,0,70,,{\k19}he {\k19}socked {\k19}a {\k19}pig {\k19}in {\k19}the {\k19}head {\k19}for {\k19}rippin' {\k19}his {\k19}Guess
+Dialogue: 0,0:03:05.97,0:03:07.52,Lyrics,,0,0,70,,{\k19}now {\k19}G {\k19}is {\k19}caught, {\k19}for {\k19}doin' {\k19}the {\k19}crime
+Dialogue: 0,0:03:07.52,0:03:09.25,Lyrics,,0,0,70,,{\k19}fourth {\k19}offense {\k19}on {\k19}the {\k19}boy, {\k19}he'll {\k19}do {\k19}some {\k19}time
+Dialogue: 0,0:03:09.25,0:03:10.99,Lyrics,,0,0,70,,{\k19}'Cause {\k19}the {\k19}boys {\k19}in {\k19}the {\k19}hood {\k19}are {\k19}always {\k19}hard
+Dialogue: 0,0:03:10.99,0:03:12.73,Lyrics,,0,0,70,,{\k19}you {\k19}come {\k19}talkin' {\k19}that {\k19}trash, {\k19}we'll {\k19}pull {\k19}ya {\k19}car
+Dialogue: 0,0:03:12.73,0:03:14.27,Lyrics,,0,0,70,,{\k19}knowin' {\k19}nutin' {\k19}in {\k19}life {\k19}but {\k19}to {\k19}be {\k19}legit'
+Dialogue: 0,0:03:14.27,0:03:16.01,Lyrics,,0,0,70,,{\k19}don't {\k19}quote {\k19}me {\k19}boy {\k19}'cause {\k19}I {\k19}ain't {\k19}said {\k19}shit
+Dialogue: 0,0:03:16.01,0:03:17.17,Lyrics,,0,0,70,,{\k19}Yeah, {\k19}I {\k19}kicked {\k19}a {\k19}little {\k19}ass
+Dialogue: 0,0:03:17.17,0:03:18.91,Lyrics,,0,0,70,,{\k19}but {\k19}that {\k19}was {\k19}a {\k19}blast {\k19}from {\k19}the {\k19}past {\k19}muthafucka'
+Dialogue: 0,0:03:18.91,0:03:20.07,Lyrics,,0,0,70,,{\k19}get {\k19}busy {\k19}ya {\k19}ya {\k19}ya {\k19}yall

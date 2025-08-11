@@ -1,0 +1,45 @@
+[Script Info]
+Title: Karaoke Lyrics (Windowed)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: LyricMain,Arial,50,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+Style: LyricDim,Arial,46,&H00999999,&H00777777,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.03,0:00:04.40,LyricDim,,0,0,70,,{\rLyricMain}{\k234}Woke {\k8}up, {\k10}logged {\k58}in, {\k22}checked {\k8}the {\k20}board {\k46}again\N{\rLyricDim}Ten thousand roles, but none for mortal men\N{\rLyricDim}“Rockstar dev,” “must love stress”
+Dialogue: 0,0:00:06.68,0:00:11.51,LyricDim,,0,0,70,,{\rLyricDim}Woke up, logged in, checked the board again\N{\rLyricMain}{\k38}Ten {\k50}thousand {\k36}roles, {\k40}but {\k40}none {\k40}for {\k38}mortal {\k58}men\N{\rLyricDim}“Rockstar dev,” “must love stress”\N{\rLyricDim}Fifty skills required, zero checks
+Dialogue: 0,0:00:11.54,0:00:13.14,LyricDim,,0,0,70,,{\rLyricDim}Ten thousand roles, but none for mortal men\N{\rLyricMain}{\k30}“Rockstar {\k44}dev,” {\k8}“must {\k20}love {\k4}stress”\N{\rLyricDim}Fifty skills required, zero checks\N{\rLyricDim}I built the cloud before it had a name
+Dialogue: 0,0:00:13.17,0:00:14.44,LyricDim,,0,0,70,,{\rLyricDim}“Rockstar dev,” “must love stress”\N{\rLyricMain}{\k42}Fifty {\k40}skills {\k6}required, {\k14}zero {\k2}checks\N{\rLyricDim}I built the cloud before it had a name\N{\rLyricDim}Now I’m coding side quests in a browser game
+Dialogue: 0,0:00:15.35,0:00:21.45,LyricDim,,0,0,70,,{\rLyricDim}Fifty skills required, zero checks\N{\rLyricMain}{\k6}I {\k28}built {\k52}the {\k10}cloud {\k6}before {\k34}it {\k34}had {\k4}a {\k46}name\N{\rLyricDim}Now I’m coding side quests in a browser game\N{\rLyricDim}404! Career not found
+Dialogue: 0,0:00:21.52,0:00:25.11,LyricDim,,0,0,70,,{\rLyricDim}I built the cloud before it had a name\N{\rLyricMain}{\k12}Now {\k10}I’m {\k34}coding {\k38}side {\k12}quests {\k38}in {\k4}a {\k30}browser {\k50}game\N{\rLyricDim}404! Career not found\N{\rLyricDim}Ghosted by a startup that’s shutting down
+Dialogue: 0,0:00:25.36,0:00:27.24,LyricDim,,0,0,70,,{\rLyricDim}Now I’m coding side quests in a browser game\N{\rLyricMain}{\k16}404! {\k80}Career {\k38}not {\k38}found\N{\rLyricDim}Ghosted by a startup that’s shutting down\N{\rLyricDim}Talented and broke, it's a damn disgrace
+Dialogue: 0,0:00:27.31,0:00:38.97,LyricDim,,0,0,70,,{\rLyricDim}404! Career not found\N{\rLyricMain}{\k16}Ghosted {\k18}by {\k6}a {\k24}startup {\k22}that’s {\k82}shutting {\k20}down\N{\rLyricDim}Talented and broke, it's a damn disgrace\N{\rLyricDim}While billionaires burn cash into space
+Dialogue: 0,0:00:39.00,0:00:44.29,LyricDim,,0,0,70,,{\rLyricDim}Ghosted by a startup that’s shutting down\N{\rLyricMain}{\k14}Talented {\k54}and {\k16}broke, {\k16}it's {\k6}a {\k14}damn {\k16}disgrace\N{\rLyricDim}While billionaires burn cash into space\N{\rLyricDim}Zoom interviews with kids half my age
+Dialogue: 0,0:00:44.30,0:00:46.00,LyricDim,,0,0,70,,{\rLyricDim}Talented and broke, it's a damn disgrace\N{\rLyricMain}{\k12}While {\k34}billionaires {\k8}burn {\k18}cash {\k14}into {\k40}space\N{\rLyricDim}Zoom interviews with kids half my age\N{\rLyricDim}Asking me if I "scale well under rage"
+Dialogue: 0,0:00:46.31,0:00:48.18,LyricDim,,0,0,70,,{\rLyricDim}While billionaires burn cash into space\N{\rLyricMain}{\k28}Zoom {\k12}interviews {\k16}with {\k8}kids {\k30}half {\k42}my {\k14}age\N{\rLyricDim}Asking me if I "scale well under rage"\N{\rLyricDim}Got more uptime than their whole stack
+Dialogue: 0,0:00:48.21,0:00:55.55,LyricDim,,0,0,70,,{\rLyricDim}Zoom interviews with kids half my age\N{\rLyricMain}{\k10}Asking {\k40}me {\k12}if {\k42}I {\k40}"scale {\k56}well {\k6}under {\k62}rage"\N{\rLyricDim}Got more uptime than their whole stack\N{\rLyricDim}But I’m still refreshing Greenhouse, back to back
+Dialogue: 0,0:00:55.58,0:00:57.81,LyricDim,,0,0,70,,{\rLyricDim}Asking me if I "scale well under rage"\N{\rLyricMain}{\k20}Got {\k8}more {\k14}uptime {\k16}than {\k10}their {\k62}whole {\k18}stack\N{\rLyricDim}But I’m still refreshing Greenhouse, back to back\N{\rLyricDim}I could lead your team, or write your core
+Dialogue: 0,0:00:57.84,0:01:07.69,LyricDim,,0,0,70,,{\rLyricDim}Got more uptime than their whole stack\N{\rLyricMain}{\k26}But {\k86}I’m {\k22}still {\k10}refreshing {\k26}Greenhouse, {\k8}back {\k30}to {\k10}back\N{\rLyricDim}I could lead your team, or write your core\N{\rLyricDim}Instead I’m debugging my self-worth score
+Dialogue: 0,0:01:09.16,0:01:15.68,LyricDim,,0,0,70,,{\rLyricDim}But I’m still refreshing Greenhouse, back to back\N{\rLyricMain}{\k2}I {\k28}could {\k22}lead {\k16}your {\k22}team, {\k28}or {\k20}write {\k38}your {\k10}core\N{\rLyricDim}Instead I’m debugging my self-worth score\N{\rLyricDim}404! Career not found
+Dialogue: 0,0:01:15.73,0:01:20.83,LyricDim,,0,0,70,,{\rLyricDim}I could lead your team, or write your core\N{\rLyricMain}{\k48}Instead {\k6}I’m {\k14}debugging {\k32}my {\k36}self-worth {\k36}score\N{\rLyricDim}404! Career not found\N{\rLyricDim}Laid off, paid off, now I’m burnout-bound
+Dialogue: 0,0:01:20.86,0:01:23.27,LyricDim,,0,0,70,,{\rLyricDim}Instead I’m debugging my self-worth score\N{\rLyricMain}{\k54}404! {\k42}Career {\k36}not {\k18}found\N{\rLyricDim}Laid off, paid off, now I’m burnout-bound\N{\rLyricDim}Decades of wisdom sit on ice
+Dialogue: 0,0:01:23.44,0:01:28.00,LyricDim,,0,0,70,,{\rLyricDim}404! Career not found\N{\rLyricMain}{\k34}Laid {\k12}off, {\k20}paid {\k28}off, {\k36}now {\k8}I’m {\k58}burnout-bound\N{\rLyricDim}Decades of wisdom sit on ice\N{\rLyricDim}While the CEO’s yacht hits Paradise
+Dialogue: 0,0:01:30.69,0:01:33.19,LyricDim,,0,0,70,,{\rLyricDim}Laid off, paid off, now I’m burnout-bound\N{\rLyricMain}{\k46}Decades {\k20}of {\k88}wisdom {\k29}sit {\k29}on {\k29}ice\N{\rLyricDim}While the CEO’s yacht hits Paradise\N{\rLyricDim}“Must be willing to work for free!”
+Dialogue: 0,0:01:33.19,0:01:34.90,LyricDim,,0,0,70,,{\rLyricDim}Decades of wisdom sit on ice\N{\rLyricMain}{\k29}While {\k29}the {\k29}CEO’s {\k29}yacht {\k29}hits {\k29}Paradise\N{\rLyricDim}“Must be willing to work for free!”\N{\rLyricDim}“Show us passion, don’t ask for a fee!”
+Dialogue: 0,0:01:34.90,0:01:36.90,LyricDim,,0,0,70,,{\rLyricDim}While the CEO’s yacht hits Paradise\N{\rLyricMain}{\k29}“Must {\k29}be {\k29}willing {\k29}to {\k29}work {\k29}for {\k29}free!”\N{\rLyricDim}“Show us passion, don’t ask for a fee!”\N{\rLyricDim}“10 years Go, 10 years Rust,
+Dialogue: 0,0:01:36.90,0:01:39.18,LyricDim,,0,0,70,,{\rLyricDim}“Must be willing to work for free!”\N{\rLyricMain}{\k29}“Show {\k29}us {\k29}passion, {\k29}don’t {\k29}ask {\k29}for {\k29}a {\k29}fee!”\N{\rLyricDim}“10 years Go, 10 years Rust,\N{\rLyricDim}And a TikTok reel — or you're not one of us!”
+Dialogue: 0,0:01:39.18,0:01:40.89,LyricDim,,0,0,70,,{\rLyricDim}“Show us passion, don’t ask for a fee!”\N{\rLyricMain}{\k29}“10 {\k29}years {\k29}Go, {\k29}10 {\k29}years {\k29}Rust,\N{\rLyricDim}And a TikTok reel — or you're not one of us!”\N{\rLyricDim}404! Career not found
+Dialogue: 0,0:01:40.89,0:01:43.79,LyricDim,,0,0,70,,{\rLyricDim}“10 years Go, 10 years Rust,\N{\rLyricMain}{\k29}And {\k29}a {\k29}TikTok {\k29}reel {\k5}— {\k29}or {\k29}you're {\k29}not {\k29}one {\k29}of {\k29}us!”\N{\rLyricDim}404! Career not found\N{\rLyricDim}Tech’s got talent but it ain’t sticking ‘round
+Dialogue: 0,0:01:43.79,0:01:44.93,LyricDim,,0,0,70,,{\rLyricDim}And a TikTok reel — or you're not one of us!”\N{\rLyricMain}{\k29}404! {\k29}Career {\k29}not {\k29}found\N{\rLyricDim}Tech’s got talent but it ain’t sticking ‘round\N{\rLyricDim}Idle minds, idle hands
+Dialogue: 0,0:01:44.93,0:01:47.21,LyricDim,,0,0,70,,{\rLyricDim}404! Career not found\N{\rLyricMain}{\k29}Tech’s {\k29}got {\k29}talent {\k29}but {\k29}it {\k29}ain’t {\k29}sticking {\k29}‘round\N{\rLyricDim}Idle minds, idle hands\N{\rLyricDim}In the land of open-office scams
+Dialogue: 0,0:01:47.21,0:01:48.35,LyricDim,,0,0,70,,{\rLyricDim}Tech’s got talent but it ain’t sticking ‘round\N{\rLyricMain}{\k29}Idle {\k29}minds, {\k29}idle {\k29}hands\N{\rLyricDim}In the land of open-office scams\N{\rLyricDim}Reboot my dignity!
+Dialogue: 0,0:01:48.35,0:01:50.06,LyricDim,,0,0,70,,{\rLyricDim}Idle minds, idle hands\N{\rLyricMain}{\k29}In {\k29}the {\k29}land {\k29}of {\k29}open-office {\k29}scams\N{\rLyricDim}Reboot my dignity!
+Dialogue: 0,0:01:50.06,0:01:50.91,LyricDim,,0,0,70,,{\rLyricDim}In the land of open-office scams\N{\rLyricMain}{\k29}Reboot {\k29}my {\k29}dignity!

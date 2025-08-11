@@ -1,0 +1,538 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "medium",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 1024,
+			"head": 16,
+			"layer": 24
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1024,
+			"head": 16,
+			"layer": 24
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/cdr/.local/models/ggml-medium.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,800"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1800
+			},
+			"text": " Friday night bailout packs"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,800",
+				"to": "00:00:03,800"
+			},
+			"offsets": {
+				"from": 1800,
+				"to": 3800
+			},
+			"text": " Matching skirts and bubble attacks"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,800",
+				"to": "00:00:05,520"
+			},
+			"offsets": {
+				"from": 3800,
+				"to": 5520
+			},
+			"text": " Shots lined up like a firing squad"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,520",
+				"to": "00:00:07,640"
+			},
+			"offsets": {
+				"from": 5520,
+				"to": 7640
+			},
+			"text": " Steering like it's a gift from God"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,640",
+				"to": "00:00:09,640"
+			},
+			"offsets": {
+				"from": 7640,
+				"to": 9640
+			},
+			"text": " Selfie sticks and broken heels"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,640",
+				"to": "00:00:11,560"
+			},
+			"offsets": {
+				"from": 9640,
+				"to": 11560
+			},
+			"text": " Twerking to songs they don't even feel"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,560",
+				"to": "00:00:13,760"
+			},
+			"offsets": {
+				"from": 11560,
+				"to": 13760
+			},
+			"text": " Hair extensions, mobile fry"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,760",
+				"to": "00:00:15,680"
+			},
+			"offsets": {
+				"from": 13760,
+				"to": 15680
+			},
+			"text": " Echoes like a battle cry"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,680",
+				"to": "00:00:17,600"
+			},
+			"offsets": {
+				"from": 15680,
+				"to": 17600
+			},
+			"text": " Blue girls, break the sound"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,600",
+				"to": "00:00:19,520"
+			},
+			"offsets": {
+				"from": 17600,
+				"to": 19520
+			},
+			"text": " Every bar becomes battleground"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,520",
+				"to": "00:00:21,560"
+			},
+			"offsets": {
+				"from": 19520,
+				"to": 21560
+			},
+			"text": " Raise a glass and raise your pitch every"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,560",
+				"to": "00:00:23,400"
+			},
+			"offsets": {
+				"from": 21560,
+				"to": 23400
+			},
+			"text": " Another glitch"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,400",
+				"to": "00:00:25,160"
+			},
+			"offsets": {
+				"from": 23400,
+				"to": 25160
+			},
+			"text": " In the matrix of your brain"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,160",
+				"to": "00:00:27,280"
+			},
+			"offsets": {
+				"from": 25160,
+				"to": 27280
+			},
+			"text": " Guessables of drunk disdain"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,280",
+				"to": "00:00:28,760"
+			},
+			"offsets": {
+				"from": 27280,
+				"to": 28760
+			},
+			"text": " Blue girls, breathe for fame"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,760",
+				"to": "00:00:30,960"
+			},
+			"offsets": {
+				"from": 28760,
+				"to": 30960
+			},
+			"text": " But no one here remembers your name"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,960",
+				"to": "00:00:32,880"
+			},
+			"offsets": {
+				"from": 30960,
+				"to": 32880
+			},
+			"text": " One just cried, no one knows why"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,880",
+				"to": "00:00:34,840"
+			},
+			"offsets": {
+				"from": 32880,
+				"to": 34840
+			},
+			"text": " Another's making out with some finance guy"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,840",
+				"to": "00:00:36,800"
+			},
+			"offsets": {
+				"from": 34840,
+				"to": 36800
+			},
+			"text": " They laugh at memes from 2012"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,800",
+				"to": "00:00:38,760"
+			},
+			"offsets": {
+				"from": 36800,
+				"to": 38760
+			},
+			"text": " And call it slay, just kill me now"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,760",
+				"to": "00:00:40,760"
+			},
+			"offsets": {
+				"from": 38760,
+				"to": 40760
+			},
+			"text": " Shots for brunch and brunch for clout"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,760",
+				"to": "00:00:42,760"
+			},
+			"offsets": {
+				"from": 40760,
+				"to": 42760
+			},
+			"text": " More nags now scream and shout"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,760",
+				"to": "00:00:44,600"
+			},
+			"offsets": {
+				"from": 42760,
+				"to": 44600
+			},
+			"text": " But they stash his glitter bobs"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,600",
+				"to": "00:00:46,800"
+			},
+			"offsets": {
+				"from": 44600,
+				"to": 46800
+			},
+			"text": " When the list is mixed with bottle bonds"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,800",
+				"to": "00:00:48,720"
+			},
+			"offsets": {
+				"from": 46800,
+				"to": 48720
+			},
+			"text": " Blue girls, break the sound"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,720",
+				"to": "00:00:50,680"
+			},
+			"offsets": {
+				"from": 48720,
+				"to": 50680
+			},
+			"text": " Every bar becomes battleground"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,680",
+				"to": "00:00:52,720"
+			},
+			"offsets": {
+				"from": 50680,
+				"to": 52720
+			},
+			"text": " Raise a glass and raise your pitch every"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,720",
+				"to": "00:00:54,520"
+			},
+			"offsets": {
+				"from": 52720,
+				"to": 54520
+			},
+			"text": " Another glitch"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,520",
+				"to": "00:00:56,280"
+			},
+			"offsets": {
+				"from": 54520,
+				"to": 56280
+			},
+			"text": " In the logic of the night"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,280",
+				"to": "00:00:58,360"
+			},
+			"offsets": {
+				"from": 56280,
+				"to": 58360
+			},
+			"text": " Every cheer just kills the vibe"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,360",
+				"to": "00:01:01,080"
+			},
+			"offsets": {
+				"from": 58360,
+				"to": 61080
+			},
+			"text": " Blue girls, dance and scream like chaos"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,080",
+				"to": "00:01:04,040"
+			},
+			"offsets": {
+				"from": 61080,
+				"to": 64040
+			},
+			"text": " In a forever 21 dream"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,040",
+				"to": "00:01:07,400"
+			},
+			"offsets": {
+				"from": 64040,
+				"to": 67400
+			},
+			"text": " Who will have soup up in my sheets?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,400",
+				"to": "00:01:09,600"
+			},
+			"offsets": {
+				"from": 67400,
+				"to": 69600
+			},
+			"text": " Ooh, the last night just tapped me in the open"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,600",
+				"to": "00:01:11,760"
+			},
+			"offsets": {
+				"from": 69600,
+				"to": 71760
+			},
+			"text": " I'm bashing at me, come on, cheers, sweet boy"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,760",
+				"to": "00:01:13,840"
+			},
+			"offsets": {
+				"from": 71760,
+				"to": 73840
+			},
+			"text": " Blue girls, queen to cringe"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,840",
+				"to": "00:01:15,600"
+			},
+			"offsets": {
+				"from": 73840,
+				"to": 75600
+			},
+			"text": " Makes my eardrums sing"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,600",
+				"to": "00:01:17,600"
+			},
+			"offsets": {
+				"from": 75600,
+				"to": 77600
+			},
+			"text": " Fart out from attention short"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,600",
+				"to": "00:01:19,600"
+			},
+			"offsets": {
+				"from": 77600,
+				"to": 79600
+			},
+			"text": " I'll ride in a jukebox court"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,600",
+				"to": "00:01:21,560"
+			},
+			"offsets": {
+				"from": 79600,
+				"to": 81560
+			},
+			"text": " Blue girls, couple send"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,560",
+				"to": "00:01:23,200"
+			},
+			"offsets": {
+				"from": 81560,
+				"to": 83200
+			},
+			"text": " 'Til the hangover makes amends"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,200",
+				"to": "00:01:25,120"
+			},
+			"offsets": {
+				"from": 83200,
+				"to": 85120
+			},
+			"text": " Blue girls, you rule the scene"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,120",
+				"to": "00:01:28,320"
+			},
+			"offsets": {
+				"from": 85120,
+				"to": 88320
+			},
+			"text": " With a scream that haunts my punk rock dreams"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,320",
+				"to": "00:01:30,880"
+			},
+			"offsets": {
+				"from": 88320,
+				"to": 90880
+			},
+			"text": " I'll ride in a jukebox court"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,880",
+				"to": "00:01:33,600"
+			},
+			"offsets": {
+				"from": 90880,
+				"to": 93600
+			},
+			"text": " Blue girls, come on, cheers, sweet boy"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,600",
+				"to": "00:01:36,280"
+			},
+			"offsets": {
+				"from": 93600,
+				"to": 96280
+			},
+			"text": " Blue girls, come on, cheers, sweet boy"
+		}
+	]
+}

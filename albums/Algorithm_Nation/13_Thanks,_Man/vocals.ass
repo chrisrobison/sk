@@ -1,0 +1,56 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.92,0:00:06.62,Lyrics,,0,0,70,,{\k12}He {\k30}showed {\k4}up {\k44}normal, {\k8}looking {\k34}clean,
+Dialogue: 0,0:00:06.68,0:00:08.94,Lyrics,,0,0,70,,{\k40}The {\k28}kind {\k28}of {\k4}calm {\k44}I {\k12}hadn't {\k34}seen.
+Dialogue: 0,0:00:09.10,0:00:15.85,Lyrics,,0,0,70,,{\k8}Said, {\k38}"Just {\k34}a {\k14}place {\k6}to {\k26}crash, {\k8}one {\k42}night—
+Dialogue: 0,0:00:18.46,0:00:23.94,Lyrics,,0,0,70,,{\k10}I {\k20}swear {\k10}I’ll {\k8}be {\k28}gone {\k10}by {\k40}morning {\k20}light."
+Dialogue: 0,0:00:26.97,0:00:31.76,Lyrics,,0,0,70,,{\k12}But {\k10}he {\k26}overslept {\k8}and {\k30}missed {\k18}his {\k30}call,
+Dialogue: 0,0:00:32.10,0:00:59.04,Lyrics,,0,0,70,,{\k8}Said, {\k22}"One {\k66}more {\k52}night, {\k38}I’ve {\k16}lost {\k10}it {\k2}all."
+Dialogue: 0,0:00:59.10,0:01:05.75,Lyrics,,0,0,70,,{\k34}He’d {\k4}been {\k34}through {\k16}hell, {\k2}I {\k54}gave {\k14}him {\k18}a {\k16}shot—
+Dialogue: 0,0:01:08.02,0:01:14.33,Lyrics,,0,0,70,,{\k8}But {\k12}the {\k22}cravings {\k36}came {\k10}and {\k26}he {\k32}just {\k100}forgot.
+Dialogue: 0,0:01:16.61,0:01:18.75,Lyrics,,0,0,70,,{\k14}I {\k18}gave {\k8}you {\k8}my {\k80}couch, {\k12}gave {\k10}you {\k6}a {\k38}break,
+Dialogue: 0,0:01:18.95,0:01:21.02,Lyrics,,0,0,70,,{\k16}Thought {\k20}you'd {\k28}stay {\k44}clean—for {\k48}everyone's {\k26}sake.
+Dialogue: 0,0:01:21.08,0:01:23.45,Lyrics,,0,0,70,,{\k12}But {\k20}you {\k34}dropped {\k22}that {\k18}G {\k12}when {\k8}the {\k26}house {\k20}went {\k30}still,
+Dialogue: 0,0:01:23.67,0:01:25.96,Lyrics,,0,0,70,,{\k12}Now {\k12}you're {\k56}shaking {\k28}hard {\k8}and {\k30}getting {\k18}your {\k38}fill.
+Dialogue: 0,0:01:26.26,0:01:28.59,Lyrics,,0,0,70,,{\k8}I {\k24}went {\k8}to {\k52}bed, {\k8}you {\k32}went {\k40}to {\k10}war—
+Dialogue: 0,0:01:35.76,0:01:37.88,Lyrics,,0,0,70,,{\k14}Shaking {\k24}our {\k48}friendship {\k6}to {\k34}its {\k42}very {\k18}core.
+Dialogue: 0,0:01:38.54,0:01:40.03,Lyrics,,0,0,70,,{\k8}It {\k28}wasn't {\k8}smack, {\k34}it {\k14}wasn’t {\k36}blow,
+Dialogue: 0,0:01:40.29,0:01:44.93,Lyrics,,0,0,70,,{\k14}This {\k14}shit {\k22}creeps {\k6}in {\k8}quiet {\k24}and {\k28}steals {\k24}the {\k10}show.
+Dialogue: 0,0:01:47.68,0:01:52.47,Lyrics,,0,0,70,,{\k18}Your {\k18}eyes {\k20}rolled {\k24}back, {\k12}your {\k32}fists {\k44}went {\k4}tight,
+Dialogue: 0,0:01:57.74,0:02:00.24,Lyrics,,0,0,70,,{\k8}You {\k12}were {\k44}drowning {\k22}dry {\k10}in {\k6}the {\k62}pale {\k14}porch {\k20}light.
+Dialogue: 0,0:02:02.21,0:02:07.21,Lyrics,,0,0,70,,{\k16}You {\k32}said, {\k22}“It’s {\k20}GBH {\k12}or {\k8}maybe {\k6}G,”
+Dialogue: 0,0:02:07.27,0:02:09.97,Lyrics,,0,0,70,,{\k26}But {\k12}you {\k42}were {\k6}gone {\k22}before {\k16}explaining {\k44}to {\k32}me.
+Dialogue: 0,0:02:10.03,0:02:12.41,Lyrics,,0,0,70,,{\k12}I {\k102}sat {\k24}there {\k24}holding {\k24}your {\k24}vacant {\k24}shell—
+Dialogue: 0,0:02:12.41,0:02:14.36,Lyrics,,0,0,70,,{\k24}A {\k24}front {\k24}row {\k24}seat {\k24}in {\k24}a {\k24}private {\k24}hell.
+Dialogue: 0,0:02:14.36,0:02:16.55,Lyrics,,0,0,70,,{\k24}I {\k24}gave {\k24}you {\k24}my {\k24}couch, {\k24}gave {\k24}you {\k24}a {\k24}break,
+Dialogue: 0,0:02:16.55,0:02:18.01,Lyrics,,0,0,70,,{\k24}Thought {\k24}you'd {\k24}stay {\k24}clean—for {\k24}everyone's {\k24}sake.
+Dialogue: 0,0:02:18.01,0:02:20.44,Lyrics,,0,0,70,,{\k24}But {\k24}you {\k24}dropped {\k24}that {\k24}G {\k24}when {\k24}the {\k24}house {\k24}went {\k24}still,
+Dialogue: 0,0:02:20.44,0:02:22.38,Lyrics,,0,0,70,,{\k24}Now {\k24}you're {\k24}shaking {\k24}hard {\k24}and {\k24}getting {\k24}your {\k24}fill.
+Dialogue: 0,0:02:22.38,0:02:24.33,Lyrics,,0,0,70,,{\k24}I {\k24}went {\k24}to {\k24}bed, {\k24}you {\k24}went {\k24}to {\k24}war—
+Dialogue: 0,0:02:24.33,0:02:26.03,Lyrics,,0,0,70,,{\k24}Shaking {\k24}our {\k24}friendship {\k24}to {\k24}its {\k24}very {\k24}core.
+Dialogue: 0,0:02:26.03,0:02:27.73,Lyrics,,0,0,70,,{\k24}Lauren {\k24}called, {\k24}says {\k24}she's {\k24}still {\k24}got {\k24}hope,
+Dialogue: 0,0:02:27.73,0:02:29.68,Lyrics,,0,0,70,,{\k24}But {\k24}you're {\k24}a {\k24}shadow {\k24}slipping {\k24}down {\k24}a {\k24}slope.
+Dialogue: 0,0:02:29.68,0:02:31.87,Lyrics,,0,0,70,,{\k24}There’s {\k24}a {\k24}pile {\k24}of {\k24}moments {\k24}you’ve {\k24}let {\k24}slide {\k24}by,
+Dialogue: 0,0:02:31.87,0:02:33.81,Lyrics,,0,0,70,,{\k24}While {\k24}you {\k24}chase {\k24}sleep {\k24}with {\k24}a {\k24}chemical {\k24}high.
+Dialogue: 0,0:02:33.81,0:02:35.76,Lyrics,,0,0,70,,{\k24}They’d {\k24}come {\k24}tomorrow {\k24}if {\k24}you'd {\k24}just {\k24}say {\k24}when,
+Dialogue: 0,0:02:35.76,0:02:38.19,Lyrics,,0,0,70,,{\k24}But {\k24}you’re {\k24}locked {\k24}in {\k24}the {\k24}arms {\k24}of {\k24}your {\k24}oldest {\k24}friend—
+Dialogue: 0,0:02:38.19,0:02:40.13,Lyrics,,0,0,70,,{\k24}And {\k24}he {\k24}don’t {\k24}care {\k24}if {\k24}you {\k24}wake {\k24}again.
+Dialogue: 0,0:02:40.13,0:02:42.32,Lyrics,,0,0,70,,{\k24}I {\k24}gave {\k24}you {\k24}my {\k24}couch, {\k24}gave {\k24}you {\k24}a {\k24}break,
+Dialogue: 0,0:02:42.32,0:02:43.78,Lyrics,,0,0,70,,{\k24}Thought {\k24}you'd {\k24}stay {\k24}clean—for {\k24}everyone's {\k24}sake.
+Dialogue: 0,0:02:43.78,0:02:46.21,Lyrics,,0,0,70,,{\k24}But {\k24}you {\k24}dropped {\k24}that {\k24}G {\k24}when {\k24}the {\k24}house {\k24}went {\k24}still,
+Dialogue: 0,0:02:46.21,0:02:48.16,Lyrics,,0,0,70,,{\k24}Now {\k24}you're {\k24}shaking {\k24}hard {\k24}and {\k24}getting {\k24}your {\k24}fill.
+Dialogue: 0,0:02:48.16,0:02:50.10,Lyrics,,0,0,70,,{\k24}I {\k24}went {\k24}to {\k24}bed, {\k24}you {\k24}went {\k24}to {\k24}war—
+Dialogue: 0,0:02:50.10,0:02:51.81,Lyrics,,0,0,70,,{\k24}Shaking {\k24}our {\k24}friendship {\k24}to {\k24}its {\k24}very {\k24}core.

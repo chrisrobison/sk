@@ -1,0 +1,1192 @@
+1
+00:00:18,577 --> 00:00:19,218
+<u>Skateboard</u> wheels on tracks are meh.
+
+2
+00:00:19,218 --> 00:00:19,258
+Skateboard wheels on tracks are meh.
+
+3
+00:00:19,258 --> 00:00:19,558
+Skateboard <u>wheels</u> on tracks are meh.
+
+4
+00:00:19,558 --> 00:00:19,698
+Skateboard wheels on tracks are meh.
+
+5
+00:00:19,698 --> 00:00:19,838
+Skateboard wheels <u>on</u> tracks are meh.
+
+6
+00:00:19,838 --> 00:00:19,898
+Skateboard wheels on tracks are meh.
+
+7
+00:00:19,898 --> 00:00:20,218
+Skateboard wheels on <u>tracks</u> are meh.
+
+8
+00:00:20,218 --> 00:00:20,399
+Skateboard wheels on tracks are meh.
+
+9
+00:00:20,399 --> 00:00:20,519
+Skateboard wheels on tracks <u>are</u> meh.
+
+10
+00:00:20,519 --> 00:00:20,579
+Skateboard wheels on tracks are meh.
+
+11
+00:00:20,579 --> 00:00:21,259
+Skateboard wheels on tracks are <u>meh.</u>
+
+12
+00:00:21,279 --> 00:00:21,820
+<u>Another</u> night just came and went.
+
+13
+00:00:21,820 --> 00:00:21,920
+Another night just came and went.
+
+14
+00:00:21,920 --> 00:00:22,160
+Another <u>night</u> just came and went.
+
+15
+00:00:22,160 --> 00:00:22,220
+Another night just came and went.
+
+16
+00:00:22,220 --> 00:00:22,520
+Another night <u>just</u> came and went.
+
+17
+00:00:22,520 --> 00:00:22,581
+Another night just came and went.
+
+18
+00:00:22,581 --> 00:00:22,881
+Another night just <u>came</u> and went.
+
+19
+00:00:22,881 --> 00:00:23,041
+Another night just came and went.
+
+20
+00:00:23,041 --> 00:00:23,161
+Another night just came <u>and</u> went.
+
+21
+00:00:23,161 --> 00:00:23,221
+Another night just came and went.
+
+22
+00:00:23,221 --> 00:00:23,621
+Another night just came and <u>went.</u>
+
+23
+00:00:23,641 --> 00:00:24,042
+<u>Spamming</u> hearts on brick brick walls, laughing loud duty calls.
+
+24
+00:00:24,042 --> 00:00:24,102
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+25
+00:00:24,102 --> 00:00:24,262
+Spamming <u>hearts</u> on brick brick walls, laughing loud duty calls.
+
+26
+00:00:24,262 --> 00:00:24,282
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+27
+00:00:24,282 --> 00:00:24,362
+Spamming hearts <u>on</u> brick brick walls, laughing loud duty calls.
+
+28
+00:00:24,362 --> 00:00:24,422
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+29
+00:00:24,422 --> 00:00:24,522
+Spamming hearts on <u>brick</u> brick walls, laughing loud duty calls.
+
+30
+00:00:24,522 --> 00:00:24,802
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+31
+00:00:24,802 --> 00:00:24,903
+Spamming hearts on brick <u>brick</u> walls, laughing loud duty calls.
+
+32
+00:00:24,903 --> 00:00:24,923
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+33
+00:00:24,923 --> 00:00:25,183
+Spamming hearts on brick brick <u>walls,</u> laughing loud duty calls.
+
+34
+00:00:25,183 --> 00:00:25,223
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+35
+00:00:25,223 --> 00:00:25,663
+Spamming hearts on brick brick walls, <u>laughing</u> loud duty calls.
+
+36
+00:00:25,663 --> 00:00:25,703
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+37
+00:00:25,703 --> 00:00:25,964
+Spamming hearts on brick brick walls, laughing <u>loud</u> duty calls.
+
+38
+00:00:25,964 --> 00:00:26,004
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+39
+00:00:26,004 --> 00:00:26,284
+Spamming hearts on brick brick walls, laughing loud <u>duty</u> calls.
+
+40
+00:00:26,284 --> 00:00:26,304
+Spamming hearts on brick brick walls, laughing loud duty calls.
+
+41
+00:00:26,304 --> 00:00:29,286
+Spamming hearts on brick brick walls, laughing loud duty <u>calls.</u>
+
+42
+00:00:29,306 --> 00:00:29,627
+<u>Early</u> morning, bus is late.
+
+43
+00:00:29,627 --> 00:00:29,727
+Early morning, bus is late.
+
+44
+00:00:29,727 --> 00:00:30,287
+Early <u>morning,</u> bus is late.
+
+45
+00:00:30,287 --> 00:00:30,367
+Early morning, bus is late.
+
+46
+00:00:30,367 --> 00:00:30,808
+Early morning, <u>bus</u> is late.
+
+47
+00:00:30,808 --> 00:00:30,828
+Early morning, bus is late.
+
+48
+00:00:30,828 --> 00:00:30,968
+Early morning, bus <u>is</u> late.
+
+49
+00:00:30,968 --> 00:00:31,048
+Early morning, bus is late.
+
+50
+00:00:31,048 --> 00:00:31,829
+Early morning, bus is <u>late.</u>
+
+51
+00:00:31,849 --> 00:00:32,289
+<u>Teachers</u> glaring for some shade.
+
+52
+00:00:32,289 --> 00:00:32,329
+Teachers glaring for some shade.
+
+53
+00:00:32,329 --> 00:00:32,910
+Teachers <u>glaring</u> for some shade.
+
+54
+00:00:32,910 --> 00:00:33,230
+Teachers glaring for some shade.
+
+55
+00:00:33,230 --> 00:00:33,290
+Teachers glaring <u>for</u> some shade.
+
+56
+00:00:33,290 --> 00:00:33,310
+Teachers glaring for some shade.
+
+57
+00:00:33,310 --> 00:00:33,590
+Teachers glaring for <u>some</u> shade.
+
+58
+00:00:33,590 --> 00:00:33,610
+Teachers glaring for some shade.
+
+59
+00:00:33,610 --> 00:00:34,251
+Teachers glaring for some <u>shade.</u>
+
+60
+00:00:34,271 --> 00:00:34,351
+<u>Eyes</u> have opened, shoes untied, still can't fit the dead inside.
+
+61
+00:00:34,351 --> 00:00:34,371
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+62
+00:00:34,371 --> 00:00:34,531
+Eyes <u>have</u> opened, shoes untied, still can't fit the dead inside.
+
+63
+00:00:34,531 --> 00:00:34,551
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+64
+00:00:34,551 --> 00:00:34,811
+Eyes have <u>opened,</u> shoes untied, still can't fit the dead inside.
+
+65
+00:00:34,811 --> 00:00:34,831
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+66
+00:00:34,831 --> 00:00:34,971
+Eyes have opened, <u>shoes</u> untied, still can't fit the dead inside.
+
+67
+00:00:34,971 --> 00:00:35,032
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+68
+00:00:35,032 --> 00:00:35,452
+Eyes have opened, shoes <u>untied,</u> still can't fit the dead inside.
+
+69
+00:00:35,452 --> 00:00:35,472
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+70
+00:00:35,472 --> 00:00:35,732
+Eyes have opened, shoes untied, <u>still</u> can't fit the dead inside.
+
+71
+00:00:35,732 --> 00:00:35,772
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+72
+00:00:35,772 --> 00:00:36,072
+Eyes have opened, shoes untied, still <u>can't</u> fit the dead inside.
+
+73
+00:00:36,072 --> 00:00:36,153
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+74
+00:00:36,153 --> 00:00:36,273
+Eyes have opened, shoes untied, still can't <u>fit</u> the dead inside.
+
+75
+00:00:36,273 --> 00:00:36,293
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+76
+00:00:36,293 --> 00:00:36,433
+Eyes have opened, shoes untied, still can't fit <u>the</u> dead inside.
+
+77
+00:00:36,433 --> 00:00:36,453
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+78
+00:00:36,453 --> 00:00:36,673
+Eyes have opened, shoes untied, still can't fit the <u>dead</u> inside.
+
+79
+00:00:36,673 --> 00:00:36,733
+Eyes have opened, shoes untied, still can't fit the dead inside.
+
+80
+00:00:36,733 --> 00:00:37,434
+Eyes have opened, shoes untied, still can't fit the dead <u>inside.</u>
+
+81
+00:00:40,076 --> 00:00:40,316
+<u>I'm</u> sick of all your stupid rules.
+
+82
+00:00:40,316 --> 00:00:40,336
+I'm sick of all your stupid rules.
+
+83
+00:00:40,336 --> 00:00:40,737
+I'm <u>sick</u> of all your stupid rules.
+
+84
+00:00:40,737 --> 00:00:40,897
+I'm sick of all your stupid rules.
+
+85
+00:00:40,897 --> 00:00:40,937
+I'm sick <u>of</u> all your stupid rules.
+
+86
+00:00:40,937 --> 00:00:40,957
+I'm sick of all your stupid rules.
+
+87
+00:00:40,957 --> 00:00:41,077
+I'm sick of <u>all</u> your stupid rules.
+
+88
+00:00:41,077 --> 00:00:41,117
+I'm sick of all your stupid rules.
+
+89
+00:00:41,117 --> 00:00:41,557
+I'm sick of all <u>your</u> stupid rules.
+
+90
+00:00:41,557 --> 00:00:41,597
+I'm sick of all your stupid rules.
+
+91
+00:00:41,597 --> 00:00:42,018
+I'm sick of all your <u>stupid</u> rules.
+
+92
+00:00:42,018 --> 00:00:42,298
+I'm sick of all your stupid rules.
+
+93
+00:00:42,298 --> 00:00:42,538
+I'm sick of all your stupid <u>rules.</u>
+
+94
+00:00:45,261 --> 00:00:45,541
+<u>The</u> way you act like we're all fools.
+
+95
+00:00:45,541 --> 00:00:45,561
+The way you act like we're all fools.
+
+96
+00:00:45,561 --> 00:00:45,841
+The <u>way</u> you act like we're all fools.
+
+97
+00:00:45,841 --> 00:00:45,861
+The way you act like we're all fools.
+
+98
+00:00:45,861 --> 00:00:46,181
+The way <u>you</u> act like we're all fools.
+
+99
+00:00:46,181 --> 00:00:46,201
+The way you act like we're all fools.
+
+100
+00:00:46,201 --> 00:00:46,342
+The way you <u>act</u> like we're all fools.
+
+101
+00:00:46,342 --> 00:00:46,402
+The way you act like we're all fools.
+
+102
+00:00:46,402 --> 00:00:46,642
+The way you act <u>like</u> we're all fools.
+
+103
+00:00:46,642 --> 00:00:46,822
+The way you act like we're all fools.
+
+104
+00:00:46,822 --> 00:00:47,022
+The way you act like <u>we're</u> all fools.
+
+105
+00:00:47,022 --> 00:00:47,162
+The way you act like we're all fools.
+
+106
+00:00:47,162 --> 00:00:47,302
+The way you act like we're <u>all</u> fools.
+
+107
+00:00:47,302 --> 00:00:47,342
+The way you act like we're all fools.
+
+108
+00:00:47,342 --> 00:00:48,043
+The way you act like we're all <u>fools.</u>
+
+109
+00:00:50,352 --> 00:00:51,093
+<u>Suffer</u> then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+110
+00:00:51,093 --> 00:00:51,113
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+111
+00:00:51,113 --> 00:00:51,293
+Suffer <u>then</u> life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+112
+00:00:51,293 --> 00:00:51,333
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+113
+00:00:51,333 --> 00:00:51,593
+Suffer then <u>life</u> is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+114
+00:00:51,593 --> 00:00:51,774
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+115
+00:00:51,774 --> 00:00:51,914
+Suffer then life <u>is</u> killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+116
+00:00:51,914 --> 00:00:51,954
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+117
+00:00:51,954 --> 00:00:52,574
+Suffer then life is <u>killing</u> me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+118
+00:00:52,574 --> 00:00:52,615
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+119
+00:00:52,615 --> 00:00:52,915
+Suffer then life is killing <u>me</u> I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+120
+00:00:52,915 --> 00:00:53,656
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+121
+00:00:53,656 --> 00:00:53,776
+Suffer then life is killing me <u>I</u> just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+122
+00:00:53,776 --> 00:00:53,796
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+123
+00:00:53,796 --> 00:00:54,016
+Suffer then life is killing me I <u>just</u> wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+124
+00:00:54,016 --> 00:00:54,096
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+125
+00:00:54,096 --> 00:00:54,557
+Suffer then life is killing me I just <u>wanna</u> break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+126
+00:00:54,557 --> 00:00:54,617
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+127
+00:00:54,617 --> 00:00:54,837
+Suffer then life is killing me I just wanna <u>break</u> free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+128
+00:00:54,837 --> 00:00:54,897
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+129
+00:00:54,897 --> 00:00:55,237
+Suffer then life is killing me I just wanna break <u>free</u> Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+130
+00:00:55,237 --> 00:00:55,778
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+131
+00:00:55,778 --> 00:00:55,958
+Suffer then life is killing me I just wanna break free <u>Break</u> free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+132
+00:00:55,958 --> 00:00:56,018
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+133
+00:00:56,018 --> 00:00:58,221
+Suffer then life is killing me I just wanna break free Break <u>free,</u> break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+134
+00:00:58,221 --> 00:01:00,944
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+135
+00:01:00,944 --> 00:01:01,224
+Suffer then life is killing me I just wanna break free Break free, <u>break</u> free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+136
+00:01:01,224 --> 00:01:01,244
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+137
+00:01:01,244 --> 00:01:02,986
+Suffer then life is killing me I just wanna break free Break free, break <u>free</u> Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+138
+00:01:02,986 --> 00:01:03,006
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+139
+00:01:03,006 --> 00:01:03,106
+Suffer then life is killing me I just wanna break free Break free, break free <u>Break</u> free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+140
+00:01:03,106 --> 00:01:03,126
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+141
+00:01:03,126 --> 00:01:03,226
+Suffer then life is killing me I just wanna break free Break free, break free Break <u>free,</u> break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+142
+00:01:03,226 --> 00:01:03,246
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+143
+00:01:03,246 --> 00:01:03,347
+Suffer then life is killing me I just wanna break free Break free, break free Break free, <u>break</u> free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+144
+00:01:03,347 --> 00:01:03,367
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+145
+00:01:03,367 --> 00:01:03,447
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break <u>free</u> Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+146
+00:01:03,447 --> 00:01:05,889
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+147
+00:01:05,889 --> 00:01:06,410
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free <u>Principal's</u> office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+148
+00:01:06,410 --> 00:01:06,510
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+149
+00:01:06,510 --> 00:01:06,991
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's <u>office</u> one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+150
+00:01:06,991 --> 00:01:07,191
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+151
+00:01:07,191 --> 00:01:07,311
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office <u>one</u> more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+152
+00:01:07,311 --> 00:01:07,351
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+153
+00:01:07,351 --> 00:01:07,591
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one <u>more</u> time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+154
+00:01:07,591 --> 00:01:07,651
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+155
+00:01:07,651 --> 00:01:08,092
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more <u>time</u> Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+156
+00:01:08,092 --> 00:01:08,512
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+157
+00:01:08,512 --> 00:01:08,753
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time <u>Full</u> on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+158
+00:01:08,753 --> 00:01:08,833
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+159
+00:01:08,833 --> 00:01:08,953
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full <u>on</u> junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+160
+00:01:08,953 --> 00:01:08,993
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+161
+00:01:08,993 --> 00:01:09,293
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on <u>junk</u> they call the crime Parents freaking out again while I'm hanging with my friends
+
+162
+00:01:09,293 --> 00:01:09,333
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+163
+00:01:09,333 --> 00:01:09,594
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk <u>they</u> call the crime Parents freaking out again while I'm hanging with my friends
+
+164
+00:01:09,594 --> 00:01:09,634
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+165
+00:01:09,634 --> 00:01:09,994
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they <u>call</u> the crime Parents freaking out again while I'm hanging with my friends
+
+166
+00:01:09,994 --> 00:01:10,054
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+167
+00:01:10,054 --> 00:01:10,214
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call <u>the</u> crime Parents freaking out again while I'm hanging with my friends
+
+168
+00:01:10,214 --> 00:01:10,254
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+169
+00:01:10,254 --> 00:01:10,675
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the <u>crime</u> Parents freaking out again while I'm hanging with my friends
+
+170
+00:01:10,675 --> 00:01:11,255
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+171
+00:01:11,255 --> 00:01:11,436
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime <u>Parents</u> freaking out again while I'm hanging with my friends
+
+172
+00:01:11,436 --> 00:01:11,456
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+173
+00:01:11,456 --> 00:01:11,796
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents <u>freaking</u> out again while I'm hanging with my friends
+
+174
+00:01:11,796 --> 00:01:11,876
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+175
+00:01:11,876 --> 00:01:11,976
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking <u>out</u> again while I'm hanging with my friends
+
+176
+00:01:11,976 --> 00:01:12,036
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+177
+00:01:12,036 --> 00:01:12,337
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out <u>again</u> while I'm hanging with my friends
+
+178
+00:01:12,337 --> 00:01:12,397
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+179
+00:01:12,397 --> 00:01:12,737
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again <u>while</u> I'm hanging with my friends
+
+180
+00:01:12,737 --> 00:01:12,817
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+181
+00:01:12,817 --> 00:01:12,897
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while <u>I'm</u> hanging with my friends
+
+182
+00:01:12,897 --> 00:01:12,917
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+183
+00:01:12,917 --> 00:01:13,078
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm <u>hanging</u> with my friends
+
+184
+00:01:13,078 --> 00:01:13,098
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+185
+00:01:13,098 --> 00:01:13,238
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging <u>with</u> my friends
+
+186
+00:01:13,238 --> 00:01:13,278
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+187
+00:01:13,278 --> 00:01:13,458
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with <u>my</u> friends
+
+188
+00:01:13,458 --> 00:01:13,518
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my friends
+
+189
+00:01:13,518 --> 00:01:14,419
+Suffer then life is killing me I just wanna break free Break free, break free Break free, break free Principal's office one more time Full on junk they call the crime Parents freaking out again while I'm hanging with my <u>friends</u>
+
+190
+00:01:16,272 --> 00:01:16,432
+<u>They</u> say I should grow up.
+
+191
+00:01:16,432 --> 00:01:16,472
+They say I should grow up.
+
+192
+00:01:16,472 --> 00:01:16,753
+They <u>say</u> I should grow up.
+
+193
+00:01:16,753 --> 00:01:17,113
+They say I should grow up.
+
+194
+00:01:17,113 --> 00:01:17,253
+They say <u>I</u> should grow up.
+
+195
+00:01:17,253 --> 00:01:17,394
+They say I should grow up.
+
+196
+00:01:17,394 --> 00:01:17,674
+They say I <u>should</u> grow up.
+
+197
+00:01:17,674 --> 00:01:17,734
+They say I should grow up.
+
+198
+00:01:17,734 --> 00:01:18,095
+They say I should <u>grow</u> up.
+
+199
+00:01:18,095 --> 00:01:18,255
+They say I should grow up.
+
+200
+00:01:18,255 --> 00:01:18,375
+They say I should grow <u>up.</u>
+
+201
+00:01:18,916 --> 00:01:19,056
+<u>But</u> their lives just went stuck.
+
+202
+00:01:19,056 --> 00:01:19,096
+But their lives just went stuck.
+
+203
+00:01:19,096 --> 00:01:19,357
+But <u>their</u> lives just went stuck.
+
+204
+00:01:19,357 --> 00:01:19,417
+But their lives just went stuck.
+
+205
+00:01:19,417 --> 00:01:19,917
+But their <u>lives</u> just went stuck.
+
+206
+00:01:19,917 --> 00:01:20,058
+But their lives just went stuck.
+
+207
+00:01:20,058 --> 00:01:20,318
+But their lives <u>just</u> went stuck.
+
+208
+00:01:20,318 --> 00:01:20,398
+But their lives just went stuck.
+
+209
+00:01:20,398 --> 00:01:20,638
+But their lives just <u>went</u> stuck.
+
+210
+00:01:20,638 --> 00:01:20,679
+But their lives just went stuck.
+
+211
+00:01:20,679 --> 00:01:21,279
+But their lives just went <u>stuck.</u>
+
+212
+00:01:21,299 --> 00:01:21,420
+<u>Can't</u> even take the lock and leave the town that makes me.
+
+213
+00:01:21,420 --> 00:01:21,440
+Can't even take the lock and leave the town that makes me.
+
+214
+00:01:21,440 --> 00:01:21,520
+Can't <u>even</u> take the lock and leave the town that makes me.
+
+215
+00:01:21,520 --> 00:01:21,580
+Can't even take the lock and leave the town that makes me.
+
+216
+00:01:21,580 --> 00:01:21,680
+Can't even <u>take</u> the lock and leave the town that makes me.
+
+217
+00:01:21,680 --> 00:01:21,700
+Can't even take the lock and leave the town that makes me.
+
+218
+00:01:21,700 --> 00:01:21,820
+Can't even take <u>the</u> lock and leave the town that makes me.
+
+219
+00:01:21,820 --> 00:01:21,840
+Can't even take the lock and leave the town that makes me.
+
+220
+00:01:21,840 --> 00:01:22,061
+Can't even take the <u>lock</u> and leave the town that makes me.
+
+221
+00:01:22,061 --> 00:01:22,081
+Can't even take the lock and leave the town that makes me.
+
+222
+00:01:22,081 --> 00:01:22,141
+Can't even take the lock <u>and</u> leave the town that makes me.
+
+223
+00:01:22,141 --> 00:01:22,181
+Can't even take the lock and leave the town that makes me.
+
+224
+00:01:22,181 --> 00:01:22,461
+Can't even take the lock and <u>leave</u> the town that makes me.
+
+225
+00:01:22,461 --> 00:01:22,501
+Can't even take the lock and leave the town that makes me.
+
+226
+00:01:22,501 --> 00:01:22,601
+Can't even take the lock and leave <u>the</u> town that makes me.
+
+227
+00:01:22,601 --> 00:01:22,641
+Can't even take the lock and leave the town that makes me.
+
+228
+00:01:22,641 --> 00:01:22,962
+Can't even take the lock and leave the <u>town</u> that makes me.
+
+229
+00:01:22,962 --> 00:01:22,982
+Can't even take the lock and leave the town that makes me.
+
+230
+00:01:22,982 --> 00:01:23,222
+Can't even take the lock and leave the town <u>that</u> makes me.
+
+231
+00:01:23,222 --> 00:01:23,262
+Can't even take the lock and leave the town that makes me.
+
+232
+00:01:23,262 --> 00:01:23,583
+Can't even take the lock and leave the town that <u>makes</u> me.
+
+233
+00:01:23,583 --> 00:01:23,763
+Can't even take the lock and leave the town that makes me.
+
+234
+00:01:23,763 --> 00:01:24,444
+Can't even take the lock and leave the town that makes <u>me.</u>
+
+235
+00:01:27,108 --> 00:01:27,268
+<u>I'd</u> stop all your stupid rules.
+
+236
+00:01:27,268 --> 00:01:27,448
+I'd stop all your stupid rules.
+
+237
+00:01:27,448 --> 00:01:27,769
+I'd <u>stop</u> all your stupid rules.
+
+238
+00:01:27,769 --> 00:01:27,969
+I'd stop all your stupid rules.
+
+239
+00:01:27,969 --> 00:01:28,069
+I'd stop <u>all</u> your stupid rules.
+
+240
+00:01:28,069 --> 00:01:28,109
+I'd stop all your stupid rules.
+
+241
+00:01:28,109 --> 00:01:28,550
+I'd stop all <u>your</u> stupid rules.
+
+242
+00:01:28,550 --> 00:01:28,590
+I'd stop all your stupid rules.
+
+243
+00:01:28,590 --> 00:01:29,011
+I'd stop all your <u>stupid</u> rules.
+
+244
+00:01:29,011 --> 00:01:29,451
+I'd stop all your stupid rules.
+
+245
+00:01:29,451 --> 00:01:29,572
+I'd stop all your stupid <u>rules.</u>
+
+246
+00:01:32,216 --> 00:01:32,536
+<u>The</u> way you act like we're all fools.
+
+247
+00:01:32,536 --> 00:01:32,616
+The way you act like we're all fools.
+
+248
+00:01:32,616 --> 00:01:32,716
+The <u>way</u> you act like we're all fools.
+
+249
+00:01:32,716 --> 00:01:32,736
+The way you act like we're all fools.
+
+250
+00:01:32,736 --> 00:01:32,997
+The way <u>you</u> act like we're all fools.
+
+251
+00:01:32,997 --> 00:01:33,157
+The way you act like we're all fools.
+
+252
+00:01:33,157 --> 00:01:33,257
+The way you <u>act</u> like we're all fools.
+
+253
+00:01:33,257 --> 00:01:33,357
+The way you act like we're all fools.
+
+254
+00:01:33,357 --> 00:01:33,618
+The way you act <u>like</u> we're all fools.
+
+255
+00:01:33,618 --> 00:01:33,658
+The way you act like we're all fools.
+
+256
+00:01:33,658 --> 00:01:33,998
+The way you act like <u>we're</u> all fools.
+
+257
+00:01:33,998 --> 00:01:34,138
+The way you act like we're all fools.
+
+258
+00:01:34,138 --> 00:01:34,279
+The way you act like we're <u>all</u> fools.
+
+259
+00:01:34,279 --> 00:01:34,559
+The way you act like we're all fools.
+
+260
+00:01:34,559 --> 00:01:34,739
+The way you act like we're all <u>fools.</u>
+
+261
+00:01:37,463 --> 00:01:38,204
+<u>Suburban</u> life is killing me.
+
+262
+00:01:38,204 --> 00:01:38,264
+Suburban life is killing me.
+
+263
+00:01:38,264 --> 00:01:38,565
+Suburban <u>life</u> is killing me.
+
+264
+00:01:38,565 --> 00:01:38,705
+Suburban life is killing me.
+
+265
+00:01:38,705 --> 00:01:38,865
+Suburban life <u>is</u> killing me.
+
+266
+00:01:38,865 --> 00:01:38,925
+Suburban life is killing me.
+
+267
+00:01:38,925 --> 00:01:39,546
+Suburban life is <u>killing</u> me.
+
+268
+00:01:39,546 --> 00:01:39,606
+Suburban life is killing me.
+
+269
+00:01:39,606 --> 00:01:39,887
+Suburban life is killing <u>me.</u>
+
+270
+00:01:40,648 --> 00:01:40,748
+<u>I</u> just wanna move out, but please don't move.
+
+271
+00:01:40,748 --> 00:01:40,768
+I just wanna move out, but please don't move.
+
+272
+00:01:40,768 --> 00:01:40,988
+I <u>just</u> wanna move out, but please don't move.
+
+273
+00:01:40,988 --> 00:01:41,189
+I just wanna move out, but please don't move.
+
+274
+00:01:41,189 --> 00:01:41,529
+I just <u>wanna</u> move out, but please don't move.
+
+275
+00:01:41,529 --> 00:01:41,669
+I just wanna move out, but please don't move.
+
+276
+00:01:41,669 --> 00:01:41,790
+I just wanna <u>move</u> out, but please don't move.
+
+277
+00:01:41,790 --> 00:01:42,070
+I just wanna move out, but please don't move.
+
+278
+00:01:42,070 --> 00:01:44,333
+I just wanna move <u>out,</u> but please don't move.
+
+279
+00:01:44,333 --> 00:01:44,674
+I just wanna move out, but please don't move.
+
+280
+00:01:44,674 --> 00:01:44,734
+I just wanna move out, <u>but</u> please don't move.
+
+281
+00:01:44,734 --> 00:01:44,754
+I just wanna move out, but please don't move.
+
+282
+00:01:44,754 --> 00:01:44,954
+I just wanna move out, but <u>please</u> don't move.
+
+283
+00:01:44,954 --> 00:01:44,974
+I just wanna move out, but please don't move.
+
+284
+00:01:44,974 --> 00:01:45,315
+I just wanna move out, but please <u>don't</u> move.
+
+285
+00:01:45,315 --> 00:01:45,335
+I just wanna move out, but please don't move.
+
+286
+00:01:45,335 --> 00:01:45,435
+I just wanna move out, but please don't <u>move.</u>
+
+287
+00:01:47,795 --> 00:01:49,501
+<u>Break</u> free!
+
+288
+00:01:49,501 --> 00:01:49,521
+Break free!
+
+289
+00:01:49,521 --> 00:01:49,762
+Break <u>free!</u>
+
+290
+00:01:49,782 --> 00:01:49,882
+<u>Break</u> free!
+
+291
+00:01:49,882 --> 00:01:49,902
+Break free!
+
+292
+00:01:49,902 --> 00:01:50,324
+Break <u>free!</u>
+
+293
+00:01:53,113 --> 00:01:53,314
+<u>Break</u> free!
+
+294
+00:01:53,314 --> 00:01:53,836
+Break free!
+
+295
+00:01:53,836 --> 00:01:53,996
+Break <u>free!</u>
+
+296
+00:01:54,980 --> 00:01:55,080
+<u>Break</u> free!
+
+297
+00:01:55,080 --> 00:01:55,562
+Break free!
+
+298
+00:01:55,562 --> 00:01:55,662
+Break <u>free!</u>
+

@@ -1,0 +1,43 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.03,0:00:51.23,Lyrics,,0,0,70,,{\k10}Plastic {\k60}oceans, {\k54}melting {\k40}skies
+Dialogue: 0,0:00:51.45,0:00:53.64,Lyrics,,0,0,70,,{\k48}Billionaires {\k6}in {\k28}space {\k18}while {\k8}the {\k32}planet {\k38}fries
+Dialogue: 0,0:00:53.90,0:00:56.02,Lyrics,,0,0,70,,{\k46}Healthcare’s {\k6}a {\k36}raffle, {\k26}rent’s {\k6}a {\k40}scam
+Dialogue: 0,0:00:56.22,0:00:58.46,Lyrics,,0,0,70,,{\k34}AI {\k26}writes {\k28}poems {\k40}while {\k2}I {\k6}eat {\k30}cold {\k36}Spam
+Dialogue: 0,0:00:58.64,0:01:01.04,Lyrics,,0,0,70,,{\k32}Scroll {\k28}past {\k28}doom, {\k14}hit {\k20}the {\k56}like
+Dialogue: 0,0:01:01.06,0:01:03.45,Lyrics,,0,0,70,,{\k34}World’s {\k10}on {\k30}fire, {\k12}but {\k22}hey {\k5}— {\k25}cool {\k56}bike!
+Dialogue: 0,0:01:03.47,0:01:05.61,Lyrics,,0,0,70,,{\k26}Late {\k36}stage {\k50}everything, {\k28}nothing {\k24}makes {\k30}sense
+Dialogue: 0,0:01:05.89,0:01:08.15,Lyrics,,0,0,70,,{\k60}Reality's {\k18}paywalled, {\k6}the {\k24}rich {\k26}feel {\k44}tense
+Dialogue: 0,0:01:08.17,0:01:10.49,Lyrics,,0,0,70,,{\k14}We're {\k24}laughing {\k16}through {\k44}collapse, {\k26}dancing {\k42}through {\k52}decay
+Dialogue: 0,0:01:10.75,0:01:13.32,Lyrics,,0,0,70,,{\k26}Order's {\k8}an {\k42}illusion, {\k58}chaos {\k80}pays
+Dialogue: 0,0:01:17.79,0:01:19.97,Lyrics,,0,0,70,,{\k44}Cops {\k18}in {\k38}tanks, {\k10}but {\k50}potholes {\k34}stay
+Dialogue: 0,0:01:20.21,0:01:22.39,Lyrics,,0,0,70,,{\k30}Schools {\k28}get {\k26}books {\k54}banned {\k18}every {\k30}day
+Dialogue: 0,0:01:22.61,0:01:26.54,Lyrics,,0,0,70,,{\k30}Stock {\k16}tips {\k24}from {\k96}memes, {\k50}war {\k32}from {\k20}tweets
+Dialogue: 0,0:01:26.60,0:01:33.35,Lyrics,,0,0,70,,{\k20}The {\k18}algorithm {\k28}chooses {\k68}what {\k54}we {\k14}eat
+Dialogue: 0,0:01:33.37,0:01:34.09,Lyrics,,0,0,70,,{\k14}Debt {\k40}balloons, {\k10}tempers {\k2}snap
+Dialogue: 0,0:01:34.11,0:01:38.90,Lyrics,,0,0,70,,{\k30}We're {\k22}all {\k14}just {\k34}rats {\k10}in {\k34}a {\k28}crypto {\k26}trap
+Dialogue: 0,0:01:38.92,0:01:59.26,Lyrics,,0,0,70,,{\k32}Late {\k24}stage {\k22}everything, {\k24}we {\k30}meme {\k70}our {\k20}fate
+Dialogue: 0,0:01:59.32,0:02:00.42,Lyrics,,0,0,70,,{\k8}Celebrate {\k10}collapse {\k12}with {\k38}clickbait
+Dialogue: 0,0:02:00.48,0:02:03.27,Lyrics,,0,0,70,,{\k40}Truth {\k24}is {\k22}dead, {\k68}long {\k18}live {\k34}spin
+Dialogue: 0,0:02:03.31,0:02:08.66,Lyrics,,0,0,70,,{\k18}Tell {\k26}me {\k6}who {\k36}profits {\k106}when {\k42}we {\k48}don’t {\k22}win
+Dialogue: 0,0:02:08.70,0:02:09.76,Lyrics,,0,0,70,,{\k24}This {\k8}is {\k64}it.
+Dialogue: 0,0:02:10.08,0:02:11.82,Lyrics,,0,0,70,,{\k24}The {\k36}sequel {\k42}nobody {\k38}asked {\k10}for.
+Dialogue: 0,0:02:11.86,0:02:13.36,Lyrics,,0,0,70,,{\k48}Reboots, {\k18}recalls, {\k12}reruns {\k12}of {\k34}Rome.
+Dialogue: 0,0:02:13.38,0:02:18.35,Lyrics,,0,0,70,,{\k20}Civilization’s {\k30}final {\k26}update: {\k56}bug-ridden {\k16}and {\k18}insecure.
+Dialogue: 0,0:02:18.37,0:02:20.35,Lyrics,,0,0,70,,{\k12}Late {\k22}stage {\k26}everything, {\k64}smile {\k30}and {\k30}grind
+Dialogue: 0,0:02:20.35,0:02:22.46,Lyrics,,0,0,70,,{\k30}Buy {\k30}your {\k30}own {\k30}chains, {\k30}they’re {\k30}Prime-shipped, {\k30}signed
+Dialogue: 0,0:02:22.46,0:02:24.56,Lyrics,,0,0,70,,{\k30}We're {\k30}the {\k30}joke, {\k30}we’re {\k30}the {\k30}punchline {\k30}too
+Dialogue: 0,0:02:24.56,0:02:27.31,Lyrics,,0,0,70,,{\k30}Welcome {\k30}to {\k30}the {\k30}end {\k5}— {\k30}brought {\k30}to {\k30}you {\k30}by {\k30}YOU.

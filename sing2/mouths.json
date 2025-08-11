@@ -1,0 +1,178 @@
+[
+    {
+        "sound": [
+            "A",
+            "E",
+            "I"
+        ],
+        "image": "a_e_i.png",
+        "height": 57,
+        "width": 112
+    },
+    {
+        "sound": [
+            "AH"
+        ],
+        "image": "ah.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "B",
+            "M",
+            "P"
+        ],
+        "image": "b_m_p.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "C",
+            "D",
+            "G",
+            "K",
+            "N",
+            "S",
+            "T",
+            "X",
+            "Y",
+            "Z"
+        ],
+        "image": "c_d_g_K_n_s_t_x_y_z.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "D"
+        ],
+        "image": "d.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "E"
+        ],
+        "image": "e.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "F"
+        ],
+        "image": "f.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "F",
+            "W"
+        ],
+        "image": "f_w.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "L"
+        ],
+        "image": "l.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "L"
+        ],
+        "image": "l2.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "M"
+        ],
+        "image": "m.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "O"
+        ],
+        "image": "o.png",
+        "height": 100,
+        "width": 71
+    },
+    {
+        "sound": [
+            "O",
+            "W"
+        ],
+        "image": "o_w.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "OH"
+        ],
+        "image": "oh.png",
+        "height": 68,
+        "width": 126
+    },
+
+    {
+        "sound": [
+            "R"
+        ],
+        "image": "r.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "S"
+        ],
+        "image": "s.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "SC"
+        ],
+        "image": "sc.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "TH"
+        ],
+        "image": "th.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "UN"
+        ],
+        "image": "un.png",
+        "height": 68,
+        "width": 126
+    },
+    {
+        "sound": [
+            "WO"
+        ],
+        "image": "wo.png",
+        "height": 68,
+        "width": 126
+    }
+]

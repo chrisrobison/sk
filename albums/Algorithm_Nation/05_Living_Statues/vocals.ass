@@ -1,0 +1,59 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.22,0:00:10.04,Lyrics,,0,0,70,,{\k54}Sidewalk {\k44}stage, {\k68}the {\k20}city {\k70}sleeps
+Dialogue: 0,0:00:10.10,0:00:12.32,Lyrics,,0,0,70,,{\k22}Concrete {\k42}beds {\k46}and {\k10}secrets {\k6}keep
+Dialogue: 0,0:00:15.61,0:00:20.05,Lyrics,,0,0,70,,{\k18}Eyes {\k50}half-shut {\k48}but {\k74}wide {\k60}with {\k74}pain
+Dialogue: 0,0:00:20.17,0:00:37.20,Lyrics,,0,0,70,,{\k10}Draped {\k10}in {\k82}silence, {\k92}soaked {\k8}in {\k6}rain
+Dialogue: 0,0:00:37.26,0:00:41.10,Lyrics,,0,0,70,,{\k32}Hands {\k22}like {\k10}claws, {\k60}frozen {\k8}mid-air
+Dialogue: 0,0:00:41.14,0:00:42.39,Lyrics,,0,0,70,,{\k8}Swaying {\k70}gently, {\k32}unaware
+Dialogue: 0,0:00:42.61,0:01:00.14,Lyrics,,0,0,70,,{\k10}Statues {\k24}made {\k8}of {\k28}skin {\k18}and {\k80}bone
+Dialogue: 0,0:01:08.15,0:01:10.05,Lyrics,,0,0,70,,{\k86}Gallery {\k26}of {\k42}the {\k22}overthrown
+Dialogue: 0,0:01:10.09,0:01:14.68,Lyrics,,0,0,70,,{\k102}Living {\k146}statues, {\k52}stiff {\k12}and {\k28}numb
+Dialogue: 0,0:01:14.72,0:01:18.10,Lyrics,,0,0,70,,{\k36}High {\k120}on {\k42}apathy {\k54}and {\k42}heroin {\k24}gum
+Dialogue: 0,0:01:18.14,0:01:22.65,Lyrics,,0,0,70,,{\k12}Time {\k86}don’t {\k124}tick {\k58}when {\k54}you {\k26}don’t {\k28}care
+Dialogue: 0,0:01:22.67,0:01:34.02,Lyrics,,0,0,70,,{\k6}When {\k20}every {\k34}breath’s {\k4}a {\k32}cross {\k10}to {\k46}bear
+Dialogue: 0,0:01:34.06,0:01:38.17,Lyrics,,0,0,70,,{\k74}Living {\k64}statues, {\k8}hollow {\k6}eyes
+Dialogue: 0,0:01:38.25,0:01:40.71,Lyrics,,0,0,70,,{\k34}Still {\k22}as {\k18}death {\k20}but {\k32}not {\k12}yet {\k62}died
+Dialogue: 0,0:01:41.31,0:01:44.70,Lyrics,,0,0,70,,{\k52}Frozen {\k10}souls {\k10}in {\k28}slow {\k58}decay
+Dialogue: 0,0:01:45.58,0:01:46.82,Lyrics,,0,0,70,,{\k28}Welcome {\k40}to {\k28}downtown {\k18}USA
+Dialogue: 0,0:01:46.84,0:01:50.08,Lyrics,,0,0,70,,{\k20}Tourists {\k22}pass {\k32}and {\k12}snap {\k154}their {\k48}pics
+Dialogue: 0,0:01:51.33,0:01:52.83,Lyrics,,0,0,70,,{\k8}Of {\k28}fentanyl {\k44}parlor {\k44}tricks
+Dialogue: 0,0:01:54.33,0:02:00.69,Lyrics,,0,0,70,,{\k64}Blink {\k18}and {\k10}miss {\k45}the {\k45}human {\k45}cost
+Dialogue: 0,0:02:00.69,0:02:03.86,Lyrics,,0,0,70,,{\k45}This {\k45}city {\k45}shines {\k45}on {\k45}what {\k45}it’s {\k45}lost
+Dialogue: 0,0:02:03.86,0:02:06.57,Lyrics,,0,0,70,,{\k45}Knees {\k45}are {\k45}locked, {\k45}spine {\k45}like {\k45}rust
+Dialogue: 0,0:02:06.57,0:02:09.74,Lyrics,,0,0,70,,{\k45}They {\k45}stand {\k45}like {\k45}tombstones {\k45}in {\k45}the {\k45}dust
+Dialogue: 0,0:02:09.74,0:02:12.46,Lyrics,,0,0,70,,{\k45}Not {\k45}alive {\k45}and {\k45}not {\k45}quite {\k45}dead
+Dialogue: 0,0:02:12.46,0:02:15.17,Lyrics,,0,0,70,,{\k45}Their {\k45}thoughts {\k45}dissolved, {\k45}their {\k45}dreams {\k45}misled
+Dialogue: 0,0:02:15.17,0:02:16.98,Lyrics,,0,0,70,,{\k45}Living {\k45}statues, {\k45}frozen {\k45}still
+Dialogue: 0,0:02:16.98,0:02:20.15,Lyrics,,0,0,70,,{\k45}On {\k45}corners {\k45}shaped {\k45}by {\k45}greed {\k45}and {\k45}pills
+Dialogue: 0,0:02:20.15,0:02:22.41,Lyrics,,0,0,70,,{\k45}Nodding {\k45}off {\k45}like {\k45}urban {\k45}ghosts
+Dialogue: 0,0:02:22.41,0:02:23.77,Lyrics,,0,0,70,,{\k45}On {\k45}taxpayer-funded {\k45}overdose
+Dialogue: 0,0:02:23.77,0:02:25.58,Lyrics,,0,0,70,,{\k45}Living {\k45}statues, {\k45}tragic {\k45}art
+Dialogue: 0,0:02:25.58,0:02:27.84,Lyrics,,0,0,70,,{\k45}Silent {\k45}screams {\k45}and {\k45}stopped-up {\k45}hearts
+Dialogue: 0,0:02:27.84,0:02:30.55,Lyrics,,0,0,70,,{\k45}Just {\k45}a {\k45}pose {\k45}on {\k45}Market {\k45}Street
+Dialogue: 0,0:02:30.55,0:02:32.82,Lyrics,,0,0,70,,{\k45}Another {\k45}soul {\k45}the {\k45}system {\k45}beat
+Dialogue: 0,0:02:32.82,0:02:35.98,Lyrics,,0,0,70,,{\k45}No {\k45}rehab {\k45}signs, {\k45}just {\k45}cop {\k45}car {\k45}lights
+Dialogue: 0,0:02:35.98,0:02:38.70,Lyrics,,0,0,70,,{\k45}No {\k45}housing {\k45}plans, {\k45}just {\k45}sleepless {\k45}nights
+Dialogue: 0,0:02:38.70,0:02:42.32,Lyrics,,0,0,70,,{\k45}You {\k45}call {\k45}it {\k45}“blight,” {\k45}we {\k45}call {\k45}it {\k45}“hell”
+Dialogue: 0,0:02:42.32,0:02:45.49,Lyrics,,0,0,70,,{\k45}Where {\k45}the {\k45}living {\k45}rot {\k45}but {\k45}never {\k45}fell
+Dialogue: 0,0:02:45.49,0:02:47.75,Lyrics,,0,0,70,,{\k45}Living {\k45}statues, {\k45}keep {\k45}your {\k45}pose
+Dialogue: 0,0:02:47.75,0:02:50.91,Lyrics,,0,0,70,,{\k45}While {\k45}the {\k45}city {\k45}shrugs {\k45}and {\k45}overdose {\k45}grows
+Dialogue: 0,0:02:50.91,0:02:53.63,Lyrics,,0,0,70,,{\k45}Step {\k45}around {\k45}them, {\k45}don't {\k45}ask {\k45}why
+Dialogue: 0,0:02:53.63,0:02:57.25,Lyrics,,0,0,70,,{\k45}Just {\k45}blame {\k45}the {\k45}weak {\k45}and {\k45}walk {\k45}on {\k45}by
+Dialogue: 0,0:02:57.25,0:02:59.51,Lyrics,,0,0,70,,{\k45}Living {\k45}statues, {\k45}stand {\k45}in {\k45}shame
+Dialogue: 0,0:02:59.51,0:03:02.73,Lyrics,,0,0,70,,{\k45}Not {\k45}theirs {\k5}— {\k45}but {\k45}ours, {\k45}in {\k45}freedom’s {\k45}name
+Dialogue: 0,0:03:02.73,0:03:06.35,Lyrics,,0,0,70,,{\k45}So {\k45}freeze {\k45}the {\k45}frame, {\k45}this {\k45}ain’t {\k45}a {\k45}dream
+Dialogue: 0,0:03:06.35,0:03:08.61,Lyrics,,0,0,70,,{\k45}It’s {\k45}America, {\k45}dressed {\k45}in {\k45}dopamine

@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TraqLab Lite — Band Practice Tool</title>
+  <style>
+    :root {
+      --bg: #0b0b0c; --panel:#141416; --accent:#8af; --muted:#888; --text:#eaeaea;
+      --good:#4fd67b; --bad:#ff6b6b; --warn:#ffd166;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif}
+    header{position:sticky;top:0;z-index:50;background:linear-gradient(0deg,rgba(11,11,12,0),rgba(11,11,12,.85) 20%,rgba(11,11,12,.95));backdrop-filter:blur(6px);}
+    .toolbar{display:grid;gap:.5rem;grid-template-columns:1fr; padding:.75rem .75rem .5rem}
+    @media(min-width:720px){.toolbar{grid-template-columns:1fr 1fr 1fr}}
+    .card{background:var(--panel);border:1px solid #222;border-radius:14px;box-shadow:0 4px 14px rgba(0,0,0,.35)}
+    .row{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+    .grow{flex:1}
+    label{font-size:.8rem;color:#bbb}
+    select,button,input[type="range"]{width:100%;appearance:none;background:#1a1a1d;color:var(--text);border:1px solid #29292c;border-radius:10px;padding:.6rem .7rem}
+    button{cursor:pointer}
+    button.primary{background:var(--accent);color:#0b0b0c;border:none;font-weight:700}
+    button.ghost{background:#1a1a1d}
+    button.tiny{padding:.35rem .55rem;border-radius:8px;font-size:.85rem}
+    .transport{display:flex;gap:.5rem;align-items:center; padding:.6rem}
+    .transport button{min-width:3rem}
+    .time{font-family:ui-monospace, SFMono-Regular, Menlo, monospace;opacity:.8}
+    .grid{display:grid;gap:.5rem;padding:.75rem}
+    .stem{display:flex;gap:.5rem;align-items:center;padding:.5rem;border-radius:12px;background:#121215;border:1px solid #222}
+    .stem h4{margin:0;font-size:.95rem}
+    .stem .btns{display:flex;gap:.4rem;flex-wrap:wrap}
+    .stemctl { display: flex; }
+    .muted{opacity:.5}
+    .wave{height:72px; width:100%; background:linear-gradient(180deg,#0d0d10,#0a0a0c); border-radius:10px; overflow:hidden; border:1px solid #1f1f22}
+    .footer{padding:.75rem;color:#aaa;font-size:.85rem}
+    .tag{font-size:.7rem;background:#202026;border:1px solid #2b2b33;border-radius:999px;padding:.2rem .45rem;color:#b8b8c4}
+    details{width:100%}
+    summary{cursor:pointer;list-style:none}
+    summary::-webkit-details-marker{display:none}
+    .fxpanel{display:grid;gap:.4rem;grid-template-columns:repeat(2,minmax(0,1fr));padding:.5rem;margin-top:.4rem;background:#0e0e12;border:1px solid #23232a;border-radius:10px}
+    .fxpanel label{display:block;font-size:.75rem;color:#9aa3b2}
+    .fxpanel .row{align-items:center}
+    .fxpanel input[type="range"]{height:28px}
+    .fxhead{display:flex;gap:.5rem;align-items:center}
+    .fxreset{justify-self:end}
+    .analysis{display:grid;gap:.5rem;padding:.75rem}
+    .readout{display:flex;gap:1rem;align-items:baseline;flex-wrap:wrap}
+    .noteBig{font-size:2rem;font-weight:800}
+    .staff, .tab{background:#0f0f13;border:1px solid #23232a;border-radius:12px;padding:.5rem}
+    .staff svg, .tab svg{width:100%;height:80px;display:block}
+    .scroller{max-height:160px;overflow:auto;border:1px dashed #2a2a33;border-radius:10px;padding:.5rem}
+    .pill{display:inline-flex;align-items:center;gap:.3rem;border:1px solid #2b2b33;border-radius:999px;padding:.25rem .5rem}
+    .pill .dot{width:10px;height:10px;border-radius:999px}
+    /* --- Knob styles --- */
+    .volwrap{display:flex;flex-direction:column;align-items:center;gap:.6rem}
+    .knob{position:relative;width:56px;height:56px;user-select:none;touch-action:none}
+    .knob img{width:100%;height:100%;display:block;pointer-events:none}
+    .knob .pointer{position:absolute;left:50%;top:50%;width:2px;height:22px;background:#8af;border-radius:2px;box-shadow:0 0 6px rgba(136,170,255,.5);transform-origin:bottom center;transform:translate(-50%,-100%) rotate(-135deg)}
+    .knob.drag{filter:brightness(1.1)}
+    .vtxt{font-size: 10px; min-width:32px;text-align:right;opacity:.85;font-variant-numeric:tabular-nums}
+  </style>
+  <!-- Wavesurfer (peaks + sync) -->
+  <script src="https://cdn.jsdelivr.net/npm/wavesurfer.js@7/dist/wavesurfer.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="toolbar">
+      <div class="card" style="padding:.6rem">
+        <div class="row">
+          <div class="grow">
+            <label for="albumSel">Album</label>
+            <select id="albumSel"></select>
+          </div>
+          <div class="grow">
+            <label for="songSel">Song</label>
+            <select id="songSel"></select>
+          </div>
+          <div style="min-width:190px">
+            <label>&nbsp;</label>
+            <div class="row">
+              <button id="playBtn" class="primary">▶︎ Play</button>
+              <button id="stopBtn" class="ghost">■ Stop</button>
+            </div>
+          </div>
+        </div>
+        <div class="transport row" style="justify-content:space-between">
+          <div class="row" style="gap:.35rem">
+            <span class="pill"><span class="dot" id="syncDot" style="background:var(--bad)"></span>Sync</span>
+            <span class="pill"><span class="dot" id="loadDot" style="background:var(--warn)"></span>Loaded</span>
+          </div>
+          <div class="row" style="min-width:260px">
+            <label style="width:110px">Master Vol</label>
+            <input id="masterVol" type="range" min="0" max="1" step="0.01" value="0.9"/>
+            <span class="time" id="timeRead">0:00 / 0:00</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="grid" id="stemsGrid"></main>
+
+  <section class="analysis">
+    <div class="card" style="padding:.75rem">
+      <div class="row">
+        <div class="grow">
+          <label for="analysisSource">Pitch/Tab Analysis Source</label>
+          <select id="analysisSource"></select>
+        </div>
+        <div style="min-width:220px">
+          <label for="instrumentSel">Instrument</label>
+          <select id="instrumentSel">
+            <option value="guitar">Guitar (E A D G B E)</option>
+            <option value="bass">Bass (E A D G)</option>
+          </select>
+        </div>
+      </div>
+      <div class="readout">
+        <div class="noteBig" id="noteNow">—</div>
+        <div id="freqNow" class="time">0 Hz</div>
+        <div id="tabNow" class="tag">—</div>
+      </div>
+      <div class="row">
+        <div class="staff grow">
+          <label>Running Notes (latest right)</label>
+          <svg id="notesSVG" viewBox="0 0 600 80" preserveAspectRatio="none"></svg>
+        </div>
+        <div class="tab" style="min-width:260px">
+          <label>Tab Sketch</label>
+          <svg id="tabSVG" viewBox="0 0 260 80" preserveAspectRatio="none"></svg>
+        </div>
+      </div>
+      <div class="scroller" id="noteLog"></div>
+    </div>
+  </section>
+
+  <div class="footer" id="foot"></div>
+
+<script>
+const $ = sel => document.querySelector(sel);
+const grid = $('#stemsGrid');
+const albumSel = $('#albumSel');
+const songSel = $('#songSel');
+const playBtn = $('#playBtn');
+const stopBtn = $('#stopBtn');
+const timeRead = $('#timeRead');
+const masterVol = $('#masterVol');
+const analysisSource = $('#analysisSource');
+const instrumentSel = $('#instrumentSel');
+const noteNow = $('#noteNow');
+const freqNow = $('#freqNow');
+const tabNow = $('#tabNow');
+const notesSVG = $('#notesSVG');
+const tabSVG = $('#tabSVG');
+const noteLog = $('#noteLog');
+const syncDot = $('#syncDot');
+const loadDot = $('#loadDot');
+
+let audioCtx;
+let masterGain;
+let currentSong = null;
+let stems = []; // {name, url, media, ws, gainNode, solo, mute}
+let isPlaying = false;
+let duration = 0;
+let raf;
+
+async function loadJSON(url){
+  const r = await fetch(url, {cache:'no-cache'});
+  if(!r.ok) throw new Error('Failed to load '+url);
+  return await r.json();
+}
+
+// Load songs.json and populate selects
+let songsIndex = null;
+(async function init(){
+  try{
+    songsIndex = await loadJSON('songs.json');
+    populateAlbums(songsIndex.albums||[]);
+    $('#foot').textContent = 'Loaded '+(songsIndex.albums?.length||0)+' album(s).';
+  }catch(e){
+    console.error(e);
+    $('#foot').textContent = 'Error: could not load songs.json';
+  }
+})();
+
+function populateAlbums(albums){
+  albumSel.innerHTML = albums.map((a,i)=>`<option value="${i}">${a.title}</option>`).join('');
+  albumSel.addEventListener('change', ()=> populateSongs(albums[albumSel.value].songs));
+  populateSongs(albums[0]?.songs||[]);
+}
+
+function populateSongs(songs){
+  songSel.innerHTML = songs.map((s,i)=>`<option value="${i}">${s.track}. ${s.title}</option>`).join('');
+  songSel.onchange = ()=> loadSong(songs[songSel.value]);
+  loadSong(songs[0]);
+}
+
+function ensureAudio(){
+  if(!audioCtx){
+    audioCtx = new (window.AudioContext||window.webkitAudioContext)();
+    masterGain = audioCtx.createGain();
+    masterGain.gain.value = parseFloat(masterVol.value);
+    masterGain.connect(audioCtx.destination);
+  }
+}
+
+masterVol.oninput = ()=>{ if(masterGain) masterGain.gain.value = parseFloat(masterVol.value); };
+
+function generateIR(ctx, seconds=1.6, decay=2.0){
+  const rate = ctx.sampleRate; const len = Math.floor(seconds*rate);
+  const ir = ctx.createBuffer(2, len, rate);
+  for(let ch=0; ch<2; ch++){
+    const data = ir.getChannelData(ch);
+    for(let i=0;i<len;i++){
+      data[i] = (Math.random()*2-1) * Math.pow(1 - i/len, decay);
+    }
+  }
+  return ir;
+}
+
+async function loadSong(song){
+  ensureAudio();
+  stopAll();
+  currentSong = song;
+  grid.innerHTML='';
+  analysisSource.innerHTML='';
+  stems = [];
+  let loaded = 0;
+  const total = (song.parts||[]).length;
+  loadDot.style.background = '#ffd166';
+
+  for(const part of song.parts){
+    const url = `${song.folder}/${part.stem}`;
+    const row = document.createElement('div');
+    row.className='stem card';
+    row.innerHTML = `
+      <div>
+      <div>
+        <h4>${part.name.replace(/_/g, ' ')}</h4>
+      </div>
+      <div style="display: flex;width:95vw;">
+        <div class="stemctl">
+          <div class="volwrap" title="Volume">
+            <div class="knob" data-vol>
+              <img src="knob.svg" alt="knob"/>
+              <div class="pointer"></div>
+            </div>
+            <div class="vtxt">100%</div>
+          </div>
+           <div class="btns">
+            <button class="tiny" data-act="solo">Solo</button>
+            <button class="tiny" data-act="mute">Mute</button>
+          </div>
+        </div>
+        <div class="wave"></div>
+      </div>
+      <div style="grid-column: 1 / -1;">
+        <details>
+          <summary class="tiny ghost">FX</summary>
+          <div class="fxpanel">
+            <div>
+              <label>Pan</label>
+              <input type="range" min="-1" max="1" step="0.01" value="0" data-fx="pan">
+            </div>
+            <div>
+              <label>Comp Threshold (dB)</label>
+              <input type="range" min="-60" max="0" step="1" value="-24" data-fx="compThresh">
+            </div>
+            <div>
+              <label>Low EQ (dB)</label>
+              <input type="range" min="-12" max="12" step="0.5" value="0" data-fx="eqLow">
+            </div>
+            <div>
+              <label>Mid EQ (dB)</label>
+              <input type="range" min="-12" max="12" step="0.5" value="0" data-fx="eqMid">
+            </div>
+            <div>
+              <label>High EQ (dB)</label>
+              <input type="range" min="-12" max="12" step="0.5" value="0" data-fx="eqHigh">
+            </div>
+            <div>
+              <label>Delay Time (s)</label>
+              <input type="range" min="0" max="0.6" step="0.005" value="0" data-fx="delayTime">
+            </div>
+            <div>
+              <label>Delay Feedback</label>
+              <input type="range" min="0" max="0.85" step="0.01" value="0" data-fx="delayFb">
+            </div>
+            <div>
+              <label>Delay Mix</label>
+              <input type="range" min="0" max="1" step="0.01" value="0" data-fx="delayMix">
+            </div>
+            <div>
+              <label>Reverb Mix</label>
+              <input type="range" min="0" max="1" step="0.01" value="0" data-fx="revMix">
+            </div>
+            <button class="tiny ghost fxreset" data-act="fxreset">Reset FX</button>
+          </div>
+        </details>
+      </div>
+     </div>`;
+    grid.appendChild(row);
+
+    const media = new Audio();
+    media.src = url;
+    media.crossOrigin = 'anonymous';
+    media.preload = 'auto';
+    media.addEventListener('loadedmetadata', ()=>{
+      duration = Math.max(duration, media.duration||0);
+    });
+
+    // Connect to graph
+    const trackGain = audioCtx.createGain();
+    const src = audioCtx.createMediaElementSource(media);
+
+    // Build per-stem FX chain
+    const eqLow = new BiquadFilterNode(audioCtx,{type:'lowshelf',frequency:120,gain:0});
+    const eqMid = new BiquadFilterNode(audioCtx,{type:'peaking',frequency:1000,Q:1,gain:0});
+    const eqHigh = new BiquadFilterNode(audioCtx,{type:'highshelf',frequency:4000,gain:0});
+    const comp = new DynamicsCompressorNode(audioCtx,{threshold:-24,knee:6,ratio:3,attack:0.003,release:0.25});
+    const pan = new StereoPannerNode(audioCtx,{pan:0});
+
+    // Delay path (wet only)
+    const delay = new DelayNode(audioCtx,{delayTime:0});
+    const delayFb = new GainNode(audioCtx,{gain:0});
+    const delayWet = new GainNode(audioCtx,{gain:0});
+    delay.connect(delayFb).connect(delay); // feedback loop
+
+    // Reverb path (wet only)
+    const convolver = new ConvolverNode(audioCtx,{buffer: generateIR(audioCtx,1.6,2)});
+    const revWet = new GainNode(audioCtx,{gain:0});
+
+    const dry = new GainNode(audioCtx,{gain:1});
+
+    // Wiring: src -> EQ -> comp -> pan -> dry -> trackGain -> master
+    //                             ├-> delay -> delayWet -> trackGain
+    //                             └-> convolver -> revWet -> trackGain
+    src.connect(eqLow).connect(eqMid).connect(eqHigh).connect(comp).connect(pan).connect(dry).connect(trackGain).connect(masterGain);
+    pan.connect(delay);
+    delayWet.connect(trackGain);
+    pan.connect(convolver);
+    revWet.connect(trackGain);
+    delay.connect(delayWet);
+    convolver.connect(revWet);
+
+    const fx = {eqLow, eqMid, eqHigh, comp, pan, delay, delayFb, delayWet, convolver, revWet, dry, trackGain};
+
+    // WaveSurfer instance for this stem
+    const ws = WaveSurfer.create({
+      container: row.querySelector('.wave'),
+      height: 72, progressColor: '#8af', waveColor: '#394155', cursorColor:'#fff',
+      interact: true, dragToSeek: true,
+      url,
+    });
+    ws.on('interaction', () => { /* allow autoplay on iOS */ });
+    ws.on('ready', ()=>{ loaded++; if(loaded===total){loadDot.style.background = 'var(--good)';} });
+
+    // Controls
+    row.addEventListener('click', (e)=>{
+      const act = e.target?.dataset?.act;
+      if(act==='solo') toggleSolo(part.name);
+      if(act==='mute') toggleMute(part.name);
+    });
+    const vtxt = row.querySelector('.vtxt');
+    const volKnob = row.querySelector('[data-vol]');
+    attachKnob(volKnob, 1, (val)=>{ trackGain.gain.value = val; vtxt.textContent = Math.round(val*100)+'%'; });
+
+    const idx = stems.length;
+    stems.push({ name: part.name, url, media, ws, gainNode: trackGain, solo:false, mute:false,
+      fx: {eqLow, eqMid, eqHigh, comp, pan, delay, delayFb, delayWet, convolver, revWet, dry}
+    });
+
+    // Hook up FX controls for this row
+    row.querySelectorAll('input[data-fx]').forEach(inp=>{
+      inp.addEventListener('input', (e)=>{
+        const v = parseFloat(e.target.value);
+        const fxName = e.target.dataset.fx;
+        const F = stems[idx].fx;
+        switch(fxName){
+          case 'pan': F.pan.pan.value = v; break;
+          case 'compThresh': F.comp.threshold.value = v; break;
+          case 'eqLow': F.eqLow.gain.value = v; break;
+          case 'eqMid': F.eqMid.gain.value = v; break;
+          case 'eqHigh': F.eqHigh.gain.value = v; break;
+          case 'delayTime': F.delay.delayTime.value = v; break;
+          case 'delayFb': F.delayFb.gain.value = v; break;
+          case 'delayMix': F.delayWet.gain.value = v; break;
+          case 'revMix': F.revWet.gain.value = v; break;
+        }
+      });
+    });
+    row.querySelector('[data-act="fxreset"]').addEventListener('click', ()=>{
+      const F = stems[idx].fx;
+      F.pan.pan.value=0; F.comp.threshold.value=-24;
+      F.eqLow.gain.value=0; F.eqMid.gain.value=0; F.eqHigh.gain.value=0;
+      F.delay.delayTime.value=0; F.delayFb.gain.value=0; F.delayWet.gain.value=0; F.revWet.gain.value=0;
+      row.querySelectorAll('input[data-fx]').forEach(inp=>{
+        const d = {pan:0, compThresh:-24, eqLow:0, eqMid:0, eqHigh:0, delayTime:0, delayFb:0, delayMix:0, revMix:0};
+        if(d[inp.dataset.fx]!==undefined) inp.value = d[inp.dataset.fx];
+      });
+    });
+
+    // Seek syncing when user seeks in any waveform
+    ws.on('seek', (p)=>{
+      const t = p * (media.duration||duration||0);
+      seekAll(t);
+    });
+  }
+
+  // populate analysis source list
+  stems.forEach((s,i)=> analysisSource.append(new Option(s.name, i)) );
+
+  // Simple clock
+  cancelAnimationFrame(raf);
+  const tick = ()=>{
+    const t = stems[0]?.media.currentTime||0;
+    const dur = stems[0]?.media.duration||duration||0;
+    timeRead.textContent = formatTime(t)+' / '+formatTime(dur);
+    // Scroll cursors by syncing WaveSurfer playback time
+    stems.forEach(s=>{ if(s.ws && dur>0){ s.ws.setTime(t); }});
+    syncDot.style.background = isInSync()? 'var(--good)':'var(--bad)';
+    raf = requestAnimationFrame(tick);
+  };
+  tick();
+}
+
+function formatTime(sec){
+  if(!isFinite(sec)) return '0:00';
+  const m = Math.floor(sec/60), s = Math.floor(sec%60).toString().padStart(2,'0');
+  return `${m}:${s}`;
+}
+
+// ==== Knob helpers ====
+const KNOB_MIN = -135, KNOB_MAX = 135;
+const clamp = (x,min=0,max=1)=> Math.min(max, Math.max(min,x));
+function attachKnob(el, value, onChange){
+  const pointer = el.querySelector('.pointer');
+  let v = clamp(value,0,1);
+  const setVisual = ()=>{
+    const ang = KNOB_MIN + v*(KNOB_MAX-KNOB_MIN);
+    pointer.style.transform = `translate(-50%,-100%) rotate(${ang}deg)`;
+  };
+  setVisual(); onChange?.(v);
+  const state = {drag:false,sx:0,sy:0,sv:v};
+  const getXY = (ev)=> ev.touches?.length? {x:ev.touches[0].clientX,y:ev.touches[0].clientY} : {x:ev.clientX,y:ev.clientY};
+  const down = (ev)=>{ state.drag=true; el.classList.add('drag'); const p=getXY(ev); state.sx=p.x; state.sy=p.y; state.sv=v; ev.preventDefault(); };
+  const move = (ev)=>{ if(!state.drag) return; const p=getXY(ev); const dx=p.x-state.sx; const dy=p.y-state.sy; const delta = (-dy + dx)/200; v = clamp(state.sv + delta,0,1); setVisual(); onChange?.(v); ev.preventDefault(); };
+  const up = ()=>{ if(!state.drag) return; state.drag=false; el.classList.remove('drag'); };
+  el.addEventListener('mousedown', down); window.addEventListener('mousemove', move); window.addEventListener('mouseup', up);
+  el.addEventListener('touchstart', down, {passive:false}); window.addEventListener('touchmove', move, {passive:false}); window.addEventListener('touchend', up);
+  return { set:(nv)=>{ v=clamp(nv,0,1); setVisual(); } };
+}
+
+function isInSync(){
+  if(stems.length<2) return true;
+  const lead = stems[0].media.currentTime;
+  return stems.every(s=>Math.abs(s.media.currentTime - lead) < 0.06);
+}
+
+function playAll(){
+  stems.forEach(s=>{ if(!isPlaying){ s.media.play(); } });
+  isPlaying = true; playBtn.textContent = '⏸︎ Pause';
+}
+function pauseAll(){ stems.forEach(s=> s.media.pause()); isPlaying=false; playBtn.textContent='▶︎ Play'; }
+function stopAll(){ if(!stems.length) return; pauseAll(); seekAll(0); }
+function seekAll(t){ stems.forEach(s=>{ try{s.media.currentTime = t;}catch{}}); }
+
+playBtn.onclick = ()=>{ isPlaying ? pauseAll() : playAll(); };
+stopBtn.onclick = ()=> stopAll();
+
+function toggleSolo(name){
+  const target = stems.find(s=>s.name===name);
+  if(!target) return;
+  const willSolo = !target.solo;
+  stems.forEach(s=>{ s.solo = false; s.media.muted = willSolo && s!==target; });
+  target.solo = willSolo;
+  // If turning off solo, unmute all
+  if(!willSolo){ stems.forEach(s=> s.media.muted=false); }
+  refreshRows();
+}
+function toggleMute(name){
+  const s = stems.find(x=>x.name===name);
+  if(!s) return;
+  s.mute = !s.mute; s.media.muted = s.mute; refreshRows();
+}
+function refreshRows(){
+  [...grid.children].forEach((row,i)=>{
+    const s = stems[i];
+    row.classList.toggle('muted', s.media.muted || s.mute);
+  });
+}
+
+// ===== Pitch detection (autocorrelation) =====
+let analyser, buf, rafPitch; let analysisStemIdx = null;
+const A4 = 440, SEMITONE = Math.pow(2,1/12);
+const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+
+function startAnalysis(){
+  if(!stems.length) return;
+  ensureAudio();
+  if(!analyser){
+    analyser = audioCtx.createAnalyser();
+    analyser.fftSize = 2048; // mobile-safe
+  }
+  buf = new Float32Array(analyser.fftSize);
+  // Disconnect previous analysis source if any
+  try{
+    if(analysisStemIdx !== null && stems[analysisStemIdx]){
+      stems[analysisStemIdx].fx.pan.disconnect(analyser);
+    }
+  }catch(e){}
+  const idx = parseInt(analysisSource.value)||0;
+  analysisStemIdx = idx;
+  // Fan-out from the selected stem's post-pan node into the analyser (no audible output)
+  stems[idx].fx.pan.connect(analyser);
+
+  cancelAnimationFrame(rafPitch);
+  const loop = ()=>{
+    analyser.getFloatTimeDomainData(buf);
+    const freq = autoCorrelate(buf, audioCtx.sampleRate);
+    if(freq>0){
+      const note = freqToNote(freq);
+      renderNote(note.name + note.acc, note.oct, freq);
+      drawNotesStrip(note.name+note.acc, note.oct);
+      // Tab suggestion rendered in renderNote via suggestTab()
+    } else {
+      renderNote('—', '', 0);
+    }
+    rafPitch = requestAnimationFrame(loop);
+  };
+  loop();
+}
+
+analysisSource.onchange = startAnalysis;
+instrumentSel.onchange = ()=>{};
+
+function autoCorrelate(buf, sampleRate){
+  // A simple YIN-ish autocorrelation
+  const SIZE = buf.length;
+  let rms = 0; for(let i=0;i<SIZE;i++){ const v=buf[i]; rms += v*v; }
+  rms = Math.sqrt(rms/SIZE);
+  if(rms < 0.01) return -1; // silence
+  let lastCorr = 1, bestOffset = -1, bestCorr = 0;
+  const MAX_SAMPLES = Math.floor(SIZE/2);
+  for(let offset=MIN_SAMPLES(); offset<MAX_SAMPLES; offset++){
+    let corr=0;
+    for(let i=0;i<MAX_SAMPLES;i++){ corr += buf[i]*buf[i+offset]; }
+    corr = corr / MAX_SAMPLES;
+    if(corr>bestCorr){ bestCorr = corr; bestOffset = offset; }
+    lastCorr = corr;
+  }
+  if(bestCorr > 0.01){
+    const freq = sampleRate / bestOffset;
+    return freq;
+  }
+  return -1;
+}
+function MIN_SAMPLES(){ return 24; } // ~2kHz top
+
+function freqToNote(freq){
+  const midi = Math.round(69 + 12*Math.log2(freq/440));
+  const n = (midi%12+12)%12; const name = NOTE_NAMES[n];
+  const oct = Math.floor(midi/12)-1;
+  return {midi, name: name.replace('B','♭')===name?name:'', acc: name.includes('#')?'#':'', oct, text: name+oct };
+}
+
+function renderNote(name, oct, freq){
+  noteNow.textContent = name + (oct!==''?oct:'');
+  freqNow.textContent = freq? freq.toFixed(1)+' Hz' : '0 Hz';
+  tabNow.textContent = freq ? suggestTab(freq) : '—';
+}
+
+function drawNotesStrip(name, oct){
+  const label = name+(oct!==''?oct:'');
+  // shift left and add new text at right
+  while(notesSVG.firstChild && notesSVG.childNodes.length>30){ notesSVG.removeChild(notesSVG.firstChild); }
+  const width = 600, x = width - 10;
+  // shift existing
+  notesSVG.querySelectorAll('text').forEach(t=>{ t.setAttribute('x', parseFloat(t.getAttribute('x'))-20); });
+  const t = document.createElementNS('http://www.w3.org/2000/svg','text');
+  t.setAttribute('x', x); t.setAttribute('y', 50); t.setAttribute('font-size','20'); t.setAttribute('text-anchor','end'); t.textContent = label;
+  notesSVG.appendChild(t);
+  const ts = new Date().toLocaleTimeString();
+  const div = document.createElement('div');
+  div.textContent = ts+ ' — '+label;
+  noteLog.prepend(div);
+}
+
+// Basic TAB suggestion
+function suggestTab(freq){
+  const instr = instrumentSel.value;
+  const openStrings = instr==='bass' ? [40,45,50,55] : [40,45,50,55,59,64]; // MIDI EADG(BE)
+  // find midi from freq
+  const midi = Math.round(69 + 12*Math.log2(freq/440));
+  let best = {string:0,fret:0,dist:999};
+  openStrings.forEach((m,i)=>{
+    const fret = midi - m; if(fret>=0 && fret<=24){ const dist=Math.abs(fret); if(dist<best.dist){ best={string:i,fret,dist}; }}
+  });
+  if(best.dist===999) return '—';
+  const strNames = instr==='bass'? ['G','D','A','E'] : ['e','B','G','D','A','E'];
+  const sIdx = (strNames.length-1) - best.string; // draw high string on top
+  drawTabDot(sIdx, best.fret);
+  return `${strNames[sIdx]} string, fret ${best.fret}`;
+}
+
+function drawStaffLines(svg, lines=5){
+  svg.innerHTML='';
+  const w = svg.viewBox.baseVal.width||600; const h = svg.viewBox.baseVal.height||80;
+  for(let i=0;i<lines;i++){
+    const y = 20 + i*10; const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+    line.setAttribute('x1',10); line.setAttribute('x2',w-10); line.setAttribute('y1',y); line.setAttribute('y2',y);
+    line.setAttribute('stroke','#3a3f4d'); line.setAttribute('stroke-width','1'); svg.appendChild(line);
+  }
+}
+
+function drawTabLines(){
+  tabSVG.innerHTML='';
+  const strings = instrumentSel.value==='bass'?4:6;
+  const w = tabSVG.viewBox.baseVal.width||260; const h = tabSVG.viewBox.baseVal.height||80;
+  for(let i=0;i<strings;i++){
+    const y = 20 + i*((h-40)/(strings-1));
+    const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+    line.setAttribute('x1',10); line.setAttribute('x2',w-10); line.setAttribute('y1',y); line.setAttribute('y2',y);
+    line.setAttribute('stroke','#3a3f4d'); line.setAttribute('stroke-width','1'); tabSVG.appendChild(line);
+  }
+}
+
+function drawTabDot(stringIdxFromTop, fret){
+  drawTabLines();
+  const strings = instrumentSel.value==='bass'?4:6; const w = tabSVG.viewBox.baseVal.width||260; const h = tabSVG.viewBox.baseVal.height||80;
+  const y = 20 + stringIdxFromTop*((h-40)/(strings-1));
+  const x = w-30; // right side marker
+  const c = document.createElementNS('http://www.w3.org/2000/svg','circle');
+  c.setAttribute('cx',x); c.setAttribute('cy',y); c.setAttribute('r',8); c.setAttribute('fill','#8af'); tabSVG.appendChild(c);
+  const t = document.createElementNS('http://www.w3.org/2000/svg','text');
+  t.setAttribute('x',x); t.setAttribute('y',y+4); t.setAttribute('font-size','10'); t.setAttribute('text-anchor','middle'); t.textContent = fret; tabSVG.appendChild(t);
+}
+
+function drawNotesInit(){ drawStaffLines(notesSVG,5); drawTabLines(); }
+
+document.addEventListener('visibilitychange', ()=>{ if(document.hidden && isPlaying) pauseAll(); });
+
+// kick off drawing lines
+drawNotesInit();
+
+// Start analysis when we have a song loaded and UI built
+setTimeout(()=> startAnalysis(), 1200);
+</script>
+</body>
+</html>

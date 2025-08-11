@@ -1,0 +1,53 @@
+[Script Info]
+Title: Karaoke Lyrics (Aligned)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyrics,Arial,48,&H00FFFFFF,&H00666666,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1,5,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.68,Lyrics,,0,0,70,,{\k34}Lights {\k26}go {\k20}down, {\k22}cue {\k16}the {\k52}stage
+Dialogue: 0,0:00:03.12,0:00:04.96,Lyrics,,0,0,70,,{\k32}Another {\k48}savior, {\k40}another {\k48}cage
+Dialogue: 0,0:00:05.48,0:00:07.26,Lyrics,,0,0,70,,{\k64}Promises {\k10}in {\k24}bold {\k60}headlines
+Dialogue: 0,0:00:07.56,0:00:09.66,Lyrics,,0,0,70,,{\k30}Fade {\k22}to {\k28}black {\k30}by {\k36}deadline {\k42}time
+Dialogue: 0,0:00:10.18,0:00:15.51,Lyrics,,0,0,70,,{\k16}Said {\k14}they'd {\k26}fix {\k14}the {\k18}rent, {\k12}end {\k12}the {\k16}wars
+Dialogue: 0,0:00:16.27,0:00:24.96,Lyrics,,0,0,70,,{\k52}Drain {\k6}the {\k40}swamp {\k12}and {\k38}clean {\k8}the {\k28}floors
+Dialogue: 0,0:00:26.86,0:00:31.16,Lyrics,,0,0,70,,{\k12}But {\k8}the {\k12}only {\k14}thing {\k16}that {\k32}ever {\k14}drains
+Dialogue: 0,0:00:32.31,0:00:36.50,Lyrics,,0,0,70,,{\k6}Is {\k2}hope {\k38}swirling {\k38}down {\k26}the {\k16}campaign {\k24}drains
+Dialogue: 0,0:00:36.56,0:00:39.42,Lyrics,,0,0,70,,{\k4}Grift {\k16}of {\k10}the {\k48}Union, {\k18}bait {\k12}and {\k54}switch
+Dialogue: 0,0:00:39.72,0:00:40.45,Lyrics,,0,0,70,,{\k22}Every {\k14}speech, {\k20}another {\k6}glitch
+Dialogue: 0,0:00:40.49,0:00:43.69,Lyrics,,0,0,70,,{\k50}They {\k34}said {\k50}the {\k38}truth {\k32}was {\k14}on {\k26}their {\k32}desk
+Dialogue: 0,0:00:43.81,0:00:47.56,Lyrics,,0,0,70,,{\k50}Turns {\k20}out {\k12}it {\k80}was {\k22}just {\k4}a {\k60}press {\k30}request
+Dialogue: 0,0:00:48.68,0:00:51.55,Lyrics,,0,0,70,,{\k18}Hey! {\k28}Hey! {\k12}Wave {\k14}that {\k12}flag!
+Dialogue: 0,0:00:51.65,0:00:59.18,Lyrics,,0,0,70,,{\k14}While {\k38}they {\k34}stuff {\k12}your {\k22}rights {\k18}in {\k20}a {\k18}body {\k34}bag
+Dialogue: 0,0:00:59.76,0:01:00.97,Lyrics,,0,0,70,,{\k20}Epstein {\k14}files? {\k32}Must’ve {\k16}lost {\k22}'em
+Dialogue: 0,0:01:01.01,0:01:03.49,Lyrics,,0,0,70,,{\k14}Tucked {\k88}behind {\k16}a {\k8}golf {\k34}bag {\k16}in {\k18}Mar-a-Lago's {\k14}bottom
+Dialogue: 0,0:01:03.55,0:01:09.58,Lyrics,,0,0,70,,{\k38}Fix {\k18}the {\k24}economy? {\k10}More {\k26}like {\k12}fix {\k8}the {\k42}books
+Dialogue: 0,0:01:09.64,0:01:11.74,Lyrics,,0,0,70,,{\k56}Smoke {\k6}and {\k16}mirrors, {\k2}photo {\k52}ops, {\k10}dirty {\k8}looks
+Dialogue: 0,0:01:11.76,0:01:14.54,Lyrics,,0,0,70,,{\k4}Student {\k8}debt? {\k30}Still {\k66}chained {\k30}to {\k28}that
+Dialogue: 0,0:01:14.56,0:01:15.63,Lyrics,,0,0,70,,{\k2}Healthcare’s {\k22}just {\k14}a {\k22}bureaucratic {\k28}trap
+Dialogue: 0,0:01:16.25,0:01:27.46,Lyrics,,0,0,70,,{\k24}And {\k10}every {\k30}time {\k28}they {\k32}swear {\k54}“next {\k38}term!”
+Dialogue: 0,0:01:30.70,0:01:33.42,Lyrics,,0,0,70,,{\k10}They {\k26}mean {\k24}next {\k22}lie {\k42}that {\k28}we {\k34}all {\k18}learn
+Dialogue: 0,0:01:33.46,0:01:35.82,Lyrics,,0,0,70,,{\k22}Grift {\k20}of {\k8}the {\k78}Union, {\k28}smile {\k28}and {\k28}con
+Dialogue: 0,0:01:35.82,0:01:37.54,Lyrics,,0,0,70,,{\k28}Red {\k28}or {\k28}blue {\k5}— {\k28}same {\k28}damn {\k28}pawn
+Dialogue: 0,0:01:37.54,0:01:39.49,Lyrics,,0,0,70,,{\k28}Shake {\k28}your {\k28}hand, {\k28}then {\k28}rob {\k28}your {\k28}check
+Dialogue: 0,0:01:39.49,0:01:41.44,Lyrics,,0,0,70,,{\k28}Kiss {\k28}your {\k28}baby, {\k28}then {\k28}break {\k28}your {\k28}neck
+Dialogue: 0,0:01:41.44,0:01:43.39,Lyrics,,0,0,70,,{\k28}“We {\k28}the {\k28}people,” {\k28}they {\k28}say {\k28}with {\k28}flair
+Dialogue: 0,0:01:43.39,0:01:45.34,Lyrics,,0,0,70,,{\k28}While {\k28}auctioning {\k28}your {\k28}lungs {\k28}for {\k28}billionaire {\k28}air
+Dialogue: 0,0:01:45.34,0:01:47.85,Lyrics,,0,0,70,,{\k28}A {\k28}chicken {\k28}in {\k28}every {\k28}pot? {\k28}Maybe... {\k28}if {\k28}you {\k28}invest
+Dialogue: 0,0:01:47.85,0:01:50.36,Lyrics,,0,0,70,,{\k28}In {\k28}the {\k28}lobbyist’s {\k28}portfolio {\k28}and {\k28}wear {\k28}a {\k28}bulletproof {\k28}vest
+Dialogue: 0,0:01:50.36,0:01:52.31,Lyrics,,0,0,70,,{\k28}Grift {\k28}of {\k28}the {\k28}Union, {\k28}land {\k28}of {\k28}spin
+Dialogue: 0,0:01:52.31,0:01:54.26,Lyrics,,0,0,70,,{\k28}Every {\k28}vote’s {\k28}a {\k28}bet {\k28}you {\k28}won’t {\k28}win
+Dialogue: 0,0:01:54.26,0:01:55.65,Lyrics,,0,0,70,,{\k28}Hope’s {\k28}for {\k28}sale, {\k28}freedom's {\k28}leased
+Dialogue: 0,0:01:55.65,0:01:56.76,Lyrics,,0,0,70,,{\k28}Another {\k28}term, {\k28}another {\k28}feast
+Dialogue: 0,0:01:56.76,0:01:57.88,Lyrics,,0,0,70,,{\k28}Hey! {\k28}Hey! {\k28}Democracy's {\k28}play!
+Dialogue: 0,0:01:57.88,0:02:00.11,Lyrics,,0,0,70,,{\k28}Starring {\k28}liars {\k28}in {\k28}suits {\k28}with {\k28}nothin' {\k28}to {\k28}say
+Dialogue: 0,0:02:00.11,0:02:02.11,Lyrics,,0,0,70,,{\k28}Grift {\k28}of {\k28}the {\k28}Union {\k5}— {\k28}lights {\k28}go {\k28}black
+Dialogue: 0,0:02:02.11,0:02:04.06,Lyrics,,0,0,70,,{\k28}Curtain {\k28}drops, {\k28}they’ll {\k28}never {\k28}give {\k28}it {\k28}back.

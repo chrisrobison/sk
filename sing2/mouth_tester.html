@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouth Position Tester</title>
+    <link rel="stylesheet" href="mouth_sprites.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1, h2 {
+            color: #333;
+        }
+        
+        .mouth-container {
+            width: 200px;
+            height: 300px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            margin: 0 auto 20px;
+            background-color: #f9f9f9;
+            position: relative;
+            overflow: hidden;
+            background-image: url("head.svg");
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .mouth-sprite-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .mouth-controls {
+            margin: 20px 0;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .adjustment-control {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        select {
+            padding: 5px;
+            font-size: 16px;
+        }
+        
+        .mouth-sprite-svg {
+            scale: 0.5;
+        }
+        
+        input[type="range"] {
+            width: 200px;
+        }
+        
+        .current-values {
+            font-family: monospace;
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mouth Position Tester</h1>
+    
+    <div class="mouth-container">
+        <div class="mouth-sprite-container">
+            <div id="mouth-sprite" class="mouth-sprite-svg mouth-default"></div>
+        </div>
+    </div>
+    
+    <div class="mouth-controls">
+        <div class="adjustment-control">
+            <label for="mouth-select">Select Mouth:</label>
+            <select id="mouth-select">
+                <option value="mouth-default">Default</option>
+                <option value="mouth-a_e_i">A_E_I</option>
+                <option value="mouth-ah">AH</option>
+                <option value="mouth-b_m_p">B_M_P</option>
+                <option value="mouth-c_d_g_K_n_s_t_x_y_z">C_D_G_K_N_S_T_X_Y_Z</option>
+                <option value="mouth-d">D</option>
+                <option value="mouth-e">E</option>
+                <option value="mouth-f">F</option>
+                <option value="mouth-f_w">F_W</option>
+                <option value="mouth-l">L</option>
+                <option value="mouth-l2">L2</option>
+                <option value="mouth-m">M</option>
+                <option value="mouth-o">O</option>
+                <option value="mouth-o_w">O_W</option>
+                <option value="mouth-oh">OH</option>
+                <option value="mouth-r">R</option>
+                <option value="mouth-s">S</option>
+                <option value="mouth-sc">SC</option>
+                <option value="mouth-th">TH</option>
+                <option value="mouth-un">UN</option>
+                <option value="mouth-wo">WO</option>
+            </select>
+        </div>
+        
+        <div class="adjustment-control">
+            <label for="scale-control">Scale:</label>
+            <input type="range" id="scale-control" min="0.5" max="2.0" step="0.1" value="1.0">
+            <span id="scale-value">1.0</span>
+        </div>
+        
+        <div class="adjustment-control">
+            <label for="x-position">X Position:</label>
+            <input type="range" id="x-position" min="-100" max="100" value="0">
+            <span id="x-value">0px</span>
+        </div>
+        
+        <div class="adjustment-control">
+            <label for="y-position">Y Position:</label>
+            <input type="range" id="y-position" min="-100" max="100" value="50">
+            <span id="y-value">50px</span>
+        </div>
+        
+        <div class="current-values">
+            <p id="css-output">
+                #mouth-sprite {<br>
+                &nbsp;&nbsp;transform: scale(1.0);<br>
+                &nbsp;&nbsp;position: relative;<br>
+                &nbsp;&nbsp;top: 50px;<br>
+                &nbsp;&nbsp;left: 0px;<br>
+                }
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        const mouthSprite = document.getElementById('mouth-sprite');
+        const mouthSelect = document.getElementById('mouth-select');
+        const scaleControl = document.getElementById('scale-control');
+        const scaleValue = document.getElementById('scale-value');
+        const xPosition = document.getElementById('x-position');
+        const xValue = document.getElementById('x-value');
+        const yPosition = document.getElementById('y-position');
+        const yValue = document.getElementById('y-value');
+        const cssOutput = document.getElementById('css-output');
+        
+        // Set initial values
+        updateMouthSprite();
+        
+        // Event listeners
+        mouthSelect.addEventListener('change', updateMouthSprite);
+        scaleControl.addEventListener('input', updateMouthSprite);
+        xPosition.addEventListener('input', updateMouthSprite);
+        yPosition.addEventListener('input', updateMouthSprite);
+        
+        function updateMouthSprite() {
+            const selectedMouth = mouthSelect.value;
+            const scale = parseFloat(scaleControl.value);
+            const x = parseInt(xPosition.value);
+            const y = parseInt(yPosition.value);
+            
+            // Update sprite class
+            mouthSprite.className = `mouth-sprite-svg ${selectedMouth}`;
+            
+            // Update position and scale
+            mouthSprite.style.scale = scale;
+            mouthSprite.style.top = `${y}px`;
+            mouthSprite.style.left = `${x}px`;
+            
+            // Update display values
+            scaleValue.textContent = scale.toFixed(1);
+            xValue.textContent = `${x}px`;
+            yValue.textContent = `${y}px`;
+            
+            // Update CSS output
+            cssOutput.innerHTML = `
+                #mouth-sprite-inner {<br>
+                &nbsp;&nbsp;scale: ${scale};<br>
+                &nbsp;&nbsp;position: relative;<br>
+                &nbsp;&nbsp;top: ${y}px;<br>
+                &nbsp;&nbsp;left: ${x}px;<br>
+                }
+            `;
+        }
+    </script>
+</body>
+</html>

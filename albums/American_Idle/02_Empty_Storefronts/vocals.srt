@@ -1,0 +1,1428 @@
+1
+00:00:18,475 --> 00:00:19,056
+<u>downtown</u> retail apocalypse.
+
+2
+00:00:19,056 --> 00:00:19,116
+downtown retail apocalypse.
+
+3
+00:00:19,116 --> 00:00:19,557
+downtown <u>retail</u> apocalypse.
+
+4
+00:00:19,557 --> 00:00:19,617
+downtown retail apocalypse.
+
+5
+00:00:19,617 --> 00:00:21,060
+downtown retail <u>apocalypse.</u>
+
+6
+00:00:21,080 --> 00:00:21,341
+<u>City</u> policies contradict.
+
+7
+00:00:21,341 --> 00:00:21,381
+City policies contradict.
+
+8
+00:00:21,381 --> 00:00:21,882
+City <u>policies</u> contradict.
+
+9
+00:00:21,882 --> 00:00:21,942
+City policies contradict.
+
+10
+00:00:21,942 --> 00:00:22,703
+City policies <u>contradict.</u>
+
+11
+00:00:23,044 --> 00:00:23,585
+<u>Walgreens</u> closing one by one.
+
+12
+00:00:23,585 --> 00:00:23,625
+Walgreens closing one by one.
+
+13
+00:00:23,625 --> 00:00:24,046
+Walgreens <u>closing</u> one by one.
+
+14
+00:00:24,046 --> 00:00:24,227
+Walgreens closing one by one.
+
+15
+00:00:24,227 --> 00:00:24,307
+Walgreens closing <u>one</u> by one.
+
+16
+00:00:24,307 --> 00:00:24,367
+Walgreens closing one by one.
+
+17
+00:00:24,367 --> 00:00:24,567
+Walgreens closing one <u>by</u> one.
+
+18
+00:00:24,567 --> 00:00:24,828
+Walgreens closing one by one.
+
+19
+00:00:24,828 --> 00:00:24,948
+Walgreens closing one by <u>one.</u>
+
+20
+00:00:25,569 --> 00:00:25,870
+<u>Target</u> locks up everything.
+
+21
+00:00:25,870 --> 00:00:25,890
+Target locks up everything.
+
+22
+00:00:25,890 --> 00:00:26,110
+Target <u>locks</u> up everything.
+
+23
+00:00:26,110 --> 00:00:26,210
+Target locks up everything.
+
+24
+00:00:26,210 --> 00:00:26,311
+Target locks <u>up</u> everything.
+
+25
+00:00:26,311 --> 00:00:26,451
+Target locks up everything.
+
+26
+00:00:26,451 --> 00:00:27,172
+Target locks up <u>everything.</u>
+
+27
+00:00:27,513 --> 00:00:27,854
+<u>Smash</u> and grab.
+
+28
+00:00:27,854 --> 00:00:27,894
+Smash and grab.
+
+29
+00:00:27,894 --> 00:00:27,974
+Smash <u>and</u> grab.
+
+30
+00:00:27,974 --> 00:00:27,994
+Smash and grab.
+
+31
+00:00:27,994 --> 00:00:28,575
+Smash and <u>grab.</u>
+
+32
+00:00:28,595 --> 00:00:28,716
+<u>It's</u> all the rage.
+
+33
+00:00:28,716 --> 00:00:28,816
+It's all the rage.
+
+34
+00:00:28,816 --> 00:00:28,936
+It's <u>all</u> the rage.
+
+35
+00:00:28,936 --> 00:00:28,956
+It's all the rage.
+
+36
+00:00:28,956 --> 00:00:29,056
+It's all <u>the</u> rage.
+
+37
+00:00:29,056 --> 00:00:29,096
+It's all the rage.
+
+38
+00:00:29,096 --> 00:00:29,838
+It's all the <u>rage.</u>
+
+39
+00:00:29,858 --> 00:00:30,319
+<u>Organized</u> theft takes center stage.
+
+40
+00:00:30,319 --> 00:00:30,359
+Organized theft takes center stage.
+
+41
+00:00:30,359 --> 00:00:30,579
+Organized <u>theft</u> takes center stage.
+
+42
+00:00:30,579 --> 00:00:30,599
+Organized theft takes center stage.
+
+43
+00:00:30,599 --> 00:00:30,880
+Organized theft <u>takes</u> center stage.
+
+44
+00:00:30,880 --> 00:00:30,920
+Organized theft takes center stage.
+
+45
+00:00:30,920 --> 00:00:31,261
+Organized theft takes <u>center</u> stage.
+
+46
+00:00:31,261 --> 00:00:31,281
+Organized theft takes center stage.
+
+47
+00:00:31,281 --> 00:00:31,722
+Organized theft takes center <u>stage.</u>
+
+48
+00:00:32,042 --> 00:00:32,683
+<u>Billionaire</u> tax breaks abound.
+
+49
+00:00:32,683 --> 00:00:32,724
+Billionaire tax breaks abound.
+
+50
+00:00:32,724 --> 00:00:33,064
+Billionaire <u>tax</u> breaks abound.
+
+51
+00:00:33,064 --> 00:00:33,104
+Billionaire tax breaks abound.
+
+52
+00:00:33,104 --> 00:00:33,385
+Billionaire tax <u>breaks</u> abound.
+
+53
+00:00:33,385 --> 00:00:33,485
+Billionaire tax breaks abound.
+
+54
+00:00:33,485 --> 00:00:34,086
+Billionaire tax breaks <u>abound.</u>
+
+55
+00:00:34,106 --> 00:00:34,247
+<u>While</u> mom and pop shops hit the ground.
+
+56
+00:00:34,247 --> 00:00:34,267
+While mom and pop shops hit the ground.
+
+57
+00:00:34,267 --> 00:00:34,487
+While <u>mom</u> and pop shops hit the ground.
+
+58
+00:00:34,487 --> 00:00:34,507
+While mom and pop shops hit the ground.
+
+59
+00:00:34,507 --> 00:00:34,607
+While mom <u>and</u> pop shops hit the ground.
+
+60
+00:00:34,607 --> 00:00:34,647
+While mom and pop shops hit the ground.
+
+61
+00:00:34,647 --> 00:00:34,908
+While mom and <u>pop</u> shops hit the ground.
+
+62
+00:00:34,908 --> 00:00:34,928
+While mom and pop shops hit the ground.
+
+63
+00:00:34,928 --> 00:00:35,188
+While mom and pop <u>shops</u> hit the ground.
+
+64
+00:00:35,188 --> 00:00:35,209
+While mom and pop shops hit the ground.
+
+65
+00:00:35,209 --> 00:00:35,449
+While mom and pop shops <u>hit</u> the ground.
+
+66
+00:00:35,449 --> 00:00:35,489
+While mom and pop shops hit the ground.
+
+67
+00:00:35,489 --> 00:00:35,649
+While mom and pop shops hit <u>the</u> ground.
+
+68
+00:00:35,649 --> 00:00:35,710
+While mom and pop shops hit the ground.
+
+69
+00:00:35,710 --> 00:00:36,130
+While mom and pop shops hit the <u>ground.</u>
+
+70
+00:00:36,491 --> 00:00:36,892
+<u>Professor</u> politics regresses hopes.
+
+71
+00:00:36,892 --> 00:00:36,932
+Professor politics regresses hopes.
+
+72
+00:00:36,932 --> 00:00:37,333
+Professor <u>politics</u> regresses hopes.
+
+73
+00:00:37,333 --> 00:00:37,393
+Professor politics regresses hopes.
+
+74
+00:00:37,393 --> 00:00:37,974
+Professor politics <u>regresses</u> hopes.
+
+75
+00:00:37,974 --> 00:00:37,994
+Professor politics regresses hopes.
+
+76
+00:00:37,994 --> 00:00:38,475
+Professor politics regresses <u>hopes.</u>
+
+77
+00:00:38,455 --> 00:00:38,996
+<u>Buffering</u> planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+78
+00:00:38,996 --> 00:00:39,036
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+79
+00:00:39,036 --> 00:00:39,316
+Buffering <u>planning</u> built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+80
+00:00:39,316 --> 00:00:39,336
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+81
+00:00:39,336 --> 00:00:39,556
+Buffering planning <u>built</u> on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+82
+00:00:39,556 --> 00:00:39,636
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+83
+00:00:39,636 --> 00:00:39,796
+Buffering planning built <u>on</u> false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+84
+00:00:39,796 --> 00:00:39,836
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+85
+00:00:39,836 --> 00:00:40,077
+Buffering planning built on <u>false</u> cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+86
+00:00:40,077 --> 00:00:40,117
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+87
+00:00:40,117 --> 00:00:40,457
+Buffering planning built on false <u>cloaks</u> The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+88
+00:00:40,457 --> 00:00:40,797
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+89
+00:00:40,797 --> 00:00:40,918
+Buffering planning built on false cloaks <u>The</u> city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+90
+00:00:40,918 --> 00:00:40,938
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+91
+00:00:40,938 --> 00:00:41,178
+Buffering planning built on false cloaks The <u>city</u> by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+92
+00:00:41,178 --> 00:00:41,218
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+93
+00:00:41,218 --> 00:00:41,358
+Buffering planning built on false cloaks The city <u>by</u> the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+94
+00:00:41,358 --> 00:00:41,378
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+95
+00:00:41,378 --> 00:00:41,458
+Buffering planning built on false cloaks The city by <u>the</u> bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+96
+00:00:41,458 --> 00:00:41,498
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+97
+00:00:41,498 --> 00:00:41,698
+Buffering planning built on false cloaks The city by the <u>bay</u> of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+98
+00:00:41,698 --> 00:00:41,718
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+99
+00:00:41,718 --> 00:00:41,759
+Buffering planning built on false cloaks The city by the bay <u>of</u> disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+100
+00:00:41,759 --> 00:00:41,839
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+101
+00:00:41,839 --> 00:00:42,459
+Buffering planning built on false cloaks The city by the bay of <u>disarray</u> Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+102
+00:00:42,459 --> 00:00:42,740
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+103
+00:00:42,740 --> 00:00:43,260
+Buffering planning built on false cloaks The city by the bay of disarray <u>Astithesis</u> continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+104
+00:00:43,260 --> 00:00:43,280
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+105
+00:00:43,280 --> 00:00:43,701
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis <u>continue</u> to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+106
+00:00:43,701 --> 00:00:43,721
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+107
+00:00:43,721 --> 00:00:43,841
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue <u>to</u> fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+108
+00:00:43,841 --> 00:00:43,961
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+109
+00:00:43,961 --> 00:00:44,281
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to <u>fade</u> away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+110
+00:00:44,281 --> 00:00:44,341
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+111
+00:00:44,341 --> 00:00:44,782
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade <u>away</u> Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+112
+00:00:44,782 --> 00:00:45,382
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+113
+00:00:45,382 --> 00:00:45,603
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away <u>Empty</u> storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+114
+00:00:45,603 --> 00:00:45,623
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+115
+00:00:45,623 --> 00:00:46,143
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty <u>storefronts</u> line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+116
+00:00:46,143 --> 00:00:46,203
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+117
+00:00:46,203 --> 00:00:46,484
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts <u>line</u> the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+118
+00:00:46,484 --> 00:00:46,504
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+119
+00:00:46,504 --> 00:00:46,624
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line <u>the</u> streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+120
+00:00:46,624 --> 00:00:46,664
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+121
+00:00:46,664 --> 00:00:47,024
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the <u>streets</u> Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+122
+00:00:47,024 --> 00:00:47,525
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+123
+00:00:47,525 --> 00:00:48,085
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets <u>Diabolism</u> in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+124
+00:00:48,085 --> 00:00:48,386
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+125
+00:00:48,386 --> 00:00:48,506
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism <u>in</u> retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+126
+00:00:48,506 --> 00:00:48,606
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+127
+00:00:48,606 --> 00:00:49,086
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in <u>retreat</u> Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+128
+00:00:49,086 --> 00:00:49,727
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+129
+00:00:49,727 --> 00:00:50,007
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat <u>Corporate</u> chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+130
+00:00:50,007 --> 00:00:50,027
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+131
+00:00:50,027 --> 00:00:50,328
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate <u>chains</u> all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+132
+00:00:50,328 --> 00:00:50,428
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+133
+00:00:50,428 --> 00:00:50,548
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains <u>all</u> running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+134
+00:00:50,548 --> 00:00:50,628
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+135
+00:00:50,628 --> 00:00:50,888
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all <u>running</u> scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+136
+00:00:50,888 --> 00:00:50,928
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+137
+00:00:50,928 --> 00:00:51,249
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running <u>scared</u> While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+138
+00:00:51,249 --> 00:00:51,469
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+139
+00:00:51,469 --> 00:00:51,629
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared <u>While</u> City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+140
+00:00:51,629 --> 00:00:51,649
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+141
+00:00:51,649 --> 00:00:51,949
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While <u>City</u> Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+142
+00:00:51,949 --> 00:00:52,009
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+143
+00:00:52,009 --> 00:00:52,330
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City <u>Hall</u> just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+144
+00:00:52,330 --> 00:00:52,390
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+145
+00:00:52,390 --> 00:00:52,590
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall <u>just</u> stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+146
+00:00:52,590 --> 00:00:52,650
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+147
+00:00:52,650 --> 00:00:52,990
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just <u>stares</u> and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+148
+00:00:52,990 --> 00:00:53,050
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+149
+00:00:53,050 --> 00:00:53,151
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares <u>and</u> stares Bye bye bye Watch them go Bye bye bye Told you so
+
+150
+00:00:53,151 --> 00:00:53,211
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+151
+00:00:53,211 --> 00:00:53,751
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and <u>stares</u> Bye bye bye Watch them go Bye bye bye Told you so
+
+152
+00:00:53,751 --> 00:00:54,892
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+153
+00:00:54,892 --> 00:00:55,133
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares <u>Bye</u> bye bye Watch them go Bye bye bye Told you so
+
+154
+00:00:55,133 --> 00:00:55,173
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+155
+00:00:55,173 --> 00:00:55,393
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye <u>bye</u> bye Watch them go Bye bye bye Told you so
+
+156
+00:00:55,393 --> 00:00:55,453
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+157
+00:00:55,453 --> 00:00:55,833
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye <u>bye</u> Watch them go Bye bye bye Told you so
+
+158
+00:00:55,833 --> 00:00:57,195
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+159
+00:00:57,195 --> 00:00:57,475
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye <u>Watch</u> them go Bye bye bye Told you so
+
+160
+00:00:57,475 --> 00:00:57,515
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+161
+00:00:57,515 --> 00:00:57,695
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch <u>them</u> go Bye bye bye Told you so
+
+162
+00:00:57,695 --> 00:00:57,755
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+163
+00:00:57,755 --> 00:00:58,136
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them <u>go</u> Bye bye bye Told you so
+
+164
+00:00:58,136 --> 00:00:59,397
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+165
+00:00:59,397 --> 00:00:59,658
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go <u>Bye</u> bye bye Told you so
+
+166
+00:00:59,658 --> 00:00:59,698
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+167
+00:00:59,698 --> 00:00:59,938
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye <u>bye</u> bye Told you so
+
+168
+00:00:59,938 --> 00:00:59,978
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+169
+00:00:59,978 --> 00:01:00,398
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye <u>bye</u> Told you so
+
+170
+00:01:00,398 --> 00:01:01,660
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+171
+00:01:01,660 --> 00:01:01,980
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye <u>Told</u> you so
+
+172
+00:01:01,980 --> 00:01:02,020
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+173
+00:01:02,020 --> 00:01:02,180
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told <u>you</u> so
+
+174
+00:01:02,180 --> 00:01:02,240
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+
+175
+00:01:02,240 --> 00:01:02,961
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you <u>so</u>
+
+176
+00:01:20,272 --> 00:01:20,833
+<u>Security</u> guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+177
+00:01:20,833 --> 00:01:21,013
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+178
+00:01:21,013 --> 00:01:21,294
+Security <u>guards</u> with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+179
+00:01:21,294 --> 00:01:21,334
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+180
+00:01:21,334 --> 00:01:21,514
+Security guards <u>with</u> hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+181
+00:01:21,514 --> 00:01:21,574
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+182
+00:01:21,574 --> 00:01:21,794
+Security guards with <u>hands</u> all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+183
+00:01:21,794 --> 00:01:21,854
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+184
+00:01:21,854 --> 00:01:21,975
+Security guards with hands <u>all</u> tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+185
+00:01:21,975 --> 00:01:22,015
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+186
+00:01:22,015 --> 00:01:22,395
+Security guards with hands all <u>tied</u> A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+187
+00:01:22,395 --> 00:01:22,876
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+188
+00:01:22,876 --> 00:01:22,936
+Security guards with hands all tied <u>A</u> shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+189
+00:01:22,936 --> 00:01:22,976
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+190
+00:01:22,976 --> 00:01:23,797
+Security guards with hands all tied A <u>shoplifter's</u> run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+191
+00:01:23,797 --> 00:01:23,837
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+192
+00:01:23,837 --> 00:01:24,038
+Security guards with hands all tied A shoplifter's <u>run</u> outside Five-finger discount, daily thrill What consequence does equal nil?
+
+193
+00:01:24,038 --> 00:01:24,118
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+194
+00:01:24,118 --> 00:01:24,599
+Security guards with hands all tied A shoplifter's run <u>outside</u> Five-finger discount, daily thrill What consequence does equal nil?
+
+195
+00:01:24,599 --> 00:01:24,679
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+196
+00:01:24,679 --> 00:01:25,380
+Security guards with hands all tied A shoplifter's run outside <u>Five-finger</u> discount, daily thrill What consequence does equal nil?
+
+197
+00:01:25,380 --> 00:01:25,500
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+198
+00:01:25,500 --> 00:01:26,041
+Security guards with hands all tied A shoplifter's run outside Five-finger <u>discount,</u> daily thrill What consequence does equal nil?
+
+199
+00:01:26,041 --> 00:01:26,081
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+200
+00:01:26,081 --> 00:01:26,441
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, <u>daily</u> thrill What consequence does equal nil?
+
+201
+00:01:26,441 --> 00:01:26,482
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+202
+00:01:26,482 --> 00:01:26,862
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily <u>thrill</u> What consequence does equal nil?
+
+203
+00:01:26,862 --> 00:01:27,323
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+204
+00:01:27,323 --> 00:01:27,463
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill <u>What</u> consequence does equal nil?
+
+205
+00:01:27,463 --> 00:01:27,503
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+206
+00:01:27,503 --> 00:01:28,064
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What <u>consequence</u> does equal nil?
+
+207
+00:01:28,064 --> 00:01:28,224
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+208
+00:01:28,224 --> 00:01:28,324
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence <u>does</u> equal nil?
+
+209
+00:01:28,324 --> 00:01:28,465
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+210
+00:01:28,465 --> 00:01:28,745
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does <u>equal</u> nil?
+
+211
+00:01:28,745 --> 00:01:28,785
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal nil?
+
+212
+00:01:28,785 --> 00:01:29,086
+Security guards with hands all tied A shoplifter's run outside Five-finger discount, daily thrill What consequence does equal <u>nil?</u>
+
+213
+00:01:29,106 --> 00:01:29,386
+<u>Tech</u> bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+214
+00:01:29,386 --> 00:01:29,446
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+215
+00:01:29,446 --> 00:01:29,767
+Tech <u>bros</u> paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+216
+00:01:29,767 --> 00:01:29,807
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+217
+00:01:29,807 --> 00:01:30,107
+Tech bros <u>paid</u> three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+218
+00:01:30,107 --> 00:01:30,127
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+219
+00:01:30,127 --> 00:01:30,448
+Tech bros paid <u>three</u> grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+220
+00:01:30,448 --> 00:01:30,508
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+221
+00:01:30,508 --> 00:01:30,768
+Tech bros paid three <u>grand</u> for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+222
+00:01:30,768 --> 00:01:30,788
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+223
+00:01:30,788 --> 00:01:30,928
+Tech bros paid three grand <u>for</u> rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+224
+00:01:30,928 --> 00:01:30,968
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+225
+00:01:30,968 --> 00:01:31,209
+Tech bros paid three grand for <u>rent</u> While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+226
+00:01:31,209 --> 00:01:31,750
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+227
+00:01:31,750 --> 00:01:31,870
+Tech bros paid three grand for rent <u>While</u> small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+228
+00:01:31,870 --> 00:01:31,910
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+229
+00:01:31,910 --> 00:01:32,130
+Tech bros paid three grand for rent While <u>small</u> shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+230
+00:01:32,130 --> 00:01:32,170
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+231
+00:01:32,170 --> 00:01:32,431
+Tech bros paid three grand for rent While small <u>shops</u> can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+232
+00:01:32,431 --> 00:01:32,491
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+233
+00:01:32,491 --> 00:01:32,691
+Tech bros paid three grand for rent While small shops <u>can't</u> make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+234
+00:01:32,691 --> 00:01:32,751
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+235
+00:01:32,751 --> 00:01:32,931
+Tech bros paid three grand for rent While small shops can't <u>make</u> a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+236
+00:01:32,931 --> 00:01:33,012
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+237
+00:01:33,012 --> 00:01:33,072
+Tech bros paid three grand for rent While small shops can't make <u>a</u> dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+238
+00:01:33,072 --> 00:01:33,132
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+239
+00:01:33,132 --> 00:01:33,412
+Tech bros paid three grand for rent While small shops can't make a <u>dent</u> Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+240
+00:01:33,412 --> 00:01:33,973
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+241
+00:01:33,973 --> 00:01:34,774
+Tech bros paid three grand for rent While small shops can't make a dent <u>Economic</u> paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+242
+00:01:34,774 --> 00:01:34,854
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+243
+00:01:34,854 --> 00:01:35,636
+Tech bros paid three grand for rent While small shops can't make a dent Economic <u>paradox</u> San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+244
+00:01:35,636 --> 00:01:35,876
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+245
+00:01:35,876 --> 00:01:36,016
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox <u>San</u> Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+246
+00:01:36,016 --> 00:01:36,036
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+247
+00:01:36,036 --> 00:01:36,777
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San <u>Francisco's</u> than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+248
+00:01:36,777 --> 00:01:36,817
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+249
+00:01:36,817 --> 00:01:37,078
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's <u>than</u> Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+250
+00:01:37,078 --> 00:01:37,098
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+251
+00:01:37,098 --> 00:01:37,559
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than <u>Dora's</u> box High-rise towers, port-a-tours What the hell are we fighting for?
+
+252
+00:01:37,559 --> 00:01:37,639
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+253
+00:01:37,639 --> 00:01:37,959
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's <u>box</u> High-rise towers, port-a-tours What the hell are we fighting for?
+
+254
+00:01:37,959 --> 00:01:38,240
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+255
+00:01:38,240 --> 00:01:38,760
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box <u>High-rise</u> towers, port-a-tours What the hell are we fighting for?
+
+256
+00:01:38,760 --> 00:01:38,800
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+257
+00:01:38,800 --> 00:01:39,321
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise <u>towers,</u> port-a-tours What the hell are we fighting for?
+
+258
+00:01:39,321 --> 00:01:39,341
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+259
+00:01:39,341 --> 00:01:40,102
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, <u>port-a-tours</u> What the hell are we fighting for?
+
+260
+00:01:40,102 --> 00:01:40,503
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+261
+00:01:40,503 --> 00:01:40,743
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours <u>What</u> the hell are we fighting for?
+
+262
+00:01:40,743 --> 00:01:40,784
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+263
+00:01:40,784 --> 00:01:40,924
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What <u>the</u> hell are we fighting for?
+
+264
+00:01:40,924 --> 00:01:40,984
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+265
+00:01:40,984 --> 00:01:41,344
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the <u>hell</u> are we fighting for?
+
+266
+00:01:41,344 --> 00:01:41,424
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+267
+00:01:41,424 --> 00:01:41,585
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell <u>are</u> we fighting for?
+
+268
+00:01:41,585 --> 00:01:41,625
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+269
+00:01:41,625 --> 00:01:41,685
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are <u>we</u> fighting for?
+
+270
+00:01:41,685 --> 00:01:41,725
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+271
+00:01:41,725 --> 00:01:42,226
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we <u>fighting</u> for?
+
+272
+00:01:42,226 --> 00:01:42,306
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
+
+273
+00:01:42,306 --> 00:01:42,566
+Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting <u>for?</u>
+
+274
+00:01:42,847 --> 00:01:43,327
+<u>Social</u> experiment gone wrong
+
+275
+00:01:43,327 --> 00:01:43,408
+Social experiment gone wrong
+
+276
+00:01:43,408 --> 00:01:44,169
+Social <u>experiment</u> gone wrong
+
+277
+00:01:44,169 --> 00:01:44,189
+Social experiment gone wrong
+
+278
+00:01:44,189 --> 00:01:44,489
+Social experiment <u>gone</u> wrong
+
+279
+00:01:44,489 --> 00:01:44,529
+Social experiment gone wrong
+
+280
+00:01:44,529 --> 00:01:45,030
+Social experiment gone <u>wrong</u>
+
+281
+00:01:45,010 --> 00:01:45,270
+<u>That's</u> the theme of this gap song.
+
+282
+00:01:45,270 --> 00:01:45,310
+That's the theme of this gap song.
+
+283
+00:01:45,310 --> 00:01:45,391
+That's <u>the</u> theme of this gap song.
+
+284
+00:01:45,391 --> 00:01:45,451
+That's the theme of this gap song.
+
+285
+00:01:45,451 --> 00:01:45,931
+That's the <u>theme</u> of this gap song.
+
+286
+00:01:45,931 --> 00:01:45,951
+That's the theme of this gap song.
+
+287
+00:01:45,951 --> 00:01:45,991
+That's the theme <u>of</u> this gap song.
+
+288
+00:01:45,991 --> 00:01:46,072
+That's the theme of this gap song.
+
+289
+00:01:46,072 --> 00:01:46,292
+That's the theme of <u>this</u> gap song.
+
+290
+00:01:46,292 --> 00:01:46,352
+That's the theme of this gap song.
+
+291
+00:01:46,352 --> 00:01:46,652
+That's the theme of this <u>gap</u> song.
+
+292
+00:01:46,652 --> 00:01:46,973
+That's the theme of this gap song.
+
+293
+00:01:46,973 --> 00:01:47,113
+That's the theme of this gap <u>song.</u>
+
+294
+00:01:47,514 --> 00:01:47,954
+<u>Leftists</u> aren't going to try in the seats.
+
+295
+00:01:47,954 --> 00:01:47,974
+Leftists aren't going to try in the seats.
+
+296
+00:01:47,974 --> 00:01:48,115
+Leftists <u>aren't</u> going to try in the seats.
+
+297
+00:01:48,115 --> 00:01:48,155
+Leftists aren't going to try in the seats.
+
+298
+00:01:48,155 --> 00:01:48,395
+Leftists aren't <u>going</u> to try in the seats.
+
+299
+00:01:48,395 --> 00:01:48,475
+Leftists aren't going to try in the seats.
+
+300
+00:01:48,475 --> 00:01:48,515
+Leftists aren't going <u>to</u> try in the seats.
+
+301
+00:01:48,515 --> 00:01:48,535
+Leftists aren't going to try in the seats.
+
+302
+00:01:48,535 --> 00:01:48,595
+Leftists aren't going to <u>try</u> in the seats.
+
+303
+00:01:48,595 --> 00:01:48,615
+Leftists aren't going to try in the seats.
+
+304
+00:01:48,615 --> 00:01:48,695
+Leftists aren't going to try <u>in</u> the seats.
+
+305
+00:01:48,695 --> 00:01:48,715
+Leftists aren't going to try in the seats.
+
+306
+00:01:48,715 --> 00:01:48,856
+Leftists aren't going to try in <u>the</u> seats.
+
+307
+00:01:48,856 --> 00:01:48,896
+Leftists aren't going to try in the seats.
+
+308
+00:01:48,896 --> 00:01:49,256
+Leftists aren't going to try in the <u>seats.</u>
+
+309
+00:01:49,717 --> 00:01:50,278
+<u>Capitalism</u> in the dreef.
+
+310
+00:01:50,278 --> 00:01:50,378
+Capitalism in the dreef.
+
+311
+00:01:50,378 --> 00:01:50,738
+Capitalism <u>in</u> the dreef.
+
+312
+00:01:50,738 --> 00:01:50,759
+Capitalism in the dreef.
+
+313
+00:01:50,759 --> 00:01:50,939
+Capitalism in <u>the</u> dreef.
+
+314
+00:01:50,939 --> 00:01:50,959
+Capitalism in the dreef.
+
+315
+00:01:50,959 --> 00:01:51,279
+Capitalism in the <u>dreef.</u>
+
+316
+00:01:51,840 --> 00:01:52,060
+<u>Corporate</u> chains aren't running scared.
+
+317
+00:01:52,060 --> 00:01:52,080
+Corporate chains aren't running scared.
+
+318
+00:01:52,080 --> 00:01:52,381
+Corporate <u>chains</u> aren't running scared.
+
+319
+00:01:52,381 --> 00:01:52,481
+Corporate chains aren't running scared.
+
+320
+00:01:52,481 --> 00:01:52,601
+Corporate chains <u>aren't</u> running scared.
+
+321
+00:01:52,601 --> 00:01:52,701
+Corporate chains aren't running scared.
+
+322
+00:01:52,701 --> 00:01:52,942
+Corporate chains aren't <u>running</u> scared.
+
+323
+00:01:52,942 --> 00:01:52,962
+Corporate chains aren't running scared.
+
+324
+00:01:52,962 --> 00:01:53,342
+Corporate chains aren't running <u>scared.</u>
+
+325
+00:01:53,523 --> 00:01:53,683
+<u>While</u> City Hall just stands and stares.
+
+326
+00:01:53,683 --> 00:01:53,703
+While City Hall just stands and stares.
+
+327
+00:01:53,703 --> 00:01:54,023
+While <u>City</u> Hall just stands and stares.
+
+328
+00:01:54,023 --> 00:01:54,083
+While City Hall just stands and stares.
+
+329
+00:01:54,083 --> 00:01:54,444
+While City <u>Hall</u> just stands and stares.
+
+330
+00:01:54,444 --> 00:01:54,504
+While City Hall just stands and stares.
+
+331
+00:01:54,504 --> 00:01:54,704
+While City Hall <u>just</u> stands and stares.
+
+332
+00:01:54,704 --> 00:01:54,744
+While City Hall just stands and stares.
+
+333
+00:01:54,744 --> 00:01:55,125
+While City Hall just <u>stands</u> and stares.
+
+334
+00:01:55,125 --> 00:01:55,205
+While City Hall just stands and stares.
+
+335
+00:01:55,205 --> 00:01:55,305
+While City Hall just stands <u>and</u> stares.
+
+336
+00:01:55,305 --> 00:01:55,345
+While City Hall just stands and stares.
+
+337
+00:01:55,345 --> 00:01:57,228
+While City Hall just stands and <u>stares.</u>
+
+338
+00:01:57,248 --> 00:01:57,468
+<u>Bye</u> bye bye.
+
+339
+00:01:57,468 --> 00:01:57,509
+Bye bye bye.
+
+340
+00:01:57,509 --> 00:01:57,769
+Bye <u>bye</u> bye.
+
+341
+00:01:57,769 --> 00:01:57,809
+Bye bye bye.
+
+342
+00:01:57,809 --> 00:01:58,230
+Bye bye <u>bye.</u>
+
+343
+00:01:59,511 --> 00:01:59,772
+<u>Watch</u> them go.
+
+344
+00:01:59,772 --> 00:01:59,812
+Watch them go.
+
+345
+00:01:59,812 --> 00:02:00,012
+Watch <u>them</u> go.
+
+346
+00:02:00,012 --> 00:02:00,052
+Watch them go.
+
+347
+00:02:00,052 --> 00:02:00,533
+Watch them <u>go.</u>
+
+348
+00:02:01,775 --> 00:02:01,995
+<u>Bye</u> bye bye.
+
+349
+00:02:01,995 --> 00:02:02,055
+Bye bye bye.
+
+350
+00:02:02,055 --> 00:02:02,316
+Bye <u>bye</u> bye.
+
+351
+00:02:02,316 --> 00:02:02,356
+Bye bye bye.
+
+352
+00:02:02,356 --> 00:02:02,756
+Bye bye <u>bye.</u>
+
+353
+00:02:04,038 --> 00:02:04,419
+<u>Told</u> you so.
+
+354
+00:02:04,419 --> 00:02:04,439
+Told you so.
+
+355
+00:02:04,439 --> 00:02:04,539
+Told <u>you</u> so.
+
+356
+00:02:04,539 --> 00:02:04,599
+Told you so.
+
+357
+00:02:04,599 --> 00:02:05,280
+Told you <u>so.</u>
+

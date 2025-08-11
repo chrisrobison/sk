@@ -1,0 +1,892 @@
+1
+00:00:24,719 --> 00:00:26,262
+<u>Posesiones</u> nunca fueron para mí, nunca las tuve.
+
+2
+00:00:26,262 --> 00:00:26,562
+Posesiones nunca fueron para mí, nunca las tuve.
+
+3
+00:00:26,562 --> 00:00:27,143
+Posesiones <u>nunca</u> fueron para mí, nunca las tuve.
+
+4
+00:00:27,143 --> 00:00:27,163
+Posesiones nunca fueron para mí, nunca las tuve.
+
+5
+00:00:27,163 --> 00:00:28,045
+Posesiones nunca <u>fueron</u> para mí, nunca las tuve.
+
+6
+00:00:28,045 --> 00:00:28,846
+Posesiones nunca fueron para mí, nunca las tuve.
+
+7
+00:00:28,846 --> 00:00:28,966
+Posesiones nunca fueron <u>para</u> mí, nunca las tuve.
+
+8
+00:00:28,966 --> 00:00:29,026
+Posesiones nunca fueron para mí, nunca las tuve.
+
+9
+00:00:29,026 --> 00:00:29,948
+Posesiones nunca fueron para <u>mí,</u> nunca las tuve.
+
+10
+00:00:29,948 --> 00:00:30,529
+Posesiones nunca fueron para mí, nunca las tuve.
+
+11
+00:00:30,529 --> 00:00:31,390
+Posesiones nunca fueron para mí, <u>nunca</u> las tuve.
+
+12
+00:00:31,390 --> 00:00:31,410
+Posesiones nunca fueron para mí, nunca las tuve.
+
+13
+00:00:31,410 --> 00:00:31,731
+Posesiones nunca fueron para mí, nunca <u>las</u> tuve.
+
+14
+00:00:31,731 --> 00:00:31,751
+Posesiones nunca fueron para mí, nunca las tuve.
+
+15
+00:00:31,751 --> 00:00:32,652
+Posesiones nunca fueron para mí, nunca las <u>tuve.</u>
+
+16
+00:00:32,672 --> 00:00:32,712
+<u>No</u> es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+17
+00:00:32,712 --> 00:00:33,894
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+18
+00:00:33,894 --> 00:00:34,075
+No <u>es</u> verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+19
+00:00:34,075 --> 00:00:34,255
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+20
+00:00:34,255 --> 00:00:35,016
+No es <u>verdad,</u> tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+21
+00:00:35,016 --> 00:00:35,056
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+22
+00:00:35,056 --> 00:00:35,758
+No es verdad, <u>tengo</u> un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+23
+00:00:35,758 --> 00:00:35,778
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+24
+00:00:35,778 --> 00:00:35,898
+No es verdad, tengo <u>un</u> colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+25
+00:00:35,898 --> 00:00:35,938
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+26
+00:00:35,938 --> 00:00:37,120
+No es verdad, tengo un <u>colchón</u> y un guitarrón y un pelo muy groso queme a mi suelo.
+
+27
+00:00:37,120 --> 00:00:37,741
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+28
+00:00:37,741 --> 00:00:37,881
+No es verdad, tengo un colchón <u>y</u> un guitarrón y un pelo muy groso queme a mi suelo.
+
+29
+00:00:37,881 --> 00:00:37,901
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+30
+00:00:37,901 --> 00:00:38,021
+No es verdad, tengo un colchón y <u>un</u> guitarrón y un pelo muy groso queme a mi suelo.
+
+31
+00:00:38,021 --> 00:00:38,041
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+32
+00:00:38,041 --> 00:00:39,464
+No es verdad, tengo un colchón y un <u>guitarrón</u> y un pelo muy groso queme a mi suelo.
+
+33
+00:00:39,464 --> 00:00:39,484
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+34
+00:00:39,484 --> 00:00:39,544
+No es verdad, tengo un colchón y un guitarrón <u>y</u> un pelo muy groso queme a mi suelo.
+
+35
+00:00:39,544 --> 00:00:39,684
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+36
+00:00:39,684 --> 00:00:39,804
+No es verdad, tengo un colchón y un guitarrón y <u>un</u> pelo muy groso queme a mi suelo.
+
+37
+00:00:39,804 --> 00:00:39,864
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+38
+00:00:39,864 --> 00:00:40,486
+No es verdad, tengo un colchón y un guitarrón y un <u>pelo</u> muy groso queme a mi suelo.
+
+39
+00:00:40,486 --> 00:00:40,526
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+40
+00:00:40,526 --> 00:00:40,726
+No es verdad, tengo un colchón y un guitarrón y un pelo <u>muy</u> groso queme a mi suelo.
+
+41
+00:00:40,726 --> 00:00:40,746
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+42
+00:00:40,746 --> 00:00:41,367
+No es verdad, tengo un colchón y un guitarrón y un pelo muy <u>groso</u> queme a mi suelo.
+
+43
+00:00:41,367 --> 00:00:41,387
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+44
+00:00:41,387 --> 00:00:42,429
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso <u>queme</u> a mi suelo.
+
+45
+00:00:42,429 --> 00:00:42,449
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+46
+00:00:42,449 --> 00:00:42,529
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme <u>a</u> mi suelo.
+
+47
+00:00:42,529 --> 00:00:42,589
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+48
+00:00:42,589 --> 00:00:43,070
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a <u>mi</u> suelo.
+
+49
+00:00:43,070 --> 00:00:43,130
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi suelo.
+
+50
+00:00:43,130 --> 00:00:44,172
+No es verdad, tengo un colchón y un guitarrón y un pelo muy groso queme a mi <u>suelo.</u>
+
+51
+00:00:44,192 --> 00:00:44,252
+<u>Así</u> es, tengo un suelo y que
+
+52
+00:00:44,252 --> 00:00:44,813
+Así es, tengo un suelo y que
+
+53
+00:00:44,813 --> 00:00:45,254
+Así <u>es,</u> tengo un suelo y que
+
+54
+00:00:45,254 --> 00:00:45,915
+Así es, tengo un suelo y que
+
+55
+00:00:45,915 --> 00:00:46,576
+Así es, <u>tengo</u> un suelo y que
+
+56
+00:00:46,576 --> 00:00:46,596
+Así es, tengo un suelo y que
+
+57
+00:00:46,596 --> 00:00:46,716
+Así es, tengo <u>un</u> suelo y que
+
+58
+00:00:46,716 --> 00:00:46,776
+Así es, tengo un suelo y que
+
+59
+00:00:46,776 --> 00:00:47,858
+Así es, tengo un <u>suelo</u> y que
+
+60
+00:00:47,858 --> 00:00:47,878
+Así es, tengo un suelo y que
+
+61
+00:00:47,878 --> 00:00:47,898
+Así es, tengo un suelo <u>y</u> que
+
+62
+00:00:47,898 --> 00:00:48,920
+Así es, tengo un suelo y que
+
+63
+00:00:48,920 --> 00:00:50,322
+Así es, tengo un suelo y <u>que</u>
+
+64
+00:00:50,302 --> 00:00:50,622
+<u>¿Y</u> qué?
+
+65
+00:00:50,622 --> 00:00:51,483
+¿Y qué?
+
+66
+00:00:51,483 --> 00:00:51,623
+¿Y <u>qué?</u>
+
+67
+00:00:51,643 --> 00:00:52,444
+<u>¿Y</u> qué?
+
+68
+00:00:52,444 --> 00:00:52,504
+¿Y qué?
+
+69
+00:00:52,504 --> 00:00:53,525
+¿Y <u>qué?</u>
+
+70
+00:00:54,006 --> 00:00:55,267
+<u>Tengo</u> bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+71
+00:00:55,267 --> 00:00:55,828
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+72
+00:00:55,828 --> 00:00:57,670
+Tengo <u>bolsillos</u> llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+73
+00:00:57,670 --> 00:00:57,790
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+74
+00:00:57,790 --> 00:00:57,910
+Tengo bolsillos <u>llenos</u> de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+75
+00:00:57,910 --> 00:00:57,990
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+76
+00:00:57,990 --> 00:00:58,771
+Tengo bolsillos llenos <u>de</u> iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+77
+00:00:58,771 --> 00:00:59,612
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+78
+00:00:59,612 --> 00:01:00,653
+Tengo bolsillos llenos de <u>iglesia</u> y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+79
+00:01:00,653 --> 00:01:00,693
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+80
+00:01:00,693 --> 00:01:01,293
+Tengo bolsillos llenos de iglesia <u>y</u> agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+81
+00:01:01,293 --> 00:01:02,034
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+82
+00:01:02,034 --> 00:01:02,915
+Tengo bolsillos llenos de iglesia y <u>agujeros</u> y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+83
+00:01:02,915 --> 00:01:02,935
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+84
+00:01:02,935 --> 00:01:02,955
+Tengo bolsillos llenos de iglesia y agujeros <u>y</u> todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+85
+00:01:02,955 --> 00:01:02,995
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+86
+00:01:02,995 --> 00:01:03,996
+Tengo bolsillos llenos de iglesia y agujeros y <u>todo</u> lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+87
+00:01:03,996 --> 00:01:04,036
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+88
+00:01:04,036 --> 00:01:04,256
+Tengo bolsillos llenos de iglesia y agujeros y todo <u>lo</u> que me importa a mí se cae por mi tierra hasta el suelo.
+
+89
+00:01:04,256 --> 00:01:04,837
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+90
+00:01:04,837 --> 00:01:04,897
+Tengo bolsillos llenos de iglesia y agujeros y todo lo <u>que</u> me importa a mí se cae por mi tierra hasta el suelo.
+
+91
+00:01:04,897 --> 00:01:04,997
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+92
+00:01:04,997 --> 00:01:05,137
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que <u>me</u> importa a mí se cae por mi tierra hasta el suelo.
+
+93
+00:01:05,137 --> 00:01:05,157
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+94
+00:01:05,157 --> 00:01:06,919
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me <u>importa</u> a mí se cae por mi tierra hasta el suelo.
+
+95
+00:01:06,919 --> 00:01:08,661
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+96
+00:01:08,661 --> 00:01:08,801
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa <u>a</u> mí se cae por mi tierra hasta el suelo.
+
+97
+00:01:08,801 --> 00:01:08,861
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+98
+00:01:08,861 --> 00:01:09,382
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a <u>mí</u> se cae por mi tierra hasta el suelo.
+
+99
+00:01:09,382 --> 00:01:10,283
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+100
+00:01:10,283 --> 00:01:10,583
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí <u>se</u> cae por mi tierra hasta el suelo.
+
+101
+00:01:10,583 --> 00:01:10,623
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+102
+00:01:10,623 --> 00:01:11,444
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se <u>cae</u> por mi tierra hasta el suelo.
+
+103
+00:01:11,444 --> 00:01:11,884
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+104
+00:01:11,884 --> 00:01:12,105
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae <u>por</u> mi tierra hasta el suelo.
+
+105
+00:01:12,105 --> 00:01:12,165
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+106
+00:01:12,165 --> 00:01:12,385
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por <u>mi</u> tierra hasta el suelo.
+
+107
+00:01:12,385 --> 00:01:12,445
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+108
+00:01:12,445 --> 00:01:16,830
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi <u>tierra</u> hasta el suelo.
+
+109
+00:01:16,830 --> 00:01:18,431
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+110
+00:01:18,431 --> 00:01:19,412
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra <u>hasta</u> el suelo.
+
+111
+00:01:19,412 --> 00:01:19,432
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+112
+00:01:19,432 --> 00:01:19,552
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta <u>el</u> suelo.
+
+113
+00:01:19,552 --> 00:01:19,632
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el suelo.
+
+114
+00:01:19,632 --> 00:01:20,173
+Tengo bolsillos llenos de iglesia y agujeros y todo lo que me importa a mí se cae por mi tierra hasta el <u>suelo.</u>
+
+115
+00:01:21,537 --> 00:01:22,078
+<u>A</u> mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+116
+00:01:22,078 --> 00:01:22,098
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+117
+00:01:22,098 --> 00:01:22,218
+A <u>mi</u> cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+118
+00:01:22,218 --> 00:01:22,238
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+119
+00:01:22,238 --> 00:01:23,038
+A mi <u>cabeza</u> Dame algo en que creer Soy yo en la playa Buscándote
+
+120
+00:01:23,038 --> 00:01:37,072
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+121
+00:01:37,072 --> 00:01:37,692
+A mi cabeza <u>Dame</u> algo en que creer Soy yo en la playa Buscándote
+
+122
+00:01:37,692 --> 00:01:37,712
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+123
+00:01:37,712 --> 00:01:38,373
+A mi cabeza Dame <u>algo</u> en que creer Soy yo en la playa Buscándote
+
+124
+00:01:38,373 --> 00:01:39,134
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+125
+00:01:39,134 --> 00:01:40,435
+A mi cabeza Dame algo <u>en</u> que creer Soy yo en la playa Buscándote
+
+126
+00:01:40,435 --> 00:01:40,515
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+127
+00:01:40,515 --> 00:01:41,055
+A mi cabeza Dame algo en <u>que</u> creer Soy yo en la playa Buscándote
+
+128
+00:01:41,055 --> 00:01:41,095
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+129
+00:01:41,095 --> 00:01:42,036
+A mi cabeza Dame algo en que <u>creer</u> Soy yo en la playa Buscándote
+
+130
+00:01:42,036 --> 00:01:42,577
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+131
+00:01:42,577 --> 00:01:42,857
+A mi cabeza Dame algo en que creer <u>Soy</u> yo en la playa Buscándote
+
+132
+00:01:42,857 --> 00:01:42,917
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+133
+00:01:42,917 --> 00:01:43,197
+A mi cabeza Dame algo en que creer Soy <u>yo</u> en la playa Buscándote
+
+134
+00:01:43,197 --> 00:01:43,778
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+135
+00:01:43,778 --> 00:01:44,018
+A mi cabeza Dame algo en que creer Soy yo <u>en</u> la playa Buscándote
+
+136
+00:01:44,018 --> 00:01:44,599
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+137
+00:01:44,599 --> 00:01:44,879
+A mi cabeza Dame algo en que creer Soy yo en <u>la</u> playa Buscándote
+
+138
+00:01:44,879 --> 00:01:44,919
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+139
+00:01:44,919 --> 00:01:45,860
+A mi cabeza Dame algo en que creer Soy yo en la <u>playa</u> Buscándote
+
+140
+00:01:45,860 --> 00:01:45,940
+A mi cabeza Dame algo en que creer Soy yo en la playa Buscándote
+
+141
+00:01:45,940 --> 00:01:49,063
+A mi cabeza Dame algo en que creer Soy yo en la playa <u>Buscándote</u>
+
+142
+00:01:52,621 --> 00:01:54,006
+<u>Can</u> be on me boy see
+
+143
+00:01:54,006 --> 00:01:54,408
+Can be on me boy see
+
+144
+00:01:54,408 --> 00:01:54,628
+Can <u>be</u> on me boy see
+
+145
+00:01:54,628 --> 00:01:54,789
+Can be on me boy see
+
+146
+00:01:54,789 --> 00:01:55,512
+Can be <u>on</u> me boy see
+
+147
+00:01:55,512 --> 00:01:55,552
+Can be on me boy see
+
+148
+00:01:55,552 --> 00:01:55,773
+Can be on <u>me</u> boy see
+
+149
+00:01:55,773 --> 00:01:56,014
+Can be on me boy see
+
+150
+00:01:56,014 --> 00:01:57,118
+Can be on me <u>boy</u> see
+
+151
+00:01:57,118 --> 00:01:59,486
+Can be on me boy see
+
+152
+00:01:59,486 --> 00:01:59,948
+Can be on me boy <u>see</u>
+
+153
+00:02:06,273 --> 00:02:07,274
+<u>Soy</u> yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+154
+00:02:07,274 --> 00:02:07,294
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+155
+00:02:07,294 --> 00:02:07,494
+Soy <u>yo</u> en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+156
+00:02:07,494 --> 00:02:08,055
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+157
+00:02:08,055 --> 00:02:08,175
+Soy yo <u>en</u> la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+158
+00:02:08,175 --> 00:02:08,255
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+159
+00:02:08,255 --> 00:02:08,475
+Soy yo en <u>la</u> calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+160
+00:02:08,475 --> 00:02:08,515
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+161
+00:02:08,515 --> 00:02:09,056
+Soy yo en la <u>calle</u> con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+162
+00:02:09,056 --> 00:02:09,096
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+163
+00:02:09,096 --> 00:02:09,356
+Soy yo en la calle <u>con</u> mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+164
+00:02:09,356 --> 00:02:09,416
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+165
+00:02:09,416 --> 00:02:09,736
+Soy yo en la calle con <u>mi</u> guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+166
+00:02:09,736 --> 00:02:09,837
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+167
+00:02:09,837 --> 00:02:11,198
+Soy yo en la calle con mi <u>guitarrón,</u> tocando y sonriendo, cantando acerca de ti.
+
+168
+00:02:11,198 --> 00:02:11,218
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+169
+00:02:11,218 --> 00:02:13,340
+Soy yo en la calle con mi guitarrón, <u>tocando</u> y sonriendo, cantando acerca de ti.
+
+170
+00:02:13,340 --> 00:02:13,360
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+171
+00:02:13,360 --> 00:02:13,380
+Soy yo en la calle con mi guitarrón, tocando <u>y</u> sonriendo, cantando acerca de ti.
+
+172
+00:02:13,380 --> 00:02:13,400
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+173
+00:02:13,400 --> 00:02:14,942
+Soy yo en la calle con mi guitarrón, tocando y <u>sonriendo,</u> cantando acerca de ti.
+
+174
+00:02:14,942 --> 00:02:15,422
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+175
+00:02:15,422 --> 00:02:17,144
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, <u>cantando</u> acerca de ti.
+
+176
+00:02:17,144 --> 00:02:17,184
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+177
+00:02:17,184 --> 00:02:18,645
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando <u>acerca</u> de ti.
+
+178
+00:02:18,645 --> 00:02:19,226
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+179
+00:02:19,226 --> 00:02:19,326
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca <u>de</u> ti.
+
+180
+00:02:19,326 --> 00:02:19,366
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de ti.
+
+181
+00:02:19,366 --> 00:02:20,908
+Soy yo en la calle con mi guitarrón, tocando y sonriendo, cantando acerca de <u>ti.</u>
+
+182
+00:02:21,428 --> 00:02:21,909
+<u>Soy</u> yo sentado atrás en el bus.
+
+183
+00:02:21,909 --> 00:02:21,929
+Soy yo sentado atrás en el bus.
+
+184
+00:02:21,929 --> 00:02:22,109
+Soy <u>yo</u> sentado atrás en el bus.
+
+185
+00:02:22,109 --> 00:02:22,369
+Soy yo sentado atrás en el bus.
+
+186
+00:02:22,369 --> 00:02:24,151
+Soy yo <u>sentado</u> atrás en el bus.
+
+187
+00:02:24,151 --> 00:02:24,171
+Soy yo sentado atrás en el bus.
+
+188
+00:02:24,171 --> 00:02:24,351
+Soy yo sentado <u>atrás</u> en el bus.
+
+189
+00:02:24,351 --> 00:02:24,371
+Soy yo sentado atrás en el bus.
+
+190
+00:02:24,371 --> 00:02:24,551
+Soy yo sentado atrás <u>en</u> el bus.
+
+191
+00:02:24,551 --> 00:02:24,571
+Soy yo sentado atrás en el bus.
+
+192
+00:02:24,571 --> 00:02:24,691
+Soy yo sentado atrás en <u>el</u> bus.
+
+193
+00:02:24,691 --> 00:02:24,711
+Soy yo sentado atrás en el bus.
+
+194
+00:02:24,711 --> 00:02:25,572
+Soy yo sentado atrás en el <u>bus.</u>
+
+195
+00:02:26,093 --> 00:02:27,374
+<u>Soy</u> yo en la prisión.
+
+196
+00:02:27,374 --> 00:02:27,394
+Soy yo en la prisión.
+
+197
+00:02:27,394 --> 00:02:27,434
+Soy <u>yo</u> en la prisión.
+
+198
+00:02:27,434 --> 00:02:27,454
+Soy yo en la prisión.
+
+199
+00:02:27,454 --> 00:02:27,494
+Soy yo <u>en</u> la prisión.
+
+200
+00:02:27,494 --> 00:02:27,514
+Soy yo en la prisión.
+
+201
+00:02:27,514 --> 00:02:27,955
+Soy yo en <u>la</u> prisión.
+
+202
+00:02:27,955 --> 00:02:27,975
+Soy yo en la prisión.
+
+203
+00:02:27,975 --> 00:02:29,316
+Soy yo en la <u>prisión.</u>
+
+204
+00:02:29,877 --> 00:02:30,217
+<u>Soy</u> yo en tu cabeza.
+
+205
+00:02:30,217 --> 00:02:30,277
+Soy yo en tu cabeza.
+
+206
+00:02:30,277 --> 00:02:30,958
+Soy <u>yo</u> en tu cabeza.
+
+207
+00:02:30,958 --> 00:02:30,978
+Soy yo en tu cabeza.
+
+208
+00:02:30,978 --> 00:02:31,098
+Soy yo <u>en</u> tu cabeza.
+
+209
+00:02:31,098 --> 00:02:31,118
+Soy yo en tu cabeza.
+
+210
+00:02:31,118 --> 00:02:31,638
+Soy yo en <u>tu</u> cabeza.
+
+211
+00:02:31,638 --> 00:02:31,718
+Soy yo en tu cabeza.
+
+212
+00:02:31,718 --> 00:02:34,141
+Soy yo en tu <u>cabeza.</u>
+
+213
+00:02:34,441 --> 00:02:34,741
+<u>Soy</u> yo en tu cabeza.
+
+214
+00:02:34,741 --> 00:02:34,782
+Soy yo en tu cabeza.
+
+215
+00:02:34,782 --> 00:02:34,942
+Soy <u>yo</u> en tu cabeza.
+
+216
+00:02:34,942 --> 00:02:34,962
+Soy yo en tu cabeza.
+
+217
+00:02:34,962 --> 00:02:35,062
+Soy yo <u>en</u> tu cabeza.
+
+218
+00:02:35,062 --> 00:02:35,082
+Soy yo en tu cabeza.
+
+219
+00:02:35,082 --> 00:02:35,322
+Soy yo en <u>tu</u> cabeza.
+
+220
+00:02:35,322 --> 00:02:35,362
+Soy yo en tu cabeza.
+
+221
+00:02:35,362 --> 00:02:36,263
+Soy yo en tu <u>cabeza.</u>
+
+222
+00:03:07,276 --> 00:03:08,926
+<u>Oh.</u>
+
+223
+00:03:08,986 --> 00:03:12,628
+<u>Oh.</u>
+

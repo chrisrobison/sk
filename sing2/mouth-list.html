@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mouth Sounds Table</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+  <link rel="stylesheet" href="mouth_sprites.css"/>
+</head>
+<body>
+  <h1>Mouth Sounds Table</h1>
+  <table id="mouthTable">
+    <thead>
+      <tr>
+        <th>Sounds</th>
+        <th>Image</th>
+        <th>SVG</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    const mouthData = [
+      { sound: ["A", "E", "I"], image: "a_e_i.png", height: 57, width: 112 },
+      { sound: ["AH"], image: "ah.png", height: 68, width: 126 },
+      { sound: ["B", "M", "P"], image: "b_m_p.png", height: 68, width: 126 },
+      { sound: ["C", "D", "G", "K", "N", "S", "T", "X", "Y", "Z"], image: "c_d_g_K_n_s_t_x_y_z.png", height: 68, width: 126 },
+      { sound: ["D"], image: "d.png", height: 68, width: 126 },
+      { sound: ["E"], image: "e.png", height: 68, width: 126 },
+      { sound: ["F"], image: "f.png", height: 68, width: 126 },
+      { sound: ["F", "W"], image: "f_w.png", height: 68, width: 126 },
+      { sound: ["L"], image: "l.png", height: 68, width: 126 },
+      { sound: ["L"], image: "l2.png", height: 68, width: 126 },
+      { sound: ["M"], image: "m.png", height: 68, width: 126 },
+      { sound: ["O"], image: "o.png", height: 100, width: 71 },
+      { sound: ["O", "W"], image: "o_w.png", height: 68, width: 126 },
+      { sound: ["OH"], image: "oh.png", height: 68, width: 126 },
+      { sound: ["R"], image: "r.png", height: 68, width: 126 },
+      { sound: ["S"], image: "s.png", height: 68, width: 126 },
+      { sound: ["SC"], image: "sc.png", height: 68, width: 126 },
+      { sound: ["TH"], image: "th.png", height: 68, width: 126 },
+      { sound: ["UN"], image: "un.png", height: 68, width: 126 },
+      { sound: ["WO"], image: "wo.png", height: 68, width: 126 }
+    ];
+
+    const tableBody = document.querySelector("#mouthTable tbody");
+
+    mouthData.forEach(entry => {
+      const row = document.createElement("tr");
+
+      const soundCell = document.createElement("td");
+      soundCell.textContent = entry.sound.join(", ");
+      row.appendChild(soundCell);
+
+      const imgCell = document.createElement("td");
+      const img = document.createElement("img");
+      img.src = entry.image;
+      img.alt = entry.sound.join(", ");
+      img.height = entry.height;
+      img.width = entry.width;
+      imgCell.appendChild(img);
+      row.appendChild(imgCell);
+      
+      const svgCell = document.createElement("td");
+      const svg = document.createElement("div");
+      svg.className = "mouth-sprite-svg mouth-" + entry.image.replace(/\.png/, '');
+      svgCell.appendChild(svg);
+      row.appendChild(svgCell);
+
+      tableBody.appendChild(row);
+    });
+  </script>
+</body>
+</html>
