@@ -39,10 +39,11 @@
     details{width:100%}
     summary{cursor:pointer;list-style:none}
     summary::-webkit-details-marker{display:none}
-    .fxpanel{display:grid;gap:.4rem;grid-template-columns:repeat(2,minmax(0,1fr));padding:.5rem;margin-top:.4rem;background:#0e0e12;border:1px solid #23232a;border-radius:10px}
+    .fxpanel{display:grid;gap:.4rem;grid-template-columns:repeat(3,minmax(0,1fr));padding:.5rem;margin-top:.4rem;background:#0e0e12;border:1px solid #23232a;border-radius:10px}
     .fxpanel label{display:block;font-size:.75rem;color:#9aa3b2}
     .fxpanel .row{align-items:center}
     .fxpanel input[type="range"]{height:28px}
+    .fxpanel fx-knob{justify-self:center}
     .fxhead{display:flex;gap:.5rem;align-items:center}
     .fxreset{justify-self:end}
     .analysis{display:grid;gap:.5rem;padding:.75rem}
@@ -60,6 +61,63 @@
     .knob .pointer{position:absolute;left:50%;top:50%;width:2px;height:22px;background:#8af;border-radius:2px;box-shadow:0 0 6px rgba(136,170,255,.5);transform-origin:bottom center;transform:translate(-50%,-100%) rotate(-135deg)}
     .knob.drag{filter:brightness(1.1)}
     .vtxt{font-size: 10px; min-width:32px;text-align:right;opacity:.85;font-variant-numeric:tabular-nums}
+    
+    /* Knob component styles */
+    fx-knob {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    fx-knob .knob-container {
+      position: relative;
+      width: 40px;
+      height: 40px;
+      user-select: none;
+      touch-action: none;
+    }
+    fx-knob .knob-bg {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: linear-gradient(145deg, #2a2a2f, #1a1a1d);
+      border: 2px solid #333;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    fx-knob .knob-pointer {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 2px;
+      height: 16px;
+      background: #8af;
+      border-radius: 2px;
+      box-shadow: 0 0 4px rgba(136,170,255,.5);
+      transform-origin: bottom center;
+      transform: translate(-50%,-100%) rotate(-135deg);
+      transition: box-shadow 0.1s ease;
+    }
+    fx-knob .knob-container.dragging {
+      filter: brightness(1.1);
+    }
+    fx-knob .knob-container.dragging .knob-pointer {
+      box-shadow: 0 0 8px rgba(136,170,255,.8);
+    }
+    fx-knob .knob-label {
+      font-size: 10px;
+      color: #9aa3b2;
+      text-align: center;
+      min-width: 60px;
+    }
+    fx-knob .knob-value {
+      font-size: 9px;
+      color: #8af;
+      text-align: center;
+      font-variant-numeric: tabular-nums;
+      min-height: 12px;
+    }
   </style>
   <!-- Wavesurfer (peaks + sync) -->
   <script src="https://cdn.jsdelivr.net/npm/wavesurfer.js@7/dist/wavesurfer.min.js"></script>
@@ -161,7 +219,7 @@ const loadDot = $('#loadDot');
 let audioCtx;
 let masterGain;
 let currentSong = null;
-let stems = []; // {name, url, media, ws, gainNode, solo, mute}
+let stems = []; // {name, url, media, ws, gainNode, solo, mute, source}
 let isPlaying = false;
 let duration = 0;
 let raf;
@@ -197,12 +255,16 @@ function populateSongs(songs){
   loadSong(songs[0]);
 }
 
-function ensureAudio(){
+async function ensureAudio(){
   if(!audioCtx){
     audioCtx = new (window.AudioContext||window.webkitAudioContext)();
     masterGain = audioCtx.createGain();
     masterGain.gain.value = parseFloat(masterVol.value);
     masterGain.connect(audioCtx.destination);
+  }
+  // Resume AudioContext if suspended (required for user gesture)
+  if(audioCtx.state === 'suspended'){
+    await audioCtx.resume();
   }
 }
 
@@ -221,8 +283,21 @@ function generateIR(ctx, seconds=1.6, decay=2.0){
 }
 
 async function loadSong(song){
-  ensureAudio();
+  await ensureAudio();
   stopAll();
+  
+  // Clean up existing stems and their audio sources
+  stems.forEach(stem => {
+    if(stem.source) {
+      stem.source.disconnect();
+    }
+    if(stem.media) {
+      stem.media.pause();
+      stem.media.src = '';
+      stem.media.load();
+    }
+  });
+  
   currentSong = song;
   grid.innerHTML='';
   analysisSource.innerHTML='';
@@ -261,40 +336,31 @@ async function loadSong(song){
           <summary class="tiny ghost">FX</summary>
           <div class="fxpanel">
             <div>
-              <label>Pan</label>
-              <input type="range" min="-1" max="1" step="0.01" value="0" data-fx="pan">
+              <fx-knob min="-1" max="1" step="0.01" value="0" label="Pan" data-fx="pan"></fx-knob>
             </div>
             <div>
-              <label>Comp Threshold (dB)</label>
-              <input type="range" min="-60" max="0" step="1" value="-24" data-fx="compThresh">
+              <fx-knob min="-60" max="0" step="1" value="-24" label="Comp Threshold" unit="dB" data-fx="compThresh"></fx-knob>
             </div>
             <div>
-              <label>Low EQ (dB)</label>
-              <input type="range" min="-12" max="12" step="0.5" value="0" data-fx="eqLow">
+              <fx-knob min="-12" max="12" step="0.5" value="0" label="Low EQ" unit="dB" data-fx="eqLow"></fx-knob>
             </div>
             <div>
-              <label>Mid EQ (dB)</label>
-              <input type="range" min="-12" max="12" step="0.5" value="0" data-fx="eqMid">
+              <fx-knob min="-12" max="12" step="0.5" value="0" label="Mid EQ" unit="dB" data-fx="eqMid"></fx-knob>
             </div>
             <div>
-              <label>High EQ (dB)</label>
-              <input type="range" min="-12" max="12" step="0.5" value="0" data-fx="eqHigh">
+              <fx-knob min="-12" max="12" step="0.5" value="0" label="High EQ" unit="dB" data-fx="eqHigh"></fx-knob>
             </div>
             <div>
-              <label>Delay Time (s)</label>
-              <input type="range" min="0" max="0.6" step="0.005" value="0" data-fx="delayTime">
+              <fx-knob min="0" max="0.6" step="0.005" value="0" label="Delay Time" unit="s" data-fx="delayTime"></fx-knob>
             </div>
             <div>
-              <label>Delay Feedback</label>
-              <input type="range" min="0" max="0.85" step="0.01" value="0" data-fx="delayFb">
+              <fx-knob min="0" max="0.85" step="0.01" value="0" label="Delay Feedback" data-fx="delayFb"></fx-knob>
             </div>
             <div>
-              <label>Delay Mix</label>
-              <input type="range" min="0" max="1" step="0.01" value="0" data-fx="delayMix">
+              <fx-knob min="0" max="1" step="0.01" value="0" label="Delay Mix" unit="%" data-fx="delayMix"></fx-knob>
             </div>
             <div>
-              <label>Reverb Mix</label>
-              <input type="range" min="0" max="1" step="0.01" value="0" data-fx="revMix">
+              <fx-knob min="0" max="1" step="0.01" value="0" label="Reverb Mix" unit="%" data-fx="revMix"></fx-knob>
             </div>
             <button class="tiny ghost fxreset" data-act="fxreset">Reset FX</button>
           </div>
@@ -347,12 +413,12 @@ async function loadSong(song){
 
     const fx = {eqLow, eqMid, eqHigh, comp, pan, delay, delayFb, delayWet, convolver, revWet, dry, trackGain};
 
-    // WaveSurfer instance for this stem
+    // WaveSurfer instance for this stem - use existing media element
     const ws = WaveSurfer.create({
       container: row.querySelector('.wave'),
       height: 72, progressColor: '#8af', waveColor: '#394155', cursorColor:'#fff',
       interact: true, dragToSeek: true,
-      url,
+      media: media,  // Use the existing media element instead of creating new one
     });
     ws.on('interaction', () => { /* allow autoplay on iOS */ });
     ws.on('ready', ()=>{ loaded++; if(loaded===total){loadDot.style.background = 'var(--good)';} });
@@ -369,12 +435,12 @@ async function loadSong(song){
 
     const idx = stems.length;
     stems.push({ name: part.name, url, media, ws, gainNode: trackGain, solo:false, mute:false,
-      fx: {eqLow, eqMid, eqHigh, comp, pan, delay, delayFb, delayWet, convolver, revWet, dry}
+      source: src, fx: {eqLow, eqMid, eqHigh, comp, pan, delay, delayFb, delayWet, convolver, revWet, dry}
     });
 
     // Hook up FX controls for this row
-    row.querySelectorAll('input[data-fx]').forEach(inp=>{
-      inp.addEventListener('input', (e)=>{
+    row.querySelectorAll('fx-knob[data-fx]').forEach(knob=>{
+      knob.addEventListener('input', (e)=>{
         const v = parseFloat(e.target.value);
         const fxName = e.target.dataset.fx;
         const F = stems[idx].fx;
@@ -396,9 +462,9 @@ async function loadSong(song){
       F.pan.pan.value=0; F.comp.threshold.value=-24;
       F.eqLow.gain.value=0; F.eqMid.gain.value=0; F.eqHigh.gain.value=0;
       F.delay.delayTime.value=0; F.delayFb.gain.value=0; F.delayWet.gain.value=0; F.revWet.gain.value=0;
-      row.querySelectorAll('input[data-fx]').forEach(inp=>{
+      row.querySelectorAll('fx-knob[data-fx]').forEach(knob=>{
         const d = {pan:0, compThresh:-24, eqLow:0, eqMid:0, eqHigh:0, delayTime:0, delayFb:0, delayMix:0, revMix:0};
-        if(d[inp.dataset.fx]!==undefined) inp.value = d[inp.dataset.fx];
+        if(d[knob.dataset.fx]!==undefined) knob.value = d[knob.dataset.fx];
       });
     });
 
@@ -415,11 +481,22 @@ async function loadSong(song){
   // Simple clock
   cancelAnimationFrame(raf);
   const tick = ()=>{
+    if(stems.length === 0) {
+      raf = requestAnimationFrame(tick);
+      return;
+    }
     const t = stems[0]?.media.currentTime||0;
     const dur = stems[0]?.media.duration||duration||0;
     timeRead.textContent = formatTime(t)+' / '+formatTime(dur);
-    // Scroll cursors by syncing WaveSurfer playback time
-    stems.forEach(s=>{ if(s.ws && dur>0){ s.ws.setTime(t); }});
+    // Update WaveSurfer cursors only if we're playing
+    if(isPlaying) {
+      stems.forEach(s=>{ 
+        if(s.ws && dur>0){ 
+          // Let WaveSurfer handle its own time updates during playback
+          // Only manually sync when not playing
+        }
+      });
+    }
     syncDot.style.background = isInSync()? 'var(--good)':'var(--bad)';
     raf = requestAnimationFrame(tick);
   };
@@ -459,15 +536,28 @@ function isInSync(){
   return stems.every(s=>Math.abs(s.media.currentTime - lead) < 0.06);
 }
 
-function playAll(){
-  stems.forEach(s=>{ if(!isPlaying){ s.media.play(); } });
-  isPlaying = true; playBtn.textContent = '⏸︎ Pause';
+async function playAll(){
+  await ensureAudio();
+  
+  // Ensure all media elements are ready
+  const playPromises = stems.map(s => {
+    if(!isPlaying && s.media.readyState >= 2) { // HAVE_CURRENT_DATA
+      return s.media.play().catch(err => {
+        console.warn('Failed to play', s.name, err);
+      });
+    }
+    return Promise.resolve();
+  });
+  
+  await Promise.allSettled(playPromises);
+  isPlaying = true; 
+  playBtn.textContent = '⏸︎ Pause';
 }
 function pauseAll(){ stems.forEach(s=> s.media.pause()); isPlaying=false; playBtn.textContent='▶︎ Play'; }
 function stopAll(){ if(!stems.length) return; pauseAll(); seekAll(0); }
 function seekAll(t){ stems.forEach(s=>{ try{s.media.currentTime = t;}catch{}}); }
 
-playBtn.onclick = ()=>{ isPlaying ? pauseAll() : playAll(); };
+playBtn.onclick = async ()=>{ isPlaying ? pauseAll() : await playAll(); };
 stopBtn.onclick = ()=> stopAll();
 
 function toggleSolo(name){
@@ -497,9 +587,9 @@ let analyser, buf, rafPitch; let analysisStemIdx = null;
 const A4 = 440, SEMITONE = Math.pow(2,1/12);
 const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
 
-function startAnalysis(){
+async function startAnalysis(){
   if(!stems.length) return;
-  ensureAudio();
+  await ensureAudio();
   if(!analyser){
     analyser = audioCtx.createAnalyser();
     analyser.fftSize = 2048; // mobile-safe
@@ -644,6 +734,169 @@ document.addEventListener('visibilitychange', ()=>{ if(document.hidden && isPlay
 
 // kick off drawing lines
 drawNotesInit();
+
+// Web Component: FX Knob
+class FxKnob extends HTMLElement {
+  constructor() {
+    super();
+    this._min = 0;
+    this._max = 1;
+    this._step = 0.01;
+    this._value = 0;
+    this._label = '';
+    this._unit = '';
+    this._dragging = false;
+    this._startAngle = -135; // degrees
+    this._endAngle = 135;   // degrees
+    this._angleRange = this._endAngle - this._startAngle;
+    this._onChangeCallback = null;
+  }
+
+  static get observedAttributes() {
+    return ['min', 'max', 'step', 'value', 'label', 'unit'];
+  }
+
+  connectedCallback() {
+    this.render();
+    this.attachEventListeners();
+  }
+
+  attributeChangedCallback(name, oldValue, newValue) {
+    if (oldValue !== newValue) {
+      switch(name) {
+        case 'min': this._min = parseFloat(newValue) || 0; break;
+        case 'max': this._max = parseFloat(newValue) || 1; break;
+        case 'step': this._step = parseFloat(newValue) || 0.01; break;
+        case 'value': this.value = parseFloat(newValue) || 0; break;
+        case 'label': this._label = newValue || ''; break;
+        case 'unit': this._unit = newValue || ''; break;
+      }
+      this.updateDisplay();
+    }
+  }
+
+  get min() { return this._min; }
+  set min(val) { this._min = parseFloat(val) || 0; this.updateDisplay(); }
+  
+  get max() { return this._max; }
+  set max(val) { this._max = parseFloat(val) || 1; this.updateDisplay(); }
+  
+  get step() { return this._step; }
+  set step(val) { this._step = parseFloat(val) || 0.01; }
+  
+  get value() { return this._value; }
+  set value(val) {
+    const newValue = this.clamp(parseFloat(val) || 0);
+    if (this._value !== newValue) {
+      this._value = newValue;
+      this.updateDisplay();
+      this.dispatchEvent(new Event('input', { bubbles: true }));
+      this.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+  }
+
+  get label() { return this._label; }
+  set label(val) { this._label = val; this.updateDisplay(); }
+
+  get unit() { return this._unit; }
+  set unit(val) { this._unit = val; this.updateDisplay(); }
+
+  clamp(value) {
+    return Math.min(this._max, Math.max(this._min, value));
+  }
+
+  render() {
+    this.innerHTML = `
+      <div class="knob-label">${this._label}</div>
+      <div class="knob-container">
+        <div class="knob-bg">
+          <div class="knob-pointer"></div>
+        </div>
+      </div>
+      <div class="knob-value"></div>
+    `;
+    this.updateDisplay();
+  }
+
+  updateDisplay() {
+    const pointer = this.querySelector('.knob-pointer');
+    const valueEl = this.querySelector('.knob-value');
+    const labelEl = this.querySelector('.knob-label');
+    
+    if (pointer) {
+      const normalizedValue = (this._value - this._min) / (this._max - this._min);
+      const angle = this._startAngle + (normalizedValue * this._angleRange);
+      pointer.style.transform = `translate(-50%,-100%) rotate(${angle}deg)`;
+    }
+
+    if (valueEl) {
+      let displayValue = this._value;
+      if (this._unit === '%') {
+        displayValue = Math.round(this._value * 100);
+      } else {
+        displayValue = Math.round(this._value * 100) / 100;
+      }
+      valueEl.textContent = `${displayValue}${this._unit}`;
+    }
+
+    if (labelEl) {
+      labelEl.textContent = this._label;
+    }
+  }
+
+  attachEventListeners() {
+    const container = this.querySelector('.knob-container');
+    if (!container) return;
+
+    const getEventPos = (e) => {
+      return e.touches?.length ? 
+        { x: e.touches[0].clientX, y: e.touches[0].clientY } : 
+        { x: e.clientX, y: e.clientY };
+    };
+
+    let startValue, startPos;
+
+    const handleStart = (e) => {
+      this._dragging = true;
+      container.classList.add('dragging');
+      startValue = this._value;
+      startPos = getEventPos(e);
+      e.preventDefault();
+      document.addEventListener('mousemove', handleMove);
+      document.addEventListener('mouseup', handleEnd);
+      document.addEventListener('touchmove', handleMove, { passive: false });
+      document.addEventListener('touchend', handleEnd);
+    };
+
+    const handleMove = (e) => {
+      if (!this._dragging) return;
+      e.preventDefault();
+      
+      const pos = getEventPos(e);
+      const deltaX = pos.x - startPos.x;
+      const deltaY = pos.y - startPos.y;
+      const delta = (-deltaY + deltaX) / 200; // Combined horizontal + vertical movement
+      
+      const newValue = this.clamp(startValue + delta * (this._max - this._min));
+      this.value = Math.round(newValue / this._step) * this._step;
+    };
+
+    const handleEnd = () => {
+      if (!this._dragging) return;
+      this._dragging = false;
+      container.classList.remove('dragging');
+      document.removeEventListener('mousemove', handleMove);
+      document.removeEventListener('mouseup', handleEnd);
+      document.removeEventListener('touchmove', handleMove);
+      document.removeEventListener('touchend', handleEnd);
+    };
+
+    container.addEventListener('mousedown', handleStart);
+    container.addEventListener('touchstart', handleStart, { passive: false });
+  }
+}
+
+customElements.define('fx-knob', FxKnob);
 
 // Start analysis when we have a song loaded and UI built
 setTimeout(()=> startAnalysis(), 1200);
