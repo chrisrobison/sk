@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song - The Suicidal Kennedy's</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <!-- Punk rock fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&family=Special+Elite&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Special Elite', 'Courier New', monospace;
+            background: linear-gradient(135deg, #000 0%, #1a0000 50%, #000 100%);
+            color: #fff;
+            line-height: 1.6;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .noise {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            opacity: 0.03;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="10" cy="10" r="1" fill="white"/><circle cx="20" cy="30" r="1" fill="white"/><circle cx="30" cy="50" r="1" fill="white"/><circle cx="40" cy="70" r="1" fill="white"/><circle cx="50" cy="90" r="1" fill="white"/><circle cx="60" cy="20" r="1" fill="white"/><circle cx="70" cy="40" r="1" fill="white"/><circle cx="80" cy="60" r="1" fill="white"/><circle cx="90" cy="80" r="1" fill="white"/></svg>') repeat;
+            animation: noise 0.2s infinite;
+        }
+
+        @keyframes noise {
+            0%, 100% { transform: translate(0, 0); }
+            10% { transform: translate(-1px, -1px); }
+            20% { transform: translate(1px, 1px); }
+            30% { transform: translate(-1px, 1px); }
+            40% { transform: translate(1px, -1px); }
+            50% { transform: translate(-1px, -1px); }
+            60% { transform: translate(1px, 1px); }
+            70% { transform: translate(-1px, 1px); }
+            80% { transform: translate(1px, -1px); }
+            90% { transform: translate(-1px, -1px); }
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 0, 0, 0.9);
+            color: #fff;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 5px;
+            font-family: 'Special Elite', monospace;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            z-index: 1000;
+        }
+
+        .back-button:hover {
+            background: rgba(255, 0, 0, 1);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255,0,0,0.4);
+        }
+
+        .song-header {
+            text-align: center;
+            margin: 80px 0 60px;
+        }
+
+        .song-title {
+            font-size: 3.5rem;
+            font-family: 'Creepster', cursive;
+            color: #ff0000;
+            text-shadow: 3px 3px 6px rgba(255,0,0,0.8);
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        .song-album {
+            font-size: 1.5rem;
+            color: #ccc;
+            margin-bottom: 10px;
+        }
+
+        .song-track {
+            font-size: 1.2rem;
+            color: #999;
+        }
+
+        .song-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            margin-bottom: 60px;
+            align-items: start;
+        }
+
+        .song-player-section {
+            background: linear-gradient(135deg, rgba(255,0,0,0.1), rgba(0,0,0,0.9));
+            border: 2px solid #ff0000;
+            border-radius: 15px;
+            padding: 40px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .song-player-section::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,0,0,0.1), transparent);
+            transform: rotate(45deg);
+            transition: transform 0.6s ease;
+        }
+
+        .song-player-section:hover::before {
+            transform: rotate(45deg) translate(50%, 50%);
+        }
+
+        .album-art {
+            width: 300px;
+            height: 300px;
+            border-radius: 15px;
+            box-shadow: 0 15px 35px rgba(255,0,0,0.3);
+            margin: 0 auto 30px;
+            position: relative;
+            z-index: 1;
+            transition: transform 0.3s ease;
+        }
+
+        .album-art:hover {
+            transform: scale(1.05) rotate(2deg);
+        }
+
+        .audio-player {
+            position: relative;
+            z-index: 1;
+            background: rgba(0,0,0,0.8);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .play-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .play-btn {
+            background: linear-gradient(45deg, #ff0000, #cc0000);
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(255,0,0,0.3);
+        }
+
+        .play-btn:hover {
+            background: linear-gradient(45deg, #cc0000, #990000);
+            transform: scale(1.1);
+            box-shadow: 0 8px 25px rgba(255,0,0,0.5);
+        }
+
+        .time-display {
+            color: #ccc;
+            font-size: 1.1rem;
+            margin: 0 15px;
+            min-width: 80px;
+        }
+
+        .progress-container {
+            width: 100%;
+            height: 8px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 4px;
+            margin: 20px 0;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #ff0000, #ff3333);
+            border-radius: 4px;
+            width: 0%;
+            transition: width 0.1s ease;
+        }
+
+        .volume-control {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .volume-slider {
+            width: 100px;
+            height: 4px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 2px;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .download-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .download-btn {
+            background: rgba(255,255,255,0.1);
+            color: #ccc;
+            padding: 8px 16px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .download-btn:hover {
+            background: rgba(255,0,0,0.3);
+            color: #fff;
+            border-color: #ff0000;
+        }
+
+        .lyrics-section {
+            background: linear-gradient(135deg, rgba(0,0,0,0.9), rgba(255,0,0,0.05));
+            border: 2px solid #333;
+            border-radius: 15px;
+            padding: 40px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .lyrics-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="%23000"/><path d="M200 50 L350 200 L200 350 L50 200 Z" fill="%23111" stroke="%23333" stroke-width="2"/></svg>');
+            background-size: 200px 200px;
+            background-repeat: repeat;
+            opacity: 0.05;
+        }
+
+        .lyrics-title {
+            font-size: 2rem;
+            color: #ff0000;
+            margin-bottom: 30px;
+            font-family: 'Creepster', cursive;
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        .lyrics-content {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #ccc;
+            white-space: pre-line;
+            position: relative;
+            z-index: 1;
+            max-height: 500px;
+            overflow-y: auto;
+            padding-right: 10px;
+        }
+
+        .lyrics-content::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .lyrics-content::-webkit-scrollbar-track {
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+        }
+
+        .lyrics-content::-webkit-scrollbar-thumb {
+            background: #ff0000;
+            border-radius: 4px;
+        }
+
+        .lyrics-content::-webkit-scrollbar-thumb:hover {
+            background: #cc0000;
+        }
+
+        .loading {
+            color: #999;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .error {
+            color: #ff4444;
+            text-align: center;
+            font-style: italic;
+        }
+
+        /* Synchronized lyrics styles */
+        .lyrics-line {
+            display: block;
+            padding: 8px 12px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            margin: 4px 0;
+            min-height: 1.5em;
+        }
+
+        .lyrics-line:hover {
+            background: rgba(255,0,0,0.1);
+        }
+
+        .lyrics-line.current {
+            background: linear-gradient(45deg, #ff0000, #ff3333);
+            color: #fff;
+            text-shadow: 0 0 8px rgba(255,0,0,0.8);
+            font-weight: bold;
+            box-shadow: 0 4px 12px rgba(255,0,0,0.3);
+        }
+
+        .lyrics-line.past {
+            color: #888;
+            opacity: 0.7;
+        }
+
+        .lyrics-line.future {
+            color: #ccc;
+        }
+
+        .lyrics-line.empty {
+            min-height: 1em;
+            padding: 4px 0;
+        }
+
+        .sync-controls {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: rgba(0,0,0,0.5);
+            border-radius: 8px;
+        }
+
+        .sync-btn {
+            background: rgba(255,255,255,0.1);
+            color: #ccc;
+            border: 1px solid rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Special Elite', monospace;
+        }
+
+        .sync-btn:hover {
+            background: rgba(255,0,0,0.3);
+            color: #fff;
+            border-color: #ff0000;
+        }
+
+        .sync-btn.active {
+            background: #ff0000;
+            color: #fff;
+            border-color: #ff0000;
+        }
+
+        .timing-info {
+            text-align: center;
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .song-content {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+            
+            .song-title {
+                font-size: 2.5rem;
+            }
+            
+            .album-art {
+                width: 250px;
+                height: 250px;
+            }
+            
+            .song-player-section,
+            .lyrics-section {
+                padding: 25px;
+            }
+            
+            .back-button {
+                position: relative;
+                margin-bottom: 20px;
+            }
+        }
+
+        .glitch {
+            position: relative;
+            display: inline-block;
+        }
+
+        .glitch::before,
+        .glitch::after {
+            content: attr(data-text);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .glitch::before {
+            animation: glitch-1 0.5s infinite;
+            color: #ff0000;
+            z-index: -1;
+        }
+
+        .glitch::after {
+            animation: glitch-2 0.5s infinite;
+            color: #00ff00;
+            z-index: -2;
+        }
+
+        @keyframes glitch-1 {
+            0%, 100% { transform: translate(0); }
+            20% { transform: translate(-2px, 2px); }
+            40% { transform: translate(-2px, -2px); }
+            60% { transform: translate(2px, 2px); }
+            80% { transform: translate(2px, -2px); }
+        }
+
+        @keyframes glitch-2 {
+            0%, 100% { transform: translate(0); }
+            20% { transform: translate(2px, 0); }
+            40% { transform: translate(-2px, 0); }
+            60% { transform: translate(0, 2px); }
+            80% { transform: translate(0, -2px); }
+        }
+    </style>
+</head>
+<body>
+    <div class="noise"></div>
+    
+    <a href="javascript:history.back()" class="back-button">
+        ← Back
+    </a>
+
+    <div class="container">
+        <div class="song-header">
+            <h1 id="song-title" class="song-title glitch" data-text="">Loading...</h1>
+            <p id="song-album" class="song-album">Album: Loading...</p>
+            <p id="song-track" class="song-track">Track: Loading...</p>
+        </div>
+
+        <div class="song-content">
+            <div class="song-player-section">
+                <img id="album-art" src="" alt="Album Art" class="album-art" onerror="this.src='img/sk-emblem2.png'">
+                
+                <div class="audio-player">
+                    <div class="play-controls">
+                        <button id="play-btn" class="play-btn">▶</button>
+                        <span id="current-time" class="time-display">0:00</span>
+                        <span class="time-display">/</span>
+                        <span id="duration" class="time-display">0:00</span>
+                    </div>
+                    
+                    <div class="progress-container" id="progress-container">
+                        <div id="progress-bar" class="progress-bar"></div>
+                    </div>
+                    
+                    <div class="volume-control">
+                        <span>🔊</span>
+                        <input type="range" id="volume-slider" class="volume-slider" min="0" max="100" value="50">
+                    </div>
+                </div>
+                
+                <div class="download-links">
+                    <a id="mp3-link" href="#" class="download-btn" target="_blank">Download MP3</a>
+                    <a id="karaoke-link" href="#" class="download-btn" target="_blank" style="display:none;">Karaoke Version</a>
+                </div>
+            </div>
+
+            <div class="lyrics-section">
+                <h2 class="lyrics-title">Lyrics</h2>
+                
+                <div class="sync-controls">
+                    <button id="sync-toggle" class="sync-btn">Enable Sync</button>
+                    <button id="lyrics-mode-toggle" class="sync-btn active">Line-by-Line</button>
+                </div>
+                
+                <div id="timing-info" class="timing-info" style="display:none;">
+                    Synchronized lyrics loaded • Click lines to jump to time
+                </div>
+                
+                <div id="lyrics-content" class="lyrics-content loading">
+                    Loading lyrics...
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="audio-player" preload="metadata"></audio>
+
+    <script>
+        let audio = null;
+        let isPlaying = false;
+        let songData = null;
+        let lyricsData = null;
+        let syncEnabled = false;
+        let wordTimings = [];
+        let currentWordIndex = -1;
+
+        // Get song path from URL parameters
+        function getSongPath() {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get('path') || urlParams.get('song');
+        }
+
+        // Load song data and initialize page
+        async function initializePage() {
+            const songPath = getSongPath();
+            
+            if (!songPath) {
+                document.getElementById('song-title').textContent = 'No song specified';
+                document.getElementById('lyrics-content').textContent = 'Please provide a song path in the URL.';
+                document.getElementById('lyrics-content').className = 'lyrics-content error';
+                return;
+            }
+
+            try {
+                // Load albums data to get song info
+                const response = await fetch('albums/songs.json');
+                const data = await response.json();
+                
+                // Find the song in the data
+                let foundSong = null;
+                let foundAlbum = null;
+                
+                for (const album of data.albums) {
+                    if (album.songs) {
+                        for (const song of album.songs) {
+                            if (song.folder === songPath) {
+                                foundSong = song;
+                                foundAlbum = album;
+                                break;
+                            }
+                        }
+                    }
+                    if (foundSong) break;
+                }
+
+                if (foundSong && foundAlbum) {
+                    songData = foundSong;
+                    updatePageWithSongData(foundSong, foundAlbum);
+                } else {
+                    // Fallback: extract info from path
+                    updatePageWithPathData(songPath);
+                }
+
+                // Load audio
+                await loadAudio(songPath);
+                
+                // Load lyrics and timing data
+                await loadLyricsAndTiming(songPath);
+
+            } catch (error) {
+                console.error('Error initializing page:', error);
+                document.getElementById('song-title').textContent = 'Error loading song';
+                document.getElementById('lyrics-content').textContent = 'Error loading song data.';
+                document.getElementById('lyrics-content').className = 'lyrics-content error';
+            }
+        }
+
+        // Update page with song data from JSON
+        function updatePageWithSongData(song, album) {
+            const titleElement = document.getElementById('song-title');
+            titleElement.textContent = song.title;
+            titleElement.setAttribute('data-text', song.title);
+            
+            document.getElementById('song-album').textContent = `Album: ${album.title}`;
+            document.getElementById('song-track').textContent = `Track ${song.track}`;
+            
+            // Set album art
+            const albumArt = document.getElementById('album-art');
+            albumArt.src = `${song.folder}/art.png`;
+            albumArt.alt = `${song.title} - ${album.title}`;
+            
+            // Set download links
+            document.getElementById('mp3-link').href = `${song.folder}/song.mp3`;
+            
+            if (song.karaoke) {
+                const karaokeLink = document.getElementById('karaoke-link');
+                karaokeLink.href = `${song.folder}/${song.karaoke}`;
+                karaokeLink.style.display = 'inline-block';
+            }
+
+            // Update page title
+            updatePageTitle(song.title, album.title);
+        }
+
+        // Fallback: update page with path-derived data
+        function updatePageWithPathData(songPath) {
+            const pathParts = songPath.split('/');
+            const songFolder = pathParts[pathParts.length - 1];
+            const albumName = pathParts[pathParts.length - 2];
+            
+            // Extract track number and title from folder name
+            const match = songFolder.match(/^(\d+)_(.+)$/);
+            let trackNumber = '';
+            let songTitle = songFolder.replace(/_/g, ' ');
+            
+            if (match) {
+                trackNumber = match[1];
+                songTitle = match[2].replace(/_/g, ' ');
+            }
+            
+            const titleElement = document.getElementById('song-title');
+            titleElement.textContent = songTitle;
+            titleElement.setAttribute('data-text', songTitle);
+            
+            document.getElementById('song-album').textContent = `Album: ${albumName.replace(/_/g, ' ')}`;
+            document.getElementById('song-track').textContent = trackNumber ? `Track ${trackNumber}` : '';
+            
+            // Set album art
+            const albumArt = document.getElementById('album-art');
+            albumArt.src = `${songPath}/art.png`;
+            albumArt.alt = songTitle;
+            
+            // Set download links
+            document.getElementById('mp3-link').href = `${songPath}/song.mp3`;
+            document.getElementById('karaoke-link').href = `${songPath}/karaoke.mp3`;
+            document.getElementById('karaoke-link').style.display = 'inline-block';
+
+            // Update page title
+            updatePageTitle(songTitle, albumName.replace(/_/g, ' '));
+        }
+
+        // Load and setup audio
+        async function loadAudio(songPath) {
+            audio = document.getElementById('audio-player');
+            audio.src = `${songPath}/song.mp3`;
+            
+            audio.addEventListener('loadedmetadata', () => {
+                document.getElementById('duration').textContent = formatTime(audio.duration);
+            });
+
+            audio.addEventListener('timeupdate', () => {
+                updateProgress();
+                document.getElementById('current-time').textContent = formatTime(audio.currentTime);
+                
+                // Update synchronized lyrics
+                if (syncEnabled && wordTimings.length > 0) {
+                    updateSynchronizedLyrics(audio.currentTime);
+                }
+            });
+
+            audio.addEventListener('ended', () => {
+                isPlaying = false;
+                document.getElementById('play-btn').textContent = '▶';
+            });
+
+            // Setup volume
+            const volumeSlider = document.getElementById('volume-slider');
+            audio.volume = volumeSlider.value / 100;
+            
+            volumeSlider.addEventListener('input', () => {
+                audio.volume = volumeSlider.value / 100;
+            });
+        }
+
+        // Load lyrics and timing data
+        async function loadLyricsAndTiming(songPath) {
+            let lyricsText = '';
+            let timingData = null;
+            
+            try {
+                // Load both lyrics.txt and vocals.json
+                const [lyricsResponse, vocalsResponse] = await Promise.all([
+                    fetch(`${songPath}/lyrics.txt`),
+                    fetch(`${songPath}/vocals.json`)
+                ]);
+                
+                // Get lyrics text
+                if (lyricsResponse.ok) {
+                    lyricsText = await lyricsResponse.text();
+                    lyricsText = lyricsText.trim();
+                }
+                
+                // Get timing data
+                if (vocalsResponse.ok) {
+                    const vocalsData = await vocalsResponse.json();
+                    if (vocalsData.word_segments && vocalsData.word_segments.length > 0) {
+                        timingData = vocalsData.word_segments;
+                        lyricsData = vocalsData;
+                    }
+                }
+                
+                // If we have both, try to align them
+                if (lyricsText && timingData) {
+                    console.log('Found both lyrics and timing data - attempting alignment');
+                    wordTimings = timingData;
+                    const timingInfo = document.getElementById('timing-info');
+                    timingInfo.style.display = 'block';
+                    timingInfo.textContent = 'Synchronized lyrics with formatting • Click lines to jump to time';
+                    renderAlignedLyrics(lyricsText, timingData);
+                    
+                    // Enable sync by default when timing data is available
+                    syncEnabled = true;
+                    const syncBtn = document.getElementById('sync-toggle');
+                    syncBtn.textContent = 'Disable Sync';
+                    syncBtn.classList.add('active');
+                    
+                    return;
+                }
+                
+                // If we only have timing data, use original method
+                if (timingData) {
+                    console.log('Found timing data only');
+                    wordTimings = timingData;
+                    document.getElementById('timing-info').style.display = 'block';
+                    renderSynchronizedLyrics();
+                    
+                    // Enable sync by default when timing data is available
+                    syncEnabled = true;
+                    const syncBtn = document.getElementById('sync-toggle');
+                    syncBtn.textContent = 'Disable Sync';
+                    syncBtn.classList.add('active');
+                    
+                    return;
+                }
+                
+                // Fallback to regular lyrics only
+                if (lyricsText) {
+                    console.log('Found lyrics only - no timing data');
+                    document.getElementById('lyrics-content').textContent = lyricsText;
+                    document.getElementById('lyrics-content').className = 'lyrics-content';
+                    
+                    // Hide sync controls if no timing data
+                    document.querySelector('.sync-controls').style.display = 'none';
+                } else {
+                    document.getElementById('lyrics-content').textContent = 'Lyrics not available for this song.';
+                    document.getElementById('lyrics-content').className = 'lyrics-content error';
+                }
+            } catch (error) {
+                document.getElementById('lyrics-content').textContent = 'Error loading lyrics.';
+                document.getElementById('lyrics-content').className = 'lyrics-content error';
+                console.error('Error loading lyrics:', error);
+            }
+        }
+
+        // Align formatted lyrics with timing data (line-by-line)
+        function renderAlignedLyrics(lyricsText, timingData) {
+            const lyricsContainer = document.getElementById('lyrics-content');
+            lyricsContainer.innerHTML = '';
+            lyricsContainer.className = 'lyrics-content';
+
+            console.log(`Aligning formatted lyrics with ${timingData.length} timing entries`);
+            
+            // Split lyrics into lines
+            const lines = lyricsText.split('\n');
+            let timingIndex = 0;
+            let lineElements = [];
+
+            lines.forEach((line, lineIndex) => {
+                const lineElement = document.createElement('div');
+                
+                if (line.trim() === '') {
+                    // Empty line for spacing
+                    lineElement.className = 'lyrics-line empty future';
+                    lineElement.innerHTML = '&nbsp;';
+                } else {
+                    lineElement.className = 'lyrics-line future';
+                    lineElement.textContent = line;
+                    
+                    // Find timing data for this line by matching words
+                    const lineWords = line.toLowerCase().match(/\b\w+\b/g) || [];
+                    let lineStartTime = null;
+                    let lineEndTime = null;
+                    
+                    if (lineWords.length > 0) {
+                        // Find start time from first word match
+                        for (let i = timingIndex; i < Math.min(timingIndex + 20, timingData.length); i++) {
+                            const timingWord = normalizeWord(timingData[i].word);
+                            const firstLineWord = normalizeWord(lineWords[0]);
+                            
+                            if (wordSimilarity(timingWord, firstLineWord) > 0.7) {
+                                lineStartTime = timingData[i].start;
+                                timingIndex = i;
+                                break;
+                            }
+                        }
+                        
+                        // Find end time by looking for words from this line
+                        if (lineStartTime !== null) {
+                            let wordsFound = 0;
+                            for (let i = timingIndex; i < Math.min(timingIndex + 30, timingData.length); i++) {
+                                const timingWord = normalizeWord(timingData[i].word);
+                                
+                                // Check if this timing word matches any word in the current line
+                                for (const lineWord of lineWords) {
+                                    if (wordSimilarity(timingWord, normalizeWord(lineWord)) > 0.7) {
+                                        lineEndTime = timingData[i].end;
+                                        wordsFound++;
+                                        break;
+                                    }
+                                }
+                                
+                                // If we've found most words in the line, stop looking
+                                if (wordsFound >= Math.min(lineWords.length, 3)) {
+                                    timingIndex = i + 1;
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                    
+                    if (lineStartTime !== null && lineEndTime !== null) {
+                        lineElement.setAttribute('data-start', lineStartTime);
+                        lineElement.setAttribute('data-end', lineEndTime);
+                        
+                        // Add click handler to jump to line start
+                        lineElement.addEventListener('click', () => {
+                            if (audio) {
+                                console.log(`Jumping to line start: ${lineStartTime}`);
+                                audio.currentTime = lineStartTime;
+                            }
+                        });
+                    } else {
+                        // No timing data found for this line
+                        lineElement.style.opacity = '0.7';
+                    }
+                }
+                
+                lineElements.push(lineElement);
+                lyricsContainer.appendChild(lineElement);
+            });
+            
+            // Store line elements for synchronization
+            window.lyricsLines = lineElements;
+            console.log(`Created ${lineElements.length} line elements for synchronization`);
+        }
+
+        // Normalize words for comparison
+        function normalizeWord(word) {
+            return word.toLowerCase()
+                       .replace(/[^\w]/g, '') // Remove punctuation
+                       .replace(/'/g, ''); // Remove apostrophes
+        }
+
+        // Calculate word similarity (simple Levenshtein-based)
+        function wordSimilarity(word1, word2) {
+            if (word1 === word2) return 1.0;
+            if (word1.length === 0 || word2.length === 0) return 0;
+            
+            // Check if one word contains the other
+            if (word1.includes(word2) || word2.includes(word1)) {
+                return Math.max(word2.length / word1.length, word1.length / word2.length);
+            }
+            
+            // Simple character overlap scoring
+            const chars1 = new Set(word1);
+            const chars2 = new Set(word2);
+            const intersection = new Set([...chars1].filter(x => chars2.has(x)));
+            const union = new Set([...chars1, ...chars2]);
+            
+            return intersection.size / union.size;
+        }
+
+        // Render synchronized lyrics with word timings (fallback method)
+        function renderSynchronizedLyrics() {
+            const lyricsContainer = document.getElementById('lyrics-content');
+            lyricsContainer.innerHTML = '';
+            lyricsContainer.className = 'lyrics-content';
+
+            console.log(`Rendering ${wordTimings.length} words for synchronization`);
+
+            wordTimings.forEach((wordData, index) => {
+                const wordElement = document.createElement('span');
+                wordElement.className = 'lyrics-word future';
+                wordElement.textContent = wordData.word;
+                wordElement.setAttribute('data-index', index);
+                wordElement.setAttribute('data-start', wordData.start);
+                wordElement.setAttribute('data-end', wordData.end);
+                
+                // Add click handler to jump to time
+                wordElement.addEventListener('click', () => {
+                    if (audio) {
+                        console.log(`Jumping to time: ${wordData.start}`);
+                        audio.currentTime = wordData.start;
+                    }
+                });
+
+                lyricsContainer.appendChild(wordElement);
+                
+                // Add space after word (except for punctuation)
+                if (!wordData.word.match(/[.,!?;:]$/)) {
+                    lyricsContainer.appendChild(document.createTextNode(' '));
+                }
+            });
+            
+            console.log(`Sync enabled: ${syncEnabled}`);
+        }
+
+        // Update synchronized lyrics highlighting (line-by-line)
+        function updateSynchronizedLyrics(currentTime) {
+            const lines = document.querySelectorAll('.lyrics-line');
+            if (lines.length === 0) return;
+            
+            let newCurrentLineIndex = -1;
+            let foundCurrent = false;
+
+            lines.forEach((lineElement, index) => {
+                const start = parseFloat(lineElement.getAttribute('data-start'));
+                const end = parseFloat(lineElement.getAttribute('data-end'));
+                
+                // Skip empty lines or lines without timing
+                if (isNaN(start) || isNaN(end)) {
+                    return;
+                }
+                
+                // Remove all classes
+                lineElement.classList.remove('current', 'past', 'future');
+                
+                if (currentTime >= start && currentTime <= end && !foundCurrent) {
+                    lineElement.classList.add('current');
+                    newCurrentLineIndex = index;
+                    foundCurrent = true;
+                } else if (currentTime > end) {
+                    lineElement.classList.add('past');
+                } else {
+                    lineElement.classList.add('future');
+                }
+            });
+
+            // Auto-scroll to current line
+            if (newCurrentLineIndex !== currentWordIndex && newCurrentLineIndex >= 0) {
+                currentWordIndex = newCurrentLineIndex;
+                const currentLine = lines[newCurrentLineIndex];
+                if (currentLine) {
+                    currentLine.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'center'
+                    });
+                }
+            }
+        }
+
+        // Toggle synchronized lyrics
+        function toggleSync() {
+            const syncBtn = document.getElementById('sync-toggle');
+            
+            if (wordTimings.length === 0) {
+                alert('No timing data available for this song');
+                return;
+            }
+
+            syncEnabled = !syncEnabled;
+            
+            if (syncEnabled) {
+                syncBtn.textContent = 'Disable Sync';
+                syncBtn.classList.add('active');
+                renderSynchronizedLyrics();
+            } else {
+                syncBtn.textContent = 'Enable Sync';
+                syncBtn.classList.remove('active');
+                // Clear current highlighting
+                document.querySelectorAll('.lyrics-line').forEach(line => {
+                    line.classList.remove('current', 'past');
+                    line.classList.add('future');
+                });
+            }
+        }
+
+        // Audio control functions
+        function togglePlay() {
+            if (isPlaying) {
+                audio.pause();
+                document.getElementById('play-btn').textContent = '▶';
+            } else {
+                audio.play();
+                document.getElementById('play-btn').textContent = '⏸';
+            }
+            isPlaying = !isPlaying;
+        }
+
+        function updateProgress() {
+            if (audio.duration) {
+                const progress = (audio.currentTime / audio.duration) * 100;
+                document.getElementById('progress-bar').style.width = progress + '%';
+            }
+        }
+
+        function setProgress(e) {
+            if (audio.duration) {
+                const rect = e.target.getBoundingClientRect();
+                const percent = (e.clientX - rect.left) / rect.width;
+                audio.currentTime = percent * audio.duration;
+            }
+        }
+
+        function formatTime(seconds) {
+            if (isNaN(seconds)) return '0:00';
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        // Update page title when song loads
+        function updatePageTitle(songTitle, albumTitle) {
+            document.title = `${songTitle} - ${albumTitle} | The Suicidal Kennedy's`;
+        }
+
+        // Event listeners
+        document.addEventListener('DOMContentLoaded', () => {
+            initializePage();
+            
+            document.getElementById('play-btn').addEventListener('click', togglePlay);
+            document.getElementById('progress-container').addEventListener('click', setProgress);
+            document.getElementById('sync-toggle').addEventListener('click', toggleSync);
+            
+            // Keyboard shortcuts
+            document.addEventListener('keydown', (e) => {
+                if (e.code === 'Space' && e.target.tagName !== 'INPUT') {
+                    e.preventDefault();
+                    togglePlay();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
