@@ -208,8 +208,8 @@
 
     function animateJaw(open) {
       jaw.style.transform = open ? "translateY(15px)" : "translateY(0px)";
-      jaw2.style.transform = open ? "rotate(-8deg)" : "rotate(0deg)";
-      jaw3.style.transform = open ? "rotate(-8deg)" : "rotate(0deg)";
+      jaw2.style.transform = open ? "rotate(-10deg)" : "rotate(0deg)";
+      jaw3.style.transform = open ? "rotate(-10deg)" : "rotate(0deg)";
       jaw4.style.transform = open ? "translateY(15px)" : "translateY(0px)";
     }
 
@@ -217,6 +217,7 @@
       currentSkull = (currentSkull + 1) % 4;
       document.querySelector(".show").classList.remove("show");
       document.querySelector(`#skull-container${currentSkull}`).classList.add("show");
+      document.querySelector(`.skull-wrap`).style.rotate = (Math.floor(Math.random() * 16) - 8) + 'deg';
       mic.className = `pos${currentSkull}`;
       setTimeout(switchSkulls, Math.floor(Math.random() * 10000) + 2000);
     }
@@ -244,7 +245,7 @@
           });
 
           let current = 0;
-          audio = new Audio(`${currentSongFolder}/song.ogg`);
+          audio = new Audio(`${currentSongFolder}/song.mp3`);
           audio.play();
 
           function tick() {

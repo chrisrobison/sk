@@ -463,6 +463,194 @@
             80% { transform: translate(1px, -1px); }
             90% { transform: translate(-1px, -1px); }
         }
+
+        .albums-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .album-card {
+            background: linear-gradient(135deg, rgba(255,0,0,0.1), rgba(0,0,0,0.9));
+            border: 2px solid #ff0000;
+            border-radius: 10px;
+            padding: 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .album-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,0,0,0.1), transparent);
+            transform: rotate(45deg);
+            transition: transform 0.6s ease;
+        }
+
+        .album-card:hover::before {
+            transform: rotate(45deg) translate(50%, 50%);
+        }
+
+        .album-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 15px 30px rgba(255,0,0,0.3);
+            border-color: #ff3333;
+        }
+
+        .album-cover-img {
+            width: 200px;
+            height: 200px;
+            border-radius: 8px;
+            margin: 0 auto 20px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+            transition: transform 0.3s ease;
+            position: relative;
+            z-index: 1;
+        }
+
+        .album-card:hover .album-cover-img {
+            transform: scale(1.05) rotate(2deg);
+        }
+
+        .album-title {
+            font-size: 1.8rem;
+            color: #ff0000;
+            margin-bottom: 15px;
+            font-family: 'Creepster', cursive;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+            position: relative;
+            z-index: 1;
+        }
+
+        .album-song-count {
+            color: #ccc;
+            font-size: 1rem;
+            margin-bottom: 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .album-btn {
+            background: linear-gradient(45deg, #ff0000, #cc0000);
+            color: #fff;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+        }
+
+        .album-btn:hover {
+            background: linear-gradient(45deg, #cc0000, #990000);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255,0,0,0.4);
+        }
+
+        .dynamic-tracklist {
+            background: #1a1a1a;
+            margin-top: 40px;
+            padding: 40px 0;
+            border-radius: 10px;
+            border: 1px solid #333;
+        }
+
+        .album-tracks-section {
+            margin-bottom: 50px;
+        }
+
+        .album-tracks-title {
+            text-align: center;
+            font-size: 2.2rem;
+            color: #ff0000;
+            margin-bottom: 30px;
+            font-family: 'Creepster', cursive;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+        }
+
+        .track-with-audio {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 15px 20px;
+            background: rgba(255,0,0,0.1);
+            border-left: 4px solid #ff0000;
+            margin-bottom: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .track-with-audio:hover {
+            background: rgba(255,0,0,0.2);
+            transform: translateX(10px);
+        }
+
+        .track-info {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+        }
+
+        .track-controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .play-btn {
+            background: #ff0000;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 35px;
+            height: 35px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+
+        .play-btn:hover {
+            background: #cc0000;
+            transform: scale(1.1);
+        }
+
+        .audio-links {
+            display: flex;
+            gap: 8px;
+        }
+
+        .audio-link {
+            background: rgba(255,255,255,0.1);
+            color: #ccc;
+            padding: 4px 8px;
+            border-radius: 3px;
+            text-decoration: none;
+            font-size: 0.8rem;
+            transition: all 0.2s ease;
+        }
+
+        .audio-link:hover {
+            background: rgba(255,0,0,0.3);
+            color: #fff;
+        }
+
+        .track-title a:hover {
+            color: #ff0000 !important;
+            text-shadow: 0 0 8px rgba(255,0,0,0.6);
+        }
     </style>
 </head>
 <body>
@@ -475,8 +663,8 @@
             </div>
             <ul class="nav-links">
                 <li><a href="#home">Home</a></li>
-                <li><a href="#album">Album</a></li>
-                <li><a href="#tracks">Tracks</a></li>
+                <li><a href="#album">Albums</a></li>
+                <li><a href="#tracks">All Tracks</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -486,127 +674,30 @@
     <section id="home" class="hero">
         <div class="hero-content container">
             <div class="skull-logo">
-                <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-                    <!-- Skull with Kennedy hair and sunglasses -->
-                    <circle cx="200" cy="200" r="180" fill="none" stroke="#fff" stroke-width="4"/>
-                    <!-- Hair -->
-                    <path d="M80 120 Q200 60 320 120 Q280 100 240 110 Q200 90 160 110 Q120 100 80 120" fill="#333"/>
-                    <!-- Skull face -->
-                    <ellipse cx="200" cy="200" rx="120" ry="140" fill="#fff"/>
-                    <!-- Sunglasses -->
-                    <rect x="120" y="160" width="160" height="40" rx="20" fill="#000"/>
-                    <circle cx="150" cy="180" r="25" fill="#000"/>
-                    <circle cx="250" cy="180" r="25" fill="#000"/>
-                    <!-- Nose hole -->
-                    <path d="M200 200 L190 230 L210 230 Z" fill="#000"/>
-                    <!-- Mouth/teeth -->
-                    <rect x="160" y="250" width="80" height="30" fill="#000"/>
-                    <rect x="165" y="250" width="8" height="30" fill="#fff"/>
-                    <rect x="177" y="250" width="8" height="30" fill="#fff"/>
-                    <rect x="189" y="250" width="8" height="30" fill="#fff"/>
-                    <rect x="201" y="250" width="8" height="30" fill="#fff"/>
-                    <rect x="213" y="250" width="8" height="30" fill="#fff"/>
-                    <rect x="225" y="250" width="8" height="30" fill="#fff"/>
-                    <!-- Text around circle -->
-                    <path id="circle-text" d="M 200,200 m -180,0 a 180,180 0 1,1 360,0 a 180,180 0 1,1 -360,0" fill="none"/>
-                    <text fill="#fff" font-family="Arial Black" font-size="24" font-weight="bold">
-                        <textPath href="#circle-text">THE SUICIDAL KENNEDY'S</textPath>
-                    </text>
-                </svg>
+                <img src="/img/sk-emblem2.png" width="500">
             </div>
-            <h1 class="glitch" data-text="PATRIOT ACT UP! & AMERICAN IDLE">PATRIOT ACT UP! & AMERICAN IDLE</h1>
-            <p>Fast, furious and unapologetically political punk rock. Two records, endless rage.</p>
-            <a href="#tracks" class="btn">See Tracklists</a>
+            <h1 class="glitch" data-text="THE SUICIDAL KENNEDY'S">THE SUICIDAL KENNEDY'S</h1>
+            <p>Fast, furious and unapologetically political punk rock. <br>Four albums of pure rebellion (and we're working on more!)</p>
+            <a href="#album" class="btn">Explore Albums</a>
         </div>
     </section>
 
     <section id="album" class="album-section">
         <div class="container">
-            <div class="album-content">
-                <div class="album-info">
-                    <h2>PATRIOT ACT UP!</h2>
-                    <p>Our debut album combines blistering punk energy with sharp political commentary. Fast riffs, catchy hooks, and lyrics that cut straight to the bone of contemporary issues.</p>
-                    <p>17 tracks of pure rebellion against the status quo, featuring everything from breakneck speedcore to anthemic singalongs that'll stick in your head for days.</p>
-                    <a href="#tracks" class="btn">View Full Tracklist</a>
-                </div>
-                <div class="album-cover">
-                    <div style="position: relative; z-index: 2; margin-bottom: 0px;">
-                        <img src="img/Patriot_Act_Up_art.png" width="200" height="200">
-                    </div>
-                </div>
+            <h2 style="text-align: center; font-size: 3rem; color: #ff0000; margin-bottom: 50px; font-family: 'Creepster', cursive;">OUR ALBUMS</h2>
+            <div id="albums-grid" class="albums-grid">
+                <!-- Albums will be loaded dynamically -->
             </div>
         </div>
     </section>
 
     <section id="tracks" class="tracklist">
         <div class="container">
-            <h2>PATRIOT ACT UP!</h2>
-            <div class="tracks">
-                <div class="track"><span class="track-number">01.</span> <span class="track-title">Dept. of Ignorance</span><span class="track-time">2:52</span></div>
-                <div class="track"><span class="track-number">02.</span> <span class="track-title">Tariff Terror</span><span class="track-time">2:08</span></div>
-                <div class="track"><span class="track-number">03.</span> <span class="track-title">Democracy's on Fire</span><span class="track-time">2:20</span></div>
-                <div class="track"><span class="track-number">04.</span> <span class="track-title">Zombie Congressmen</span><span class="track-time">2:50</span></div>
-                <div class="track"><span class="track-number">05.</span> <span class="track-title">State of Resistance</span><span class="track-time">2:15</span></div>
-                <div class="track"><span class="track-number">06.</span> <span class="track-title">Ghost Towns Row by Row</span><span class="track-time">2:25</span></div>
-                <div class="track"><span class="track-number">07.</span> <span class="track-title">Amendment 22</span><span class="track-time">1:37</span></div>
-                <div class="track"><span class="track-number">08.</span> <span class="track-title">Big Beautiful Bill</span><span class="track-time">2:12</span></div>
-                <div class="track"><span class="track-number">09.</span> <span class="track-title">Moron Parade</span><span class="track-time">2:15</span></div>
-                <div class="track"><span class="track-number">10.</span> <span class="track-title">Technocratic Descent</span><span class="track-time">2:23</span></div>
-                <div class="track"><span class="track-number">11.</span> <span class="track-title">Circlin' the Drain in a Limousine</span><span class="track-time">2:28</span></div>
-                <div class="track"><span class="track-number">12.</span> <span class="track-title">Trade War (For Money)</span><span class="track-time">1:35</span></div>
-                <div class="track"><span class="track-number">13.</span> <span class="track-title">Executive Day</span><span class="track-time">1:59</span></div>
-                <div class="track"><span class="track-number">14.</span> <span class="track-title">Getting the Musk Out</span><span class="track-time">2:55</span></div>
+            <h2 style="text-align: center; margin-bottom: 40px;">ALL TRACKS</h2>
+            <div id="dynamic-tracklist" class="dynamic-tracklist">
+                <!-- Tracks will be loaded dynamically -->
             </div>
-
-            <h2 style="margin-top:60px;">AMERICAN IDLE</h2>
-            <div class="tracks">
-                <div class="track"><span class="track-number">01.</span> <span class="track-title">Howl</span><span class="track-time">2:23</span></div>
-                <div class="track"><span class="track-number">02.</span> <span class="track-title">Swipe Left on Reality</span><span class="track-time">2:13</span></div>
-                <div class="track"><span class="track-number">03.</span> <span class="track-title">Empty Storefronts</span><span class="track-time">2:24</span></div>
-                <div class="track"><span class="track-number">04.</span> <span class="track-title">The Caulk Song</span><span class="track-time">2:17</span></div>
-                <div class="track"><span class="track-number">05.</span> <span class="track-title">Proposition K</span><span class="track-time">2:19</span></div>
-                <div class="track"><span class="track-number">06.</span> <span class="track-title">Two Day Hangover (Used to Be One)</span><span class="track-time">2:40</span></div>
-                <div class="track"><span class="track-number">07.</span> <span class="track-title">Punk With Benefits</span><span class="track-time">2:22</span></div>
-                <div class="track"><span class="track-number">08.</span> <span class="track-title">Great Highway to Nowhere</span><span class="track-time">2:26</span></div>
-                <div class="track"><span class="track-number">09.</span> <span class="track-title">Cooler Online</span><span class="track-time">3:04</span></div>
-                <div class="track"><span class="track-number">10.</span> <span class="track-title">Bored of Education</span><span class="track-time">2:21</span></div>
-                <div class="track"><span class="track-number">11.</span> <span class="track-title">Truth Decay</span><span class="track-time">2:58</span></div>
-                <div class="track"><span class="track-number">12.</span> <span class="track-title">Skatepark Nostalgia</span><span class="track-time">3:08</span></div>
-            </div>
-            
-            <h2 style="margin-top:60px;">Still Not Famous</h2>
-            <div class="tracks">
-                <div class="track"><span class="track-number">01.</span> <span class="track-title">Yesterday's Meme</span><span class="track-time">2:15</span></div>
-                <div class="track"><span class="track-number">02.</span> <span class="track-title">Speed Check, Don't Wreck</span><span class="track-time">2:20</span></div>
-                <div class="track"><span class="track-number">03.</span> <span class="track-title">Agree Then Regret</span><span class="track-time">2:13</span></div>
-                <div class="track"><span class="track-number">04.</span> <span class="track-title">Straight Shooter, Can't Shoot Straight</span><span class="track-time">2:13</span></div>
-                <div class="track"><span class="track-number">05.</span> <span class="track-title">DNR Me</span><span class="track-time">2:16</span></div>
-                <div class="track"><span class="track-number">06.</span> <span class="track-title">Plastic Chair Kings</span><span class="track-time">2:19</span></div>
-                <div class="track"><span class="track-number">07.</span> <span class="track-title">401(k) Hole</span><span class="track-time">2:10</span></div>
-                <div class="track"><span class="track-number">08.</span> <span class="track-title">Punk is Dead! Long Live Punk!</span><span class="track-time">2:32</span></div>
-                <div class="track"><span class="track-number">09.</span> <span class="track-title">Death &amp; Taxes &amp; Me</span><span class="track-time">2:20</span></div>
-                <div class="track"><span class="track-number">10.</span> <span class="track-title">Still Not Famous</span><span class="track-time">3:12</span></div>
-                <div class="track"><span class="track-number">11.</span> <span class="track-title">State of Delusion</span><span class="track-time">2:22</span></div>
-                <div class="track"><span class="track-number">12.</span> <span class="track-title">50 Shades of Red, White &amp; Blue</span><span class="track-time">2:18</span></div>
-                <div class="track"><span class="track-number">13.</span> <span class="track-title">Can We Eat?!</span><span class="track-time">2:32</span></div>
-            </div>
-            
-            <h2 style="margin-top:60px;">Algorithm Nation</h2>
-            <div class="tracks">
-                <div class="track"><span class="track-number">01.</span> <span class="track-title">The List That Doesn't Exist</span><span class="track-time">2:27</span></div>
-                <div class="track"><span class="track-number">02.</span> <span class="track-title">404: Job Not Found</span><span class="track-time">1:35</span></div>
-                <div class="track"><span class="track-number">03.</span> <span class="track-title">Algorithm Nation</span><span class="track-time">2:21</span></div>
-                <div class="track"><span class="track-number">04.</span> <span class="track-title">No Child Left Unarmed</span><span class="track-time">2:36</span></div>
-                <div class="track"><span class="track-number">05.</span> <span class="track-title">Living Statues</span><span class="track-time">2:11</span></div>
-                <div class="track"><span class="track-number">06.</span> <span class="track-title">Harder To Fix</span><span class="track-time">1:51</span></div>
-                <div class="track"><span class="track-number">07.</span> <span class="track-title">Grift of the Union</span><span class="track-time">2:10</span></div>
-                <div class="track"><span class="track-number">08.</span> <span class="track-title">Late Stage Everything</span><span class="track-time">2:21</span></div>
-                <div class="track"><span class="track-number">09.</span> <span class="track-title">Just Us For All</span><span class="track-time">2:19</span></div>
-                <div class="track"><span class="track-number">10.</span> <span class="track-title">Woo Girls</span><span class="track-time">3:12</span></div>
-                <div class="track"><span class="track-number">11.</span> <span class="track-title">Two Dogs, One Leash</span><span class="track-time">1:38</span></div>
-                <div class="track"><span class="track-number">12.</span> <span class="track-title">Thanks, Man</span><span class="track-time">2:14</span></div>
-            </div>
-          </div>
+        </div>
     </section>
 
     <section id="about" class="about">
@@ -626,13 +717,14 @@
             </div>
             
             <p>Drawing inspiration from classic punk pioneers while addressing today's political chaos, we create music that makes you want to dance, think, and maybe start a revolution.</p>
-            <p>Currently recording our debut album "Patriot Act Up!" - 17 tracks of pure punk fury that tackle everything from political corruption to social media dystopia.</p>
+            <p>With 5 full albums of blistering punk fury - featuring "Algorithm Nation", "American Idle", "Patriot Act Up!", "Still Not Famous", and "Malicious Compliance" - we tackle everything from tech dystopia to political corruption with fast riffs and raw energy.</p>
             
             <div class="social-links">
-                <a href="#" class="social-link">Spotify</a>
+                <a href="https://open.spotify.com/artist/6apNjwh0o3fEK2XGVDhBIX?si=ogjmLKEnTJOpiT-7tmtOsg" target="_blank" class="social-link">Spotify</a>
                 <a href="https://www.youtube.com/@SuicidalKennedys" target="_blank" class="social-link">YouTube</a>
                 <a href="https://thesuicidalkennedys.bandcamp.com/" target="_blank" class="social-link">Bandcamp</a>
                 <a href="https://www.instagram.com/thesuicidalkennedys1/" target="_blank" class="social-link">Instagram</a>
+                <a href="https://soundcloud.com/the-suicidal-kennedys" target="_blank" class="social-link">Soundcloud</a>
                 <a href="/shows" class="social-link">Shows</a>
             </div>
         </div>
@@ -645,14 +737,168 @@
                     <img src="img/sk-emblem2.png" height="100">
                 </div>
                 <p>&copy; 2025 The Suicidal Kennedy's. All rights reserved.</p>
-                <p>For booking and press inquiries: <strong>contact@suicidalkennedys.com</strong></p>
+                <p>For booking and press inquiries: <strong>contact@thesuicidalkennedys.com</strong></p>
             </div>
         </div>
     </footer>
 
     <script>
+        let albumsData = null;
+        let currentAudio = null;
+
+        // Load albums data
+        async function loadAlbumsData() {
+            try {
+                const response = await fetch('albums/songs.json');
+                const data = await response.json();
+                albumsData = data.albums;
+                renderAlbums();
+                renderAllTracks();
+            } catch (error) {
+                console.error('Error loading albums data:', error);
+            }
+        }
+
+        // Render album cards
+        function renderAlbums() {
+            const albumsGrid = document.getElementById('albums-grid');
+            albumsGrid.innerHTML = '';
+
+            albumsData.forEach(album => {
+                const albumCard = document.createElement('div');
+                albumCard.className = 'album-card';
+                
+                const songCount = album.songs ? album.songs.length : 0;
+                
+                albumCard.innerHTML = `
+                    <img src="${album.path}/art.png" alt="${album.title}" class="album-cover-img" 
+                         onerror="this.src='img/sk-emblem2.png'">
+                    <h3 class="album-title">${album.title}</h3>
+                    <p class="album-song-count">${songCount} tracks</p>
+                    <button class="album-btn" onclick="showAlbumTracks('${album.title}')">View Tracks</button>
+                `;
+                
+                albumsGrid.appendChild(albumCard);
+            });
+        }
+
+        // Render all tracks
+        function renderAllTracks() {
+            const tracklistContainer = document.getElementById('dynamic-tracklist');
+            tracklistContainer.innerHTML = '';
+
+            albumsData.forEach(album => {
+                if (!album.songs || album.songs.length === 0) return;
+
+                const albumSection = document.createElement('div');
+                albumSection.className = 'album-tracks-section';
+
+                const albumTitle = document.createElement('h3');
+                albumTitle.className = 'album-tracks-title';
+                albumTitle.textContent = album.title;
+                albumSection.appendChild(albumTitle);
+
+                const tracksContainer = document.createElement('div');
+                tracksContainer.className = 'tracks';
+
+                album.songs.forEach(song => {
+                    const trackElement = document.createElement('div');
+                    trackElement.className = 'track-with-audio';
+
+                    const hasAudio = song.audio && song.audio.mp3;
+                    const audioPath = hasAudio ? `${song.folder}/${song.audio.mp3}` : null;
+
+                    trackElement.innerHTML = `
+                        <div class="track-info">
+                            <span class="track-number">${song.track.padStart(2, '0')}.</span>
+                            <span class="track-title">
+                                <a href="song.html?path=${encodeURIComponent(song.folder)}" 
+                                   style="color: inherit; text-decoration: none;">
+                                    ${song.title}
+                                </a>
+                            </span>
+                        </div>
+                        <div class="track-controls">
+                            ${hasAudio ? `
+                                <button class="play-btn" onclick="togglePlay('${audioPath}', this)" title="Play/Pause">
+                                    ▶
+                                </button>
+                            ` : ''}
+                            <div class="audio-links">
+                                <a href="song.html?path=${encodeURIComponent(song.folder)}" class="audio-link">Song Page</a>
+                                ${hasAudio ? `<a href="${audioPath}" class="audio-link" target="_blank">MP3</a>` : ''}
+                                ${song.karaoke ? `<a href="${song.folder}/${song.karaoke}" class="audio-link" target="_blank">Karaoke</a>` : ''}
+                            </div>
+                        </div>
+                    `;
+
+                    tracksContainer.appendChild(trackElement);
+                });
+
+                albumSection.appendChild(tracksContainer);
+                tracklistContainer.appendChild(albumSection);
+            });
+        }
+
+        // Show tracks for specific album
+        function showAlbumTracks(albumTitle) {
+            const tracklistContainer = document.getElementById('dynamic-tracklist');
+            const albumHeaders = tracklistContainer.querySelectorAll('.album-tracks-title');
+            
+            let targetHeader = null;
+            albumHeaders.forEach(header => {
+                if (header.textContent.trim() === albumTitle) {
+                    targetHeader = header;
+                }
+            });
+
+            if (targetHeader) {
+                targetHeader.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Add highlight effect
+                const section = targetHeader.parentNode;
+                section.style.background = 'rgba(255,0,0,0.2)';
+                section.style.borderRadius = '10px';
+                section.style.padding = '20px';
+                setTimeout(() => {
+                    section.style.background = '';
+                    section.style.padding = '';
+                }, 2000);
+            }
+        }
+
+        // Audio playback functionality
+        function togglePlay(audioPath, button) {
+            if (currentAudio && !currentAudio.paused && currentAudio.src.includes(audioPath)) {
+                // Pause current audio
+                currentAudio.pause();
+                button.textContent = '▶';
+                return;
+            }
+
+            // Stop any currently playing audio
+            if (currentAudio && !currentAudio.paused) {
+                currentAudio.pause();
+                // Reset all play buttons
+                document.querySelectorAll('.play-btn').forEach(btn => btn.textContent = '▶');
+            }
+
+            // Play new audio
+            if (!currentAudio || currentAudio.src !== audioPath) {
+                currentAudio = new Audio(audioPath);
+                currentAudio.addEventListener('ended', () => {
+                    button.textContent = '▶';
+                });
+            }
+
+            currentAudio.play();
+            button.textContent = '⏸';
+        }
+
         // Add some interactive effects
         document.addEventListener('DOMContentLoaded', function() {
+            // Load albums data
+            loadAlbumsData();
+
             // Smooth scrolling for navigation links
             const navLinks = document.querySelectorAll('a[href^="#"]');
             navLinks.forEach(link => {
@@ -668,27 +914,25 @@
                 });
             });
 
-            // Add click effects to tracks
-            const tracks = document.querySelectorAll('.track');
-            tracks.forEach(track => {
-                track.addEventListener('click', function() {
-                    this.style.background = 'rgba(255,0,0,0.3)';
-                    setTimeout(() => {
-                        this.style.background = 'rgba(255,0,0,0.1)';
-                    }, 200);
-                });
-            });
-
             // Random glitch effect trigger
             setInterval(() => {
                 const glitchElements = document.querySelectorAll('.glitch');
                 const randomElement = glitchElements[Math.floor(Math.random() * glitchElements.length)];
-                randomElement.style.animation = 'none';
-                setTimeout(() => {
-                    randomElement.style.animation = '';
-                }, 100);
+                if (randomElement) {
+                    randomElement.style.animation = 'none';
+                    setTimeout(() => {
+                        randomElement.style.animation = '';
+                    }, 100);
+                }
             }, 3000);
         });
+
+        // Helper function for contains selector (for older browsers)
+        if (!Element.prototype.contains) {
+            Element.prototype.contains = function(other) {
+                return this.compareDocumentPosition(other) & 16;
+            };
+        }
     </script>
 </body>
 </html>

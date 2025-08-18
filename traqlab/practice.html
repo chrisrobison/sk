@@ -29,6 +29,10 @@
     .time{font-family:ui-monospace, SFMono-Regular, Menlo, monospace;opacity:.8}
     .grid{display:grid;gap:.5rem;padding:.75rem}
     .stem{display:flex;gap:.5rem;align-items:center;padding:.5rem;border-radius:12px;background:#121215;border:1px solid #222}
+    .stem.full-song{background:#1a1a2e;border:1px solid #16213e}
+    .stem.full-song h4{color:#8af;font-weight:600}
+    .stem.inactive{opacity:0.4;pointer-events:none}
+    .stem.inactive .wave{filter:grayscale(1)}
     .stem h4{margin:0;font-size:.95rem}
     .stem .btns{display:flex;gap:.4rem;flex-wrap:wrap}
     .stemctl { display: flex; }
@@ -37,13 +41,21 @@
     .footer{padding:.75rem;color:#aaa;font-size:.85rem}
     .tag{font-size:.7rem;background:#202026;border:1px solid #2b2b33;border-radius:999px;padding:.2rem .45rem;color:#b8b8c4}
     details{width:100%}
-    summary{cursor:pointer;list-style:none}
-    summary::-webkit-details-marker{display:none}
-    .fxpanel{display:grid;gap:.4rem;grid-template-columns:repeat(3,minmax(0,1fr));padding:.5rem;margin-top:.4rem;background:#0e0e12;border:1px solid #23232a;border-radius:10px}
+    summary{cursor:pointer;}
+    .fxpanel{display:flex;gap:.4rem;padding:.5rem;margin-top:.4rem;background:#0e0e12;border:1px solid #23232a;border-radius:10px}
+    .fxpanel fieldset{border:1px solid #2b2b33;border-radius:8px;margin:0;padding:.4rem;background:#0a0a0d;flex:1;display:flex;flex-direction:column}
+    .fxpanel legend{color:#9aa3b2;font-size:.7rem;padding:0 .3rem}
+    .fxpanel .fieldset-content{display:flex;flex-direction:column;gap:.4rem;align-items:center}
     .fxpanel label{display:block;font-size:.75rem;color:#9aa3b2}
     .fxpanel .row{align-items:center}
     .fxpanel input[type="range"]{height:28px}
     .fxpanel fx-knob{justify-self:center}
+    /* LED indicators */
+    .led{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.3rem;transition:all 0.2s ease}
+    .led.red{background:#ff4444;box-shadow:0 0 4px rgba(255,68,68,0.6)}
+    .led.red.dim{background:#441111;box-shadow:none}
+    .led.blue{background:#4488ff;box-shadow:0 0 4px rgba(68,136,255,0.6)}
+    .led.blue.dim{background:#111144;box-shadow:none}
     .fxhead{display:flex;gap:.5rem;align-items:center}
     .fxreset{justify-self:end}
     .analysis{display:grid;gap:.5rem;padding:.75rem}
@@ -71,8 +83,8 @@
     }
     fx-knob .knob-container {
       position: relative;
-      width: 40px;
-      height: 40px;
+      width: 30px;
+      height: 30px;
       user-select: none;
       touch-action: none;
     }
@@ -91,7 +103,7 @@
       left: 50%;
       top: 50%;
       width: 2px;
-      height: 16px;
+      height: 12px;
       background: #8af;
       border-radius: 2px;
       box-shadow: 0 0 4px rgba(136,170,255,.5);
@@ -140,6 +152,13 @@
             <div class="row">
               <button id="playBtn" class="primary">▶︎ Play</button>
               <button id="stopBtn" class="ghost">■ Stop</button>
+            </div>
+          </div>
+          <div style="min-width:160px">
+            <label>Audio Mode</label>
+            <div class="row">
+              <button id="fullSongMode" class="primary tiny">Full Song</button>
+              <button id="stemsMode" class="ghost tiny">Stems</button>
             </div>
           </div>
         </div>
@@ -215,6 +234,8 @@ const tabSVG = $('#tabSVG');
 const noteLog = $('#noteLog');
 const syncDot = $('#syncDot');
 const loadDot = $('#loadDot');
+const fullSongMode = $('#fullSongMode');
+const stemsMode = $('#stemsMode');
 
 let audioCtx;
 let masterGain;
@@ -223,6 +244,7 @@ let stems = []; // {name, url, media, ws, gainNode, solo, mute, source}
 let isPlaying = false;
 let duration = 0;
 let raf;
+let playbackMode = 'fullsong'; // 'fullsong' or 'stems'
 
 async function loadJSON(url){
   const r = await fetch(url, {cache:'no-cache'});
@@ -303,17 +325,24 @@ async function loadSong(song){
   analysisSource.innerHTML='';
   stems = [];
   let loaded = 0;
-  const total = (song.parts||[]).length;
+  const total = (song.parts||[]).length + 1; // +1 for full song
   loadDot.style.background = '#ffd166';
 
-  for(const part of song.parts){
+  // Add full song as first "stem" for reference
+  const fullSongPart = {
+    name: "Full_Song", 
+    stem: song.audio.mp3 || song.audio.ogg || 'song.mp3'
+  };
+  const allParts = [fullSongPart, ...song.parts];
+
+  for(const part of allParts){
     const url = `${song.folder}/${part.stem}`;
     const row = document.createElement('div');
-    row.className='stem card';
+    row.className = `stem card ${part.name === 'Full_Song' ? 'full-song' : ''}`;
     row.innerHTML = `
       <div>
       <div>
-        <h4>${part.name.replace(/_/g, ' ')}</h4>
+        <h4>${part.name.replace(/_/g, ' ')}${part.name === 'Full_Song' ? ' (Reference)' : ''}</h4>
       </div>
       <div style="display: flex;width:95vw;">
         <div class="stemctl">
@@ -325,8 +354,8 @@ async function loadSong(song){
             <div class="vtxt">100%</div>
           </div>
            <div class="btns">
-            <button class="tiny" data-act="solo">Solo</button>
-            <button class="tiny" data-act="mute">Mute</button>
+            <button class="tiny" data-act="solo"><span class="led blue dim"></span>Solo</button>
+            <button class="tiny" data-act="mute"><span class="led red dim"></span>Mute</button>
           </div>
         </div>
         <div class="wave"></div>
@@ -335,34 +364,31 @@ async function loadSong(song){
         <details>
           <summary class="tiny ghost">FX</summary>
           <div class="fxpanel">
-            <div>
-              <fx-knob min="-1" max="1" step="0.01" value="0" label="Pan" data-fx="pan"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="-60" max="0" step="1" value="-24" label="Comp Threshold" unit="dB" data-fx="compThresh"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="-12" max="12" step="0.5" value="0" label="Low EQ" unit="dB" data-fx="eqLow"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="-12" max="12" step="0.5" value="0" label="Mid EQ" unit="dB" data-fx="eqMid"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="-12" max="12" step="0.5" value="0" label="High EQ" unit="dB" data-fx="eqHigh"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="0" max="0.6" step="0.005" value="0" label="Delay Time" unit="s" data-fx="delayTime"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="0" max="0.85" step="0.01" value="0" label="Delay Feedback" data-fx="delayFb"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="0" max="1" step="0.01" value="0" label="Delay Mix" unit="%" data-fx="delayMix"></fx-knob>
-            </div>
-            <div>
-              <fx-knob min="0" max="1" step="0.01" value="0" label="Reverb Mix" unit="%" data-fx="revMix"></fx-knob>
-            </div>
-            <button class="tiny ghost fxreset" data-act="fxreset">Reset FX</button>
+            <fieldset>
+              <legend>Mix</legend>
+              <div class="fieldset-content">
+                <fx-knob min="-1" max="1" step="0.01" value="0" label="Pan" data-fx="pan"></fx-knob>
+                <fx-knob min="0" max="1" step="0.01" value="0" label="Reverb" unit="%" data-fx="revMix"></fx-knob>
+                <fx-knob min="-60" max="0" step="1" value="-24" label="Comp Thresh" unit="dB" data-fx="compThresh"></fx-knob>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend>EQ</legend>
+              <div class="fieldset-content">
+                <fx-knob min="-12" max="12" step="0.5" value="0" label="Low" unit="dB" data-fx="eqLow"></fx-knob>
+                <fx-knob min="-12" max="12" step="0.5" value="0" label="Mid" unit="dB" data-fx="eqMid"></fx-knob>
+                <fx-knob min="-12" max="12" step="0.5" value="0" label="High" unit="dB" data-fx="eqHigh"></fx-knob>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend>Delay</legend>
+              <div class="fieldset-content">
+                <fx-knob min="0" max="0.6" step="0.005" value="0" label="Time" unit="s" data-fx="delayTime"></fx-knob>
+                <fx-knob min="0" max="0.85" step="0.01" value="0" label="Feedback" data-fx="delayFb"></fx-knob>
+                <fx-knob min="0" max="1" step="0.01" value="0" label="Mix" unit="%" data-fx="delayMix"></fx-knob>
+              </div>
+            </fieldset>
+            <button class="tiny ghost fxreset" data-act="fxreset" style="position:absolute;top:.2rem;right:.2rem;padding:.2rem .4rem;font-size:.7rem;">Reset</button>
           </div>
         </details>
       </div>
@@ -477,6 +503,9 @@ async function loadSong(song){
 
   // populate analysis source list
   stems.forEach((s,i)=> analysisSource.append(new Option(s.name, i)) );
+  
+  // Set initial mode UI
+  updateModeUI();
 
   // Simple clock
   cancelAnimationFrame(raf);
@@ -539,7 +568,7 @@ function isInSync(){
 async function playAll(){
   await ensureAudio();
   
-  // Ensure all media elements are ready
+  // Play all stems to keep them synchronized
   const playPromises = stems.map(s => {
     if(!isPlaying && s.media.readyState >= 2) { // HAVE_CURRENT_DATA
       return s.media.play().catch(err => {
@@ -550,8 +579,36 @@ async function playAll(){
   });
   
   await Promise.allSettled(playPromises);
+  
+  // Apply muting based on current mode
+  updateAudioMuting();
+  
   isPlaying = true; 
   playBtn.textContent = '⏸︎ Pause';
+}
+
+function updateAudioMuting(){
+  stems.forEach(s => {
+    if(playbackMode === 'fullsong'){
+      // In full song mode: mute all stems except full song
+      s.media.muted = s.name !== 'Full_Song';
+    } else {
+      // In stems mode: mute full song, handle stems based on solo/mute
+      if(s.name === 'Full_Song'){
+        s.media.muted = true;
+      } else {
+        // Check if any stem is soloed
+        const anySolo = stems.some(stem => stem.solo && stem.name !== 'Full_Song');
+        if(anySolo){
+          // If something is soloed, mute everything except the soloed stem
+          s.media.muted = !s.solo;
+        } else {
+          // Normal mode - respect individual mute settings
+          s.media.muted = s.mute;
+        }
+      }
+    }
+  });
 }
 function pauseAll(){ stems.forEach(s=> s.media.pause()); isPlaying=false; playBtn.textContent='▶︎ Play'; }
 function stopAll(){ if(!stems.length) return; pauseAll(); seekAll(0); }
@@ -560,25 +617,82 @@ function seekAll(t){ stems.forEach(s=>{ try{s.media.currentTime = t;}catch{}}); 
 playBtn.onclick = async ()=>{ isPlaying ? pauseAll() : await playAll(); };
 stopBtn.onclick = ()=> stopAll();
 
+// Mode toggle handlers
+fullSongMode.onclick = ()=> switchMode('fullsong');
+stemsMode.onclick = ()=> switchMode('stems');
+
+function switchMode(mode){
+  playbackMode = mode;
+  updateModeUI();
+  // Instantly update muting without stopping playback
+  if(isPlaying){
+    updateAudioMuting();
+  }
+}
+
+function updateModeUI(){
+  if(playbackMode === 'fullsong'){
+    fullSongMode.className = 'primary tiny';
+    stemsMode.className = 'ghost tiny';
+  } else {
+    fullSongMode.className = 'ghost tiny';
+    stemsMode.className = 'primary tiny';
+  }
+  updateStemVisibility();
+}
+
+function updateStemVisibility(){
+  [...grid.children].forEach((row, i) => {
+    const stem = stems[i];
+    if(!stem) return;
+    
+    const shouldBeActive = (playbackMode === 'fullsong' && stem.name === 'Full_Song') ||
+                          (playbackMode === 'stems' && stem.name !== 'Full_Song');
+    
+    row.classList.toggle('inactive', !shouldBeActive);
+  });
+}
+
 function toggleSolo(name){
   const target = stems.find(s=>s.name===name);
   if(!target) return;
   const willSolo = !target.solo;
-  stems.forEach(s=>{ s.solo = false; s.media.muted = willSolo && s!==target; });
+  
+  // Only allow solo in stems mode
+  if(playbackMode !== 'stems') return;
+  
+  stems.forEach(s=>{ s.solo = false; });
   target.solo = willSolo;
-  // If turning off solo, unmute all
-  if(!willSolo){ stems.forEach(s=> s.media.muted=false); }
+  
+  // Update muting based on solo state
+  updateAudioMuting();
   refreshRows();
 }
+
 function toggleMute(name){
   const s = stems.find(x=>x.name===name);
   if(!s) return;
-  s.mute = !s.mute; s.media.muted = s.mute; refreshRows();
+  
+  // Only allow mute in stems mode for actual stems
+  if(playbackMode !== 'stems' && s.name !== 'Full_Song') return;
+  
+  s.mute = !s.mute; 
+  updateAudioMuting();
+  refreshRows();
 }
 function refreshRows(){
   [...grid.children].forEach((row,i)=>{
     const s = stems[i];
     row.classList.toggle('muted', s.media.muted || s.mute);
+    
+    // Update LED indicators
+    const soloBtn = row.querySelector('[data-act="solo"]');
+    const muteBtn = row.querySelector('[data-act="mute"]');
+    const soloLed = soloBtn?.querySelector('.led.blue');
+    const muteLed = muteBtn?.querySelector('.led.red');
+    
+    if(soloLed) soloLed.classList.toggle('dim', !s.solo);
+    if(muteLed) muteLed.classList.toggle('dim', !s.mute);
   });
 }
 
