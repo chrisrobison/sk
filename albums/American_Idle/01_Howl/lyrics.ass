@@ -1,205 +1,60 @@
 [Script Info]
-Title: Karaoke
 ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Current,Arial,24,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
-Style: Next,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,50,1
-Style: Previous,Arial,18,&H00AAAAAA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,80,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.99,0:00:02.29,Current,,0,0,0,,{\k30}[Start]
-Dialogue: 0,0:00:01.99,0:00:02.29,Next,,0,0,0,,[Guitar Intro]
-Dialogue: 0,0:00:01.99,0:00:02.29,Next,,0,0,0,,Fast and loud the strings ignite
-Dialogue: 0,0:00:01.99,0:00:02.29,Next,,0,0,0,,Running wild on Frisco nights
-Dialogue: 0,0:00:01.99,0:00:02.89,Next,,0,0,0,,[Start]
-Dialogue: 0,0:00:01.99,0:00:02.89,Current,,0,0,0,,{\k30}[Guitar {\k60}Intro]
-Dialogue: 0,0:00:01.99,0:00:02.89,Next,,0,0,0,,Fast and loud the strings ignite
-Dialogue: 0,0:00:01.99,0:00:02.89,Next,,0,0,0,,Running wild on Frisco nights
-Dialogue: 0,0:00:01.99,0:00:19.09,Next,,0,0,0,,[Start]
-Dialogue: 0,0:00:01.99,0:00:19.09,Next,,0,0,0,,[Guitar Intro]
-Dialogue: 0,0:00:01.99,0:00:19.09,Current,,0,0,0,,{\k71}Fast {\k88}and {\k393}loud {\k213}the {\k496}strings {\k157}ignite
-Dialogue: 0,0:00:01.99,0:00:19.09,Next,,0,0,0,,Running wild on Frisco nights
-Dialogue: 0,0:00:19.27,0:00:20.87,Previous,,0,0,0,,[Start]
-Dialogue: 0,0:00:19.27,0:00:20.87,Previous,,0,0,0,,[Guitar Intro]
-Dialogue: 0,0:00:19.27,0:00:20.87,Previous,,0,0,0,,Fast and loud the strings ignite
-Dialogue: 0,0:00:19.27,0:00:20.87,Current,,0,0,0,,{\k40}Running {\k21}wild {\k12}on {\k60}Frisco {\k39}nights
-Dialogue: 0,0:00:21.02,0:00:22.66,Current,,0,0,0,,{\k34}History {\k26}books {\k12}with {\k53}missing {\k1}lines
-Dialogue: 0,0:00:21.02,0:00:22.66,Next,,0,0,0,,Coyotes creeping back through time
-Dialogue: 0,0:00:21.02,0:00:22.66,Next,,0,0,0,,Never thought they'd roam again
-Dialogue: 0,0:00:21.02,0:00:22.66,Next,,0,0,0,,Past the bridge and city bends
-Dialogue: 0,0:00:22.74,0:00:24.32,Previous,,0,0,0,,History books with missing lines
-Dialogue: 0,0:00:22.74,0:00:24.32,Current,,0,0,0,,{\k30}Coyotes {\k39}creeping {\k4}back {\k26}through {\k14}time
-Dialogue: 0,0:00:22.74,0:00:24.32,Next,,0,0,0,,Never thought they'd roam again
-Dialogue: 0,0:00:22.74,0:00:24.32,Next,,0,0,0,,Past the bridge and city bends
-Dialogue: 0,0:00:24.70,0:00:26.08,Previous,,0,0,0,,History books with missing lines
-Dialogue: 0,0:00:24.70,0:00:26.08,Previous,,0,0,0,,Coyotes creeping back through time
-Dialogue: 0,0:00:24.70,0:00:26.08,Current,,0,0,0,,{\k1}Never {\k39}thought {\k60}they'd {\k12}roam {\k1}again
-Dialogue: 0,0:00:24.70,0:00:26.08,Next,,0,0,0,,Past the bridge and city bends
-Dialogue: 0,0:00:26.32,0:00:27.60,Previous,,0,0,0,,History books with missing lines
-Dialogue: 0,0:00:26.32,0:00:27.60,Previous,,0,0,0,,Coyotes creeping back through time
-Dialogue: 0,0:00:26.32,0:00:27.60,Previous,,0,0,0,,Never thought they'd roam again
-Dialogue: 0,0:00:26.32,0:00:27.60,Current,,0,0,0,,{\k4}Past {\k18}the {\k60}bridge {\k18}and {\k1}city {\k25}bends
-Dialogue: 0,0:00:27.71,0:00:29.02,Current,,0,0,0,,{\k12}We {\k29}drove {\k40}them {\k8}out {\k12}in {\k50}olden {\k14}days
-Dialogue: 0,0:00:27.71,0:00:29.02,Next,,0,0,0,,But hunger finds its modern way
-Dialogue: 0,0:00:27.71,0:00:29.02,Next,,0,0,0,,[Verse 1]
-Dialogue: 0,0:00:27.71,0:00:29.02,Next,,0,0,0,,Steel and fog, the Golden Gate
-Dialogue: 0,0:00:29.34,0:00:31.15,Previous,,0,0,0,,We drove them out in olden days
-Dialogue: 0,0:00:29.34,0:00:31.15,Current,,0,0,0,,{\k7}But {\k34}hunger {\k33}finds {\k2}its {\k7}modern {\k19}way
-Dialogue: 0,0:00:29.34,0:00:31.15,Next,,0,0,0,,[Verse 1]
-Dialogue: 0,0:00:29.34,0:00:31.15,Next,,0,0,0,,Steel and fog, the Golden Gate
-Dialogue: 0,0:00:31.15,0:00:31.75,Previous,,0,0,0,,We drove them out in olden days
-Dialogue: 0,0:00:31.15,0:00:31.75,Previous,,0,0,0,,But hunger finds its modern way
-Dialogue: 0,0:00:31.15,0:00:31.75,Current,,0,0,0,,{\k30}[Verse {\k30}1]
-Dialogue: 0,0:00:31.15,0:00:31.75,Next,,0,0,0,,Steel and fog, the Golden Gate
-Dialogue: 0,0:00:31.28,0:00:32.82,Previous,,0,0,0,,We drove them out in olden days
-Dialogue: 0,0:00:31.28,0:00:32.82,Previous,,0,0,0,,But hunger finds its modern way
-Dialogue: 0,0:00:31.28,0:00:32.82,Previous,,0,0,0,,[Verse 1]
-Dialogue: 0,0:00:31.28,0:00:32.82,Current,,0,0,0,,{\k32}Steel {\k1}and {\k4}fog, {\k19}the {\k39}Golden {\k26}Gate
-Dialogue: 0,0:00:32.91,0:00:34.33,Current,,0,0,0,,{\k30}Opened {\k41}pathways, {\k21}shifting {\k18}fate
-Dialogue: 0,0:00:32.91,0:00:34.33,Next,,0,0,0,,Through Marin, they made their claim
-Dialogue: 0,0:00:32.91,0:00:34.33,Next,,0,0,0,,Scratch the past, it’s not the same
-Dialogue: 0,0:00:32.91,0:00:34.33,Next,,0,0,0,,Lines are drawn in yards and hearts
-Dialogue: 0,0:00:34.50,0:00:35.77,Previous,,0,0,0,,Opened pathways, shifting fate
-Dialogue: 0,0:00:34.50,0:00:35.77,Current,,0,0,0,,{\k24}Through {\k8}Marin, {\k1}they {\k1}made {\k18}their {\k33}claim
-Dialogue: 0,0:00:34.50,0:00:35.77,Next,,0,0,0,,Scratch the past, it’s not the same
-Dialogue: 0,0:00:34.50,0:00:35.77,Next,,0,0,0,,Lines are drawn in yards and hearts
-Dialogue: 0,0:00:35.77,0:00:37.72,Previous,,0,0,0,,Opened pathways, shifting fate
-Dialogue: 0,0:00:35.77,0:00:37.72,Previous,,0,0,0,,Through Marin, they made their claim
-Dialogue: 0,0:00:35.77,0:00:37.72,Current,,0,0,0,,{\k30}Scratch {\k19}the {\k23}past, {\k40}it’s {\k19}not {\k11}the {\k14}same
-Dialogue: 0,0:00:35.77,0:00:37.72,Next,,0,0,0,,Lines are drawn in yards and hearts
-Dialogue: 0,0:00:37.97,0:00:39.64,Previous,,0,0,0,,Opened pathways, shifting fate
-Dialogue: 0,0:00:37.97,0:00:39.64,Previous,,0,0,0,,Through Marin, they made their claim
-Dialogue: 0,0:00:37.97,0:00:39.64,Previous,,0,0,0,,Scratch the past, it’s not the same
-Dialogue: 0,0:00:37.97,0:00:39.64,Current,,0,0,0,,{\k13}Lines {\k10}are {\k27}drawn {\k3}in {\k10}yards {\k13}and {\k1}hearts
-Dialogue: 0,0:00:39.74,0:00:41.94,Current,,0,0,0,,{\k48}Sidewalk {\k58}meetings, {\k1}dog {\k23}park {\k50}barks
-Dialogue: 0,0:00:39.74,0:00:41.94,Next,,0,0,0,,Debate in every local bar
-Dialogue: 0,0:00:39.74,0:00:41.94,Next,,0,0,0,,Are we safer or at war?
-Dialogue: 0,0:00:39.74,0:00:41.94,Next,,0,0,0,,[Chorus]
-Dialogue: 0,0:00:42.24,0:00:43.43,Previous,,0,0,0,,Sidewalk meetings, dog park barks
-Dialogue: 0,0:00:42.24,0:00:43.43,Current,,0,0,0,,{\k12}Debate {\k14}in {\k22}every {\k36}local {\k21}bar
-Dialogue: 0,0:00:42.24,0:00:43.43,Next,,0,0,0,,Are we safer or at war?
-Dialogue: 0,0:00:42.24,0:00:43.43,Next,,0,0,0,,[Chorus]
-Dialogue: 0,0:00:43.57,0:00:44.91,Previous,,0,0,0,,Sidewalk meetings, dog park barks
-Dialogue: 0,0:00:43.57,0:00:44.91,Previous,,0,0,0,,Debate in every local bar
-Dialogue: 0,0:00:43.57,0:00:44.91,Current,,0,0,0,,{\k19}Are {\k7}we {\k50}safer {\k30}or {\k30}at {\k21}war?
-Dialogue: 0,0:00:43.57,0:00:44.91,Next,,0,0,0,,[Chorus]
-Dialogue: 0,0:00:44.91,0:00:45.21,Previous,,0,0,0,,Sidewalk meetings, dog park barks
-Dialogue: 0,0:00:44.91,0:00:45.21,Previous,,0,0,0,,Debate in every local bar
-Dialogue: 0,0:00:44.91,0:00:45.21,Previous,,0,0,0,,Are we safer or at war?
-Dialogue: 0,0:00:44.91,0:00:45.21,Current,,0,0,0,,{\k30}[Chorus]
-Dialogue: 0,0:00:45.16,0:00:47.36,Current,,0,0,0,,{\k52}Out {\k36}on {\k26}the {\k1}streets {\k33}again
-Dialogue: 0,0:00:45.16,0:00:47.36,Next,,0,0,0,,Coyotes running free
-Dialogue: 0,0:00:45.16,0:00:47.36,Next,,0,0,0,,San Francisco shaking out the old history
-Dialogue: 0,0:00:45.16,0:00:47.36,Next,,0,0,0,,From Marin they came
-Dialogue: 0,0:00:47.36,0:00:49.11,Previous,,0,0,0,,Out on the streets again
-Dialogue: 0,0:00:47.36,0:00:49.11,Current,,0,0,0,,{\k30}Coyotes {\k56}running {\k9}free
-Dialogue: 0,0:00:47.36,0:00:49.11,Next,,0,0,0,,San Francisco shaking out the old history
-Dialogue: 0,0:00:47.36,0:00:49.11,Next,,0,0,0,,From Marin they came
-Dialogue: 0,0:00:49.27,0:00:52.35,Previous,,0,0,0,,Out on the streets again
-Dialogue: 0,0:00:49.27,0:00:52.35,Previous,,0,0,0,,Coyotes running free
-Dialogue: 0,0:00:49.27,0:00:52.35,Current,,0,0,0,,{\k15}San {\k37}Francisco {\k105}shaking {\k26}out {\k26}the {\k26}old {\k62}history
-Dialogue: 0,0:00:49.27,0:00:52.35,Next,,0,0,0,,From Marin they came
-Dialogue: 0,0:00:52.60,0:00:53.65,Previous,,0,0,0,,Out on the streets again
-Dialogue: 0,0:00:52.60,0:00:53.65,Previous,,0,0,0,,Coyotes running free
-Dialogue: 0,0:00:52.60,0:00:53.65,Previous,,0,0,0,,San Francisco shaking out the old history
-Dialogue: 0,0:00:52.60,0:00:53.65,Current,,0,0,0,,{\k4}From {\k39}Marin {\k31}they {\k3}came
-Dialogue: 0,0:00:53.80,0:00:55.30,Current,,0,0,0,,{\k54}Crossed {\k21}the {\k13}red {\k39}steel {\k11}frame
-Dialogue: 0,0:00:53.80,0:00:55.30,Next,,0,0,0,,Now the city splits two sides of the coyote game
-Dialogue: 0,0:00:53.80,0:00:55.30,Next,,0,0,0,,[Post-Chorus]
-Dialogue: 0,0:00:53.80,0:00:55.30,Next,,0,0,0,,Howl with the night
-Dialogue: 0,0:00:55.73,0:00:59.52,Previous,,0,0,0,,Crossed the red steel frame
-Dialogue: 0,0:00:55.73,0:00:59.52,Current,,0,0,0,,{\k23}Now {\k22}the {\k31}city {\k2}splits {\k69}two {\k39}sides {\k15}of {\k23}the {\k60}coyote {\k3}game
-Dialogue: 0,0:00:55.73,0:00:59.52,Next,,0,0,0,,[Post-Chorus]
-Dialogue: 0,0:00:55.73,0:00:59.52,Next,,0,0,0,,Howl with the night
-Dialogue: 0,0:00:59.54,0:00:59.84,Previous,,0,0,0,,Crossed the red steel frame
-Dialogue: 0,0:00:59.54,0:00:59.84,Previous,,0,0,0,,Now the city splits two sides of the coyote game
-Dialogue: 0,0:00:59.54,0:00:59.84,Current,,0,0,0,,{\k30}[Post-Chorus]
-Dialogue: 0,0:00:59.54,0:00:59.84,Next,,0,0,0,,Howl with the night
-Dialogue: 0,0:00:59.54,0:01:06.00,Previous,,0,0,0,,Crossed the red steel frame
-Dialogue: 0,0:00:59.54,0:01:06.00,Previous,,0,0,0,,Now the city splits two sides of the coyote game
-Dialogue: 0,0:00:59.54,0:01:06.00,Next,,0,0,0,,[Post-Chorus]
-Dialogue: 0,0:00:59.54,0:01:06.00,Current,,0,0,0,,{\k30}Howl {\k40}with {\k24}the {\k339}night
-Dialogue: 0,0:01:06.00,0:01:12.52,Current,,0,0,0,,{\k30}Howl {\k40}with {\k130}the {\k220}night
-Dialogue: 0,0:01:06.00,0:01:12.52,Next,,0,0,0,,[Verse 2]
-Dialogue: 0,0:01:06.00,0:01:12.52,Next,,0,0,0,,Back in the day, wiped away, 1895
-Dialogue: 0,0:01:06.00,0:01:12.52,Next,,0,0,0,,We thought they’d be gone, but San Francisco survives
-Dialogue: 0,0:01:12.52,0:01:13.12,Previous,,0,0,0,,Howl with the night
-Dialogue: 0,0:01:12.52,0:01:13.12,Current,,0,0,0,,{\k30}[Verse {\k30}2]
-Dialogue: 0,0:01:12.52,0:01:13.12,Next,,0,0,0,,Back in the day, wiped away, 1895
-Dialogue: 0,0:01:12.52,0:01:13.12,Next,,0,0,0,,We thought they’d be gone, but San Francisco survives
-Dialogue: 0,0:01:12.55,0:01:15.04,Previous,,0,0,0,,Howl with the night
-Dialogue: 0,0:01:12.55,0:01:15.04,Previous,,0,0,0,,[Verse 2]
-Dialogue: 0,0:01:12.55,0:01:15.04,Current,,0,0,0,,{\k8}Back {\k5}in {\k25}the {\k25}day, {\k50}wiped {\k50}away, {\k102}1895
-Dialogue: 0,0:01:12.55,0:01:15.04,Next,,0,0,0,,We thought they’d be gone, but San Francisco survives
-Dialogue: 0,0:01:15.20,0:01:18.66,Previous,,0,0,0,,Howl with the night
-Dialogue: 0,0:01:15.20,0:01:18.66,Previous,,0,0,0,,[Verse 2]
-Dialogue: 0,0:01:15.20,0:01:18.66,Previous,,0,0,0,,Back in the day, wiped away, 1895
-Dialogue: 0,0:01:15.20,0:01:18.66,Current,,0,0,0,,{\k17}We {\k1}thought {\k60}they’d {\k1}be {\k14}gone, {\k21}but {\k21}San {\k16}Francisco {\k48}survives
-Dialogue: 0,0:01:18.98,0:01:22.22,Current,,0,0,0,,{\k41}Leaping {\k9}from {\k13}the {\k1}forest, {\k43}riding {\k14}on {\k21}the {\k100}northbound {\k30}wind
-Dialogue: 0,0:01:18.98,0:01:22.22,Next,,0,0,0,,Sneak through the Presidio, a reckless homecoming
-Dialogue: 0,0:01:18.98,0:01:22.22,Next,,0,0,0,,[Pre-Chorus]
-Dialogue: 0,0:01:18.98,0:01:22.22,Next,,0,0,0,,Some clutch their dogs tight, keep the backyard light
-Dialogue: 0,0:01:22.75,0:01:25.92,Previous,,0,0,0,,Leaping from the forest, riding on the northbound wind
-Dialogue: 0,0:01:22.75,0:01:25.92,Current,,0,0,0,,{\k1}Sneak {\k37}through {\k22}the {\k90}Presidio, {\k1}a {\k59}reckless {\k100}homecoming
-Dialogue: 0,0:01:22.75,0:01:25.92,Next,,0,0,0,,[Pre-Chorus]
-Dialogue: 0,0:01:22.75,0:01:25.92,Next,,0,0,0,,Some clutch their dogs tight, keep the backyard light
-Dialogue: 0,0:01:24.92,0:01:25.22,Previous,,0,0,0,,Leaping from the forest, riding on the northbound wind
-Dialogue: 0,0:01:24.92,0:01:25.22,Previous,,0,0,0,,Sneak through the Presidio, a reckless homecoming
-Dialogue: 0,0:01:24.92,0:01:25.22,Current,,0,0,0,,{\k30}[Pre-Chorus]
-Dialogue: 0,0:01:24.92,0:01:25.22,Next,,0,0,0,,Some clutch their dogs tight, keep the backyard light
-Dialogue: 0,0:01:25.67,0:01:29.40,Previous,,0,0,0,,Leaping from the forest, riding on the northbound wind
-Dialogue: 0,0:01:25.67,0:01:29.40,Previous,,0,0,0,,Sneak through the Presidio, a reckless homecoming
-Dialogue: 0,0:01:25.67,0:01:29.40,Previous,,0,0,0,,[Pre-Chorus]
-Dialogue: 0,0:01:25.67,0:01:29.40,Current,,0,0,0,,{\k11}Some {\k1}clutch {\k79}their {\k30}dogs {\k38}tight, {\k39}keep {\k26}the {\k1}backyard {\k38}light
-Dialogue: 0,0:01:29.57,0:01:33.00,Current,,0,0,0,,{\k34}Kids {\k12}off {\k13}the {\k30}grass, {\k34}fear {\k3}a {\k34}yellow {\k1}stare {\k17}at {\k43}night
-Dialogue: 0,0:01:29.57,0:01:33.00,Next,,0,0,0,,Others see balance, nature on patrol
-Dialogue: 0,0:01:29.57,0:01:33.00,Next,,0,0,0,,Clearing out the rats, chasing cats, filling up the hole
-Dialogue: 0,0:01:29.57,0:01:33.00,Next,,0,0,0,,[Chorus]
-Dialogue: 0,0:01:33.17,0:01:36.02,Previous,,0,0,0,,Kids off the grass, fear a yellow stare at night
-Dialogue: 0,0:01:33.17,0:01:36.02,Current,,0,0,0,,{\k52}Others {\k26}see {\k69}balance, {\k54}nature {\k18}on {\k28}patrol
-Dialogue: 0,0:01:33.17,0:01:36.02,Next,,0,0,0,,Clearing out the rats, chasing cats, filling up the hole
-Dialogue: 0,0:01:33.17,0:01:36.02,Next,,0,0,0,,[Chorus]
-Dialogue: 0,0:01:36.78,0:01:40.68,Previous,,0,0,0,,Kids off the grass, fear a yellow stare at night
-Dialogue: 0,0:01:36.78,0:01:40.68,Previous,,0,0,0,,Others see balance, nature on patrol
-Dialogue: 0,0:01:36.78,0:01:40.68,Current,,0,0,0,,{\k14}Clearing {\k27}out {\k23}the {\k8}rats, {\k62}chasing {\k2}cats, {\k63}filling {\k18}up {\k27}the {\k43}hole
-Dialogue: 0,0:01:36.78,0:01:40.68,Next,,0,0,0,,[Chorus]
-Dialogue: 0,0:01:40.68,0:01:40.98,Previous,,0,0,0,,Kids off the grass, fear a yellow stare at night
-Dialogue: 0,0:01:40.68,0:01:40.98,Previous,,0,0,0,,Others see balance, nature on patrol
-Dialogue: 0,0:01:40.68,0:01:40.98,Previous,,0,0,0,,Clearing out the rats, chasing cats, filling up the hole
-Dialogue: 0,0:01:40.68,0:01:40.98,Current,,0,0,0,,{\k30}[Chorus]
-Dialogue: 0,0:01:40.75,0:01:41.75,Current,,0,0,0,,{\k10}Out {\k7}on {\k10}the {\k28}streets {\k45}again
-Dialogue: 0,0:01:40.75,0:01:41.75,Next,,0,0,0,,Coyotes running free
-Dialogue: 0,0:01:40.75,0:01:41.75,Next,,0,0,0,,San Francisco shaking out the old history
-Dialogue: 0,0:01:40.75,0:01:41.75,Next,,0,0,0,,From Marin they came
-Dialogue: 0,0:01:41.75,0:01:43.53,Previous,,0,0,0,,Out on the streets again
-Dialogue: 0,0:01:41.75,0:01:43.53,Current,,0,0,0,,{\k30}Coyotes {\k60}running {\k21}free
-Dialogue: 0,0:01:41.75,0:01:43.53,Next,,0,0,0,,San Francisco shaking out the old history
-Dialogue: 0,0:01:41.75,0:01:43.53,Next,,0,0,0,,From Marin they came
-Dialogue: 0,0:01:43.70,0:01:46.85,Previous,,0,0,0,,Out on the streets again
-Dialogue: 0,0:01:43.70,0:01:46.85,Previous,,0,0,0,,Coyotes running free
-Dialogue: 0,0:01:43.70,0:01:46.85,Current,,0,0,0,,{\k26}San {\k41}Francisco {\k37}shaking {\k4}out {\k50}the {\k27}old {\k63}history
-Dialogue: 0,0:01:43.70,0:01:46.85,Next,,0,0,0,,From Marin they came
-Dialogue: 0,0:01:47.02,0:01:48.61,Previous,,0,0,0,,Out on the streets again
-Dialogue: 0,0:01:47.02,0:01:48.61,Previous,,0,0,0,,Coyotes running free
-Dialogue: 0,0:01:47.02,0:01:48.61,Previous,,0,0,0,,San Francisco shaking out the old history
-Dialogue: 0,0:01:47.02,0:01:48.61,Current,,0,0,0,,{\k36}From {\k45}Marin {\k41}they {\k37}came
-Dialogue: 0,0:01:49.22,0:01:50.90,Current,,0,0,0,,{\k23}Crossed {\k28}the {\k28}red {\k22}steel {\k42}frame
-Dialogue: 0,0:01:49.22,0:01:50.90,Next,,0,0,0,,Now the city splits two sides of the coyote game
-Dialogue: 0,0:01:49.22,0:01:50.90,Next,,0,0,0,,[Post-Chorus]
-Dialogue: 0,0:01:49.22,0:01:50.90,Next,,0,0,0,,Howl with the night
-Dialogue: 0,0:01:51.22,0:01:54.76,Previous,,0,0,0,,Crossed the red steel frame
-Dialogue: 0,0:01:51.22,0:01:54.76,Current,,0,0,0,,{\k19}Now {\k21}the {\k31}city {\k5}splits {\k79}two {\k47}sides {\k18}of {\k28}the {\k60}coyote {\k37}game
-Dialogue: 0,0:01:51.22,0:01:54.76,Next,,0,0,0,,[Post-Chorus]
-Dialogue: 0,0:01:51.22,0:01:54.76,Next,,0,0,0,,Howl with the night
-Dialogue: 0,0:01:54.76,0:01:55.06,Previous,,0,0,0,,Crossed the red steel frame
-Dialogue: 0,0:01:54.76,0:01:55.06,Previous,,0,0,0,,Now the city splits two sides of the coyote game
-Dialogue: 0,0:01:54.76,0:01:55.06,Current,,0,0,0,,{\k30}[Post-Chorus]
-Dialogue: 0,0:01:54.76,0:01:55.06,Next,,0,0,0,,Howl with the night
-Dialogue: 0,0:01:54.76,0:02:07.01,Previous,,0,0,0,,Crossed the red steel frame
-Dialogue: 0,0:01:54.76,0:02:07.01,Previous,,0,0,0,,Now the city splits two sides of the coyote game
-Dialogue: 0,0:01:54.76,0:02:07.01,Next,,0,0,0,,[Post-Chorus]
-Dialogue: 0,0:01:54.76,0:02:07.01,Current,,0,0,0,,{\k30}Howl {\k40}with {\k350}the {\k461}night
-Dialogue: 0,0:02:07.01,0:02:20.88,Current,,0,0,0,,{\k30}Howl {\k40}with {\k276}the {\k467}night
+
+Dialogue: 0,0:00:02.06,0:00:04.52,Default,,0,0,0,,{\k0}[{\k247}Start{\k0}]
+Dialogue: 0,0:00:04.52,0:00:04.62,Default,,0,0,0,,{\k0}[{\k5}Guitar{\k0} {\k5}Intro{\k0}]
+Dialogue: 0,0:00:17.55,0:00:19.17,Default,,0,0,0,,{\k32}Fast{\k0} {\k8}and{\k0} {\k28}loud{\k0} {\k12}the{\k0} {\k28}strings{\k0} {\k34}ignite
+Dialogue: 0,0:00:19.39,0:00:20.91,Default,,0,0,0,,{\k26}Running{\k0} {\k28}wild{\k0} {\k10}on{\k0} {\k44}Frisco{\k0} {\k22}nights
+Dialogue: 0,0:00:21.11,0:00:22.55,Default,,0,0,0,,{\k36}History{\k0} {\k18}books{\k0} {\k20}with{\k0} {\k28}missing{\k0} {\k30}lines
+Dialogue: 0,0:00:22.79,0:00:24.32,Default,,0,0,0,,{\k40}Coyotes{\k0} {\k42}creeping{\k0} {\k16}back{\k0} {\k20}through{\k0} {\k24}time
+Dialogue: 0,0:00:24.52,0:00:25.90,Default,,0,0,0,,{\k22}Never{\k0} {\k24}thought{\k0} {\k20}they'd{\k0} {\k22}roam{\k0} {\k26}again
+Dialogue: 0,0:00:26.22,0:00:27.72,Default,,0,0,0,,{\k22}Past{\k0} {\k8}the{\k0} {\k46}bridge{\k0} {\k5}and{\k0} {\k27}city{\k0} {\k32}bends
+Dialogue: 0,0:00:27.84,0:00:29.42,Default,,0,0,0,,{\k10}We{\k0} {\k20}drove{\k0} {\k12}them{\k0} {\k12}out{\k0} {\k8}in{\k0} {\k32}olden{\k0} {\k22}days
+Dialogue: 0,0:00:29.46,0:00:31.29,Default,,0,0,0,,{\k16}But{\k0} {\k18}hunger{\k0} {\k28}finds{\k0} {\k10}its{\k0} {\k42}modern{\k0} {\k32}way
+Dialogue: 0,0:00:31.29,0:00:31.39,Default,,0,0,0,,{\k0}[{\k5}Verse{\k0} {\k5}1{\k0}]
+Dialogue: 0,0:00:31.39,0:00:32.81,Default,,0,0,0,,{\k26}Steel{\k0} {\k8}and{\k0} {\k26}fog{\k0},{\k0} {\k14}the{\k0} {\k32}Golden{\k0} {\k20}Gate
+Dialogue: 0,0:00:33.19,0:00:34.55,Default,,0,0,0,,{\k28}Opened{\k0} {\k40}pathways{\k0},{\k0} {\k32}shifting{\k0} {\k26}fate
+Dialogue: 0,0:00:34.59,0:00:36.07,Default,,0,0,0,,{\k18}Through{\k0} {\k32}Marin{\k0},{\k0} {\k8}they{\k0} {\k14}made{\k0} {\k18}their{\k0} {\k42}claim
+Dialogue: 0,0:00:36.43,0:00:37.97,Default,,0,0,0,,{\k28}Scratch{\k0} {\k8}the{\k0} {\k28}past{\k0},{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k14}not{\k0} {\k10}the{\k0} {\k28}same
+Dialogue: 0,0:00:38.21,0:00:39.86,Default,,0,0,0,,{\k24}Lines{\k0} {\k10}are{\k0} {\k28}drawn{\k0} {\k8}in{\k0} {\k24}yards{\k0} {\k8}and{\k0} {\k28}hearts
+Dialogue: 0,0:00:39.94,0:00:41.54,Default,,0,0,0,,{\k44}Sidewalk{\k0} {\k34}meetings{\k0},{\k0} {\k22}dog{\k0} {\k20}park{\k0} {\k26}barks
+Dialogue: 0,0:00:41.58,0:00:43.22,Default,,0,0,0,,{\k34}Debate{\k0} {\k10}in{\k0} {\k24}every{\k0} {\k32}local{\k0} {\k36}bar
+Dialogue: 0,0:00:43.44,0:00:45.56,Default,,0,0,0,,{\k14}Are{\k0} {\k12}we{\k0} {\k22}safer{\k0} {\k14}or{\k0} {\k5}at{\k0} {\k126}war{\k0}?
+Dialogue: 0,0:00:45.56,0:00:45.61,Default,,0,0,0,,{\k0}[{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:45.61,0:00:47.15,Default,,0,0,0,,{\k31}Out{\k0} {\k10}on{\k0} {\k6}the{\k0} {\k30}streets{\k0} {\k48}again
+Dialogue: 0,0:00:47.41,0:00:48.87,Default,,0,0,0,,{\k48}Coyotes{\k0} {\k44}running{\k0} {\k40}free
+Dialogue: 0,0:00:49.31,0:00:52.27,Default,,0,0,0,,{\k26}San{\k0} {\k58}Francisco{\k0} {\k36}shaking{\k0} {\k12}out{\k0} {\k16}the{\k0} {\k18}old{\k0} {\k84}history
+Dialogue: 0,0:00:52.55,0:00:53.61,Default,,0,0,0,,{\k20}From{\k0} {\k44}Marin{\k0} {\k10}they{\k0} {\k20}came
+Dialogue: 0,0:00:53.65,0:00:55.70,Default,,0,0,0,,{\k38}Crossed{\k0} {\k40}the{\k0} {\k10}red{\k0} {\k28}steel{\k0} {\k34}frame
+Dialogue: 0,0:00:55.100,0:00:59.22,Default,,0,0,0,,{\k22}Now{\k0} {\k5}the{\k0} {\k25}city{\k0} {\k28}splits{\k0} {\k18}two{\k0} {\k32}sides{\k0} {\k16}of{\k0} {\k16}the{\k0} {\k82}coyote{\k0} {\k40}game
+Dialogue: 0,0:01:01.36,0:01:01.71,Default,,0,0,0,,{\k0}[{\k30}Post{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:01:01.71,0:01:02.56,Default,,0,0,0,,{\k5}Howl{\k0} {\k18}with{\k0} {\k16}the{\k0} {\k32}night
+Dialogue: 0,0:01:04.79,0:01:06.05,Default,,0,0,0,,{\k30}Howl{\k0} {\k24}with{\k0} {\k16}the{\k0} {\k38}night
+Dialogue: 0,0:01:07.92,0:01:10.47,Default,,0,0,0,,{\k0}[{\k34}Verse{\k0} {\k30}2{\k0}]
+Dialogue: 0,0:01:12.42,0:01:14.91,Default,,0,0,0,,{\k26}Back{\k0} {\k8}in{\k0} {\k6}the{\k0} {\k16}day{\k0},{\k0} {\k14}wiped{\k0} {\k12}away{\k0},{\k0} {\k42}1895
+Dialogue: 0,0:01:15.81,0:01:18.93,Default,,0,0,0,,{\k10}We{\k0} {\k16}thought{\k0} {\k20}they{\k0}’{\k38}d{\k0} {\k5}be{\k0} {\k19}gone{\k0},{\k0} {\k14}but{\k0} {\k18}San{\k0} {\k82}Francisco{\k0} {\k70}survives
+Dialogue: 0,0:01:19.33,0:01:22.21,Default,,0,0,0,,{\k40}Leaping{\k0} {\k20}from{\k0} {\k10}the{\k0} {\k48}forest{\k0},{\k0} {\k38}riding{\k0} {\k8}on{\k0} {\k6}the{\k0} {\k48}northbound{\k0} {\k26}wind
+Dialogue: 0,0:01:22.72,0:01:24.80,Default,,0,0,0,,{\k28}Sneak{\k0} {\k16}through{\k0} {\k12}the{\k0} {\k86}Presidio{\k0},{\k0} {\k14}a{\k0} {\k16}reckless{\k0} {\k10}homecoming
+Dialogue: 0,0:01:24.92,0:01:25.65,Default,,0,0,0,,{\k0}[{\k68}Pre{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:01:26.22,0:01:29.12,Default,,0,0,0,,{\k24}Some{\k0} {\k28}clutch{\k0} {\k20}their{\k0} {\k30}dogs{\k0} {\k28}tight{\k0},{\k0} {\k20}keep{\k0} {\k8}the{\k0} {\k52}backyard{\k0} {\k28}light
+Dialogue: 0,0:01:29.64,0:01:32.58,Default,,0,0,0,,{\k36}Kids{\k0} {\k34}off{\k0} {\k28}the{\k0} {\k28}grass{\k0},{\k0} {\k8}fear{\k0} {\k5}a{\k0} {\k25}yellow{\k0} {\k34}stare{\k0} {\k8}at{\k0} {\k32}night
+Dialogue: 0,0:01:33.27,0:01:35.99,Default,,0,0,0,,{\k38}Others{\k0} {\k22}see{\k0} {\k82}balance{\k0},{\k0} {\k58}nature{\k0} {\k5}on{\k0} {\k56}patrol
+Dialogue: 0,0:01:36.07,0:01:39.95,Default,,0,0,0,,{\k42}Clearing{\k0} {\k8}out{\k0} {\k10}the{\k0} {\k50}rats{\k0},{\k0} {\k32}chasing{\k0} {\k32}cats{\k0},{\k0} {\k36}filling{\k0} {\k10}up{\k0} {\k18}the{\k0} {\k86}hole
+Dialogue: 0,0:01:39.95,0:01:40.00,Default,,0,0,0,,{\k0}[{\k5}Chorus{\k0}]
+Dialogue: 0,0:01:40.47,0:01:41.99,Default,,0,0,0,,{\k30}Out{\k0} {\k8}on{\k0} {\k6}the{\k0} {\k32}streets{\k0} {\k46}again
+Dialogue: 0,0:01:42.25,0:01:43.72,Default,,0,0,0,,{\k50}Coyotes{\k0} {\k46}running{\k0} {\k40}free
+Dialogue: 0,0:01:44.16,0:01:47.14,Default,,0,0,0,,{\k20}San{\k0} {\k50}Francisco{\k0} {\k32}shaking{\k0} {\k14}out{\k0} {\k52}the{\k0} {\k5}old{\k0} {\k85}history
+Dialogue: 0,0:01:47.42,0:01:48.44,Default,,0,0,0,,{\k18}From{\k0} {\k44}Marin{\k0} {\k12}they{\k0} {\k18}came
+Dialogue: 0,0:01:48.48,0:01:50.61,Default,,0,0,0,,{\k42}Crossed{\k0} {\k24}the{\k0} {\k20}red{\k0} {\k22}steel{\k0} {\k38}frame
+Dialogue: 0,0:01:50.85,0:01:54.09,Default,,0,0,0,,{\k14}Now{\k0} {\k10}the{\k0} {\k24}city{\k0} {\k32}splits{\k0} {\k10}two{\k0} {\k32}sides{\k0} {\k18}of{\k0} {\k16}the{\k0} {\k78}coyote{\k0} {\k42}game
+Dialogue: 0,0:01:54.09,0:01:56.54,Default,,0,0,0,,{\k0}[{\k5}Post{\k0}-{\k16}Chorus{\k0}]
+Dialogue: 0,0:01:56.54,0:01:57.42,Default,,0,0,0,,{\k5}Howl{\k0} {\k22}with{\k0} {\k14}the{\k0} {\k32}night
+Dialogue: 0,0:01:59.84,0:02:00.93,Default,,0,0,0,,{\k16}Howl{\k0} {\k22}with{\k0} {\k16}the{\k0} {\k36}night

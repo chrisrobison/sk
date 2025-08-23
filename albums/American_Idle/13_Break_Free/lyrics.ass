@@ -1,15 +1,39 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:18.56,0:00:20.84,Default,,0,0,0,,{\k64}Skateboard{\k0} {\k30}wheels{\k0} {\k16}on{\k0} {\k50}cracked{\k0} {\k26}cement
+Dialogue: 0,0:00:21.28,0:00:23.43,Default,,0,0,0,,{\k54}Another{\k0} {\k24}night{\k0} {\k28}just{\k0} {\k30}came{\k0} {\k14}and{\k0} {\k20}went
+Dialogue: 0,0:00:23.65,0:00:25.31,Default,,0,0,0,,{\k44}Spray{\k0} {\k5}paint{\k0} {\k9}hearts{\k0} {\k6}on{\k0} {\k14}brick{\k0}-{\k12}red{\k0} {\k38}walls
+Dialogue: 0,0:00:25.33,0:00:26.89,Default,,0,0,0,,{\k34}Laughing{\k0} {\k22}loud{\k0} {\k18}when{\k0} {\k18}duty{\k0} {\k56}calls
+Dialogue: 0,0:00:29.32,0:00:31.84,Default,,0,0,0,,{\k30}Early{\k0} {\k64}morning{\k0} {\k26}bus{\k0} {\k16}is{\k0} {\k78}late
+Dialogue: 0,0:00:31.86,0:00:34.00,Default,,0,0,0,,{\k44}Teachers{\k0} {\k58}glare{\k0} {\k28}and{\k0} {\k5}throw{\k0} {\k24}some{\k0} {\k34}shade
+Dialogue: 0,0:00:34.24,0:00:35.47,Default,,0,0,0,,{\k10}Eyes{\k0} {\k14}half{\k0}-{\k24}open{\k0},{\k0} {\k16}shoes{\k0} {\k40}untied
+Dialogue: 0,0:00:35.48,0:00:37.47,Default,,0,0,0,,{\k26}Still{\k0} {\k28}can't{\k0} {\k10}fake{\k0} {\k14}that{\k0} {\k22}dead{\k0} {\k72}inside
+Dialogue: 0,0:00:40.27,0:00:42.53,Default,,0,0,0,,{\k6}I'm{\k0} {\k42}sick{\k0} {\k14}of{\k0} {\k14}all{\k0} {\k32}your{\k0} {\k54}stupid{\k0} {\k42}rules
+Dialogue: 0,0:00:45.28,0:00:48.04,Default,,0,0,0,,{\k28}The{\k0} {\k18}way{\k0} {\k22}you{\k0} {\k14}act{\k0} {\k22}like{\k0} {\k32}we're{\k0} {\k14}all{\k0} {\k66}fools
+Dialogue: 0,0:00:50.34,0:00:52.94,Default,,0,0,0,,{\k62}Suburban{\k0} {\k26}life{\k0} {\k18}is{\k0} {\k52}killing{\k0} {\k30}me
+Dialogue: 0,0:00:52.96,0:00:55.24,Default,,0,0,0,,{\k2}I{\k0} {\k18}just{\k0} {\k44}wanna{\k0} {\k24}break{\k0} {\k32}free
+Dialogue: 0,0:00:55.74,0:00:58.23,Default,,0,0,0,,{\k22}Break{\k0} {\k140}free{\k0},{\k0} {\k10}break{\k0} {\k36}free{\k0}!
+Dialogue: 0,0:01:00.97,0:01:03.44,Default,,0,0,0,,{\k22}Break{\k0} {\k152}free{\k0},{\k0} {\k24}break{\k0} {\k30}free{\k0}!
+Dialogue: 0,0:01:05.92,0:01:08.09,Default,,0,0,0,,{\k52}Principal's{\k0} {\k48}office{\k0} {\k16}one{\k0} {\k26}more{\k0} {\k38}time
+Dialogue: 0,0:01:08.53,0:01:10.65,Default,,0,0,0,,{\k24}For{\k0} {\k12}a{\k0} {\k30}joke{\k0} {\k22}they{\k0} {\k34}called{\k0} {\k16}a{\k0} {\k36}crime
+Dialogue: 0,0:01:11.23,0:01:12.38,Default,,0,0,0,,{\k20}Parents{\k0} {\k30}freaking{\k0} {\k10}out{\k0} {\k32}again
+Dialogue: 0,0:01:12.42,0:01:14.42,Default,,0,0,0,,{\k26}While{\k0} {\k6}I'm{\k0} {\k28}hanging{\k0} {\k12}with{\k0} {\k20}my{\k0} {\k84}friends
+Dialogue: 0,0:01:16.27,0:01:18.90,Default,,0,0,0,,{\k16}They{\k0} {\k24}say{\k0} {\k2}I{\k0} {\k26}should{\k0} {\k22}grow{\k0} {\k64}up
+Dialogue: 0,0:01:18.92,0:01:21.36,Default,,0,0,0,,{\k14}But{\k0} {\k30}their{\k0} {\k46}lives{\k0} {\k24}just{\k0} {\k26}plain{\k0} {\k66}suck
+Dialogue: 0,0:01:21.38,0:01:22.46,Default,,0,0,0,,{\k10}Counting{\k0} {\k8}days{\k0} {\k6}till{\k0} {\k18}I{\k0} {\k8}can{\k0} {\k26}leave
+Dialogue: 0,0:01:22.50,0:01:27.29,Default,,0,0,0,,{\k12}This{\k0} {\k28}town{\k0} {\k22}that{\k0} {\k30}makes{\k0} {\k80}me{\k0} {\k20}heave
+Dialogue: 0,0:01:27.29,0:01:29.55,Default,,0,0,0,,{\k5}I'm{\k0} {\k32}sick{\k0} {\k5}of{\k0} {\k10}all{\k0} {\k36}your{\k0} {\k48}stupid{\k0} {\k28}rules
+Dialogue: 0,0:01:32.24,0:01:37.44,Default,,0,0,0,,{\k28}The{\k0} {\k16}way{\k0} {\k24}you{\k0} {\k12}act{\k0} {\k18}like{\k0} {\k68}we're{\k0} {\k6}all{\k0} {\k298}fools
+Dialogue: 0,0:01:37.46,0:01:39.91,Default,,0,0,0,,{\k76}Suburban{\k0} {\k30}life{\k0} {\k16}is{\k0} {\k62}killing{\k0} {\k30}me
+Dialogue: 0,0:01:40.65,0:01:48.70,Default,,0,0,0,,{\k10}I{\k0} {\k20}just{\k0} {\k84}wanna{\k0} {\k30}break{\k0} {\k54}free
+Dialogue: 0,0:01:49.62,0:01:53.100,Default,,0,0,0,,{\k24}Break{\k0} {\k38}free{\k0},{\k0} {\k24}break{\k0} {\k62}free{\k0}!
+Dialogue: 0,0:01:54.84,0:01:55.74,Default,,0,0,0,,{\k24}Break{\k0} {\k48}free{\k0},{\k0} {\k3}break{\k0} {\k3}free{\k0}!

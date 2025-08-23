@@ -1,17 +1,39 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.34,0:00:58.47,Default,,0,0,0,,[Verse 1]\\NPlastic oceans, melting skies\\NBillionaires in space while the planet fries\\NHealthcare’s a raffle, rent’s a scam\\NAI writes poems while I eat cold Spam
-Dialogue: 0,0:00:46.34,0:02:00.19,Default,,0,0,0,,[Verse 2]\\NCops in tanks, but potholes stay\\NSchools get books banned every day\\NStock tips from memes, war from tweets\\NThe algorithm chooses what we eat
+
+Dialogue: 0,0:00:48.94,0:00:51.46,Default,,0,0,0,,{\k62}Plastic{\k0} {\k56}oceans{\k0},{\k0} {\k50}melting{\k0} {\k62}skies
+Dialogue: 0,0:00:51.48,0:00:53.62,Default,,0,0,0,,{\k48}Billionaires{\k0} {\k8}in{\k0} {\k24}space{\k0} {\k18}while{\k0} {\k10}the{\k0} {\k32}planet{\k0} {\k34}fries
+Dialogue: 0,0:00:53.90,0:00:56.04,Default,,0,0,0,,{\k46}Healthcare{\k0}’{\k5}s{\k0} {\k6}a{\k0} {\k36}raffle{\k0},{\k0} {\k26}rent{\k0}’{\k5}s{\k0} {\k10}a{\k0} {\k42}scam
+Dialogue: 0,0:00:56.20,0:00:58.49,Default,,0,0,0,,{\k32}AI{\k0} {\k24}writes{\k0} {\k32}poems{\k0} {\k26}while{\k0} {\k2}I{\k0} {\k16}eat{\k0} {\k28}cold{\k0} {\k36}Spam
+Dialogue: 0,0:00:58.65,0:01:00.81,Default,,0,0,0,,{\k32}Scroll{\k0} {\k28}past{\k0} {\k28}doom{\k0},{\k0} {\k18}hit{\k0} {\k20}the{\k0} {\k32}like
+Dialogue: 0,0:01:01.07,0:01:03.47,Default,,0,0,0,,{\k32}World{\k0}’{\k5}s{\k0} {\k14}on{\k0} {\k32}fire{\k0},{\k0} {\k12}but{\k0} {\k24}hey{\k0} {\k0}—{\k0} {\k24}cool{\k0} {\k58}bike{\k0}!
+Dialogue: 0,0:01:03.49,0:01:05.87,Default,,0,0,0,,{\k24}Late{\k0} {\k34}stage{\k0} {\k48}everything{\k0},{\k0} {\k28}nothing{\k0} {\k24}makes{\k0} {\k58}sense
+Dialogue: 0,0:01:05.89,0:01:08.14,Default,,0,0,0,,{\k60}Reality's{\k0} {\k14}paywalled{\k0},{\k0} {\k8}the{\k0} {\k24}rich{\k0} {\k26}feel{\k0} {\k40}tense
+Dialogue: 0,0:01:08.16,0:01:10.52,Default,,0,0,0,,{\k16}We're{\k0} {\k24}laughing{\k0} {\k16}through{\k0} {\k44}collapse{\k0},{\k0} {\k26}dancing{\k0} {\k42}through{\k0} {\k54}decay
+Dialogue: 0,0:01:10.76,0:01:13.32,Default,,0,0,0,,{\k24}Order's{\k0} {\k8}an{\k0} {\k42}illusion{\k0},{\k0} {\k94}chaos{\k0} {\k44}pays
+Dialogue: 0,0:01:17.79,0:01:19.97,Default,,0,0,0,,{\k32}Cops{\k0} {\k20}in{\k0} {\k42}tanks{\k0},{\k0} {\k12}but{\k0} {\k52}potholes{\k0} {\k34}stay
+Dialogue: 0,0:01:20.22,0:01:22.40,Default,,0,0,0,,{\k32}Schools{\k0} {\k30}get{\k0} {\k24}books{\k0} {\k52}banned{\k0} {\k24}every{\k0} {\k30}day
+Dialogue: 0,0:01:22.62,0:01:25.30,Default,,0,0,0,,{\k24}Stock{\k0} {\k12}tips{\k0} {\k52}from{\k0} {\k5}memes{\k0},{\k0} {\k28}war{\k0} {\k24}from{\k0} {\k84}tweets
+Dialogue: 0,0:01:25.32,0:01:27.14,Default,,0,0,0,,{\k64}The{\k0} {\k5}algorithm{\k0} {\k27}chooses{\k0} {\k20}what{\k0} {\k16}we{\k0} {\k22}eat
+Dialogue: 0,0:01:27.49,0:01:29.79,Default,,0,0,0,,{\k26}Debt{\k0} {\k68}balloons{\k0},{\k0} {\k52}tempers{\k0} {\k52}snap
+Dialogue: 0,0:01:29.81,0:01:32.29,Default,,0,0,0,,{\k16}We're{\k0} {\k14}all{\k0} {\k22}just{\k0} {\k28}rats{\k0} {\k6}in{\k0} {\k4}a{\k0} {\k56}crypto{\k0} {\k56}trap
+Dialogue: 0,0:01:32.31,0:01:34.40,Default,,0,0,0,,{\k24}Late{\k0} {\k30}stage{\k0} {\k22}everything{\k0},{\k0} {\k12}we{\k0} {\k46}meme{\k0} {\k6}our{\k0} {\k26}fate
+Dialogue: 0,0:01:34.68,0:01:36.48,Default,,0,0,0,,{\k60}Celebrate{\k0} {\k22}collapse{\k0} {\k32}with{\k0} {\k28}clickbait
+Dialogue: 0,0:01:37.10,0:01:39.26,Default,,0,0,0,,{\k30}Truth{\k0} {\k12}is{\k0} {\k30}dead{\k0},{\k0} {\k26}long{\k0} {\k24}live{\k0} {\k32}spin
+Dialogue: 0,0:01:39.28,0:01:42.77,Default,,0,0,0,,{\k22}Tell{\k0} {\k24}me{\k0} {\k26}who{\k0} {\k60}profits{\k0} {\k26}when{\k0} {\k26}we{\k0} {\k28}don{\k0}’{\k5}t{\k0} {\k70}win
+Dialogue: 0,0:01:59.07,0:01:59.89,Default,,0,0,0,,{\k20}This{\k0} {\k8}is{\k0} {\k36}it{\k0}.
+Dialogue: 0,0:01:59.91,0:02:01.99,Default,,0,0,0,,{\k10}The{\k0} {\k38}sequel{\k0} {\k42}nobody{\k0} {\k24}asked{\k0} {\k22}for{\k0}.
+Dialogue: 0,0:02:02.01,0:02:04.36,Default,,0,0,0,,{\k46}Reboots{\k0},{\k0} {\k20}recalls{\k0},{\k0} {\k20}reruns{\k0} {\k6}of{\k0} {\k38}Rome{\k0}.
+Dialogue: 0,0:02:04.64,0:02:09.74,Default,,0,0,0,,{\k108}Civilization{\k0}’{\k5}s{\k0} {\k44}final{\k0} {\k46}update{\k0}:{\k0} {\k22}bug{\k0}-{\k24}ridden{\k0} {\k8}and{\k0} {\k62}insecure{\k0}.
+Dialogue: 0,0:02:10.08,0:02:12.35,Default,,0,0,0,,{\k26}Late{\k0} {\k36}stage{\k0} {\k42}everything{\k0},{\k0} {\k40}smile{\k0} {\k14}and{\k0} {\k46}grind
+Dialogue: 0,0:02:12.45,0:02:14.67,Default,,0,0,0,,{\k18}Buy{\k0} {\k14}your{\k0} {\k14}own{\k0} {\k30}chains{\k0},{\k0} {\k22}they{\k0}’{\k28}re{\k0} {\k26}Prime{\k0}-{\k5}shipped{\k0},{\k0} {\k37}signed
+Dialogue: 0,0:02:14.87,0:02:16.96,Default,,0,0,0,,{\k16}We're{\k0} {\k6}the{\k0} {\k26}joke{\k0},{\k0} {\k28}we{\k0}’{\k5}re{\k0} {\k16}the{\k0} {\k26}punchline{\k0} {\k26}too
+Dialogue: 0,0:02:17.28,0:02:19.76,Default,,0,0,0,,{\k30}Welcome{\k0} {\k10}to{\k0} {\k10}the{\k0} {\k18}end{\k0} {\k0}—{\k0} {\k18}brought{\k0} {\k8}to{\k0} {\k24}you{\k0} {\k26}by{\k0} {\k66}YOU{\k0}.

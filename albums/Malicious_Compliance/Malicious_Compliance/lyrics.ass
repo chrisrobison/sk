@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.91,0:00:07.39,Default,,0,0,0,,{\k36}Punch{\k0} {\k10}the{\k0} {\k60}clock{\k0},{\k0} {\k72}fluorescent{\k0} {\k54}halo{\k0},
+Dialogue: 0,0:00:07.43,0:00:09.61,Default,,0,0,0,,{\k62}Clipboard{\k0} {\k60}gospel{\k0} {\k12}in{\k0} {\k24}my{\k0} {\k30}hand{\k0}.
+Dialogue: 0,0:00:09.89,0:00:12.36,Default,,0,0,0,,{\k46}Safety{\k0} {\k26}vest{\k0} {\k16}of{\k0} {\k74}passive{\k0}-{\k62}aggression{\k0},
+Dialogue: 0,0:00:12.50,0:00:14.52,Default,,0,0,0,,{\k12}I{\k0}’{\k5}m{\k0} {\k8}the{\k0} {\k28}saint{\k0} {\k8}of{\k0} {\k22}every{\k0} {\k28}banned{\k0} {\k14}command{\k0}.
+Dialogue: 0,0:00:14.84,0:00:17.20,Default,,0,0,0,,{\k28}Tick{\k0} {\k12}the{\k0} {\k40}box{\k0},{\k0} {\k32}file{\k0} {\k22}the{\k0} {\k54}grievance{\k0},
+Dialogue: 0,0:00:17.24,0:00:19.44,Default,,0,0,0,,{\k34}Dot{\k0} {\k14}the{\k0} {\k14}i{\k0} {\k24}with{\k0} {\k6}a{\k0} {\k56}Molotov{\k0} {\k32}grin{\k0},{\k0} 
+Dialogue: 0,0:00:19.58,0:00:22.11,Default,,0,0,0,,{\k14}You{\k0} {\k26}wrote{\k0} {\k14}the{\k0} {\k42}rules{\k0},{\k0} {\k16}I{\k0}’{\k5}ll{\k0} {\k90}weaponize{\k0} {\k0}’{\k16}em{\k0},
+Dialogue: 0,0:00:22.21,0:00:24.39,Default,,0,0,0,,{\k26}Watch{\k0} {\k20}your{\k0} {\k56}precious{\k0} {\k52}policy{\k0} {\k42}spin{\k0}.
+Dialogue: 0,0:00:24.49,0:00:26.79,Default,,0,0,0,,{\k12}You{\k0} {\k5}said{\k0} {\k31}jump{\k0},{\k0} {\k12}I{\k0} {\k12}did{\k0} {\k8}the{\k0} {\k88}homework{\k0},
+Dialogue: 0,0:00:26.81,0:00:28.82,Default,,0,0,0,,{\k44}Measured{\k0} {\k40}angles{\k0},{\k0} {\k30}cleared{\k0} {\k22}the{\k0} {\k48}floor{\k0}.
+Dialogue: 0,0:00:29.09,0:00:31.42,Default,,0,0,0,,{\k12}You{\k0} {\k18}want{\k0} {\k66}compliance{\k0}?{\k0} {\k108}Congratulations{\k0}:
+Dialogue: 0,0:00:31.60,0:00:33.48,Default,,0,0,0,,{\k12}I{\k0}’{\k5}ll{\k0} {\k11}give{\k0} {\k12}you{\k0} {\k20}more{\k0} {\k30}than{\k0} {\k26}you{\k0} {\k34}asked{\k0} {\k6}for{\k0}.
+Dialogue: 0,0:00:33.48,0:00:34.80,Default,,0,0,0,,{\k38}Malicious{\k0} {\k10}compliance{\k0},{\k0} {\k22}rulebook{\k0} {\k36}riot{\k0},
+Dialogue: 0,0:00:34.90,0:00:38.77,Default,,0,0,0,,{\k10}Doing{\k0} {\k28}it{\k0} {\k28}by{\k0} {\k12}the{\k0} {\k22}book{\k0} {\k0}’{\k18}til{\k0} {\k8}the{\k0} {\k38}book{\k0}’{\k5}s{\k0} {\k11}on{\k0} {\k30}fire{\k0}.
+Dialogue: 0,0:00:38.99,0:00:41.26,Default,,0,0,0,,{\k10}Malicious{\k0} {\k22}compliance{\k0},{\k0} {\k10}lawful{\k0} {\k34}defiance{\k0},
+Dialogue: 0,0:00:41.54,0:00:45.95,Default,,0,0,0,,{\k50}Following{\k0} {\k28}orders{\k0} {\k14}with{\k0} {\k8}a{\k0} {\k26}middle{\k0}-{\k30}finger{\k0} {\k12}choir{\k0}.
+Dialogue: 0,0:00:50.57,0:00:53.69,Default,,0,0,0,,{\k68}Section{\k0} {\k36}eight{\k0},{\k0} {\k5}sub{\k0}-{\k195}para{\k0} {\k5}thirty{\k0},
+Dialogue: 0,0:00:53.69,0:00:55.34,Default,,0,0,0,,{\k5}OSHA{\k0} {\k64}scripture{\k0},{\k0} {\k50}holy{\k0} {\k32}cough{\k0}.
+Dialogue: 0,0:00:55.62,0:00:58.06,Default,,0,0,0,,{\k62}Steel{\k0}-{\k5}toed{\k0} {\k27}boots{\k0} {\k8}on{\k0} {\k2}a{\k0} {\k56}glass{\k0}-{\k5}jaw{\k0} {\k55}system{\k0},
+Dialogue: 0,0:00:58.10,0:01:00.27,Default,,0,0,0,,{\k32}Signed{\k0} {\k10}the{\k0} {\k58}waiver{\k0},{\k0} {\k54}tore{\k0} {\k10}it{\k0} {\k12}off{\k0}.
+Dialogue: 0,0:01:00.57,0:01:03.01,Default,,0,0,0,,{\k50}Stapled{\k0} {\k60}memos{\k0} {\k28}to{\k0} {\k20}the{\k0} {\k58}ceiling{\k0},
+Dialogue: 0,0:01:03.03,0:01:05.22,Default,,0,0,0,,{\k44}Paper{\k0} {\k36}snow{\k0} {\k30}starts{\k0} {\k54}raining{\k0} {\k32}down{\k0},
+Dialogue: 0,0:01:05.40,0:01:07.82,Default,,0,0,0,,{\k72}Emergency{\k0} {\k40}exit{\k0}’{\k5}s{\k0} {\k106}barricaded{\k0},
+Dialogue: 0,0:01:07.88,0:01:09.97,Default,,0,0,0,,{\k122}Evacuation{\k0} {\k26}drill{\k0} {\k26}starts{\k0} {\k22}now{\k0}.
+Dialogue: 0,0:01:10.05,0:01:12.27,Default,,0,0,0,,{\k10}You{\k0} {\k20}said{\k0} {\k54}label{\k0} {\k24}every{\k0} {\k54}hazard{\k0},
+Dialogue: 0,0:01:12.55,0:01:14.53,Default,,0,0,0,,{\k16}So{\k0} {\k8}I{\k0} {\k14}tattooed{\k0} {\k40}one{\k0} {\k8}on{\k0} {\k18}your{\k0} {\k42}face{\k0}.
+Dialogue: 0,0:01:14.85,0:01:17.38,Default,,0,0,0,,{\k14}You{\k0} {\k16}wanted{\k0} {\k68}quarterly{\k0} {\k100}reports{\k0},
+Dialogue: 0,0:01:17.40,0:01:19.40,Default,,0,0,0,,{\k18}Here{\k0}’{\k5}s{\k0} {\k4}a{\k0} {\k58}spreadsheet{\k0} {\k26}laced{\k0} {\k30}with{\k0} {\k38}mace{\k0}.
+Dialogue: 0,0:01:19.56,0:01:22.06,Default,,0,0,0,,{\k34}Malicious{\k0} {\k84}compliance{\k0},{\k0} {\k48}rulebook{\k0} {\k62}riot{\k0},
+Dialogue: 0,0:01:22.08,0:01:24.91,Default,,0,0,0,,{\k30}Doing{\k0} {\k4}it{\k0} {\k30}by{\k0} {\k10}the{\k0} {\k24}book{\k0} {\k0}’{\k12}til{\k0} {\k8}the{\k0} {\k36}book{\k0}’{\k5}s{\k0} {\k15}on{\k0} {\k66}fire{\k0}.
+Dialogue: 0,0:01:24.93,0:01:27.25,Default,,0,0,0,,{\k20}Malicious{\k0} {\k92}compliance{\k0},{\k0} {\k26}lawful{\k0} {\k86}defiance{\k0},
+Dialogue: 0,0:01:27.27,0:01:31.66,Default,,0,0,0,,{\k54}Following{\k0} {\k24}orders{\k0} {\k14}with{\k0} {\k10}a{\k0} {\k24}middle{\k0}-{\k54}finger{\k0} {\k226}choir{\k0}.
+Dialogue: 0,0:01:31.67,0:01:34.02,Default,,0,0,0,,{\k20}Yes{\k0}-{\k28}sir{\k0},{\k0} {\k28}no{\k0}-{\k10}sir{\k0},{\k0} {\k26}three{\k0}-{\k26}bag{\k0}-{\k36}full{\k0}-{\k20}sir{\k0},
+Dialogue: 0,0:01:34.06,0:01:36.49,Default,,0,0,0,,{\k32}Signed{\k0} {\k12}in{\k0} {\k36}blood{\k0} {\k6}on{\k0} {\k8}the{\k0} {\k114}dotted{\k0} {\k5}line{\k0}.
+Dialogue: 0,0:01:36.50,0:01:38.62,Default,,0,0,0,,{\k28}Yes{\k0}-{\k30}sir{\k0},{\k0} {\k26}no{\k0}-{\k24}sir{\k0},{\k0} {\k58}paperwork{\k0} {\k28}pulser{\k0},
+Dialogue: 0,0:01:38.72,0:01:42.93,Default,,0,0,0,,{\k12}Stamp{\k0} {\k54}it{\k0} {\k0}“{\k34}Approved{\k0}”{\k0} {\k10}while{\k0} {\k2}I{\k0} {\k256}undermine{\k0}.
+Dialogue: 0,0:01:42.95,0:01:52.31,Default,,0,0,0,,{\k28}Read{\k0} {\k10}the{\k0} {\k26}fine{\k0} {\k28}print{\k0}!{\k0} 
+Dialogue: 0,0:01:52.55,0:01:53.33,Default,,0,0,0,,{\k0}	{\k18}It{\k0}’{\k5}s{\k0} {\k6}a{\k0} {\k38}trap{\k0}.
+Dialogue: 0,0:01:53.63,0:01:54.85,Default,,0,0,0,,{\k38}Scan{\k0} {\k8}the{\k0} {\k66}barcode{\k0}!{\k0} 
+Dialogue: 0,0:01:54.95,0:01:55.72,Default,,0,0,0,,{\k0}	{\k28}Kiss{\k0} {\k14}my{\k0} {\k14}app{\k0}.
+Dialogue: 0,0:01:56.26,0:01:56.100,Default,,0,0,0,,{\k22}Initial{\k0} {\k32}here{\k0}!{\k0}  
+Dialogue: 0,0:01:57.32,0:01:57.70,Default,,0,0,0,,{\k0}	{\k8}Initial{\k0} {\k20}that{\k0}.
+Dialogue: 0,0:01:58.04,0:01:58.62,Default,,0,0,0,,{\k20}Compliance{\k0} {\k18}kills{\k0},{\k0} 
+Dialogue: 0,0:01:58.64,0:02:01.35,Default,,0,0,0,,{\k0}	{\k42}we{\k0}’{\k30}re{\k0} {\k38}killing{\k0} {\k94}back{\k0}!
+Dialogue: 0,0:02:05.90,0:02:08.37,Default,,0,0,0,,{\k62}HR{\k0}’{\k29}s{\k0} {\k29}sweating{\k0},{\k0} {\k50}PR{\k0}’{\k5}s{\k0} {\k56}praying{\k0},
+Dialogue: 0,0:02:08.43,0:02:10.71,Default,,0,0,0,,{\k40}Legal{\k0}’{\k5}s{\k0} {\k52}drafting{\k0} {\k28}ten{\k0} {\k26}more{\k0} {\k40}walls{\k0}.
+Dialogue: 0,0:02:10.81,0:02:13.06,Default,,0,0,0,,{\k10}I{\k0}’{\k5}m{\k0} {\k19}just{\k0} {\k28}your{\k0} {\k50}faithful{\k0} {\k36}little{\k0} {\k46}cog{\k0},
+Dialogue: 0,0:02:13.28,0:02:15.60,Default,,0,0,0,,{\k58}Grinding{\k0} {\k64}statutes{\k0} {\k42}into{\k0} {\k44}stalls{\k0}.
+Dialogue: 0,0:02:15.82,0:02:18.25,Default,,0,0,0,,{\k44}Coffee{\k0} {\k40}break{\k0}?{\k0} {\k16}I{\k0}’{\k5}ll{\k0} {\k31}break{\k0} {\k16}the{\k0} {\k60}circuit{\k0}.
+Dialogue: 0,0:02:18.29,0:02:20.53,Default,,0,0,0,,{\k24}Lunch{\k0} {\k6}at{\k0} {\k34}noon{\k0}?{\k0} {\k2}I{\k0}’{\k32}ll{\k0} {\k5}launch{\k0} {\k10}at{\k0} {\k36}nine{\k0}.
+Dialogue: 0,0:02:20.75,0:02:23.18,Default,,0,0,0,,{\k82}Policy{\k0} {\k28}says{\k0} {\k0}“{\k42}keep{\k0} {\k14}it{\k0} {\k58}tidy{\k0}”,
+Dialogue: 0,0:02:23.20,0:02:27.08,Default,,0,0,0,,{\k32}So{\k0} {\k8}I{\k0} {\k84}alphabetized{\k0} {\k38}your{\k0} {\k182}swine{\k0}.
+Dialogue: 0,0:02:28.43,0:02:31.09,Default,,0,0,0,,{\k56}Malicious{\k0} {\k90}compliance{\k0},{\k0} {\k28}rulebook{\k0} {\k56}riot{\k0},
+Dialogue: 0,0:02:31.23,0:02:33.76,Default,,0,0,0,,{\k24}Doing{\k0} {\k4}it{\k0} {\k30}by{\k0} {\k10}the{\k0} {\k26}book{\k0} {\k0}’{\k12}til{\k0} {\k10}the{\k0} {\k24}book{\k0}’{\k5}s{\k0} {\k14}on{\k0} {\k42}fire{\k0}.
+Dialogue: 0,0:02:33.90,0:02:36.38,Default,,0,0,0,,{\k32}Malicious{\k0} {\k76}compliance{\k0},{\k0} {\k26}lawful{\k0} {\k82}defiance{\k0},
+Dialogue: 0,0:02:36.40,0:02:40.10,Default,,0,0,0,,{\k48}Following{\k0} {\k24}orders{\k0} {\k12}with{\k0} {\k4}a{\k0} {\k74}middle{\k0}-{\k164}finger{\k0} {\k5}choir{\k0}.
+Dialogue: 0,0:02:40.10,0:02:42.68,Default,,0,0,0,,{\k55}Malicious{\k0} {\k164}compliance{\k0},{\k0} {\k19}bureaucrat{\k0} {\k19}diet{\k0},
+Dialogue: 0,0:02:42.68,0:02:45.35,Default,,0,0,0,,{\k19}Choking{\k0} {\k8}on{\k0} {\k22}red{\k0} {\k26}tape{\k0} {\k8}and{\k0} {\k50}pacifier{\k0} {\k64}wire{\k0}.
+Dialogue: 0,0:02:45.41,0:02:47.48,Default,,0,0,0,,{\k72}Clocking{\k0} {\k42}out{\k0} {\k4}in{\k0} {\k50}ashes{\k0},
+Dialogue: 0,0:02:48.08,0:02:50.54,Default,,0,0,0,,{\k28}Punch{\k0} {\k28}card{\k0} {\k24}still{\k0} {\k150}intact{\k0}.
+Dialogue: 0,0:02:50.56,0:02:52.26,Default,,0,0,0,,{\k22}Next{\k0} {\k22}shift{\k0} {\k32}starts{\k0} {\k80}tomorrow{\k0},{\k0} 
+Dialogue: 0,0:02:52.28,0:02:58.03,Default,,0,0,0,,{\k10}Bring{\k0} {\k190}another{\k0} {\k268}stack{\k0}.

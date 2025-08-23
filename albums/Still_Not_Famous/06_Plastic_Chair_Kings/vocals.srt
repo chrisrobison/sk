@@ -283,11 +283,11 @@ Sayin' once again, gotta flex your grin But you never win, you never win Shoutin
 Sayin' once again, gotta <u>flex</u> your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 72
-00:00:39,510 --> 00:00:39,530
+00:00:39,510 --> 00:00:39,550
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 73
-00:00:39,530 --> 00:00:39,710
+00:00:39,550 --> 00:00:39,710
 Sayin' once again, gotta flex <u>your</u> grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 74
@@ -479,11 +479,11 @@ Sayin' once again, gotta flex your grin But you never win, you never win Shoutin
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 121
-00:00:52,544 --> 00:00:52,645
+00:00:52,544 --> 00:00:52,665
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it <u>up</u> Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 122
-00:00:52,645 --> 00:00:56,028
+00:00:52,665 --> 00:00:56,028
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 123
@@ -551,11 +551,11 @@ Sayin' once again, gotta flex your grin But you never win, you never win Shoutin
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 139
-00:01:02,275 --> 00:01:02,575
+00:01:02,275 --> 00:01:02,555
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' <u>noise</u> but never enough
 
 140
-00:01:02,575 --> 00:01:02,636
+00:01:02,555 --> 00:01:02,636
 Sayin' once again, gotta flex your grin But you never win, you never win Shoutin' all the time just to feel the air Never knowin' when to zip it up Talkin' my thirteens in some plastic chair Makin' noise but never enough
 
 141
@@ -580,657 +580,673 @@ Sayin' once again, gotta flex your grin But you never win, you never win Shoutin
 
 146
 00:01:06,856 --> 00:01:07,457
-<u>Hey,</u> yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+<u>Hey,</u> yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 147
 00:01:07,457 --> 00:01:07,477
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 148
 00:01:07,477 --> 00:01:07,878
-Hey, <u>yeah,</u> whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+Hey, <u>yeah,</u> whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 149
 00:01:07,878 --> 00:01:08,418
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 150
-00:01:08,418 --> 00:01:09,580
-Hey, yeah, <u>whoa</u> Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:08,418 --> 00:01:09,179
+Hey, yeah, <u>whoa,</u> whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 151
-00:01:09,580 --> 00:01:14,027
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:09,179 --> 00:01:09,199
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 152
-00:01:14,027 --> 00:01:14,407
-Hey, yeah, whoa <u>Opinions</u> flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:09,199 --> 00:01:10,281
+Hey, yeah, whoa, <u>whoa,</u> whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 153
-00:01:14,407 --> 00:01:14,447
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:10,281 --> 00:01:10,301
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 154
-00:01:14,447 --> 00:01:14,868
-Hey, yeah, whoa Opinions <u>flying</u> faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:10,301 --> 00:01:10,501
+Hey, yeah, whoa, whoa, <u>whoa</u> Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 155
-00:01:14,868 --> 00:01:14,988
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:10,501 --> 00:01:14,027
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 156
-00:01:14,988 --> 00:01:15,509
-Hey, yeah, whoa Opinions flying <u>faster</u> than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:14,027 --> 00:01:14,407
+Hey, yeah, whoa, whoa, whoa <u>Opinions</u> flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 157
-00:01:15,509 --> 00:01:15,569
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:14,407 --> 00:01:14,447
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 158
-00:01:15,569 --> 00:01:15,709
-Hey, yeah, whoa Opinions flying faster <u>than</u> their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:14,447 --> 00:01:14,868
+Hey, yeah, whoa, whoa, whoa Opinions <u>flying</u> faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 159
-00:01:15,709 --> 00:01:15,749
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:14,868 --> 00:01:14,988
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 160
-00:01:15,749 --> 00:01:15,869
-Hey, yeah, whoa Opinions flying faster than <u>their</u> cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:14,988 --> 00:01:15,509
+Hey, yeah, whoa, whoa, whoa Opinions flying <u>faster</u> than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 161
-00:01:15,869 --> 00:01:15,909
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:15,509 --> 00:01:15,549
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 162
-00:01:15,909 --> 00:01:16,230
-Hey, yeah, whoa Opinions flying faster than their <u>cheap</u> guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:15,549 --> 00:01:15,709
+Hey, yeah, whoa, whoa, whoa Opinions flying faster <u>than</u> their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 163
-00:01:16,230 --> 00:01:16,290
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:15,709 --> 00:01:15,749
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 164
-00:01:16,290 --> 00:01:16,991
-Hey, yeah, whoa Opinions flying faster than their cheap <u>guitars</u> Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:15,749 --> 00:01:15,869
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than <u>their</u> cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 165
-00:01:16,991 --> 00:01:20,055
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:15,869 --> 00:01:15,909
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 166
-00:01:20,055 --> 00:01:20,316
-Hey, yeah, whoa Opinions flying faster than their cheap guitars <u>Drive</u> me through the room just like old cigars Pushing every button till you break or bruise
+00:01:15,909 --> 00:01:16,230
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their <u>cheap</u> guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 167
-00:01:20,316 --> 00:01:20,336
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:16,230 --> 00:01:16,290
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 168
-00:01:20,336 --> 00:01:20,376
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive <u>me</u> through the room just like old cigars Pushing every button till you break or bruise
+00:01:16,290 --> 00:01:16,991
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap <u>guitars</u> Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 169
-00:01:20,376 --> 00:01:20,416
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:16,991 --> 00:01:20,055
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 170
-00:01:20,416 --> 00:01:20,636
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me <u>through</u> the room just like old cigars Pushing every button till you break or bruise
+00:01:20,055 --> 00:01:20,316
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars <u>Drive</u> me through the room just like old cigars Pushing every button till you break or bruise
 
 171
-00:01:20,636 --> 00:01:20,656
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:20,316 --> 00:01:20,336
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 172
-00:01:20,656 --> 00:01:20,937
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through <u>the</u> room just like old cigars Pushing every button till you break or bruise
+00:01:20,336 --> 00:01:20,376
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive <u>me</u> through the room just like old cigars Pushing every button till you break or bruise
 
 173
-00:01:20,937 --> 00:01:21,017
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:20,376 --> 00:01:20,416
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 174
-00:01:21,017 --> 00:01:21,357
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the <u>room</u> just like old cigars Pushing every button till you break or bruise
+00:01:20,416 --> 00:01:20,636
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me <u>through</u> the room just like old cigars Pushing every button till you break or bruise
 
 175
-00:01:21,357 --> 00:01:21,397
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:20,636 --> 00:01:20,656
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 176
-00:01:21,397 --> 00:01:21,558
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room <u>just</u> like old cigars Pushing every button till you break or bruise
+00:01:20,656 --> 00:01:20,937
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through <u>the</u> room just like old cigars Pushing every button till you break or bruise
 
 177
-00:01:21,558 --> 00:01:21,618
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:20,937 --> 00:01:21,017
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 178
-00:01:21,618 --> 00:01:21,898
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just <u>like</u> old cigars Pushing every button till you break or bruise
+00:01:21,017 --> 00:01:21,357
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the <u>room</u> just like old cigars Pushing every button till you break or bruise
 
 179
-00:01:21,898 --> 00:01:22,118
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:21,357 --> 00:01:21,397
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 180
-00:01:22,118 --> 00:01:22,259
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like <u>old</u> cigars Pushing every button till you break or bruise
+00:01:21,397 --> 00:01:21,558
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room <u>just</u> like old cigars Pushing every button till you break or bruise
 
 181
-00:01:22,259 --> 00:01:22,299
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:21,558 --> 00:01:21,618
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 182
-00:01:22,299 --> 00:01:23,000
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old <u>cigars</u> Pushing every button till you break or bruise
+00:01:21,618 --> 00:01:21,898
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just <u>like</u> old cigars Pushing every button till you break or bruise
 
 183
-00:01:23,000 --> 00:01:26,064
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:21,898 --> 00:01:22,118
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 184
-00:01:26,064 --> 00:01:26,465
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars <u>Pushing</u> every button till you break or bruise
+00:01:22,118 --> 00:01:22,259
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like <u>old</u> cigars Pushing every button till you break or bruise
 
 185
-00:01:26,465 --> 00:01:26,565
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:22,259 --> 00:01:22,299
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 186
-00:01:26,565 --> 00:01:26,865
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing <u>every</u> button till you break or bruise
+00:01:22,299 --> 00:01:23,000
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old <u>cigars</u> Pushing every button till you break or bruise
 
 187
-00:01:26,865 --> 00:01:26,986
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:23,000 --> 00:01:26,064
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 188
-00:01:26,986 --> 00:01:27,526
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every <u>button</u> till you break or bruise
+00:01:26,064 --> 00:01:26,465
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars <u>Pushing</u> every button till you break or bruise
 
 189
-00:01:27,526 --> 00:01:27,546
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:26,465 --> 00:01:26,565
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 190
-00:01:27,546 --> 00:01:27,727
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button <u>till</u> you break or bruise
+00:01:26,565 --> 00:01:26,865
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing <u>every</u> button till you break or bruise
 
 191
-00:01:27,727 --> 00:01:27,767
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:26,865 --> 00:01:26,986
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 192
-00:01:27,767 --> 00:01:27,887
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till <u>you</u> break or bruise
+00:01:26,986 --> 00:01:27,526
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every <u>button</u> till you break or bruise
 
 193
-00:01:27,887 --> 00:01:27,927
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:27,526 --> 00:01:27,546
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 194
-00:01:27,927 --> 00:01:28,288
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you <u>break</u> or bruise
+00:01:27,546 --> 00:01:27,727
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button <u>till</u> you break or bruise
 
 195
-00:01:28,288 --> 00:01:28,388
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:27,727 --> 00:01:27,767
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 196
-00:01:28,388 --> 00:01:28,508
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break <u>or</u> bruise
+00:01:27,767 --> 00:01:27,887
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till <u>you</u> break or bruise
 
 197
-00:01:28,508 --> 00:01:28,528
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+00:01:27,887 --> 00:01:27,927
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
 
 198
-00:01:28,528 --> 00:01:29,269
-Hey, yeah, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or <u>bruise</u>
+00:01:27,927 --> 00:01:28,288
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you <u>break</u> or bruise
 
 199
+00:01:28,288 --> 00:01:28,388
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+
+200
+00:01:28,388 --> 00:01:28,508
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break <u>or</u> bruise
+
+201
+00:01:28,508 --> 00:01:28,528
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or bruise
+
+202
+00:01:28,528 --> 00:01:29,269
+Hey, yeah, whoa, whoa, whoa Opinions flying faster than their cheap guitars Drive me through the room just like old cigars Pushing every button till you break or <u>bruise</u>
+
+203
 00:01:31,949 --> 00:01:32,369
 <u>Living</u> for attention they will always lose.
 
-200
+204
 00:01:32,369 --> 00:01:32,409
 Living for attention they will always lose.
 
-201
+205
 00:01:32,409 --> 00:01:32,690
 Living <u>for</u> attention they will always lose.
 
-202
+206
 00:01:32,690 --> 00:01:32,810
 Living for attention they will always lose.
 
-203
+207
 00:01:32,810 --> 00:01:33,510
 Living for <u>attention</u> they will always lose.
 
-204
+208
 00:01:33,510 --> 00:01:33,550
 Living for attention they will always lose.
 
-205
+209
 00:01:33,550 --> 00:01:33,711
 Living for attention <u>they</u> will always lose.
 
-206
+210
 00:01:33,711 --> 00:01:33,731
 Living for attention they will always lose.
 
-207
+211
 00:01:33,731 --> 00:01:33,911
 Living for attention they <u>will</u> always lose.
 
-208
+212
 00:01:33,911 --> 00:01:34,031
 Living for attention they will always lose.
 
-209
+213
 00:01:34,031 --> 00:01:34,431
 Living for attention they will <u>always</u> lose.
 
-210
+214
 00:01:34,431 --> 00:01:34,551
 Living for attention they will always lose.
 
-211
+215
 00:01:34,551 --> 00:01:34,992
 Living for attention they will always <u>lose.</u>
 
-212
+216
 00:01:36,073 --> 00:01:36,453
 <u>Spin</u> it round and round.
 
-213
+217
 00:01:36,453 --> 00:01:36,553
 Spin it round and round.
 
-214
+218
 00:01:36,553 --> 00:01:36,653
 Spin <u>it</u> round and round.
 
-215
+219
 00:01:36,653 --> 00:01:36,713
 Spin it round and round.
 
-216
+220
 00:01:36,713 --> 00:01:37,074
 Spin it <u>round</u> and round.
 
-217
+221
 00:01:37,074 --> 00:01:37,314
 Spin it round and round.
 
-218
+222
 00:01:37,314 --> 00:01:37,434
 Spin it round <u>and</u> round.
 
-219
+223
 00:01:37,434 --> 00:01:37,514
 Spin it round and round.
 
-220
+224
 00:01:37,514 --> 00:01:39,076
 Spin it round and <u>round.</u>
 
-221
+225
 00:01:39,096 --> 00:01:39,536
 <u>Frink</u> it up so louse.
 
-222
+226
 00:01:39,536 --> 00:01:39,656
 Frink it up so louse.
 
-223
+227
 00:01:39,656 --> 00:01:39,776
 Frink <u>it</u> up so louse.
 
-224
+228
 00:01:39,776 --> 00:01:39,916
 Frink it up so louse.
 
-225
+229
 00:01:39,916 --> 00:01:40,017
 Frink it <u>up</u> so louse.
 
-226
+230
 00:01:40,017 --> 00:01:40,077
 Frink it up so louse.
 
-227
+231
 00:01:40,077 --> 00:01:40,397
 Frink it up <u>so</u> louse.
 
-228
+232
 00:01:40,397 --> 00:01:40,497
 Frink it up so louse.
 
-229
+233
 00:01:40,497 --> 00:01:41,138
 Frink it up so <u>louse.</u>
 
-230
+234
 00:01:41,818 --> 00:01:42,018
 <u>But</u> it all falls down.
 
-231
+235
 00:01:42,018 --> 00:01:42,118
 But it all falls down.
 
-232
+236
 00:01:42,118 --> 00:01:42,179
 But <u>it</u> all falls down.
 
-233
+237
 00:01:42,179 --> 00:01:42,439
 But it all falls down.
 
-234
+238
 00:01:42,439 --> 00:01:42,599
 But it <u>all</u> falls down.
 
-235
+239
 00:01:42,599 --> 00:01:42,699
 But it all falls down.
 
-236
+240
 00:01:42,699 --> 00:01:43,199
 But it all <u>falls</u> down.
 
-237
+241
 00:01:43,199 --> 00:01:43,300
 But it all falls down.
 
-238
+242
 00:01:43,300 --> 00:01:43,960
 But it all falls <u>down.</u>
 
-239
+243
 00:01:45,121 --> 00:01:45,181
 <u>It</u> all falls down.
 
-240
+244
 00:01:45,181 --> 00:01:45,442
 It all falls down.
 
-241
+245
 00:01:45,442 --> 00:01:45,602
 It <u>all</u> falls down.
 
-242
+246
 00:01:45,602 --> 00:01:45,702
 It all falls down.
 
-243
+247
 00:01:45,702 --> 00:01:46,222
 It all <u>falls</u> down.
 
-244
+248
 00:01:46,222 --> 00:01:46,302
 It all falls down.
 
-245
-00:01:46,302 --> 00:01:46,923
+249
+00:01:46,302 --> 00:01:46,943
 It all falls <u>down.</u>
 
-246
+250
 00:01:50,006 --> 00:01:50,426
 <u>Shouting</u> all the time just to feel the air.
 
-247
+251
 00:01:50,426 --> 00:01:50,526
 Shouting all the time just to feel the air.
 
-248
+252
 00:01:50,526 --> 00:01:50,666
 Shouting <u>all</u> the time just to feel the air.
 
-249
-00:01:50,666 --> 00:01:50,847
-Shouting all the time just to feel the air.
-
-250
-00:01:50,847 --> 00:01:50,907
-Shouting all <u>the</u> time just to feel the air.
-
-251
-00:01:50,907 --> 00:01:50,947
-Shouting all the time just to feel the air.
-
-252
-00:01:50,947 --> 00:01:51,667
-Shouting all the <u>time</u> just to feel the air.
-
 253
-00:01:51,667 --> 00:01:51,707
+00:01:50,666 --> 00:01:50,746
 Shouting all the time just to feel the air.
 
 254
-00:01:51,707 --> 00:01:52,068
-Shouting all the time <u>just</u> to feel the air.
+00:01:50,746 --> 00:01:50,907
+Shouting all <u>the</u> time just to feel the air.
 
 255
-00:01:52,068 --> 00:01:52,108
+00:01:50,907 --> 00:01:50,947
 Shouting all the time just to feel the air.
 
 256
-00:01:52,108 --> 00:01:52,468
-Shouting all the time just <u>to</u> feel the air.
+00:01:50,947 --> 00:01:51,667
+Shouting all the <u>time</u> just to feel the air.
 
 257
-00:01:52,468 --> 00:01:52,628
+00:01:51,667 --> 00:01:51,707
 Shouting all the time just to feel the air.
 
 258
-00:01:52,628 --> 00:01:53,149
-Shouting all the time just to <u>feel</u> the air.
+00:01:51,707 --> 00:01:52,068
+Shouting all the time <u>just</u> to feel the air.
 
 259
-00:01:53,149 --> 00:01:53,229
+00:01:52,068 --> 00:01:52,108
 Shouting all the time just to feel the air.
 
 260
-00:01:53,229 --> 00:01:54,170
-Shouting all the time just to feel <u>the</u> air.
+00:01:52,108 --> 00:01:52,468
+Shouting all the time just <u>to</u> feel the air.
 
 261
-00:01:54,170 --> 00:01:54,190
+00:01:52,468 --> 00:01:52,628
 Shouting all the time just to feel the air.
 
 262
+00:01:52,628 --> 00:01:53,149
+Shouting all the time just to <u>feel</u> the air.
+
+263
+00:01:53,149 --> 00:01:53,229
+Shouting all the time just to feel the air.
+
+264
+00:01:53,229 --> 00:01:54,170
+Shouting all the time just to feel <u>the</u> air.
+
+265
+00:01:54,170 --> 00:01:54,190
+Shouting all the time just to feel the air.
+
+266
 00:01:54,190 --> 00:01:54,470
 Shouting all the time just to feel the <u>air.</u>
 
-263
+267
 00:01:56,051 --> 00:01:56,372
 <u>Never</u> knowing when to zip it up.
 
-264
+268
 00:01:56,372 --> 00:01:56,432
 Never knowing when to zip it up.
 
-265
+269
 00:01:56,432 --> 00:01:56,912
 Never <u>knowing</u> when to zip it up.
 
-266
+270
 00:01:56,912 --> 00:01:56,992
 Never knowing when to zip it up.
 
-267
+271
 00:01:56,992 --> 00:01:57,313
 Never knowing <u>when</u> to zip it up.
 
-268
+272
 00:01:57,313 --> 00:01:57,353
 Never knowing when to zip it up.
 
-269
+273
 00:01:57,353 --> 00:01:57,693
 Never knowing when <u>to</u> zip it up.
 
-270
+274
 00:01:57,693 --> 00:01:57,873
 Never knowing when to zip it up.
 
-271
-00:01:57,873 --> 00:01:58,233
+275
+00:01:57,873 --> 00:01:58,213
 Never knowing when to <u>zip</u> it up.
 
-272
-00:01:58,233 --> 00:01:58,253
+276
+00:01:58,213 --> 00:01:58,233
 Never knowing when to zip it up.
 
-273
-00:01:58,253 --> 00:01:58,374
+277
+00:01:58,233 --> 00:01:58,374
 Never knowing when to zip <u>it</u> up.
 
-274
+278
 00:01:58,374 --> 00:01:58,554
 Never knowing when to zip it up.
 
-275
+279
 00:01:58,554 --> 00:01:58,834
 Never knowing when to zip it <u>up.</u>
 
-276
+280
 00:02:01,936 --> 00:02:02,377
 <u>Chalking</u> my 13s in some plastic chair.
 
-277
+281
 00:02:02,377 --> 00:02:02,417
 Chalking my 13s in some plastic chair.
 
-278
+282
 00:02:02,417 --> 00:02:02,578
 Chalking <u>my</u> 13s in some plastic chair.
 
-279
+283
 00:02:02,578 --> 00:02:02,598
 Chalking my 13s in some plastic chair.
 
-280
+284
 00:02:02,598 --> 00:02:03,701
 Chalking my <u>13s</u> in some plastic chair.
 
-281
+285
 00:02:03,701 --> 00:02:03,882
 Chalking my 13s in some plastic chair.
 
-282
+286
 00:02:03,882 --> 00:02:04,022
 Chalking my 13s <u>in</u> some plastic chair.
 
-283
+287
 00:02:04,022 --> 00:02:04,082
 Chalking my 13s in some plastic chair.
 
-284
+288
 00:02:04,082 --> 00:02:04,504
 Chalking my 13s in <u>some</u> plastic chair.
 
-285
+289
 00:02:04,504 --> 00:02:04,664
 Chalking my 13s in some plastic chair.
 
-286
+290
 00:02:04,664 --> 00:02:05,607
 Chalking my 13s in some <u>plastic</u> chair.
 
-287
+291
 00:02:05,607 --> 00:02:05,687
 Chalking my 13s in some plastic chair.
 
-288
+292
 00:02:05,687 --> 00:02:06,269
 Chalking my 13s in some plastic <u>chair.</u>
 
-289
-00:02:07,673 --> 00:02:07,994
-<u>Made</u> the noise, but never enough.
-
-290
-00:02:07,994 --> 00:02:08,034
-Made the noise, but never enough.
-
-291
-00:02:08,034 --> 00:02:08,175
-Made <u>the</u> noise, but never enough.
-
-292
-00:02:08,175 --> 00:02:08,275
-Made the noise, but never enough.
-
 293
-00:02:08,275 --> 00:02:08,576
-Made the <u>noise,</u> but never enough.
+00:02:07,673 --> 00:02:07,994
+<u>Made</u> me noise but never enough.
 
 294
-00:02:08,576 --> 00:02:08,616
-Made the noise, but never enough.
+00:02:07,994 --> 00:02:08,034
+Made me noise but never enough.
 
 295
-00:02:08,616 --> 00:02:08,977
-Made the noise, <u>but</u> never enough.
+00:02:08,034 --> 00:02:08,175
+Made <u>me</u> noise but never enough.
 
 296
-00:02:08,977 --> 00:02:09,158
-Made the noise, but never enough.
+00:02:08,175 --> 00:02:08,275
+Made me noise but never enough.
 
 297
-00:02:09,158 --> 00:02:10,161
-Made the noise, but <u>never</u> enough.
+00:02:08,275 --> 00:02:08,556
+Made me <u>noise</u> but never enough.
 
 298
-00:02:10,161 --> 00:02:10,181
-Made the noise, but never enough.
+00:02:08,556 --> 00:02:08,616
+Made me noise but never enough.
 
 299
-00:02:10,181 --> 00:02:10,682
-Made the noise, but never <u>enough.</u>
+00:02:08,616 --> 00:02:08,977
+Made me noise <u>but</u> never enough.
 
 300
+00:02:08,977 --> 00:02:09,158
+Made me noise but never enough.
+
+301
+00:02:09,158 --> 00:02:10,161
+Made me noise but <u>never</u> enough.
+
+302
+00:02:10,161 --> 00:02:10,181
+Made me noise but never enough.
+
+303
+00:02:10,181 --> 00:02:10,682
+Made me noise but never <u>enough.</u>
+
+304
 00:02:12,949 --> 00:02:13,150
 <u>Hey,</u> hey, yeah.
 
-301
+305
 00:02:13,150 --> 00:02:13,170
 Hey, hey, yeah.
 
-302
+306
 00:02:13,170 --> 00:02:13,471
 Hey, <u>hey,</u> yeah.
 
-303
+307
 00:02:13,471 --> 00:02:13,491
 Hey, hey, yeah.
 
-304
+308
 00:02:13,491 --> 00:02:13,952
 Hey, hey, <u>yeah.</u>
 
-305
-00:02:14,433 --> 00:02:15,176
+309
+00:02:14,433 --> 00:02:15,196
 <u>Whoa,</u> whoa, whoa.
 
-306
-00:02:15,176 --> 00:02:15,216
+310
+00:02:15,196 --> 00:02:15,216
 Whoa, whoa, whoa.
 
-307
+311
 00:02:15,216 --> 00:02:16,500
 Whoa, <u>whoa,</u> whoa.
 
-308
+312
 00:02:16,500 --> 00:02:16,520
 Whoa, whoa, whoa.
 
-309
+313
 00:02:16,520 --> 00:02:16,620
 Whoa, whoa, <u>whoa.</u>
 

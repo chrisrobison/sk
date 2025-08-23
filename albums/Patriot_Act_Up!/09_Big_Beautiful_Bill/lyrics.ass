@@ -1,16 +1,41 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.72,0:01:34.66,Default,,0,0,0,,[Verse 2]\\NSlashing through the safety net, scissors in hand\\NWIC and Medicaid vanish on command\\NTelling us it’s freedom, but the chains are real tight\\NStacking gold up high while we give up our rights
+
+Dialogue: 0,0:00:00.03,0:00:03.96,Default,,0,0,0,,{\k0}[{\k393}Start{\k0}]
+Dialogue: 0,0:00:03.96,0:00:04.10,Default,,0,0,0,,{\k0}[{\k5}Horn{\k0} {\k9}Solo{\k0}]
+Dialogue: 0,0:00:04.10,0:00:22.62,Default,,0,0,0,,{\k0}[{\k5}Verse{\k0} {\k26}1{\k0}]
+Dialogue: 0,0:00:22.62,0:00:25.78,Default,,0,0,0,,{\k5}He{\k0}’{\k5}s{\k0} {\k12}got{\k0} {\k6}a{\k0} {\k44}smile{\k0} {\k18}for{\k0} {\k18}the{\k0} {\k56}camera{\k0},{\k0} {\k30}hand{\k0} {\k10}in{\k0} {\k10}the{\k0} {\k38}pot
+Dialogue: 0,0:00:26.48,0:00:29.23,Default,,0,0,0,,{\k40}Laughing{\k0} {\k18}with{\k0} {\k14}the{\k0} {\k40}lobbyists{\k0},{\k0} {\k34}giving{\k0} {\k22}all{\k0} {\k14}that{\k0} {\k20}they{\k0} {\k36}got
+Dialogue: 0,0:00:29.93,0:00:32.65,Default,,0,0,0,,{\k42}Bills{\k0} {\k8}on{\k0} {\k10}the{\k0} {\k34}table{\k0},{\k0} {\k24}watch{\k0} {\k0}‘{\k10}em{\k0} {\k38}vanish{\k0} {\k14}from{\k0} {\k36}sight
+Dialogue: 0,0:00:33.35,0:00:36.66,Default,,0,0,0,,{\k18}Food{\k0} {\k24}stamps{\k0} {\k72}disappear{\k0},{\k0} {\k38}but{\k0} {\k24}he{\k0}’{\k5}ll{\k0} {\k7}sleep{\k0} {\k22}well{\k0} {\k50}tonight{\k0}[{\k40}Chorus{\k0}]
+Dialogue: 0,0:00:36.66,0:00:39.56,Default,,0,0,0,,{\k40}Big{\k0} {\k32}Beautiful{\k0} {\k60}Bill{\k0},{\k0} {\k44}cashing{\k0} {\k10}in{\k0} {\k12}on{\k0} {\k10}our{\k0} {\k38}pain
+Dialogue: 0,0:00:39.78,0:00:42.94,Default,,0,0,0,,{\k18}Cut{\k0} {\k14}the{\k0} {\k20}lifelines{\k0} {\k12}for{\k0} {\k62}kids{\k0},{\k0} {\k20}but{\k0} {\k10}his{\k0} {\k40}wallets{\k0} {\k54}remain
+Dialogue: 0,0:00:43.24,0:00:46.39,Default,,0,0,0,,{\k40}Ripping{\k0} {\k20}holes{\k0} {\k8}in{\k0} {\k10}our{\k0} {\k54}help{\k0} {\k18}just{\k0} {\k8}to{\k0} {\k42}sweeten{\k0} {\k8}the{\k0} {\k36}deal
+Dialogue: 0,0:00:46.65,0:00:50.90,Default,,0,0,0,,{\k34}Feeding{\k0} {\k18}fat{\k0} {\k32}cats{\k0} {\k58}while{\k0} {\k34}we{\k0} {\k20}skip{\k0} {\k46}another{\k0} {\k126}meal
+Dialogue: 0,0:00:50.90,0:00:53.06,Default,,0,0,0,,{\k0}[{\k108}Post{\k0}-{\k108}Chorus{\k0}]
+Dialogue: 0,0:00:53.06,0:01:00.63,Default,,0,0,0,,{\k108}Hey{\k0} {\k108}hey{\k0} {\k108}hey{\k0},{\k0} {\k108}they{\k0} {\k108}don{\k0}’{\k108}t{\k0} {\k108}care
+Dialogue: 0,0:01:00.63,0:01:08.20,Default,,0,0,0,,{\k108}Hey{\k0} {\k108}hey{\k0} {\k108}hey{\k0},{\k0} {\k108}take{\k0} {\k108}what{\k0}’{\k108}s{\k0} {\k108}fair
+Dialogue: 0,0:01:08.20,0:01:10.37,Default,,0,0,0,,{\k0}[{\k108}Verse{\k0} {\k108}2{\k0}]
+Dialogue: 0,0:01:10.37,0:01:14.35,Default,,0,0,0,,{\k108}Slashing{\k0} {\k22}through{\k0} {\k12}the{\k0} {\k38}safety{\k0} {\k36}net{\k0},{\k0} {\k44}scissors{\k0} {\k18}in{\k0} {\k66}hand
+Dialogue: 0,0:01:17.88,0:01:20.96,Default,,0,0,0,,{\k68}WIC{\k0} {\k10}and{\k0} {\k74}Medicaid{\k0} {\k40}vanish{\k0} {\k10}on{\k0} {\k62}command
+Dialogue: 0,0:01:24.78,0:01:27.79,Default,,0,0,0,,{\k42}Telling{\k0} {\k12}us{\k0} {\k10}it{\k0}’{\k5}s{\k0} {\k37}freedom{\k0},{\k0} {\k16}but{\k0} {\k12}the{\k0} {\k28}chains{\k0} {\k8}are{\k0} {\k32}real{\k0} {\k44}tight
+Dialogue: 0,0:01:31.53,0:01:35.04,Default,,0,0,0,,{\k52}Stacking{\k0} {\k22}gold{\k0} {\k8}up{\k0} {\k10}high{\k0} {\k18}while{\k0} {\k16}we{\k0} {\k22}give{\k0} {\k8}up{\k0} {\k14}our{\k0} {\k80}rights
+Dialogue: 0,0:01:35.63,0:01:37.84,Default,,0,0,0,,{\k0}[{\k81}Pre{\k0}-{\k81}Chorus{\k0}]
+Dialogue: 0,0:01:38.41,0:01:41.56,Default,,0,0,0,,{\k82}Empty{\k0} {\k44}shelves{\k0} {\k20}where{\k0} {\k10}our{\k0} {\k76}groceries{\k0} {\k30}should{\k0} {\k30}stand
+Dialogue: 0,0:01:42.10,0:01:44.92,Default,,0,0,0,,{\k60}Empty{\k0} {\k72}promises{\k0},{\k0} {\k24}blood{\k0} {\k6}on{\k0} {\k34}their{\k0} {\k42}hands
+Dialogue: 0,0:01:44.92,0:01:45.10,Default,,0,0,0,,{\k0}[{\k18}Chorus{\k0}]
+Dialogue: 0,0:01:45.10,0:01:48.13,Default,,0,0,0,,{\k18}Big{\k0} {\k56}Beautiful{\k0} {\k60}Bill{\k0},{\k0} {\k42}cashing{\k0} {\k10}in{\k0} {\k8}on{\k0} {\k10}our{\k0} {\k40}pain
+Dialogue: 0,0:01:48.35,0:01:51.53,Default,,0,0,0,,{\k18}Cut{\k0} {\k14}the{\k0} {\k42}lifelines{\k0} {\k14}for{\k0} {\k62}kids{\k0},{\k0} {\k20}but{\k0} {\k12}his{\k0} {\k42}wallets{\k0} {\k56}remain
+Dialogue: 0,0:01:51.81,0:01:54.95,Default,,0,0,0,,{\k38}Ripping{\k0} {\k32}holes{\k0} {\k5}in{\k0} {\k12}our{\k0} {\k54}help{\k0} {\k18}just{\k0} {\k8}to{\k0} {\k48}sweeten{\k0} {\k10}the{\k0} {\k36}deal
+Dialogue: 0,0:01:55.22,0:01:58.58,Default,,0,0,0,,{\k36}Feeding{\k0} {\k22}fat{\k0} {\k30}cats{\k0} {\k60}while{\k0} {\k34}we{\k0} {\k26}skip{\k0} {\k46}another{\k0} {\k38}meal
+Dialogue: 0,0:02:01.64,0:02:02.40,Default,,0,0,0,,{\k0}[{\k70}Post{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:02:02.40,0:02:03.29,Default,,0,0,0,,{\k5}Hey{\k0} {\k5}hey{\k0} {\k59}hey{\k0},{\k0} {\k5}they{\k0} {\k5}don{\k0}’{\k5}t{\k0} {\k5}care
+Dialogue: 0,0:02:03.29,0:02:10.11,Default,,0,0,0,,{\k5}Hey{\k0} {\k5}hey{\k0} {\k5}hey{\k0},{\k0} {\k290}take{\k0} {\k34}what{\k0}’{\k64}s{\k0} {\k5}fair

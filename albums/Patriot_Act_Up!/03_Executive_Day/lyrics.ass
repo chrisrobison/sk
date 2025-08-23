@@ -1,17 +1,39 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.42,0:01:09.57,Default,,0,0,0,,[Verse 2]\\NWoke up late, grabbed a Big Mac\\NSpilled ketchup all over a diplomatic pact\\NThrows a tantrum, signs away\\NHoping someone tries to make him obey
-Dialogue: 0,0:00:08.42,0:00:36.79,Default,,0,0,0,,[Chorus]\\NSign it fast don\'t read the text\\NWho needs a Congress when you\'re on deck\\NKing with a pen, wave it again\\NFeels so good to play pretend
+
+Dialogue: 0,0:00:08.15,0:00:08.18,Default,,0,0,0,,{\k0}[{\k3}Start{\k0}]
+Dialogue: 0,0:00:08.20,0:00:10.54,Default,,0,0,0,,{\k66}TV{\k0} {\k30}dinner{\k0} {\k8}on{\k0} {\k8}the{\k0} {\k58}golden{\k0} {\k42}plate
+Dialogue: 0,0:00:13.18,0:00:17.49,Default,,0,0,0,,{\k28}Late{\k0}-{\k26}night{\k0} {\k32}tweets{\k0} {\k50}decide{\k0} {\k16}the{\k0} {\k244}fate
+Dialogue: 0,0:00:17.51,0:00:20.53,Default,,0,0,0,,{\k60}Billion{\k0}-{\k36}dollar{\k0} {\k36}bill{\k0} {\k20}for{\k0} {\k60}another{\k0} {\k56}wall
+Dialogue: 0,0:00:22.46,0:00:25.57,Default,,0,0,0,,{\k28}Rules{\k0} {\k20}don{\k0}’{\k5}t{\k0} {\k28}matter{\k0} {\k4}if{\k0} {\k14}you{\k0} {\k58}won{\k0}’{\k18}t{\k0} {\k5}get{\k0} {\k93}caught{\k0}[{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:27.34,0:00:28.96,Default,,0,0,0,,{\k26}Sign{\k0} {\k14}it{\k0} {\k34}fast{\k0} {\k14}don't{\k0} {\k8}read{\k0} {\k10}the{\k0} {\k32}text
+Dialogue: 0,0:00:29.38,0:00:31.43,Default,,0,0,0,,{\k16}Who{\k0} {\k16}needs{\k0} {\k4}a{\k0} {\k74}Congress{\k0} {\k14}when{\k0} {\k16}you're{\k0} {\k8}on{\k0} {\k28}deck
+Dialogue: 0,0:00:31.85,0:00:33.81,Default,,0,0,0,,{\k14}King{\k0} {\k12}with{\k0} {\k6}a{\k0} {\k34}pen{\k0},{\k0} {\k16}wave{\k0} {\k20}it{\k0} {\k26}again
+Dialogue: 0,0:00:33.83,0:00:36.65,Default,,0,0,0,,{\k18}Feels{\k0} {\k14}so{\k0} {\k22}good{\k0} {\k20}to{\k0} {\k34}play{\k0} {\k152}pretend
+Dialogue: 0,0:00:37.75,0:00:39.73,Default,,0,0,0,,{\k0}[{\k170}Post{\k0}-{\k20}Chorus{\k0}]
+Dialogue: 0,0:00:39.75,0:00:41.21,Default,,0,0,0,,{\k36}Hey{\k0} {\k5}hey{\k0} {\k20}executive{\k0} {\k8}day
+Dialogue: 0,0:00:41.45,0:00:46.04,Default,,0,0,0,,{\k73}Oh{\k0} {\k97}whoa{\k0} {\k97}whoa{\k0} {\k97}unlimited{\k0} {\k84}play
+Dialogue: 0,0:00:47.65,0:00:50.59,Default,,0,0,0,,{\k0}[{\k67}Verse{\k0} {\k49}2{\k0}]
+Dialogue: 0,0:00:52.55,0:00:57.09,Default,,0,0,0,,{\k32}Woke{\k0} {\k16}up{\k0} {\k36}late{\k0},{\k0} {\k34}grabbed{\k0} {\k4}a{\k0} {\k26}Big{\k0} {\k260}Mac
+Dialogue: 0,0:00:57.11,0:01:01.18,Default,,0,0,0,,{\k36}Spilled{\k0} {\k34}ketchup{\k0} {\k22}all{\k0} {\k30}over{\k0} {\k4}a{\k0} {\k60}diplomatic{\k0} {\k176}pact
+Dialogue: 0,0:01:01.20,0:01:05.00,Default,,0,0,0,,{\k38}Throws{\k0} {\k16}a{\k0} {\k112}tantrum{\k0},{\k0} {\k44}signs{\k0} {\k84}away
+Dialogue: 0,0:01:06.92,0:01:09.81,Default,,0,0,0,,{\k38}Hoping{\k0} {\k50}someone{\k0} {\k34}tries{\k0} {\k10}to{\k0} {\k24}make{\k0} {\k12}him{\k0} {\k72}obey
+Dialogue: 0,0:01:09.81,0:01:10.85,Default,,0,0,0,,{\k0}[{\k52}Pre{\k0}-{\k52}Chorus{\k0}]
+Dialogue: 0,0:01:10.85,0:01:14.84,Default,,0,0,0,,{\k52}Checks{\k0} {\k14}and{\k0} {\k116}balances{\k0} {\k40}sound{\k0} {\k36}like{\k0} {\k12}a{\k0} {\k26}bore
+Dialogue: 0,0:01:14.90,0:01:19.75,Default,,0,0,0,,{\k142}Toss{\k0} {\k6}the{\k0} {\k124}constitution{\k0} {\k58}onto{\k0} {\k18}the{\k0} {\k70}floor
+Dialogue: 0,0:01:20.29,0:01:20.79,Default,,0,0,0,,{\k0}[{\k50}Chorus{\k0}]
+Dialogue: 0,0:01:21.53,0:01:23.17,Default,,0,0,0,,{\k30}Sign{\k0} {\k10}it{\k0} {\k34}fast{\k0} {\k10}don't{\k0} {\k14}read{\k0} {\k6}the{\k0} {\k36}text
+Dialogue: 0,0:01:23.53,0:01:25.54,Default,,0,0,0,,{\k16}Who{\k0} {\k18}needs{\k0} {\k6}a{\k0} {\k72}Congress{\k0} {\k12}when{\k0} {\k22}you're{\k0} {\k2}on{\k0} {\k28}deck
+Dialogue: 0,0:01:25.100,0:01:27.96,Default,,0,0,0,,{\k20}King{\k0} {\k12}with{\k0} {\k4}a{\k0} {\k36}pen{\k0},{\k0} {\k24}wave{\k0} {\k6}it{\k0} {\k32}again
+Dialogue: 0,0:01:27.98,0:01:30.81,Default,,0,0,0,,{\k26}Feels{\k0} {\k8}so{\k0} {\k20}good{\k0} {\k22}to{\k0} {\k32}play{\k0} {\k152}pretend
+Dialogue: 0,0:01:30.83,0:01:30.91,Default,,0,0,0,,{\k0}[{\k3}Post{\k0}-{\k3}Chorus{\k0}]
+Dialogue: 0,0:01:30.92,0:01:31.10,Default,,0,0,0,,{\k3}Hey{\k0} {\k3}hey{\k0} {\k3}executive{\k0} {\k3}day
+Dialogue: 0,0:01:31.12,0:01:31.35,Default,,0,0,0,,{\k3}Oh{\k0} {\k3}whoa{\k0} {\k3}whoa{\k0} {\k3}unlimited{\k0} {\k3}play

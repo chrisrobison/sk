@@ -1,16 +1,37 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.36,0:01:32.76,Default,,0,0,0,,[Verse 2]\\NSign away the future, digits on a list\\NDeport a hundred thousand, justice doesn’t exist\\NStudents speak and lose it all, voices on mute\\NFreedom’s just a slogan if you’re not in the suit
+
+Dialogue: 0,0:00:05.45,0:00:09.38,Default,,0,0,0,,{\k62}Broken{\k0} {\k58}records{\k0} {\k42}spinning{\k0} {\k34}fast{\k0},{\k0} {\k64}headlines{\k0} {\k34}never{\k0} {\k52}fade
+Dialogue: 0,0:00:09.42,0:00:14.99,Default,,0,0,0,,{\k212}Deport{\k0} {\k4}a{\k0} {\k42}dream{\k0} {\k16}in{\k0} {\k54}silence{\k0},{\k0} {\k30}trade{\k0} {\k24}hope{\k0} {\k28}for{\k0} {\k106}barricade
+Dialogue: 0,0:00:16.03,0:00:20.56,Default,,0,0,0,,{\k34}Courts{\k0} {\k8}are{\k0} {\k44}closed{\k0} {\k18}for{\k0} {\k68}business{\k0},{\k0} {\k58}justice{\k0} {\k18}out{\k0} {\k8}of{\k0} {\k56}stock
+Dialogue: 0,0:00:21.62,0:00:26.41,Default,,0,0,0,,{\k36}Tear{\k0} {\k12}the{\k0} {\k62}welcome{\k0} {\k58}banner{\k0} {\k48}down{\k0},{\k0} {\k30}keep{\k0} {\k12}the{\k0} {\k58}future{\k0} {\k76}locked
+Dialogue: 0,0:00:27.42,0:00:29.65,Default,,0,0,0,,{\k28}Look{\k0} {\k6}at{\k0} {\k22}what{\k0} {\k32}we{\k0}’{\k5}ve{\k0} {\k28}come{\k0} {\k28}to{\k0} {\k34}now
+Dialogue: 0,0:00:29.71,0:00:32.38,Default,,0,0,0,,{\k131}Promises{\k0} {\k14}are{\k0} {\k68}hollowed{\k0} {\k12}out
+Dialogue: 0,0:00:33.14,0:00:35.31,Default,,0,0,0,,{\k32}Building{\k0} {\k56}walls{\k0} {\k32}around{\k0} {\k14}our{\k0} {\k44}pride
+Dialogue: 0,0:00:35.35,0:00:38.32,Default,,0,0,0,,{\k86}Trading{\k0} {\k26}truth{\k0} {\k24}for{\k0} {\k60}dollar{\k0} {\k68}signs
+Dialogue: 0,0:00:49.44,0:00:52.04,Default,,0,0,0,,{\k22}Just{\k0} {\k14}us{\k0} {\k22}for{\k0} {\k18}all{\k0},{\k0} {\k8}or{\k0} {\k32}none{\k0} {\k8}at{\k0} {\k18}all
+Dialogue: 0,0:00:52.52,0:00:55.09,Default,,0,0,0,,{\k26}Watch{\k0} {\k10}the{\k0} {\k34}borders{\k0} {\k32}rise{\k0},{\k0} {\k26}see{\k0} {\k10}the{\k0} {\k36}conscience{\k0} {\k32}fall
+Dialogue: 0,0:00:55.29,0:00:57.61,Default,,0,0,0,,{\k36}Papers{\k0} {\k54}torn{\k0},{\k0} {\k30}rights{\k0} {\k54}denied
+Dialogue: 0,0:00:57.99,0:01:00.71,Default,,0,0,0,,{\k40}Spin{\k0} {\k8}the{\k0} {\k34}wheel{\k0} {\k0}‘{\k26}til{\k0} {\k10}the{\k0} {\k22}truth{\k0} {\k8}has{\k0} {\k36}died
+Dialogue: 0,0:01:01.53,0:01:10.19,Default,,0,0,0,,{\k16}Ohs{\k0} {\k16}and{\k0} {\k54}whoas{\k0} {\k76}ring{\k0} {\k20}out{\k0} {\k0}({\k27}woah{\k0} {\k35}oh{\k0})
+Dialogue: 0,0:01:12.53,0:01:16.93,Default,,0,0,0,,{\k42}Sign{\k0} {\k50}away{\k0} {\k14}the{\k0} {\k54}future{\k0},{\k0} {\k100}digits{\k0} {\k16}on{\k0} {\k10}a{\k0} {\k108}list
+Dialogue: 0,0:01:17.89,0:01:21.90,Default,,0,0,0,,{\k58}Deport{\k0} {\k4}a{\k0} {\k54}hundred{\k0} {\k62}thousand{\k0},{\k0} {\k60}justice{\k0} {\k36}doesn{\k0}’{\k5}t{\k0} {\k61}exist
+Dialogue: 0,0:01:22.90,0:01:27.57,Default,,0,0,0,,{\k68}Students{\k0} {\k44}speak{\k0} {\k16}and{\k0} {\k26}lose{\k0} {\k12}it{\k0} {\k44}all{\k0},{\k0} {\k70}voices{\k0} {\k16}on{\k0} {\k32}mute
+Dialogue: 0,0:01:28.57,0:01:33.10,Default,,0,0,0,,{\k66}Freedom{\k0}’{\k5}s{\k0} {\k26}just{\k0} {\k14}a{\k0} {\k46}slogan{\k0} {\k10}if{\k0} {\k46}you{\k0}’{\k5}re{\k0} {\k41}not{\k0} {\k12}in{\k0} {\k18}the{\k0} {\k68}suit
+Dialogue: 0,0:01:34.43,0:01:36.41,Default,,0,0,0,,{\k36}Rubber{\k0} {\k32}stamps{\k0} {\k16}for{\k0} {\k10}the{\k0} {\k52}chosen{\k0} {\k32}few
+Dialogue: 0,0:01:37.27,0:01:39.18,Default,,0,0,0,,{\k34}Blind{\k0} {\k24}eyes{\k0} {\k6}and{\k0} {\k6}a{\k0} {\k0}“{\k24}let{\k0} {\k10}it{\k0} {\k32}through{\k0}”
+Dialogue: 0,0:01:39.24,0:01:42.06,Default,,0,0,0,,{\k80}The{\k0} {\k32}world{\k0}’{\k5}s{\k0} {\k58}watching{\k0} {\k20}while{\k0} {\k18}we{\k0} {\k46}stall
+Dialogue: 0,0:01:42.72,0:01:44.87,Default,,0,0,0,,{\k12}But{\k0} {\k28}who{\k0}’{\k5}s{\k0} {\k8}left{\k0} {\k20}to{\k0} {\k30}make{\k0} {\k14}the{\k0} {\k42}call{\k0}?
+Dialogue: 0,0:01:45.33,0:01:47.83,Default,,0,0,0,,{\k18}Just{\k0} {\k14}us{\k0} {\k20}for{\k0} {\k18}all{\k0},{\k0} {\k10}or{\k0} {\k40}none{\k0} {\k8}at{\k0} {\k14}all
+Dialogue: 0,0:01:48.33,0:01:50.89,Default,,0,0,0,,{\k28}Watch{\k0} {\k10}the{\k0} {\k34}borders{\k0} {\k36}rise{\k0},{\k0} {\k32}see{\k0} {\k10}the{\k0} {\k38}conscience{\k0} {\k30}fall
+Dialogue: 0,0:01:51.24,0:01:53.44,Default,,0,0,0,,{\k36}Papers{\k0} {\k38}torn{\k0},{\k0} {\k24}rights{\k0} {\k62}denied
+Dialogue: 0,0:01:53.84,0:01:56.52,Default,,0,0,0,,{\k34}Spin{\k0} {\k10}the{\k0} {\k34}wheel{\k0} {\k0}‘{\k24}til{\k0} {\k10}the{\k0} {\k22}truth{\k0} {\k8}has{\k0} {\k34}died
+Dialogue: 0,0:01:57.36,0:02:00.47,Default,,0,0,0,,{\k18}Ohs{\k0} {\k14}and{\k0} {\k50}whoas{\k0} {\k74}ring{\k0} {\k26}out{\k0} {\k0}({\k3}woah{\k0} {\k3}oh{\k0})

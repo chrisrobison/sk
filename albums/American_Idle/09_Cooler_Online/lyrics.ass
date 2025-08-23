@@ -1,15 +1,51 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.13,0:00:05.16,Default,,0,0,0,,{\k0}[{\k3}Start{\k0}]
+Dialogue: 0,0:00:05.18,0:00:05.26,Default,,0,0,0,,{\k0}[{\k3}Guitar{\k0} {\k3}Intro{\k0}]
+Dialogue: 0,0:00:05.28,0:00:09.02,Default,,0,0,0,,{\k48}Power{\k0} {\k32}chords{\k0} {\k20}ring{\k0} {\k16}out{\k0} {\k60}as{\k0} {\k10}I{\k0} {\k28}sit{\k0} {\k18}at{\k0} {\k22}my{\k0} {\k44}desk
+Dialogue: 0,0:00:10.33,0:00:13.99,Default,,0,0,0,,{\k42}Riffing{\k0} {\k10}the{\k0} {\k88}daydreams{\k0} {\k28}running{\k0} {\k22}through{\k0} {\k20}my{\k0} {\k32}head
+Dialogue: 0,0:00:14.05,0:00:19.14,Default,,0,0,0,,{\k186}Scrolling{\k0} {\k16}the{\k0} {\k58}endless{\k0} {\k28}feed{\k0} {\k16}for{\k0} {\k26}some{\k0} {\k52}delight
+Dialogue: 0,0:00:19.16,0:00:24.36,Default,,0,0,0,,{\k188}Online{\k0} {\k10}I{\k0}’{\k5}m{\k0} {\k46}loud{\k0},{\k0} {\k116}offline{\k0} {\k6}I{\k0} {\k30}stay{\k0} {\k10}out{\k0} {\k6}of{\k0} {\k42}sight
+Dialogue: 0,0:00:25.96,0:00:26.35,Default,,0,0,0,,{\k0}[{\k39}Start{\k0}]
+Dialogue: 0,0:00:27.97,0:00:31.77,Default,,0,0,0,,{\k36}Boot{\k0} {\k10}up{\k0} {\k24}my{\k0} {\k38}day{\k0},{\k0} {\k144}I{\k0}’{\k5}m{\k0} {\k28}ready{\k0} {\k10}to{\k0} {\k40}post
+Dialogue: 0,0:00:32.03,0:00:34.58,Default,,0,0,0,,{\k32}Snap{\k0} {\k2}a{\k0} {\k14}new{\k0} {\k30}pic{\k0},{\k0} {\k36}filter{\k0} {\k6}it{\k0} {\k14}the{\k0} {\k62}most
+Dialogue: 0,0:00:38.08,0:00:42.07,Default,,0,0,0,,{\k88}Followers{\k0} {\k18}climb{\k0} {\k14}but{\k0} {\k12}I{\k0}’{\k5}m{\k0} {\k27}stuck{\k0} {\k6}in{\k0} {\k16}my{\k0} {\k42}room
+Dialogue: 0,0:00:42.09,0:00:44.69,Default,,0,0,0,,{\k84}IRL{\k0} {\k30}me{\k0} {\k56}is{\k0} {\k10}out{\k0} {\k4}of{\k0} {\k50}tune
+Dialogue: 0,0:00:48.38,0:00:48.84,Default,,0,0,0,,{\k0}[{\k42}Verse{\k0} {\k5}1{\k0}]
+Dialogue: 0,0:00:48.84,0:00:52.44,Default,,0,0,0,,{\k5}Screen{\k0} {\k28}name{\k0} {\k6}is{\k0} {\k48}bold{\k0},{\k0} {\k154}my{\k0} {\k54}avatar{\k0}’{\k5}s{\k0} {\k37}cool
+Dialogue: 0,0:00:52.66,0:00:55.08,Default,,0,0,0,,{\k18}Liked{\k0} {\k18}by{\k0} {\k2}a{\k0} {\k40}crowd{\k0} {\k2}I{\k0} {\k18}never{\k0} {\k16}met{\k0} {\k14}at{\k0} {\k50}school
+Dialogue: 0,0:00:58.77,0:01:02.77,Default,,0,0,0,,{\k64}DMs{\k0} {\k12}are{\k0} {\k50}fire{\k0},{\k0} {\k156}replies{\k0} {\k26}coming{\k0} {\k56}fast
+Dialogue: 0,0:01:02.79,0:01:05.49,Default,,0,0,0,,{\k10}But{\k0} {\k18}real{\k0} {\k96}conversations{\k0} {\k30}never{\k0} {\k74}last
+Dialogue: 0,0:01:06.85,0:01:07.39,Default,,0,0,0,,{\k0}[{\k54}Chorus{\k0}]
+Dialogue: 0,0:01:08.95,0:01:13.76,Default,,0,0,0,,{\k34}I{\k0}’{\k52}m{\k0} {\k5}cooler{\k0} {\k72}online{\k0},{\k0} {\k108}that{\k0}’{\k5}s{\k0} {\k26}what{\k0} {\k26}my{\k0} {\k28}profile{\k0} {\k34}says
+Dialogue: 0,0:01:14.64,0:01:18.72,Default,,0,0,0,,{\k26}Got{\k0} {\k18}the{\k0} {\k24}perfect{\k0} {\k60}lines{\k0} {\k18}and{\k0} {\k8}a{\k0} {\k46}thousand{\k0} {\k50}friends
+Dialogue: 0,0:01:19.77,0:01:23.87,Default,,0,0,0,,{\k72}IRL{\k0} {\k14}I{\k0}’{\k5}m{\k0} {\k42}weird{\k0},{\k0} {\k32}can{\k0}’{\k5}t{\k0} {\k25}look{\k0} {\k32}them{\k0} {\k14}in{\k0} {\k12}the{\k0} {\k10}eye
+Dialogue: 0,0:01:24.71,0:01:28.78,Default,,0,0,0,,{\k24}But{\k0} {\k2}I{\k0}’{\k94}m{\k0} {\k5}a{\k0} {\k5}legend{\k0} {\k5}behind{\k0} {\k5}my{\k0} {\k66}wifi
+Dialogue: 0,0:01:28.78,0:01:30.17,Default,,0,0,0,,{\k0}[{\k69}Post{\k0}-{\k69}Chorus{\k0}]
+Dialogue: 0,0:01:30.17,0:01:33.57,Default,,0,0,0,,{\k69}Type{\k0} {\k18}it{\k0} {\k12}up{\k0},{\k0} {\k18}hit{\k0} {\k62}send{\k0},{\k0} {\k56}feel{\k0} {\k52}alive
+Dialogue: 0,0:01:33.59,0:01:42.09,Default,,0,0,0,,{\k12}I{\k0}’{\k22}m{\k0} {\k5}cooler{\k0} {\k104}online{\k0},{\k0} {\k34}cooler{\k0} {\k66}online
+Dialogue: 0,0:01:42.25,0:01:43.01,Default,,0,0,0,,{\k0}[{\k10}Verse{\k0} {\k60}2{\k0}]
+Dialogue: 0,0:01:43.07,0:01:50.02,Default,,0,0,0,,{\k389}Photoshopped{\k0} {\k5}grin{\k0},{\k0} {\k42}I{\k0}’{\k16}m{\k0} {\k32}living{\k0} {\k12}a{\k0} {\k34}meme
+Dialogue: 0,0:01:50.28,0:01:52.61,Default,,0,0,0,,{\k50}Scroll{\k0} {\k52}and{\k0} {\k5}pretend{\k0} {\k4}I{\k0} {\k16}know{\k0} {\k12}what{\k0} {\k6}I{\k0} {\k38}mean
+Dialogue: 0,0:01:52.69,0:02:00.36,Default,,0,0,0,,{\k413}Laughing{\k0} {\k88}emoji{\k0} {\k4}to{\k0} {\k68}cover{\k0} {\k10}the{\k0} {\k42}pain
+Dialogue: 0,0:02:00.38,0:02:03.22,Default,,0,0,0,,{\k46}Offline{\k0},{\k0} {\k12}my{\k0} {\k36}jokes{\k0} {\k20}don{\k0}’{\k5}t{\k0} {\k11}land{\k0} {\k8}the{\k0} {\k70}same
+Dialogue: 0,0:02:03.22,0:02:04.18,Default,,0,0,0,,{\k0}[{\k48}Pre{\k0}-{\k48}Chorus{\k0}]
+Dialogue: 0,0:02:04.18,0:02:09.93,Default,,0,0,0,,{\k48}Behind{\k0} {\k48}a{\k0} {\k48}screen{\k0},{\k0} {\k48}I{\k0}’{\k14}m{\k0} {\k82}everything{\k0} {\k26}I{\k0} {\k34}want{\k0} {\k8}to{\k0} {\k38}be
+Dialogue: 0,0:02:10.61,0:02:15.20,Default,,0,0,0,,{\k20}But{\k0} {\k34}face{\k0}-{\k18}to{\k0}-{\k34}face{\k0},{\k0} {\k6}I{\k0} {\k48}always{\k0} {\k240}freeze
+Dialogue: 0,0:02:15.22,0:02:15.38,Default,,0,0,0,,{\k0}[{\k16}Chorus{\k0}]
+Dialogue: 0,0:02:15.38,0:02:19.75,Default,,0,0,0,,{\k5}I{\k0}’{\k52}m{\k0} {\k5}cooler{\k0} {\k72}online{\k0},{\k0} {\k26}that{\k0}’{\k5}s{\k0} {\k16}what{\k0} {\k16}my{\k0} {\k56}profile{\k0} {\k50}says
+Dialogue: 0,0:02:20.57,0:02:24.78,Default,,0,0,0,,{\k26}Got{\k0} {\k12}the{\k0} {\k58}perfect{\k0} {\k26}lines{\k0} {\k14}and{\k0} {\k10}a{\k0} {\k44}thousand{\k0} {\k44}friends
+Dialogue: 0,0:02:25.13,0:02:30.63,Default,,0,0,0,,{\k26}IRL{\k0} {\k8}I{\k0}’{\k14}m{\k0} {\k14}weird{\k0},{\k0} {\k100}can{\k0}’{\k2}t{\k0} {\k24}look{\k0} {\k36}them{\k0} {\k12}in{\k0} {\k14}the{\k0} {\k88}eye
+Dialogue: 0,0:02:30.63,0:02:34.34,Default,,0,0,0,,{\k44}But{\k0} {\k20}I{\k0}’{\k5}m{\k0} {\k5}a{\k0} {\k56}legend{\k0} {\k64}behind{\k0} {\k26}my{\k0} {\k16}wifi
+Dialogue: 0,0:02:34.43,0:02:36.33,Default,,0,0,0,,{\k0}[{\k36}Post{\k0}-{\k16}Chorus{\k0}]
+Dialogue: 0,0:02:36.33,0:02:38.95,Default,,0,0,0,,{\k5}LOL{\k0},{\k0} {\k18}inside{\k0} {\k10}I{\k0}’{\k14}m{\k0} {\k18}not{\k0} {\k36}fine
+Dialogue: 0,0:02:39.03,0:02:43.16,Default,,0,0,0,,{\k10}I{\k0}’{\k38}m{\k0} {\k10}cooler{\k0} {\k40}online{\k0},{\k0} {\k10}cooler{\k0} {\k147}online

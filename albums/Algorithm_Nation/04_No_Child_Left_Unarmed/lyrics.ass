@@ -1,22 +1,55 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.35,0:00:36.81,Default,,0,0,0,,They say it’s freedom, loud and proud\\NWhile silence echoes through the crowd\\NThoughts and prayers in bullet form\\NThis is the American uniform
-Dialogue: 0,0:00:00.35,0:00:52.74,Default,,0,0,0,,[Chorus]\\NNo child left unarmed — that’s the plan\\NTraining kids to take a stand\\NPencil box and pepper spray\\NIn the land of the NRA
-Dialogue: 0,0:00:00.35,0:01:18.35,Default,,0,0,0,,No child left unarmed — what a joke\\NDuck and cover when the system\'s broke\\NArmed with fear and classroom drills\\NWe raise our kids for battlefields
-Dialogue: 0,0:00:00.35,0:01:59.81,Default,,0,0,0,,[Chorus]\\NNo child left unarmed — say it loud\\NMarching blindly with the crowd\\NBullet points in lesson plans\\NBrought to you by gun-slinging clans
-Dialogue: 0,0:00:00.35,0:02:09.19,Default,,0,0,0,,No child left unarmed — this ain\'t peace\\NIt\'s a cycle that will never cease\\NPrayers on paper, stained in red\\NMore statistics, more kids dead
-Dialogue: 0,0:00:00.35,0:02:17.26,Default,,0,0,0,,[Bridge – Shouted]\\N\"Arm the teachers!\" — they all cheer\\NBut won’t fund books year after year\\NHallway heroes, chalk outline fate\\NAmerica, you educate with hate
-Dialogue: 0,0:00:00.35,0:02:34.38,Default,,0,0,0,,No child left unarmed — what a shame\\NSafety’s sold out to the game\\NIf freedom’s just a smoking gun…\\NThen tell me who the hell has won?
+
+Dialogue: 0,0:00:06.02,0:00:09.32,Default,,0,0,0,,{\k76}Morning{\k0} {\k36}bell{\k0} {\k42}rings{\k0},{\k0} {\k40}lock{\k0} {\k12}and{\k0} {\k44}load
+Dialogue: 0,0:00:09.37,0:00:13.41,Default,,0,0,0,,{\k142}Tiny{\k0} {\k122}backpacks{\k0},{\k0} {\k74}trauma{\k0} {\k42}mode
+Dialogue: 0,0:00:13.93,0:00:17.33,Default,,0,0,0,,{\k66}Metal{\k0} {\k96}detectors{\k0} {\k34}greet{\k0} {\k20}the{\k0} {\k44}day
+Dialogue: 0,0:00:17.93,0:00:21.50,Default,,0,0,0,,{\k98}Bulletproof{\k0} {\k122}smiles{\k0},{\k0} {\k34}just{\k0} {\k28}to{\k0} {\k48}pray
+Dialogue: 0,0:00:21.58,0:00:25.50,Default,,0,0,0,,{\k32}They{\k0} {\k78}say{\k0} {\k14}it{\k0}’{\k5}s{\k0} {\k70}freedom{\k0},{\k0} {\k44}loud{\k0} {\k10}and{\k0} {\k46}proud
+Dialogue: 0,0:00:25.76,0:00:29.99,Default,,0,0,0,,{\k24}While{\k0} {\k144}silence{\k0} {\k30}echoes{\k0} {\k38}through{\k0} {\k18}the{\k0} {\k90}crowd
+Dialogue: 0,0:00:29.99,0:00:33.57,Default,,0,0,0,,{\k74}Thoughts{\k0} {\k12}and{\k0} {\k52}prayers{\k0} {\k18}in{\k0} {\k60}bullet{\k0} {\k46}form
+Dialogue: 0,0:00:33.85,0:00:37.70,Default,,0,0,0,,{\k40}This{\k0} {\k42}is{\k0} {\k6}the{\k0} {\k88}American{\k0} {\k116}uniform
+Dialogue: 0,0:00:37.76,0:00:42.80,Default,,0,0,0,,{\k34}No{\k0} {\k44}child{\k0} {\k28}left{\k0} {\k54}unarmed{\k0} {\k0}—{\k0} {\k50}that{\k0}’{\k5}s{\k0} {\k16}the{\k0} {\k80}plan
+Dialogue: 0,0:00:42.84,0:00:46.91,Default,,0,0,0,,{\k184}Training{\k0} {\k26}kids{\k0} {\k16}to{\k0} {\k34}take{\k0} {\k16}a{\k0} {\k86}stand
+Dialogue: 0,0:00:48.27,0:00:51.13,Default,,0,0,0,,{\k46}Pencil{\k0} {\k32}box{\k0} {\k10}and{\k0} {\k74}pepper{\k0} {\k104}spray
+Dialogue: 0,0:00:52.45,0:00:55.65,Default,,0,0,0,,{\k12}In{\k0} {\k14}the{\k0} {\k26}land{\k0} {\k4}of{\k0} {\k8}the{\k0} {\k164}NRA
+Dialogue: 0,0:01:02.22,0:01:05.86,Default,,0,0,0,,{\k38}No{\k0} {\k42}child{\k0} {\k28}left{\k0} {\k60}unarmed{\k0} {\k0}—{\k0} {\k42}what{\k0} {\k6}a{\k0} {\k44}joke
+Dialogue: 0,0:01:06.71,0:01:09.89,Default,,0,0,0,,{\k46}Duck{\k0} {\k18}and{\k0} {\k46}cover{\k0} {\k20}when{\k0} {\k16}the{\k0} {\k72}system's{\k0} {\k42}broke
+Dialogue: 0,0:01:10.92,0:01:14.04,Default,,0,0,0,,{\k22}Armed{\k0} {\k20}with{\k0} {\k48}fear{\k0} {\k10}and{\k0} {\k72}classroom{\k0} {\k50}drills
+Dialogue: 0,0:01:14.52,0:01:18.87,Default,,0,0,0,,{\k22}We{\k0} {\k40}raise{\k0} {\k12}our{\k0} {\k42}kids{\k0} {\k34}for{\k0} {\k205}battlefields
+Dialogue: 0,0:01:35.11,0:01:36.89,Default,,0,0,0,,{\k52}Active{\k0} {\k44}shooter{\k0},{\k0} {\k34}lesson{\k0} {\k30}three
+Dialogue: 0,0:01:37.13,0:01:38.87,Default,,0,0,0,,{\k52}Alongside{\k0} {\k26}math{\k0} {\k14}and{\k0} {\k64}history
+Dialogue: 0,0:01:39.15,0:01:40.88,Default,,0,0,0,,{\k42}Tiny{\k0} {\k26}hands{\k0} {\k18}now{\k0} {\k40}clutching{\k0} {\k28}steel
+Dialogue: 0,0:01:41.02,0:01:42.92,Default,,0,0,0,,{\k0}‘{\k10}Cause{\k0} {\k42}safety{\k0}’{\k5}s{\k0} {\k21}just{\k0} {\k6}a{\k0} {\k32}brand{\k0} {\k18}new{\k0} {\k30}deal
+Dialogue: 0,0:01:43.14,0:01:45.04,Default,,0,0,0,,{\k38}Lobby{\k0} {\k36}cash{\k0} {\k10}and{\k0} {\k52}blood{\k0}-{\k5}stained{\k0} {\k33}ties
+Dialogue: 0,0:01:45.24,0:01:47.05,Default,,0,0,0,,{\k24}Feed{\k0} {\k10}the{\k0} {\k40}lie{\k0} {\k12}that{\k0} {\k28}never{\k0} {\k36}dies
+Dialogue: 0,0:01:47.29,0:01:49.25,Default,,0,0,0,,{\k22}Rights{\k0} {\k18}for{\k0} {\k24}guns{\k0} {\k14}but{\k0} {\k18}not{\k0} {\k26}for{\k0} {\k50}youth
+Dialogue: 0,0:01:49.27,0:01:52.67,Default,,0,0,0,,{\k36}Another{\k0} {\k34}corpse{\k0},{\k0} {\k40}another{\k0} {\k184}truth
+Dialogue: 0,0:01:52.67,0:01:54.72,Default,,0,0,0,,{\k32}No{\k0} {\k26}child{\k0} {\k16}left{\k0} {\k32}unarmed{\k0} {\k0}—{\k0} {\k28}say{\k0} {\k8}it{\k0} {\k28}loud
+Dialogue: 0,0:01:54.94,0:01:56.78,Default,,0,0,0,,{\k46}Marching{\k0} {\k48}blindly{\k0} {\k16}with{\k0} {\k16}the{\k0} {\k34}crowd
+Dialogue: 0,0:01:57.00,0:01:58.78,Default,,0,0,0,,{\k36}Bullet{\k0} {\k28}points{\k0} {\k8}in{\k0} {\k46}lesson{\k0} {\k36}plans
+Dialogue: 0,0:01:59.00,0:02:00.85,Default,,0,0,0,,{\k22}Brought{\k0} {\k12}to{\k0} {\k20}you{\k0} {\k18}by{\k0} {\k54}gun{\k0}-{\k5}slinging{\k0} {\k35}clans
+Dialogue: 0,0:02:01.11,0:02:02.91,Default,,0,0,0,,{\k16}No{\k0} {\k26}child{\k0} {\k16}left{\k0} {\k32}unarmed{\k0} {\k0}—{\k0} {\k20}this{\k0} {\k14}ain't{\k0} {\k32}peace
+Dialogue: 0,0:02:03.01,0:02:05.07,Default,,0,0,0,,{\k10}It's{\k0} {\k4}a{\k0} {\k38}cycle{\k0} {\k18}that{\k0} {\k26}will{\k0} {\k30}never{\k0} {\k36}cease
+Dialogue: 0,0:02:05.29,0:02:07.10,Default,,0,0,0,,{\k30}Prayers{\k0} {\k8}on{\k0} {\k40}paper{\k0},{\k0} {\k34}stained{\k0} {\k12}in{\k0} {\k22}red
+Dialogue: 0,0:02:07.34,0:02:09.14,Default,,0,0,0,,{\k20}More{\k0} {\k70}statistics{\k0},{\k0} {\k20}more{\k0} {\k26}kids{\k0} {\k30}dead
+Dialogue: 0,0:02:09.52,0:02:11.18,Default,,0,0,0,,{\k0}"{\k14}Arm{\k0} {\k10}the{\k0} {\k56}teachers{\k0}!"{\k0} {\k0}—{\k0} {\k18}they{\k0} {\k14}all{\k0} {\k28}cheer
+Dialogue: 0,0:02:11.36,0:02:13.21,Default,,0,0,0,,{\k10}But{\k0} {\k12}won{\k0}’{\k18}t{\k0} {\k5}fund{\k0} {\k22}books{\k0} {\k22}year{\k0} {\k26}after{\k0} {\k34}year
+Dialogue: 0,0:02:13.49,0:02:15.23,Default,,0,0,0,,{\k42}Hallway{\k0} {\k36}heroes{\k0},{\k0} {\k22}chalk{\k0} {\k10}outline{\k0} {\k26}fate
+Dialogue: 0,0:02:15.51,0:02:17.53,Default,,0,0,0,,{\k40}America{\k0},{\k0} {\k14}you{\k0} {\k50}educate{\k0} {\k20}with{\k0} {\k58}hate
+Dialogue: 0,0:02:18.62,0:02:20.73,Default,,0,0,0,,{\k28}No{\k0} {\k28}child{\k0} {\k20}left{\k0} {\k40}unarmed{\k0} {\k0}—{\k0} {\k20}make{\k0} {\k8}it{\k0} {\k32}trend
+Dialogue: 0,0:02:20.96,0:02:22.58,Default,,0,0,0,,{\k34}Another{\k0} {\k26}life{\k0},{\k0} {\k36}another{\k0} {\k14}end
+Dialogue: 0,0:02:22.88,0:02:25.09,Default,,0,0,0,,{\k18}We{\k0} {\k26}chant{\k0} {\k8}and{\k0} {\k42}cry{\k0} {\k12}but{\k0} {\k46}nothing's{\k0} {\k30}done
+Dialogue: 0,0:02:25.19,0:02:27.00,Default,,0,0,0,,{\k24}Except{\k0} {\k32}another{\k0} {\k58}AR{\k0} {\k6}in{\k0} {\k6}the{\k0} {\k26}sun
+Dialogue: 0,0:02:27.04,0:02:29.21,Default,,0,0,0,,{\k48}No{\k0} {\k28}child{\k0} {\k16}left{\k0} {\k34}unarmed{\k0} {\k0}—{\k0} {\k22}what{\k0} {\k8}a{\k0} {\k32}shame
+Dialogue: 0,0:02:29.43,0:02:31.14,Default,,0,0,0,,{\k46}Safety{\k0}’{\k5}s{\k0} {\k24}sold{\k0} {\k10}out{\k0} {\k16}to{\k0} {\k12}the{\k0} {\k30}game
+Dialogue: 0,0:02:31.46,0:02:33.55,Default,,0,0,0,,{\k8}If{\k0} {\k48}freedom{\k0}’{\k5}s{\k0} {\k22}just{\k0} {\k4}a{\k0} {\k60}smoking{\k0} {\k28}gun{\k0}…
+Dialogue: 0,0:02:33.73,0:02:35.17,Default,,0,0,0,,{\k12}Then{\k0} {\k20}tell{\k0} {\k12}me{\k0} {\k16}who{\k0} {\k18}the{\k0} {\k14}hell{\k0} {\k8}has{\k0} {\k3}won{\k0}?

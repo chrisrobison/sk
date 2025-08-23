@@ -1,19 +1,47 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.97,0:00:31.54,Default,,0,0,0,,Cult of personality tyrants\\NWith platforms built on defiance\\NOne tweets while democracy dies\\NThe other spews nationalist lies\\NMedia moguls and tech kings\\NManipulating the puppet strings\\NWealth as their measure of worth\\NAs they plunder what\'s left of the earth
-Dialogue: 0,0:00:07.97,0:02:06.29,Default,,0,0,0,,Truth decays, truth decays\\NTruth decays, truth decays
-Dialogue: 0,0:00:07.97,0:00:57.57,Default,,0,0,0,,Oligarchs in power suits\\NFeeding lies to their recruits\\NDemocracy hangs by a thread\\NWhile propaganda fills your head
-Dialogue: 0,0:00:07.97,0:02:06.29,Default,,0,0,0,,Truth decays, truth decays\\NTruth decays, truth decays
+
+Dialogue: 0,0:00:06.44,0:00:09.15,Default,,0,0,0,,{\k42}Cult{\k0} {\k8}of{\k0} {\k130}personality{\k0} {\k48}tyrants
+Dialogue: 0,0:00:09.27,0:00:12.29,Default,,0,0,0,,{\k26}With{\k0} {\k84}platforms{\k0} {\k32}built{\k0} {\k12}on{\k0} {\k68}defiance
+Dialogue: 0,0:00:12.55,0:00:15.48,Default,,0,0,0,,{\k20}One{\k0} {\k32}tweets{\k0} {\k72}while{\k0} {\k90}democracy{\k0} {\k46}dies
+Dialogue: 0,0:00:15.84,0:00:18.76,Default,,0,0,0,,{\k18}The{\k0} {\k22}other{\k0} {\k40}spews{\k0} {\k130}nationalist{\k0} {\k48}lies
+Dialogue: 0,0:00:19.30,0:00:21.89,Default,,0,0,0,,{\k56}Media{\k0} {\k94}moguls{\k0} {\k12}and{\k0} {\k30}tech{\k0} {\k44}kings
+Dialogue: 0,0:00:22.27,0:00:25.19,Default,,0,0,0,,{\k160}Manipulating{\k0} {\k10}the{\k0} {\k50}puppet{\k0} {\k54}strings
+Dialogue: 0,0:00:25.73,0:00:28.52,Default,,0,0,0,,{\k54}Wealth{\k0} {\k16}as{\k0} {\k28}their{\k0} {\k46}measure{\k0} {\k8}of{\k0} {\k38}worth
+Dialogue: 0,0:00:28.62,0:00:32.06,Default,,0,0,0,,{\k6}As{\k0} {\k14}they{\k0} {\k68}plunder{\k0} {\k34}what's{\k0} {\k36}left{\k0} {\k12}of{\k0} {\k16}the{\k0} {\k74}earth
+Dialogue: 0,0:00:32.06,0:00:34.93,Default,,0,0,0,,{\k76}Unchecked{\k0} {\k62}power{\k0},{\k0} {\k78}dangerous{\k0} {\k36}game
+Dialogue: 0,0:00:35.33,0:00:38.13,Default,,0,0,0,,{\k30}Free{\k0} {\k42}speech{\k0} {\k72}twisted{\k0},{\k0} {\k36}never{\k0} {\k20}the{\k0} {\k36}same
+Dialogue: 0,0:00:38.63,0:00:41.34,Default,,0,0,0,,{\k24}The{\k0} {\k70}public{\k0} {\k80}discourse{\k0} {\k10}in{\k0} {\k48}flames
+Dialogue: 0,0:00:41.80,0:00:45.51,Default,,0,0,0,,{\k24}While{\k0} {\k22}they{\k0} {\k58}absolve{\k0} {\k74}themselves{\k0} {\k12}of{\k0} {\k44}blame{\k0}[{\k69}Chorus{\k0}]
+Dialogue: 0,0:00:45.51,0:00:47.67,Default,,0,0,0,,{\k79}Oligarchs{\k0} {\k14}in{\k0} {\k52}power{\k0} {\k36}suits
+Dialogue: 0,0:00:48.29,0:00:50.83,Default,,0,0,0,,{\k52}Feeding{\k0} {\k50}lies{\k0} {\k32}to{\k0} {\k40}their{\k0} {\k48}recruits
+Dialogue: 0,0:00:51.29,0:00:54.22,Default,,0,0,0,,{\k136}Democracy{\k0} {\k32}hangs{\k0} {\k42}by{\k0} {\k4}a{\k0} {\k44}thread
+Dialogue: 0,0:00:54.36,0:00:57.66,Default,,0,0,0,,{\k36}While{\k0} {\k150}propaganda{\k0} {\k40}fills{\k0} {\k32}your{\k0} {\k40}head
+Dialogue: 0,0:00:57.70,0:01:03.12,Default,,0,0,0,,{\k150}Truth{\k0} {\k92}decays{\k0},{\k0} {\k46}truth{\k0} {\k62}decays
+Dialogue: 0,0:01:05.31,0:01:10.27,Default,,0,0,0,,{\k36}Truth{\k0} {\k68}decays{\k0},{\k0} {\k38}truth{\k0} {\k131}decays
+Dialogue: 0,0:01:11.14,0:01:13.91,Default,,0,0,0,,{\k76}Silicon{\k0} {\k86}Valley{\k0} {\k100}billionaires
+Dialogue: 0,0:01:14.47,0:01:17.13,Default,,0,0,0,,{\k92}Manipulate{\k0} {\k12}the{\k0} {\k34}truth{\k0},{\k0} {\k20}no{\k0} {\k14}one{\k0} {\k46}cares
+Dialogue: 0,0:01:17.91,0:01:20.52,Default,,0,0,0,,{\k52}Media{\k0} {\k70}empires{\k0} {\k20}bought{\k0} {\k12}and{\k0} {\k44}sold
+Dialogue: 0,0:01:20.98,0:01:23.64,Default,,0,0,0,,{\k62}Attention{\k0} {\k40}spans{\k0} {\k74}controlled{\k0} {\k8}and{\k0} {\k54}trolled
+Dialogue: 0,0:01:24.34,0:01:27.08,Default,,0,0,0,,{\k50}Corporate{\k0} {\k54}kings{\k0} {\k28}with{\k0} {\k46}golden{\k0} {\k54}thrones
+Dialogue: 0,0:01:27.64,0:01:30.11,Default,,0,0,0,,{\k32}Clutching{\k0} {\k32}tight{\k0} {\k30}to{\k0} {\k40}their{\k0} {\k90}smartphones
+Dialogue: 0,0:01:30.65,0:01:33.39,Default,,0,0,0,,{\k10}The{\k0} {\k74}people's{\k0} {\k34}voice{\k0} {\k36}grows{\k0} {\k24}ever{\k0} {\k32}weak
+Dialogue: 0,0:01:33.71,0:01:38.50,Default,,0,0,0,,{\k34}As{\k0} {\k72}platforms{\k0} {\k82}censor{\k0} {\k48}who{\k0} {\k64}can{\k0} {\k118}speak
+Dialogue: 0,0:01:39.71,0:01:42.23,Default,,0,0,0,,{\k14}The{\k0} {\k126}constitution{\k0} {\k54}gathering{\k0} {\k40}dust
+Dialogue: 0,0:01:42.82,0:01:45.32,Default,,0,0,0,,{\k38}While{\k0} {\k10}we're{\k0} {\k54}told{\k0} {\k18}who{\k0} {\k8}to{\k0} {\k28}fear{\k0} {\k10}and{\k0} {\k38}trust
+Dialogue: 0,0:01:46.16,0:01:48.56,Default,,0,0,0,,{\k92}Algorithms{\k0} {\k34}shape{\k0} {\k31}the{\k0} {\k31}narrative{\k0} {\k40}flow
+Dialogue: 0,0:01:49.08,0:01:53.05,Default,,0,0,0,,{\k40}Tell{\k0} {\k24}me{\k0},{\k0} {\k42}how{\k0} {\k26}low{\k0} {\k10}can{\k0} {\k26}we{\k0} {\k176}go{\k0}?
+Dialogue: 0,0:01:53.07,0:01:54.61,Default,,0,0,0,,{\k36}Oligarchs{\k0} {\k16}in{\k0} {\k50}power{\k0} {\k38}suits
+Dialogue: 0,0:01:55.33,0:01:57.60,Default,,0,0,0,,{\k38}Feeding{\k0} {\k22}lies{\k0} {\k30}to{\k0} {\k40}their{\k0} {\k52}recruits
+Dialogue: 0,0:01:58.06,0:02:00.88,Default,,0,0,0,,{\k132}Democracy{\k0} {\k32}hangs{\k0} {\k26}by{\k0} {\k2}a{\k0} {\k24}thread
+Dialogue: 0,0:02:01.06,0:02:04.91,Default,,0,0,0,,{\k36}While{\k0} {\k150}propaganda{\k0} {\k28}fills{\k0} {\k34}your{\k0} {\k92}head
+Dialogue: 0,0:02:04.93,0:02:19.93,Default,,0,0,0,,{\k118}Truth{\k0} {\k12}decays{\k0},{\k0} {\k34}truth{\k0} {\k456}decays
+Dialogue: 0,0:02:19.95,0:02:20.13,Default,,0,0,0,,{\k3}Truth{\k0} {\k3}decays{\k0},{\k0} {\k3}truth{\k0} {\k3}decays

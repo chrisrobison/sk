@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.54,0:00:03.12,Default,,0,0,0,,{\k18}I{\k0} {\k20}woke{\k0} {\k8}up{\k0} {\k36}early{\k0} {\k14}with{\k0} {\k12}my{\k0} {\k46}cereal{\k0} {\k46}smile{\k0},
+Dialogue: 0,0:00:03.16,0:00:05.86,Default,,0,0,0,,{\k60}Turned{\k0} {\k6}on{\k0} {\k8}the{\k0} {\k36}tube{\k0} {\k12}and{\k0} {\k34}stared{\k0} {\k16}for{\k0} {\k4}a{\k0} {\k40}while{\k0}.
+Dialogue: 0,0:00:05.90,0:00:08.85,Default,,0,0,0,,{\k58}No{\k0} {\k38}LeVar{\k0} {\k60}Burton{\k0},{\k0} {\k28}no{\k0} {\k30}Reading{\k0} {\k54}Rainbow{\k0}.
+Dialogue: 0,0:00:08.89,0:00:11.85,Default,,0,0,0,,{\k40}No{\k0} {\k14}more{\k0} {\k70}surprises{\k0} {\k6}on{\k0} {\k8}the{\k0} {\k46}Antiques{\k0} {\k62}Roadshow{\k0}.
+Dialogue: 0,0:00:11.93,0:00:14.31,Default,,0,0,0,,{\k16}Where{\k0} {\k12}did{\k0} {\k20}Bob{\k0} {\k28}Ross{\k0} {\k18}go{\k0} {\k14}with{\k0} {\k12}his{\k0} {\k42}happy{\k0} {\k46}trees{\k0}?
+Dialogue: 0,0:00:14.37,0:00:17.18,Default,,0,0,0,,{\k16}No{\k0} {\k16}more{\k0} {\k62}educational{\k0} {\k16}shows{\k0},{\k0} {\k32}teaching{\k0} {\k30}me{\k0} {\k34}about{\k0} {\k36}bees{\k0}.
+Dialogue: 0,0:00:17.23,0:00:19.74,Default,,0,0,0,,{\k10}And{\k0} {\k6}the{\k0} {\k20}guy{\k0} {\k44}from{\k0} {\k14}Zoom{\k0} {\k12}who{\k0} {\k12}used{\k0} {\k8}to{\k0} {\k36}shout{\k0} {\k0}“{\k46}Ayo{\k0}!”
+Dialogue: 0,0:00:19.100,0:00:23.69,Default,,0,0,0,,{\k10}Is{\k0} {\k14}now{\k0} {\k30}looking{\k0} {\k18}for{\k0} {\k6}a{\k0} {\k24}job{\k0} {\k14}at{\k0} {\k64}Trader{\k0} {\k140}Joe{\k0}’{\k5}s{\k0}.
+Dialogue: 0,0:00:24.75,0:00:26.100,Default,,0,0,0,,{\k32}This{\k0} {\k52}program{\k0} {\k12}was{\k0} {\k24}brought{\k0} {\k28}to{\k0} {\k10}you{\k0} {\k40}by
+Dialogue: 0,0:00:27.04,0:00:28.32,Default,,0,0,0,,{\k18}The{\k0} {\k32}letters{\k0} {\k4}F{\k0} {\k6}and{\k0} {\k18}U{\k0}!
+Dialogue: 0,0:00:28.52,0:00:29.66,Default,,0,0,0,,{\k8}And{\k0} {\k48}viewers{\k0} {\k16}like{\k0} {\k24}me{\k0}?
+Dialogue: 0,0:00:29.72,0:00:31.16,Default,,0,0,0,,{\k18}Well{\k0},{\k0} {\k14}we{\k0} {\k20}got{\k0} {\k38}screwed{\k0} {\k40}too{\k0}.
+Dialogue: 0,0:00:31.44,0:00:33.96,Default,,0,0,0,,{\k22}They{\k0} {\k26}told{\k0} {\k42}us{\k0} {\k18}lies{\k0},{\k0} {\k22}We{\k0} {\k22}took{\k0} {\k14}the{\k0} {\k38}bait
+Dialogue: 0,0:00:34.08,0:00:36.77,Default,,0,0,0,,{\k16}They{\k0} {\k14}just{\k0} {\k34}wanted{\k0} {\k4}a{\k0} {\k62}bigger{\k0} {\k34}piece{\k0} {\k16}of{\k0} {\k44}cake{\k0},
+Dialogue: 0,0:00:36.85,0:00:39.03,Default,,0,0,0,,{\k16}They{\k0} {\k26}stole{\k0} {\k40}Mr{\k0}.{\k0} {\k126}Rogers
+Dialogue: 0,0:00:39.45,0:00:41.85,Default,,0,0,0,,{\k18}Just{\k0} {\k10}to{\k0} {\k30}keep{\k0} {\k30}their{\k0} {\k20}tax{\k0} {\k68}break{\k0}!
+Dialogue: 0,0:00:41.93,0:00:43.66,Default,,0,0,0,,{\k30}Big{\k0} {\k28}Bird{\k0}’{\k34}s{\k0} {\k5}flipping{\k0} {\k67}fries{\k0},
+Dialogue: 0,0:00:43.68,0:00:44.82,Default,,0,0,0,,{\k36}Kermit{\k0}’{\k5}s{\k0} {\k8}in{\k0} {\k58}disguise{\k0},
+Dialogue: 0,0:00:45.10,0:00:46.46,Default,,0,0,0,,{\k32}Oscar's{\k0} {\k22}got{\k0} {\k6}a{\k0} {\k66}podcast
+Dialogue: 0,0:00:46.48,0:00:47.86,Default,,0,0,0,,{\k16}Just{\k0} {\k44}ranting{\k0} {\k8}at{\k0} {\k10}the{\k0} {\k38}skies{\k0}.
+Dialogue: 0,0:00:47.90,0:00:48.96,Default,,0,0,0,,{\k52}PBS{\k0} {\k8}is{\k0} {\k36}gone{\k0},
+Dialogue: 0,0:00:49.34,0:00:50.26,Default,,0,0,0,,{\k50}NPR's{\k0} {\k10}in{\k0} {\k28}debt{\k0}—
+Dialogue: 0,0:00:50.48,0:00:51.69,Default,,0,0,0,,{\k16}They{\k0} {\k16}may{\k0} {\k12}have{\k0} {\k16}been{\k0} {\k46}defunded{\k0},
+Dialogue: 0,0:00:51.71,0:00:53.31,Default,,0,0,0,,{\k14}But{\k0} {\k22}they're{\k0} {\k18}not{\k0} {\k30}gone{\k0} {\k54}yet{\k0}.
+Dialogue: 0,0:00:57.86,0:01:00.62,Default,,0,0,0,,{\k34}Where{\k0} {\k8}in{\k0} {\k8}the{\k0} {\k34}World{\k0} {\k6}Is{\k0} {\k32}Carmen{\k0} {\k126}Sandiego{\k0}?
+Dialogue: 0,0:01:00.74,0:01:03.33,Default,,0,0,0,,{\k38}Somewhere{\k0} {\k8}on{\k0} {\k28}hold{\k0} {\k22}with{\k0} {\k58}Wells{\k0} {\k64}Fargo{\k0}.
+Dialogue: 0,0:01:03.61,0:01:05.83,Default,,0,0,0,,{\k28}Arthur{\k0} {\k14}got{\k0} {\k46}canceled{\k0} {\k12}for{\k0} {\k48}pushing{\k0} {\k52}respect{\k0},
+Dialogue: 0,0:01:06.19,0:01:08.91,Default,,0,0,0,,{\k8}And{\k0} {\k14}now{\k0} {\k18}there{\k0}’{\k5}s{\k0} {\k2}a{\k0} {\k28}show{\k0} {\k18}called{\k0} {\k26}Tax{\k0} {\k34}Credits{\k0} {\k10}for{\k0} {\k64}Pets{\k0}.
+Dialogue: 0,0:01:08.93,0:01:11.52,Default,,0,0,0,,{\k18}They{\k0} {\k28}fired{\k0} {\k30}Carl{\k0} {\k34}Castle{\k0},{\k0} {\k22}stole{\k0} {\k8}his{\k0} {\k16}voice{\k0} {\k16}for{\k0} {\k8}an{\k0} {\k18}ad{\k0}—
+Dialogue: 0,0:01:11.58,0:01:14.26,Default,,0,0,0,,{\k16}Now{\k0} {\k10}he{\k0} {\k28}reads{\k0} {\k80}disclaimers{\k0} {\k14}for{\k0} {\k50}Crypto{\k0} {\k40}Dad{\k0}.
+Dialogue: 0,0:01:14.30,0:01:16.98,Default,,0,0,0,,{\k38}And{\k0} {\k8}Clifford{\k0} {\k10}the{\k0} {\k30}Big{\k0} {\k28}Red{\k0} {\k34}Dog{\k0}’{\k5}s{\k0} {\k20}now{\k0} {\k36}gray{\k0}.
+Dialogue: 0,0:01:17.02,0:01:20.18,Default,,0,0,0,,{\k44}Because{\k0} {\k32}kids{\k0} {\k30}don't{\k0} {\k30}read{\k0},{\k0} {\k24}they{\k0} {\k56}scroll{\k0} {\k16}all{\k0} {\k14}day{\k0}.
+Dialogue: 0,0:01:20.68,0:01:21.47,Default,,0,0,0,,{\k0}“{\k8}Why{\k0} {\k6}did{\k0} {\k8}they{\k0} {\k32}cut{\k0} {\k16}it{\k0}?”
+Dialogue: 0,0:01:21.48,0:01:23.31,Default,,0,0,0,,{\k24}Too{\k0} {\k152}educational{\k0}.
+Dialogue: 0,0:01:23.33,0:01:24.35,Default,,0,0,0,,{\k0}“{\k10}But{\k0} {\k5}it{\k0} {\k23}was{\k0} {\k58}free{\k0}?”
+Dialogue: 0,0:01:24.37,0:01:24.60,Default,,0,0,0,,{\k18}Too{\k0} {\k5}inspirational{\k0}.
+Dialogue: 0,0:01:24.60,0:01:24.85,Default,,0,0,0,,{\k0}“{\k5}But{\k0} {\k5}it{\k0} {\k5}helped{\k0} {\k5}kids{\k0} {\k5}learn{\k0}!”
+Dialogue: 0,0:01:24.85,0:01:25.61,Default,,0,0,0,,{\k5}That{\k0}’{\k5}s{\k0} {\k5}not{\k0} {\k61}profitable{\k0}.
+Dialogue: 0,0:01:25.61,0:01:25.86,Default,,0,0,0,,{\k0}“{\k5}So{\k0} {\k5}what{\k0} {\k5}do{\k0} {\k5}we{\k0} {\k5}get{\k0}?”
+Dialogue: 0,0:01:25.86,0:01:26.06,Default,,0,0,0,,{\k5}Nothing{\k0}!{\k0} {\k5}Stop{\k0} {\k5}being{\k0} {\k5}intolerable{\k0}!{\k0} 
+Dialogue: 0,0:01:26.06,0:01:26.41,Default,,0,0,0,,{\k5}This{\k0} {\k5}message{\k0} {\k5}was{\k0} {\k5}brought{\k0} {\k5}to{\k0} {\k5}you{\k0} {\k5}by
+Dialogue: 0,0:01:26.41,0:01:26.66,Default,,0,0,0,,{\k5}The{\k0} {\k5}letters{\k0} {\k5}W{\k0} {\k5}T{\k0} {\k5}F{\k0}!
+Dialogue: 0,0:01:26.66,0:01:26.86,Default,,0,0,0,,{\k5}Our{\k0} {\k5}alphabet{\k0}’{\k5}s{\k0} {\k5}shrinking{\k0}—
+Dialogue: 0,0:01:26.86,0:01:27.21,Default,,0,0,0,,{\k5}We{\k0}’{\k5}re{\k0} {\k5}down{\k0} {\k5}to{\k0} {\k5}just{\k0} {\k5}F{\k0}’{\k5}s{\k0}.
+Dialogue: 0,0:01:27.21,0:01:27.41,Default,,0,0,0,,{\k5}P{\k0} {\k5}is{\k0} {\k5}for{\k0} {\k5}panic{\k0},
+Dialogue: 0,0:01:27.41,0:01:27.61,Default,,0,0,0,,{\k5}B{\k0} {\k5}is{\k0} {\k5}for{\k0} {\k5}broke{\k0},
+Dialogue: 0,0:01:27.61,0:01:27.81,Default,,0,0,0,,{\k5}S{\k0} {\k5}is{\k0} {\k5}for{\k0} {\k5}Sesame{\k0}—
+Dialogue: 0,0:01:27.81,0:01:48.81,Default,,0,0,0,,{\k0}({\k5}Just{\k0} {\k856}kidding{\k0},{\k0} {\k922}that{\k0}’{\k5}s{\k0} {\k132}toast{\k0}.)
+Dialogue: 0,0:01:48.81,0:01:51.69,Default,,0,0,0,,{\k44}Elmo{\k0}’{\k5}s{\k0} {\k29}doing{\k0} {\k66}TikToks{\k0} {\k20}For{\k0} {\k18}old{\k0} {\k20}men{\k0} {\k8}in{\k0} {\k34}suits{\k0},
+Dialogue: 0,0:01:52.01,0:01:54.48,Default,,0,0,0,,{\k38}Julia{\k0}’{\k24}s{\k0} {\k16}been{\k0} {\k44}replaced{\k0} {\k16}By{\k0} {\k62}AI{\k0} {\k18}recruits{\k0}.
+Dialogue: 0,0:01:54.54,0:01:57.46,Default,,0,0,0,,{\k38}Maria{\k0}’{\k50}s{\k0} {\k40}gone{\k0},{\k0} {\k44}Luis{\k0} {\k28}got{\k0} {\k36}bought{\k0}—
+Dialogue: 0,0:01:57.46,0:01:59.34,Default,,0,0,0,,{\k5}And{\k0} {\k24}Grover{\k0}’{\k32}s{\k0} {\k22}just{\k0} {\k66}selling
+Dialogue: 0,0:02:00.02,0:02:04.33,Default,,0,0,0,,{\k26}Supplements{\k0} {\k24}he{\k0} {\k6}definitely{\k0} {\k304}forgot{\k0}.
+Dialogue: 0,0:02:04.43,0:02:05.37,Default,,0,0,0,,{\k16}Goodnight{\k0} {\k40}Moon{\k0},
+Dialogue: 0,0:02:05.81,0:02:06.75,Default,,0,0,0,,{\k18}Goodnight{\k0} {\k36}hope{\k0},
+Dialogue: 0,0:02:07.21,0:02:08.43,Default,,0,0,0,,{\k18}Goodnight{\k0} {\k28}Bill{\k0} {\k32}Nye
+Dialogue: 0,0:02:08.85,0:02:10.37,Default,,0,0,0,,{\k8}And{\k0} {\k10}the{\k0} {\k40}Antiques{\k0} {\k68}Roadshow{\k0}.
+Dialogue: 0,0:02:10.39,0:02:11.45,Default,,0,0,0,,{\k14}Goodnight{\k0} {\k22}Big{\k0} {\k38}Bird{\k0},
+Dialogue: 0,0:02:11.73,0:02:13.07,Default,,0,0,0,,{\k16}Goodnight{\k0} {\k80}Frontline{\k0},
+Dialogue: 0,0:02:13.13,0:02:14.44,Default,,0,0,0,,{\k16}I{\k0}’{\k5}ll{\k0} {\k15}see{\k0} {\k12}you{\k0} {\k14}all{\k0} {\k46}again
+Dialogue: 0,0:02:14.46,0:02:18.24,Default,,0,0,0,,{\k4}In{\k0}...{\k0} {\k68}privatized{\k0} {\k68}time{\k0}.
+Dialogue: 0,0:02:20.75,0:02:27.40,Default,,0,0,0,,{\k0}“{\k42}Today{\k0}’{\k5}s{\k0} {\k46}show{\k0} {\k18}was{\k0} {\k24}made{\k0} {\k56}possible{\k0} {\k38}by{\k0}…{\k0} {\k237}absolutely{\k0} {\k30}no{\k0} {\k50}one{\k0}.”

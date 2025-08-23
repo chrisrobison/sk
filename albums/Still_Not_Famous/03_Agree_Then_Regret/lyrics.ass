@@ -1,22 +1,48 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.76,0:00:23.45,Default,,0,0,0,,Lines of text we never check\\NScroll and tap without regret\\NContract ink that\'s dry and cold\\NSold our souls or so we\'re told
-Dialogue: 0,0:00:07.76,0:00:53.69,Default,,0,0,0,,Promises they\'ll never keep\\NPaper walls around our heads\\NHoping nothing will be said\\NSign your name just press agree\\NNever read a word they write\\NClick OK so easily\\NDid you ever ask why
-Dialogue: 0,0:00:07.76,0:01:01.22,Default,,0,0,0,,Whoa oh oh oh
-Dialogue: 0,0:00:07.76,0:01:18.97,Default,,0,0,0,,Pages long in legalese\\NPromises beneath the fees\\NScroll right to the end, we\'re blind\\NStuck, but say we\'re doing fine
-Dialogue: 0,0:00:07.76,0:01:32.80,Default,,0,0,0,,Clicking faster than we think\\NTrapped in digital routines\\NSwept away by all the screens
-Dialogue: 0,0:00:07.76,0:00:53.69,Default,,0,0,0,,Sign your name just press agree\\NNever read a word they write\\NClick OK so easily\\NDid you ever ask why
-Dialogue: 0,0:00:07.76,0:01:01.22,Default,,0,0,0,,Whoa oh oh oh
+
+Dialogue: 0,0:00:07.64,0:00:07.67,Default,,0,0,0,,{\k0}[{\k3}Start{\k0}]
+Dialogue: 0,0:00:07.69,0:00:07.77,Default,,0,0,0,,{\k0}[{\k3}Verse{\k0} {\k3}1{\k0}]
+Dialogue: 0,0:00:07.79,0:00:10.12,Default,,0,0,0,,{\k40}Lines{\k0} {\k4}of{\k0} {\k34}text{\k0} {\k20}we{\k0} {\k42}never{\k0} {\k54}check
+Dialogue: 0,0:00:12.26,0:00:14.62,Default,,0,0,0,,{\k44}Scroll{\k0} {\k8}and{\k0} {\k36}tap{\k0} {\k50}without{\k0} {\k86}regret
+Dialogue: 0,0:00:16.80,0:00:19.11,Default,,0,0,0,,{\k64}Contract{\k0} {\k14}ink{\k0} {\k20}that's{\k0} {\k34}dry{\k0} {\k10}and{\k0} {\k64}cold
+Dialogue: 0,0:00:21.23,0:00:23.51,Default,,0,0,0,,{\k32}Sold{\k0} {\k10}our{\k0} {\k30}souls{\k0} {\k10}or{\k0} {\k28}so{\k0} {\k14}we're{\k0} {\k58}told
+Dialogue: 0,0:00:23.85,0:00:25.50,Default,,0,0,0,,{\k0}[{\k66}Pre{\k0}-{\k74}Chorus{\k0}]
+Dialogue: 0,0:00:25.68,0:00:28.16,Default,,0,0,0,,{\k82}Promises{\k0} {\k26}they'll{\k0} {\k40}never{\k0} {\k76}keep
+Dialogue: 0,0:00:28.18,0:00:29.94,Default,,0,0,0,,{\k24}Bury{\k0} {\k6}risks{\k0} {\k26}before{\k0} {\k8}we{\k0} {\k42}sleep
+Dialogue: 0,0:00:30.18,0:00:33.34,Default,,0,0,0,,{\k48}Paper{\k0} {\k32}walls{\k0} {\k40}around{\k0} {\k12}our{\k0} {\k144}heads
+Dialogue: 0,0:00:34.51,0:00:37.45,Default,,0,0,0,,{\k56}Hoping{\k0} {\k50}nothing{\k0} {\k28}will{\k0} {\k16}be{\k0} {\k120}said
+Dialogue: 0,0:00:37.45,0:00:37.81,Default,,0,0,0,,{\k0}[{\k36}Chorus{\k0}]
+Dialogue: 0,0:00:37.83,0:00:41.13,Default,,0,0,0,,{\k34}Sign{\k0} {\k20}your{\k0} {\k50}name{\k0} {\k54}just{\k0} {\k38}press{\k0} {\k62}agree
+Dialogue: 0,0:00:41.20,0:00:45.70,Default,,0,0,0,,{\k166}Never{\k0} {\k56}read{\k0} {\k10}a{\k0} {\k48}word{\k0} {\k44}they{\k0} {\k58}write
+Dialogue: 0,0:00:46.76,0:00:49.95,Default,,0,0,0,,{\k30}Click{\k0} {\k26}OK{\k0} {\k50}so{\k0} {\k76}easily
+Dialogue: 0,0:00:49.98,0:00:52.92,Default,,0,0,0,,{\k156}Did{\k0} {\k22}you{\k0} {\k58}ever{\k0} {\k22}ask{\k0} {\k5}why
+Dialogue: 0,0:00:52.93,0:00:53.88,Default,,0,0,0,,{\k0}[{\k90}Post{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:54.61,0:00:56.05,Default,,0,0,0,,{\k90}Whoa{\k0} {\k18}oh{\k0} {\k18}oh{\k0} {\k18}oh
+Dialogue: 0,0:00:56.05,0:00:59.94,Default,,0,0,0,,{\k18}Whoa{\k0} {\k78}oh{\k0} {\k54}oh{\k0} {\k34}oh
+Dialogue: 0,0:01:01.14,0:01:01.36,Default,,0,0,0,,{\k0}[{\k10}Verse{\k0} {\k10}2{\k0}]
+Dialogue: 0,0:01:03.38,0:01:05.60,Default,,0,0,0,,{\k50}Pages{\k0} {\k42}long{\k0} {\k12}in{\k0} {\k100}legalese
+Dialogue: 0,0:01:07.91,0:01:09.99,Default,,0,0,0,,{\k80}Promises{\k0} {\k52}beneath{\k0} {\k10}the{\k0} {\k50}fees
+Dialogue: 0,0:01:10.03,0:01:14.70,Default,,0,0,0,,{\k260}Scroll{\k0} {\k24}right{\k0} {\k24}to{\k0} {\k20}the{\k0} {\k20}end{\k0},{\k0} {\k22}we're{\k0} {\k64}blind
+Dialogue: 0,0:01:14.74,0:01:19.04,Default,,0,0,0,,{\k232}Stuck{\k0},{\k0} {\k22}but{\k0} {\k28}say{\k0} {\k22}we're{\k0} {\k46}doing{\k0} {\k56}fine
+Dialogue: 0,0:01:19.40,0:01:20.85,Default,,0,0,0,,{\k0}[{\k55}Pre{\k0}-{\k53}Chorus{\k0}]
+Dialogue: 0,0:01:21.23,0:01:23.37,Default,,0,0,0,,{\k52}Clicking{\k0} {\k54}faster{\k0} {\k20}than{\k0} {\k22}we{\k0} {\k42}think
+Dialogue: 0,0:01:23.37,0:01:26.36,Default,,0,0,0,,{\k5}Snared{\k0} {\k5}before{\k0} {\k56}we{\k0} {\k5}even{\k0} {\k5}blink
+Dialogue: 0,0:01:26.36,0:01:29.10,Default,,0,0,0,,{\k5}Trapped{\k0} {\k5}in{\k0} {\k62}digital{\k0} {\k196}routines
+Dialogue: 0,0:01:29.96,0:01:33.00,Default,,0,0,0,,{\k48}Swept{\k0} {\k32}away{\k0} {\k26}by{\k0} {\k14}all{\k0} {\k10}the{\k0} {\k126}screens
+Dialogue: 0,0:01:33.00,0:01:33.05,Default,,0,0,0,,{\k0}[{\k5}Chorus{\k0}]
+Dialogue: 0,0:01:33.40,0:01:36.71,Default,,0,0,0,,{\k32}Sign{\k0} {\k20}your{\k0} {\k52}name{\k0} {\k54}just{\k0} {\k38}press{\k0} {\k64}agree
+Dialogue: 0,0:01:36.77,0:01:41.15,Default,,0,0,0,,{\k162}Never{\k0} {\k56}read{\k0} {\k12}a{\k0} {\k50}word{\k0} {\k38}they{\k0} {\k50}write
+Dialogue: 0,0:01:42.30,0:01:45.48,Default,,0,0,0,,{\k58}Click{\k0} {\k48}OK{\k0} {\k54}so{\k0} {\k64}easily
+Dialogue: 0,0:01:45.50,0:01:49.48,Default,,0,0,0,,{\k8}Did{\k0} {\k22}you{\k0} {\k14}ever{\k0} {\k136}ask{\k0} {\k10}why
+Dialogue: 0,0:01:49.50,0:01:49.58,Default,,0,0,0,,{\k0}[{\k3}Post{\k0}-{\k3}Chorus{\k0}]
+Dialogue: 0,0:01:49.60,0:01:49.78,Default,,0,0,0,,{\k3}Whoa{\k0} {\k3}oh{\k0} {\k3}oh{\k0} {\k3}oh
+Dialogue: 0,0:01:49.80,0:01:49.98,Default,,0,0,0,,{\k3}Whoa{\k0} {\k3}oh{\k0} {\k3}oh{\k0} {\k3}oh

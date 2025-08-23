@@ -1,19 +1,49 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.27,0:00:19.04,Default,,0,0,0,,Said they\'d fix the rent, end the wars\\NDrain the swamp and clean the floors\\NBut the only thing that ever drains\\NIs hope swirling down the campaign drains
-Dialogue: 0,0:00:00.27,0:00:28.45,Default,,0,0,0,,[Chorus]\\NGrift of the Union, bait and switch\\NEvery speech, another glitch\\NThey said the truth was on their desk\\NTurns out it was just a press request
-Dialogue: 0,0:00:00.27,0:00:52.04,Default,,0,0,0,,Student debt? Still chained to that\\NHealthcare’s just a bureaucratic trap\\NAnd every time they swear “next term!”\\NThey mean next lie that we all learn
-Dialogue: 0,0:00:00.27,0:01:01.35,Default,,0,0,0,,[Chorus]\\NGrift of the Union, smile and con\\NRed or blue — same damn pawn\\NShake your hand, then rob your check\\NKiss your baby, then break your neck
+
+Dialogue: 0,0:00:00.74,0:00:02.68,Default,,0,0,0,,{\k34}Lights{\k0} {\k28}go{\k0} {\k20}down{\k0},{\k0} {\k20}cue{\k0} {\k16}the{\k0} {\k50}stage
+Dialogue: 0,0:00:03.14,0:00:04.94,Default,,0,0,0,,{\k32}Another{\k0} {\k46}savior{\k0},{\k0} {\k42}another{\k0} {\k44}cage
+Dialogue: 0,0:00:05.50,0:00:07.25,Default,,0,0,0,,{\k60}Promises{\k0} {\k12}in{\k0} {\k28}bold{\k0} {\k56}headlines
+Dialogue: 0,0:00:07.57,0:00:09.65,Default,,0,0,0,,{\k30}Fade{\k0} {\k22}to{\k0} {\k24}black{\k0} {\k28}by{\k0} {\k38}deadline{\k0} {\k36}time
+Dialogue: 0,0:00:10.19,0:00:11.99,Default,,0,0,0,,{\k18}Said{\k0} {\k12}they'd{\k0} {\k24}fix{\k0} {\k10}the{\k0} {\k18}rent{\k0},{\k0} {\k8}end{\k0} {\k12}the{\k0} {\k46}wars
+Dialogue: 0,0:00:12.57,0:00:14.37,Default,,0,0,0,,{\k20}Drain{\k0} {\k8}the{\k0} {\k28}swamp{\k0} {\k14}and{\k0} {\k24}clean{\k0} {\k12}the{\k0} {\k44}floors
+Dialogue: 0,0:00:15.01,0:00:16.77,Default,,0,0,0,,{\k10}But{\k0} {\k12}the{\k0} {\k18}only{\k0} {\k16}thing{\k0} {\k14}that{\k0} {\k28}ever{\k0} {\k46}drains
+Dialogue: 0,0:00:17.25,0:00:19.20,Default,,0,0,0,,{\k8}Is{\k0} {\k18}hope{\k0} {\k30}swirling{\k0} {\k12}down{\k0} {\k6}the{\k0} {\k42}campaign{\k0} {\k50}drains
+Dialogue: 0,0:00:19.54,0:00:21.34,Default,,0,0,0,,{\k18}Grift{\k0} {\k6}of{\k0} {\k12}the{\k0} {\k32}Union{\k0},{\k0} {\k24}bait{\k0} {\k10}and{\k0} {\k36}switch
+Dialogue: 0,0:00:21.94,0:00:23.70,Default,,0,0,0,,{\k24}Every{\k0} {\k34}speech{\k0},{\k0} {\k40}another{\k0} {\k30}glitch
+Dialogue: 0,0:00:24.22,0:00:26.06,Default,,0,0,0,,{\k18}They{\k0} {\k10}said{\k0} {\k10}the{\k0} {\k26}truth{\k0} {\k24}was{\k0} {\k8}on{\k0} {\k18}their{\k0} {\k36}desk
+Dialogue: 0,0:00:26.46,0:00:28.55,Default,,0,0,0,,{\k30}Turns{\k0} {\k12}out{\k0} {\k8}it{\k0} {\k10}was{\k0} {\k10}just{\k0} {\k2}a{\k0} {\k30}press{\k0} {\k58}request
+Dialogue: 0,0:00:28.80,0:00:30.95,Default,,0,0,0,,{\k44}Hey{\k0}!{\k0} {\k62}Hey{\k0}!{\k0} {\k26}Wave{\k0} {\k12}that{\k0} {\k34}flag{\k0}!
+Dialogue: 0,0:00:31.03,0:00:33.35,Default,,0,0,0,,{\k14}While{\k0} {\k10}they{\k0} {\k26}stuff{\k0} {\k32}your{\k0} {\k26}rights{\k0} {\k8}in{\k0} {\k2}a{\k0} {\k36}body{\k0} {\k38}bag
+Dialogue: 0,0:00:33.96,0:00:36.02,Default,,0,0,0,,{\k34}Epstein{\k0} {\k40}files{\k0}?{\k0} {\k26}Must{\k0}’{\k12}ve{\k0} {\k24}lost{\k0} {\k22}'em
+Dialogue: 0,0:00:36.10,0:00:38.49,Default,,0,0,0,,{\k12}Tucked{\k0} {\k26}behind{\k0} {\k4}a{\k0} {\k16}golf{\k0} {\k22}bag{\k0} {\k8}in{\k0} {\k38}Mar{\k0}-{\k6}a{\k0}-{\k6}Lago's{\k0} {\k66}bottom
+Dialogue: 0,0:00:38.51,0:00:40.75,Default,,0,0,0,,{\k18}Fix{\k0} {\k10}the{\k0} {\k54}economy{\k0}?{\k0} {\k22}More{\k0} {\k14}like{\k0} {\k16}fix{\k0} {\k10}the{\k0} {\k26}books
+Dialogue: 0,0:00:41.01,0:00:43.16,Default,,0,0,0,,{\k36}Smoke{\k0} {\k5}and{\k0} {\k45}mirrors{\k0},{\k0} {\k32}photo{\k0} {\k32}ops{\k0},{\k0} {\k14}dirty{\k0} {\k28}looks
+Dialogue: 0,0:00:43.38,0:00:45.56,Default,,0,0,0,,{\k34}Student{\k0} {\k48}debt{\k0}?{\k0} {\k26}Still{\k0} {\k5}chained{\k0} {\k11}to{\k0} {\k80}that
+Dialogue: 0,0:00:45.56,0:00:47.99,Default,,0,0,0,,{\k64}Healthcare{\k0}’{\k5}s{\k0} {\k21}just{\k0} {\k4}a{\k0} {\k58}bureaucratic{\k0} {\k72}trap
+Dialogue: 0,0:00:48.01,0:00:49.95,Default,,0,0,0,,{\k10}And{\k0} {\k18}every{\k0} {\k24}time{\k0} {\k18}they{\k0} {\k30}swear{\k0} {\k0}“{\k30}next{\k0} {\k34}term{\k0}!”
+Dialogue: 0,0:00:50.33,0:00:52.20,Default,,0,0,0,,{\k20}They{\k0} {\k24}mean{\k0} {\k20}next{\k0} {\k14}lie{\k0} {\k14}that{\k0} {\k12}we{\k0} {\k12}all{\k0} {\k34}learn
+Dialogue: 0,0:00:52.68,0:00:54.84,Default,,0,0,0,,{\k48}Grift{\k0} {\k5}of{\k0} {\k5}the{\k0} {\k30}Union{\k0},{\k0} {\k44}smile{\k0} {\k5}and{\k0} {\k66}con
+Dialogue: 0,0:00:54.86,0:00:56.92,Default,,0,0,0,,{\k18}Red{\k0} {\k10}or{\k0} {\k34}blue{\k0} {\k0}—{\k0} {\k24}same{\k0} {\k24}damn{\k0} {\k40}pawn
+Dialogue: 0,0:00:57.48,0:00:59.19,Default,,0,0,0,,{\k22}Shake{\k0} {\k14}your{\k0} {\k22}hand{\k0},{\k0} {\k18}then{\k0} {\k20}rob{\k0} {\k14}your{\k0} {\k32}check
+Dialogue: 0,0:00:59.77,0:01:01.53,Default,,0,0,0,,{\k20}Kiss{\k0} {\k14}your{\k0} {\k30}baby{\k0},{\k0} {\k16}then{\k0} {\k20}break{\k0} {\k14}your{\k0} {\k34}neck
+Dialogue: 0,0:01:02.15,0:01:03.94,Default,,0,0,0,,{\k0}“{\k16}We{\k0} {\k12}the{\k0} {\k32}people{\k0},”{\k0} {\k18}they{\k0} {\k20}say{\k0} {\k12}with{\k0} {\k36}flair
+Dialogue: 0,0:01:04.16,0:01:06.74,Default,,0,0,0,,{\k18}While{\k0} {\k28}auctioning{\k0} {\k10}your{\k0} {\k26}lungs{\k0} {\k16}for{\k0} {\k54}billionaire{\k0} {\k64}air
+Dialogue: 0,0:01:06.74,0:01:08.76,Default,,0,0,0,,{\k16}A{\k0} {\k18}chicken{\k0} {\k4}in{\k0} {\k18}every{\k0} {\k22}pot{\k0}?{\k0} {\k32}Maybe{\k0}...{\k0} {\k6}if{\k0} {\k12}you{\k0} {\k36}invest
+Dialogue: 0,0:01:08.96,0:01:11.57,Default,,0,0,0,,{\k8}In{\k0} {\k8}the{\k0} {\k40}lobbyist{\k0}’{\k5}s{\k0} {\k58}portfolio{\k0} {\k8}and{\k0} {\k18}wear{\k0} {\k2}a{\k0} {\k50}bulletproof{\k0} {\k10}vest
+Dialogue: 0,0:01:11.59,0:01:13.31,Default,,0,0,0,,{\k8}Grift{\k0} {\k4}of{\k0} {\k10}the{\k0} {\k28}Union{\k0},{\k0} {\k20}land{\k0} {\k10}of{\k0} {\k32}spin
+Dialogue: 0,0:01:13.93,0:01:15.65,Default,,0,0,0,,{\k32}Every{\k0} {\k18}vote{\k0}’{\k5}s{\k0} {\k3}a{\k0} {\k22}bet{\k0} {\k16}you{\k0} {\k24}won{\k0}’{\k5}t{\k0} {\k29}win
+Dialogue: 0,0:01:16.25,0:01:18.05,Default,,0,0,0,,{\k22}Hope{\k0}’{\k5}s{\k0} {\k13}for{\k0} {\k32}sale{\k0},{\k0} {\k40}freedom's{\k0} {\k34}leased
+Dialogue: 0,0:01:18.67,0:01:20.39,Default,,0,0,0,,{\k30}Another{\k0} {\k32}term{\k0},{\k0} {\k40}another{\k0} {\k46}feast
+Dialogue: 0,0:01:25.62,0:01:27.48,Default,,0,0,0,,{\k44}Hey{\k0}!{\k0} {\k18}Hey{\k0}!{\k0} {\k56}Democracy's{\k0} {\k38}play{\k0}!
+Dialogue: 0,0:01:27.50,0:01:29.86,Default,,0,0,0,,{\k32}Starring{\k0} {\k30}liars{\k0} {\k12}in{\k0} {\k28}suits{\k0} {\k20}with{\k0} {\k30}nothin'{\k0} {\k8}to{\k0} {\k36}say
+Dialogue: 0,0:01:30.36,0:01:32.13,Default,,0,0,0,,{\k18}Grift{\k0} {\k8}of{\k0} {\k8}the{\k0} {\k26}Union{\k0} {\k0}—{\k0} {\k22}lights{\k0} {\k24}go{\k0} {\k30}black
+Dialogue: 0,0:01:32.25,0:01:34.99,Default,,0,0,0,,{\k26}Curtain{\k0} {\k34}drops{\k0},{\k0} {\k18}they{\k0}’{\k5}ll{\k0} {\k21}never{\k0} {\k18}give{\k0} {\k12}it{\k0} {\k78}back{\k0}.

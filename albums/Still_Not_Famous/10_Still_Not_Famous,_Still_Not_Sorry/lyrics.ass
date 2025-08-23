@@ -1,15 +1,62 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.51,0:00:16.56,Default,,0,0,0,,{\k56}Hey{\k0}!{\k0} {\k48}Hey{\k0}!{\k0} {\k8}Hey{\k0}!{\k0} {\k10}Hey{\k0}!
+Dialogue: 0,0:00:16.63,0:00:16.93,Default,,0,0,0,,{\k0}({\k12}Spoken{\k0},{\k0} {\k14}deadpan{\k0})
+Dialogue: 0,0:00:16.96,0:00:18.65,Default,,0,0,0,,{\k16}We{\k0} {\k20}don{\k0}’{\k5}t{\k0} {\k24}need{\k0} {\k14}your{\k0} {\k58}magazine{\k0} {\k14}covers{\k0}…
+Dialogue: 0,0:00:18.75,0:00:23.71,Default,,0,0,0,,{\k127}We{\k0}’{\k34}re{\k0} {\k26}two{\k0} {\k26}chords{\k0} {\k36}shy{\k0} {\k12}of{\k0} {\k102}superstardom
+Dialogue: 0,0:00:23.87,0:00:26.25,Default,,0,0,0,,{\k14}No{\k0} {\k56}glossy{\k0} {\k38}photos{\k0},{\k0} {\k18}no{\k0} {\k42}Billboard{\k0} {\k38}chart
+Dialogue: 0,0:00:26.63,0:00:29.08,Default,,0,0,0,,{\k42}Sleeping{\k0} {\k12}on{\k0} {\k62}couches{\k0},{\k0} {\k46}playing{\k0} {\k56}basements
+Dialogue: 0,0:00:29.14,0:00:31.52,Default,,0,0,0,,{\k22}Free{\k0} {\k22}minds{\k0} {\k26}won{\k0}’{\k5}t{\k0} {\k29}bow{\k0} {\k12}to{\k0} {\k2}a{\k0} {\k56}corporate{\k0} {\k20}art
+Dialogue: 0,0:00:31.78,0:00:34.29,Default,,0,0,0,,{\k18}They{\k0} {\k18}want{\k0} {\k6}us{\k0} {\k90}clean{\k0}-{\k5}shaven{\k0},{\k0} {\k46}posing{\k0} {\k48}pretty
+Dialogue: 0,0:00:34.61,0:00:36.87,Default,,0,0,0,,{\k36}Selling{\k0} {\k12}our{\k0} {\k30}souls{\k0} {\k22}for{\k0} {\k2}a{\k0} {\k42}ten{\k0}-{\k5}year{\k0} {\k46}plan
+Dialogue: 0,0:00:37.11,0:00:39.70,Default,,0,0,0,,{\k14}But{\k0} {\k26}we{\k0}’{\k5}d{\k0} {\k24}rather{\k0} {\k38}stink{\k0} {\k12}of{\k0} {\k30}cheap{\k0} {\k78}PBR
+Dialogue: 0,0:00:39.76,0:00:42.32,Default,,0,0,0,,{\k12}Than{\k0} {\k24}sell{\k0} {\k12}our{\k0} {\k30}songs{\k0} {\k18}to{\k0} {\k2}a{\k0} {\k48}greased{\k0}-{\k5}up{\k0} {\k56}man
+Dialogue: 0,0:00:42.32,0:00:44.65,Default,,0,0,0,,{\k72}License{\k0} {\k10}our{\k0} {\k30}souls{\k0} {\k16}for{\k0} {\k4}a{\k0} {\k48}flashy{\k0} {\k30}tour{\k0}?
+Dialogue: 0,0:00:44.71,0:00:47.43,Default,,0,0,0,,{\k26}Nah{\k0} {\k0}—{\k0} {\k18}we{\k0}’{\k5}ll{\k0} {\k25}leave{\k0} {\k20}that{\k0} {\k24}ship{\k0} {\k10}at{\k0} {\k10}the{\k0} {\k96}dock
+Dialogue: 0,0:00:47.45,0:00:50.22,Default,,0,0,0,,{\k30}Your{\k0} {\k62}velvet{\k0} {\k30}ropes{\k0} {\k14}and{\k0} {\k78}VIP{\k0} {\k28}rooms
+Dialogue: 0,0:00:50.27,0:00:52.16,Default,,0,0,0,,{\k14}Can{\k0} {\k30}fuck{\k0} {\k52}right{\k0} {\k6}off
+Dialogue: 0,0:00:52.36,0:00:55.06,Default,,0,0,0,,{\k34}Still{\k0} {\k22}not{\k0} {\k60}famous{\k0},{\k0} {\k30}still{\k0} {\k20}not{\k0} {\k68}sorry
+Dialogue: 0,0:00:55.06,0:00:57.65,Default,,0,0,0,,{\k10}We{\k0}’{\k10}d{\k0} {\k10}rather{\k0} {\k30}bleed{\k0} {\k30}truth{\k0} {\k24}than{\k0} {\k22}borrow{\k0} {\k20}their{\k0} {\k66}story
+Dialogue: 0,0:00:57.89,0:01:00.13,Default,,0,0,0,,{\k78}No{\k0} {\k5}A{\k0}&{\k5}R{\k0} {\k28}telling{\k0} {\k10}us{\k0} {\k16}what{\k0} {\k10}to{\k0} {\k46}play
+Dialogue: 0,0:01:00.19,0:01:02.57,Default,,0,0,0,,{\k12}We{\k0} {\k30}write{\k0} {\k18}our{\k0} {\k14}own{\k0} {\k30}rules{\k0} {\k14}and{\k0} {\k32}sing{\k0} {\k18}our{\k0} {\k10}own{\k0} {\k26}way
+Dialogue: 0,0:01:02.57,0:01:05.42,Default,,0,0,0,,{\k68}Still{\k0} {\k18}not{\k0} {\k58}famous{\k0},{\k0} {\k36}still{\k0} {\k20}not{\k0} {\k50}sorry
+Dialogue: 0,0:01:05.48,0:01:08.27,Default,,0,0,0,,{\k34}Too{\k0} {\k6}loud{\k0},{\k0} {\k24}too{\k0} {\k32}proud{\k0} {\k12}for{\k0} {\k12}your{\k0} {\k56}sorry{\k0} {\k70}story
+Dialogue: 0,0:01:08.29,0:01:10.76,Default,,0,0,0,,{\k12}Keep{\k0} {\k16}it{\k0} {\k6}in{\k0} {\k6}a{\k0} {\k60}garage{\k0},{\k0} {\k20}crank{\k0} {\k8}it{\k0} {\k0}’{\k18}til{\k0} {\k4}it{\k0} {\k50}bleeds
+Dialogue: 0,0:01:10.86,0:01:14.44,Default,,0,0,0,,{\k36}Freedom{\k0}’{\k5}s{\k0} {\k18}our{\k0} {\k34}drug{\k0} {\k0}—{\k0} {\k30}fame{\k0}’{\k5}s{\k0} {\k25}just{\k0} {\k10}a{\k0} {\k167}disease
+Dialogue: 0,0:01:16.59,0:01:18.94,Default,,0,0,0,,{\k20}They{\k0} {\k32}promise{\k0} {\k76}exposure{\k0},{\k0} {\k2}a{\k0} {\k38}million{\k0} {\k38}streams
+Dialogue: 0,0:01:18.98,0:01:21.68,Default,,0,0,0,,{\k16}But{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k24}just{\k0} {\k26}data{\k0} {\k22}mining{\k0} {\k20}your{\k0} {\k46}teenage{\k0} {\k40}dreams
+Dialogue: 0,0:01:21.88,0:01:24.24,Default,,0,0,0,,{\k16}We{\k0}’{\k5}re{\k0} {\k17}fine{\k0} {\k12}with{\k0} {\k26}three{\k0} {\k38}fans{\k0} {\k8}in{\k0} {\k2}a{\k0} {\k50}sweaty{\k0} {\k32}room
+Dialogue: 0,0:01:24.26,0:01:26.91,Default,,0,0,0,,{\k80}Trading{\k0} {\k12}our{\k0} {\k32}fame{\k0} {\k12}for{\k0} {\k44}creative{\k0} {\k54}perfume
+Dialogue: 0,0:01:27.05,0:01:29.75,Default,,0,0,0,,{\k24}No{\k0} {\k42}neon{\k0} {\k46}signs{\k0},{\k0} {\k22}no{\k0} {\k48}corporate{\k0} {\k56}bailout
+Dialogue: 0,0:01:29.81,0:01:32.20,Default,,0,0,0,,{\k16}We{\k0} {\k22}live{\k0} {\k18}for{\k0} {\k8}the{\k0} {\k28}chord{\k0} {\k36}changes{\k0} {\k10}in{\k0} {\k16}our{\k0} {\k38}veins
+Dialogue: 0,0:01:32.38,0:01:34.80,Default,,0,0,0,,{\k6}If{\k0} {\k10}the{\k0} {\k30}scene{\k0} {\k22}goes{\k0} {\k50}sideways{\k0},{\k0} {\k10}we{\k0}’{\k5}ll{\k0} {\k17}still{\k0} {\k24}stay{\k0} {\k34}true
+Dialogue: 0,0:01:35.10,0:01:37.76,Default,,0,0,0,,{\k0}‘{\k14}Cause{\k0} {\k34}selling{\k0} {\k10}out{\k0}’{\k5}s{\k0} {\k17}the{\k0} {\k32}only{\k0} {\k32}thing{\k0} {\k30}that{\k0}’{\k5}s{\k0} {\k45}lame
+Dialogue: 0,0:01:37.80,0:01:40.37,Default,,0,0,0,,{\k56}Contract{\k0} {\k14}for{\k0} {\k26}gold{\k0} {\k20}bars{\k0} {\k8}and{\k0} {\k46}grand{\k0} {\k64}illusions{\k0}?
+Dialogue: 0,0:01:40.41,0:01:42.65,Default,,0,0,0,,{\k14}We{\k0} {\k26}laughed{\k0} {\k26}so{\k0} {\k24}hard{\k0} {\k12}we{\k0} {\k24}almost{\k0} {\k72}pissed
+Dialogue: 0,0:01:42.65,0:01:46.33,Default,,0,0,0,,{\k36}We{\k0}’{\k5}re{\k0} {\k38}allergic{\k0} {\k14}to{\k0} {\k60}mansions{\k0} {\k8}and{\k0} {\k28}red{\k0} {\k52}guitar{\k0} {\k88}solos
+Dialogue: 0,0:01:46.64,0:01:48.10,Default,,0,0,0,,{\k16}Give{\k0} {\k14}us{\k0} {\k54}scrappy{\k0} {\k44}riffs
+Dialogue: 0,0:01:48.10,0:01:50.36,Default,,0,0,0,,{\k5}Still{\k0} {\k20}not{\k0} {\k60}famous{\k0},{\k0} {\k36}still{\k0} {\k20}not{\k0} {\k62}sorry
+Dialogue: 0,0:01:50.36,0:01:53.00,Default,,0,0,0,,{\k12}We{\k0}’{\k12}d{\k0} {\k12}rather{\k0} {\k28}bleed{\k0} {\k30}truth{\k0} {\k28}than{\k0} {\k32}borrow{\k0} {\k20}their{\k0} {\k64}story
+Dialogue: 0,0:01:53.08,0:01:55.48,Default,,0,0,0,,{\k44}No{\k0} {\k8}A{\k0}&{\k6}R{\k0} {\k34}telling{\k0} {\k12}us{\k0} {\k14}what{\k0} {\k12}to{\k0} {\k42}play
+Dialogue: 0,0:01:55.56,0:01:58.27,Default,,0,0,0,,{\k12}We{\k0} {\k32}write{\k0} {\k6}our{\k0} {\k6}own{\k0} {\k28}rules{\k0} {\k10}and{\k0} {\k24}sing{\k0} {\k24}our{\k0} {\k14}own{\k0} {\k56}way
+Dialogue: 0,0:01:58.33,0:02:00.87,Default,,0,0,0,,{\k32}Still{\k0} {\k22}not{\k0} {\k60}famous{\k0},{\k0} {\k34}still{\k0} {\k20}not{\k0} {\k58}sorry
+Dialogue: 0,0:02:00.89,0:02:03.75,Default,,0,0,0,,{\k6}Too{\k0} {\k30}loud{\k0},{\k0} {\k26}too{\k0} {\k34}proud{\k0} {\k12}for{\k0} {\k14}your{\k0} {\k56}sorry{\k0} {\k82}story
+Dialogue: 0,0:02:03.83,0:02:06.14,Default,,0,0,0,,{\k4}Keep{\k0} {\k24}it{\k0} {\k5}in{\k0} {\k6}a{\k0} {\k44}garage{\k0},{\k0} {\k22}crank{\k0} {\k8}it{\k0} {\k0}’{\k18}til{\k0} {\k6}it{\k0} {\k50}bleeds
+Dialogue: 0,0:02:06.26,0:02:09.82,Default,,0,0,0,,{\k44}Freedom{\k0}’{\k5}s{\k0} {\k13}our{\k0} {\k32}drug{\k0} {\k0}—{\k0} {\k44}fame{\k0}’{\k5}s{\k0} {\k23}just{\k0} {\k10}a{\k0} {\k168}disease
+Dialogue: 0,0:02:09.82,0:02:10.92,Default,,0,0,0,,{\k0}({\k55}Sung{\k0},{\k0} {\k55}melodic{\k0})
+Dialogue: 0,0:02:11.08,0:02:15.11,Default,,0,0,0,,{\k38}No{\k0} {\k50}leather{\k0} {\k92}jackets{\k0} {\k12}in{\k0} {\k160}boardrooms
+Dialogue: 0,0:02:15.81,0:02:19.72,Default,,0,0,0,,{\k22}No{\k0} {\k92}punched{\k0}-{\k20}up{\k0} {\k46}smiles{\k0} {\k50}for{\k0} {\k12}ad{\k0} {\k92}campaigns
+Dialogue: 0,0:02:19.80,0:02:25.95,Default,,0,0,0,,{\k92}We{\k0}’{\k50}ll{\k0} {\k68}stay{\k0} {\k98}broke{\k0} {\k5}and{\k0} {\k74}loud{\k0} {\k12}and{\k0} {\k120}restless
+Dialogue: 0,0:02:26.35,0:02:31.34,Default,,0,0,0,,{\k30}While{\k0} {\k46}your{\k0} {\k66}stars{\k0} {\k106}decay{\k0} {\k16}in{\k0} {\k50}fame{\k0}’{\k126}s{\k0} {\k5}chains
+Dialogue: 0,0:02:31.34,0:02:35.17,Default,,0,0,0,,{\k159}Still{\k0} {\k22}not{\k0} {\k58}famous{\k0},{\k0} {\k34}still{\k0} {\k20}not{\k0} {\k58}sorry{\k0}…
+Dialogue: 0,0:02:35.21,0:03:03.14,Default,,0,0,0,,{\k36}Here{\k0}’{\k32}s{\k0} {\k10}to{\k0} {\k8}the{\k0} {\k38}unsold{\k0} {\k26}records{\k0} {\k8}and{\k0} {\k38}midnight{\k0} {\k60}scars{\k0}!
+Dialogue: 0,0:03:05.09,0:03:07.80,Default,,0,0,0,,{\k24}Fuck{\k0} {\k14}your{\k0} {\k32}fame{\k0}!{\k0} {\k18}We{\k0}’{\k5}ll{\k0} {\k16}keep{\k0} {\k10}the{\k0} {\k115}scars{\k0}!{\k0} {\k0}({\k3}Hey{\k0}!{\k0} {\k3}Hey{\k0}!)

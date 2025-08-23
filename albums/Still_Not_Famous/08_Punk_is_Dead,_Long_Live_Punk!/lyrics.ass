@@ -1,15 +1,63 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:20.57,0:00:22.65,Default,,0,0,0,,{\k132}P{\k0}-{\k5}U{\k0}-{\k5}N{\k0}-{\k5}K{\k0} {\k17}ain't{\k0} {\k40}dead{\k0}!
+Dialogue: 0,0:00:23.05,0:00:25.27,Default,,0,0,0,,{\k10}It{\k0} {\k22}just{\k0} {\k38}smells{\k0} {\k26}that{\k0} {\k36}way{\k0} {\k16}in{\k0} {\k40}bed{\k0}!
+Dialogue: 0,0:00:25.47,0:00:27.45,Default,,0,0,0,,{\k18}They{\k0} {\k20}said{\k0} {\k10}it{\k0} {\k46}died{\k0} {\k10}in{\k0} {\k0}’{\k54}79{\k0},
+Dialogue: 0,0:00:28.02,0:00:30.74,Default,,0,0,0,,{\k12}With{\k0} {\k8}the{\k0} {\k46}mohawk{\k0} {\k46}mullets{\k0} {\k8}and{\k0} {\k6}the{\k0} {\k58}cheap{\k0} {\k5}boxed{\k0} {\k42}wine{\k0}.
+Dialogue: 0,0:00:31.04,0:00:32.90,Default,,0,0,0,,{\k24}Then{\k0} {\k46}again{\k0} {\k4}in{\k0} {\k0}’{\k94}88{\k0},
+Dialogue: 0,0:00:33.40,0:00:36.32,Default,,0,0,0,,{\k14}When{\k0} {\k8}the{\k0} {\k46}labels{\k0} {\k30}came{\k0} {\k26}to{\k0} {\k38}seal{\k0} {\k16}its{\k0} {\k66}fate{\k0}.
+Dialogue: 0,0:00:36.32,0:00:37.75,Default,,0,0,0,,{\k5}But{\k0} {\k20}every{\k0} {\k5}time{\k0} {\k9}they{\k0} {\k5}dig{\k0} {\k5}the{\k0} {\k58}grave{\k0},
+Dialogue: 0,0:00:37.75,0:00:38.44,Default,,0,0,0,,{\k5}We{\k0} {\k5}pogo{\k0} {\k12}on{\k0} {\k16}it{\k0} {\k0}—{\k0} {\k5}misbehaved{\k0}!
+Dialogue: 0,0:00:38.44,0:00:38.98,Default,,0,0,0,,{\k5}A{\k0} {\k5}thousand{\k0} {\k5}bands{\k0} {\k5}with{\k0} {\k29}busted{\k0} {\k5}strings{\k0},
+Dialogue: 0,0:00:38.98,0:00:39.33,Default,,0,0,0,,{\k5}Still{\k0} {\k5}screaming{\k0} {\k5}out{\k0} {\k5}the{\k0} {\k5}same{\k0} {\k5}old{\k0} {\k5}things{\k0}!
+Dialogue: 0,0:00:39.33,0:00:39.63,Default,,0,0,0,,{\k0}🎶{\k0} {\k5}Punk{\k0} {\k5}is{\k0} {\k5}dead{\k0},{\k0} {\k5}long{\k0} {\k5}live{\k0} {\k5}punk{\k0}!
+Dialogue: 0,0:00:39.63,0:00:41.63,Default,,0,0,0,,{\k5}Stuck{\k0} {\k5}in{\k0} {\k4}the{\k0} {\k18}van{\k0} {\k10}with{\k0} {\k4}a{\k0} {\k72}smelly{\k0} {\k46}funk{\k0}.
+Dialogue: 0,0:00:42.17,0:00:44.19,Default,,0,0,0,,{\k34}No{\k0} {\k16}gold{\k0} {\k28}records{\k0},{\k0} {\k8}just{\k0} {\k48}stickered{\k0} {\k48}trunks{\k0},
+Dialogue: 0,0:00:44.67,0:00:46.99,Default,,0,0,0,,{\k20}Still{\k0} {\k8}flipping{\k0} {\k26}birds{\k0} {\k20}from{\k0} {\k14}the{\k0} {\k56}bottom{\k0} {\k40}bunk{\k0}!
+Dialogue: 0,0:00:47.30,0:00:51.18,Default,,0,0,0,,{\k0}🎶{\k0} {\k62}Punk{\k0} {\k126}is{\k0} {\k12}dead{\k0},{\k0} {\k64}long{\k0} {\k58}live{\k0} {\k58}punk{\k0}!
+Dialogue: 0,0:00:51.18,0:00:54.67,Default,,0,0,0,,{\k58}Drunk{\k0} {\k58}on{\k0} {\k58}hope{\k0} {\k58}and{\k0} {\k58}DIY{\k0} {\k58}junk{\k0}.
+Dialogue: 0,0:00:54.67,0:00:56.68,Default,,0,0,0,,{\k58}We{\k0} {\k58}never{\k0} {\k36}sold{\k0} {\k5}out{\k0} {\k0}—{\k0} {\k5}we{\k0} {\k5}just{\k0} {\k20}went{\k0} {\k5}broke{\k0},
+Dialogue: 0,0:00:56.68,0:00:57.03,Default,,0,0,0,,{\k5}Still{\k0} {\k5}laughing{\k0} {\k5}loud{\k0} {\k5}while{\k0} {\k5}we{\k0} {\k5}all{\k0} {\k5}choke{\k0}!
+Dialogue: 0,0:01:09.50,0:01:12.07,Default,,0,0,0,,{\k62}Remember{\k0} {\k28}when{\k0} {\k26}the{\k0} {\k30}scene{\k0} {\k28}got{\k0} {\k46}clean{\k0}?
+Dialogue: 0,0:01:12.39,0:01:14.69,Default,,0,0,0,,{\k84}Sanitized{\k0} {\k44}with{\k0} {\k50}corporate{\k0} {\k38}sheen{\k0}.
+Dialogue: 0,0:01:14.93,0:01:17.39,Default,,0,0,0,,{\k12}But{\k0} {\k26}punk{\k0} {\k64}survived{\k0} {\k14}in{\k0} {\k64}basement{\k0} {\k44}shows{\k0},
+Dialogue: 0,0:01:17.67,0:01:20.10,Default,,0,0,0,,{\k8}And{\k0} {\k50}thrift{\k0} {\k30}store{\k0} {\k16}jackets{\k0} {\k36}full{\k0} {\k8}of{\k0} {\k42}holes{\k0}.
+Dialogue: 0,0:01:20.32,0:01:22.62,Default,,0,0,0,,{\k14}So{\k0} {\k24}paint{\k0} {\k14}your{\k0} {\k30}nails{\k0} {\k26}with{\k0} {\k82}gasoline{\k0},
+Dialogue: 0,0:01:22.84,0:01:25.36,Default,,0,0,0,,{\k22}Let{\k0}’{\k5}s{\k0} {\k46}burn{\k0} {\k5}it{\k0} {\k32}down{\k0} {\k0}—{\k0} {\k22}you{\k0} {\k32}know{\k0} {\k26}the{\k0} {\k38}scene{\k0}!
+Dialogue: 0,0:01:25.73,0:01:28.09,Default,,0,0,0,,{\k12}The{\k0} {\k28}world{\k0} {\k24}keeps{\k0} {\k48}sucking{\k0} {\k30}more{\k0} {\k20}each{\k0} {\k36}day{\k0},
+Dialogue: 0,0:01:28.39,0:01:31.11,Default,,0,0,0,,{\k14}So{\k0} {\k30}punk{\k0} {\k18}ain{\k0}’{\k5}t{\k0} {\k35}dead{\k0} {\k0}—{\k0} {\k14}it{\k0} {\k24}just{\k0} {\k30}won't{\k0} {\k64}pay{\k0}!
+Dialogue: 0,0:01:31.59,0:01:33.78,Default,,0,0,0,,{\k0}🎶{\k0} {\k18}Punk{\k0} {\k10}is{\k0} {\k62}dead{\k0},{\k0} {\k16}long{\k0} {\k16}live{\k0} {\k44}punk{\k0}!
+Dialogue: 0,0:01:33.78,0:01:34.49,Default,,0,0,0,,{\k5}Our{\k0} {\k5}7{\k0}-{\k20}inches{\k0} {\k5}still{\k0} {\k5}got{\k0} {\k5}spunk{\k0}.
+Dialogue: 0,0:01:34.49,0:01:34.94,Default,,0,0,0,,{\k5}Scratched{\k0} {\k5}up{\k0} {\k5}dreams{\k0} {\k5}in{\k0} {\k5}a{\k0} {\k6}crusty{\k0} {\k12}trunk{\k0},
+Dialogue: 0,0:01:34.100,0:01:37.55,Default,,0,0,0,,{\k8}Raised{\k0} {\k32}on{\k0} {\k5}pizza{\k0} {\k33}and{\k0} {\k96}a{\k0} {\k24}little{\k0} {\k18}bit{\k0} {\k14}of{\k0} {\k5}funk{\k0}!
+Dialogue: 0,0:01:37.55,0:01:39.86,Default,,0,0,0,,{\k0}🎶{\k0} {\k19}Punk{\k0} {\k28}is{\k0} {\k44}dead{\k0},{\k0} {\k46}long{\k0} {\k26}live{\k0} {\k10}punk{\k0}!
+Dialogue: 0,0:01:39.86,0:01:40.73,Default,,0,0,0,,{\k5}Still{\k0} {\k11}screaming{\k0} {\k16}loud{\k0} {\k20}from{\k0} {\k14}the{\k0} {\k1}back{\k0} {\k1}of{\k0} {\k1}the{\k0} {\k1}dump{\k0}.
+Dialogue: 0,0:01:40.73,0:01:40.79,Default,,0,0,0,,{\k1}You{\k0} {\k1}can{\k0} {\k1}bury{\k0} {\k1}the{\k0} {\k1}sound{\k0} {\k1}but{\k0} {\k1}it{\k0} {\k1}won't{\k0} {\k1}stay{\k0} {\k1}sunk{\k0},
+Dialogue: 0,0:01:40.79,0:01:40.83,Default,,0,0,0,,{\k1}Cuz{\k0} {\k1}punk{\k0}’{\k1}s{\k0} {\k1}like{\k0} {\k1}herpes{\k0} {\k0}—{\k0} {\k1}it{\k0} {\k1}always{\k0} {\k1}jumps{\k0}!
+Dialogue: 0,0:01:40.83,0:01:40.87,Default,,0,0,0,,{\k1}We{\k0}’{\k1}re{\k0} {\k1}the{\k0} {\k1}ghosts{\k0} {\k1}in{\k0} {\k1}Doc{\k0} {\k1}Martens{\k0}!
+Dialogue: 0,0:01:40.87,0:01:40.90,Default,,0,0,0,,{\k1}The{\k0} {\k1}stains{\k0} {\k1}on{\k0} {\k1}your{\k0} {\k1}carpets{\k0}!
+Dialogue: 0,0:01:40.90,0:01:40.93,Default,,0,0,0,,{\k1}The{\k0} {\k1}noise{\k0} {\k1}in{\k0} {\k1}the{\k0} {\k1}silence{\k0}!
+Dialogue: 0,0:01:40.93,0:01:40.95,Default,,0,0,0,,{\k1}The{\k0} {\k1}teenage{\k0} {\k1}defiance{\k0}!
+Dialogue: 0,0:01:40.95,0:01:40.98,Default,,0,0,0,,{\k1}We{\k0}’{\k1}re{\k0} {\k1}dead{\k0} {\k1}and{\k0} {\k1}alive{\k0}!
+Dialogue: 0,0:01:40.98,0:01:40.100,Default,,0,0,0,,{\k1}We{\k0} {\k1}thrive{\k0} {\k1}in{\k0} {\k1}decline{\k0}!
+Dialogue: 0,0:01:40.100,0:01:41.03,Default,,0,0,0,,{\k1}Punk{\k0}’{\k1}s{\k0} {\k1}not{\k0} {\k1}a{\k0} {\k1}trend{\k0} {\k0}—
+Dialogue: 0,0:01:41.03,0:01:41.06,Default,,0,0,0,,{\k1}It's{\k0} {\k1}a{\k0} {\k1}bad{\k0} {\k1}state{\k0} {\k1}of{\k0} {\k1}mind{\k0}!
+Dialogue: 0,0:01:41.06,0:01:41.10,Default,,0,0,0,,{\k0}🎶{\k0} {\k1}Punk{\k0} {\k1}is{\k0} {\k1}dead{\k0},{\k0} {\k1}long{\k0} {\k1}live{\k0} {\k1}punk{\k0}!
+Dialogue: 0,0:01:41.10,0:01:41.13,Default,,0,0,0,,{\k1}Farting{\k0} {\k1}in{\k0} {\k1}class{\k0} {\k1}and{\k0} {\k1}flunking{\k0} {\k1}funk{\k0}.
+Dialogue: 0,0:01:41.13,0:01:41.75,Default,,0,0,0,,{\k1}Still{\k0} {\k1}got{\k0} {\k1}rage{\k0} {\k1}in{\k0} {\k1}the{\k0} {\k1}bottom{\k0} {\k46}bunk{\k0},
+Dialogue: 0,0:01:41.75,0:01:44.10,Default,,0,0,0,,{\k5}Still{\k0} {\k62}hate{\k0} {\k5}cops{\k0} {\k5}and{\k0} {\k5}still{\k0} {\k123}smell{\k0} {\k5}skunk{\k0}!
+Dialogue: 0,0:01:44.10,0:01:45.47,Default,,0,0,0,,{\k0}🎶{\k0} {\k5}Punk{\k0} {\k5}is{\k0} {\k79}dead{\k0},{\k0} {\k5}long{\k0} {\k5}live{\k0} {\k26}punk{\k0}!
+Dialogue: 0,0:01:45.47,0:01:48.34,Default,,0,0,0,,{\k5}It{\k0}’{\k5}s{\k0} {\k5}a{\k0} {\k35}freakshow{\k0},{\k0} {\k5}it{\k0}’{\k5}s{\k0} {\k66}a{\k0} {\k5}slam{\k0} {\k5}dunk{\k0}!
+Dialogue: 0,0:01:48.34,0:01:51.32,Default,,0,0,0,,{\k5}They{\k0} {\k121}said{\k0} {\k5}it{\k0} {\k5}died{\k0} {\k5}but{\k0} {\k5}it{\k0} {\k68}never{\k0} {\k42}sunk{\k0} {\k0}—
+Dialogue: 0,0:01:51.32,0:01:59.51,Default,,0,0,0,,{\k5}It{\k0} {\k5}just{\k0} {\k5}grew{\k0} {\k5}up{\k0}...{\k0} {\k136}and{\k0} {\k5}got{\k0} {\k5}more{\k0} {\k5}drunk{\k0}!
+Dialogue: 0,0:01:59.51,0:01:59.66,Default,,0,0,0,,{\k5}Long{\k0} {\k5}live{\k0} {\k5}punk{\k0}!
+Dialogue: 0,0:01:59.66,0:01:59.81,Default,,0,0,0,,{\k5}LONG{\k0}!{\k0} {\k5}LIVE{\k0}!{\k0} {\k5}PUNK{\k0}!

@@ -1,15 +1,55 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.22,0:00:08.31,Default,,0,0,0,,{\k56}Sidewalk{\k0} {\k5}stage{\k0},{\k0} {\k5}the{\k0} {\k38}city{\k0} {\k5}sleeps
+Dialogue: 0,0:00:08.31,0:00:09.09,Default,,0,0,0,,{\k5}Concrete{\k0} {\k5}beds{\k0} {\k5}and{\k0} {\k58}secrets{\k0} {\k5}keep
+Dialogue: 0,0:00:09.09,0:00:10.04,Default,,0,0,0,,{\k5}Eyes{\k0} {\k5}half{\k0}-{\k5}shut{\k0} {\k5}but{\k0} {\k5}wide{\k0} {\k5}with{\k0} {\k65}pain
+Dialogue: 0,0:00:13.45,0:00:22.98,Default,,0,0,0,,{\k30}Draped{\k0} {\k10}in{\k0} {\k90}silence{\k0},{\k0} {\k60}soaked{\k0} {\k16}in{\k0} {\k86}rain
+Dialogue: 0,0:00:26.37,0:00:32.08,Default,,0,0,0,,{\k92}Hands{\k0} {\k42}like{\k0} {\k54}claws{\k0},{\k0} {\k46}frozen{\k0} {\k68}mid{\k0}-{\k66}air
+Dialogue: 0,0:00:32.16,0:00:34.46,Default,,0,0,0,,{\k26}Swaying{\k0} {\k28}gently{\k0},{\k0} {\k152}unaware
+Dialogue: 0,0:00:36.16,0:00:36.95,Default,,0,0,0,,{\k72}Statues{\k0} {\k1}made{\k0} {\k1}of{\k0} {\k1}skin{\k0} {\k1}and{\k0} {\k1}bone
+Dialogue: 0,0:00:36.95,0:00:37.01,Default,,0,0,0,,{\k1}Gallery{\k0} {\k1}of{\k0} {\k1}the{\k0} {\k1}overthrown
+Dialogue: 0,0:00:37.01,0:00:37.07,Default,,0,0,0,,{\k1}Living{\k0} {\k1}statues{\k0},{\k0} {\k1}stiff{\k0} {\k1}and{\k0} {\k1}numb
+Dialogue: 0,0:00:37.07,0:00:37.11,Default,,0,0,0,,{\k1}High{\k0} {\k1}on{\k0} {\k1}apathy{\k0} {\k1}and{\k0} {\k1}heroin{\k0} {\k1}gum
+Dialogue: 0,0:00:37.11,0:00:37.13,Default,,0,0,0,,{\k1}Time{\k0} {\k1}don{\k0}’{\k1}t{\k0} {\k1}tick{\k0} {\k1}when{\k0} {\k1}you{\k0} {\k1}don{\k0}’{\k1}t{\k0} {\k1}care
+Dialogue: 0,0:00:37.13,0:00:37.15,Default,,0,0,0,,{\k1}When{\k0} {\k1}every{\k0} {\k1}breath{\k0}’{\k1}s{\k0} {\k1}a{\k0} {\k1}cross{\k0} {\k1}to{\k0} {\k1}bear
+Dialogue: 0,0:00:37.15,0:00:37.16,Default,,0,0,0,,{\k1}Living{\k0} {\k1}statues{\k0},{\k0} {\k1}hollow{\k0} {\k1}eyes
+Dialogue: 0,0:00:37.16,0:00:37.17,Default,,0,0,0,,{\k1}Still{\k0} {\k1}as{\k0} {\k1}death{\k0} {\k1}but{\k0} {\k1}not{\k0} {\k1}yet{\k0} {\k1}died
+Dialogue: 0,0:00:37.17,0:00:37.18,Default,,0,0,0,,{\k1}Frozen{\k0} {\k1}souls{\k0} {\k1}in{\k0} {\k1}slow{\k0} {\k1}decay
+Dialogue: 0,0:00:37.18,0:00:37.19,Default,,0,0,0,,{\k1}Welcome{\k0} {\k1}to{\k0} {\k1}downtown{\k0} {\k1}USA
+Dialogue: 0,0:00:37.19,0:00:37.20,Default,,0,0,0,,{\k1}Tourists{\k0} {\k1}pass{\k0} {\k1}and{\k0} {\k1}snap{\k0} {\k1}their{\k0} {\k1}pics
+Dialogue: 0,0:00:37.20,0:00:37.21,Default,,0,0,0,,{\k1}Of{\k0} {\k1}fentanyl{\k0} {\k1}parlor{\k0} {\k1}tricks
+Dialogue: 0,0:00:37.21,0:00:37.61,Default,,0,0,0,,{\k1}Blink{\k0} {\k1}and{\k0} {\k1}miss{\k0} {\k1}the{\k0} {\k30}human{\k0} {\k5}cost
+Dialogue: 0,0:00:37.62,0:00:38.73,Default,,0,0,0,,{\k20}This{\k0} {\k5}city{\k0} {\k23}shines{\k0} {\k5}on{\k0} {\k5}what{\k0} {\k14}it{\k0}’{\k5}s{\k0} {\k33}lost
+Dialogue: 0,0:00:38.73,0:00:39.80,Default,,0,0,0,,{\k5}Knees{\k0} {\k5}are{\k0} {\k18}locked{\k0},{\k0} {\k5}spine{\k0} {\k60}like{\k0} {\k5}rust
+Dialogue: 0,0:00:39.80,0:00:41.99,Default,,0,0,0,,{\k5}They{\k0} {\k54}stand{\k0} {\k5}like{\k0} {\k5}tombstones{\k0} {\k10}in{\k0} {\k6}the{\k0} {\k70}dust
+Dialogue: 0,0:00:47.14,0:01:15.13,Default,,0,0,0,,{\k62}Not{\k0} {\k237}alive{\k0} {\k12}and{\k0} {\k28}not{\k0} {\k34}quite{\k0} {\k5}dead
+Dialogue: 0,0:01:15.13,0:01:17.34,Default,,0,0,0,,{\k67}Their{\k0} {\k5}thoughts{\k0} {\k5}dissolved{\k0},{\k0} {\k5}their{\k0} {\k38}dreams{\k0} {\k52}misled
+Dialogue: 0,0:01:17.34,0:01:17.54,Default,,0,0,0,,{\k5}Living{\k0} {\k5}statues{\k0},{\k0} {\k5}frozen{\k0} {\k5}still
+Dialogue: 0,0:01:17.54,0:01:17.89,Default,,0,0,0,,{\k5}On{\k0} {\k5}corners{\k0} {\k5}shaped{\k0} {\k5}by{\k0} {\k5}greed{\k0} {\k5}and{\k0} {\k5}pills
+Dialogue: 0,0:01:17.89,0:01:18.14,Default,,0,0,0,,{\k5}Nodding{\k0} {\k5}off{\k0} {\k5}like{\k0} {\k5}urban{\k0} {\k5}ghosts
+Dialogue: 0,0:01:18.14,0:01:18.34,Default,,0,0,0,,{\k5}On{\k0} {\k5}taxpayer{\k0}-{\k5}funded{\k0} {\k5}overdose
+Dialogue: 0,0:01:18.34,0:01:18.54,Default,,0,0,0,,{\k5}Living{\k0} {\k5}statues{\k0},{\k0} {\k5}tragic{\k0} {\k5}art
+Dialogue: 0,0:01:18.54,0:01:18.84,Default,,0,0,0,,{\k5}Silent{\k0} {\k5}screams{\k0} {\k5}and{\k0} {\k5}stopped{\k0}-{\k5}up{\k0} {\k5}hearts
+Dialogue: 0,0:01:18.84,0:01:19.14,Default,,0,0,0,,{\k5}Just{\k0} {\k5}a{\k0} {\k5}pose{\k0} {\k5}on{\k0} {\k5}Market{\k0} {\k5}Street
+Dialogue: 0,0:01:19.14,0:01:19.39,Default,,0,0,0,,{\k5}Another{\k0} {\k5}soul{\k0} {\k5}the{\k0} {\k5}system{\k0} {\k5}beat
+Dialogue: 0,0:01:19.39,0:01:19.74,Default,,0,0,0,,{\k5}No{\k0} {\k5}rehab{\k0} {\k5}signs{\k0},{\k0} {\k5}just{\k0} {\k5}cop{\k0} {\k5}car{\k0} {\k5}lights
+Dialogue: 0,0:01:19.74,0:01:20.04,Default,,0,0,0,,{\k5}No{\k0} {\k5}housing{\k0} {\k5}plans{\k0},{\k0} {\k5}just{\k0} {\k5}sleepless{\k0} {\k5}nights
+Dialogue: 0,0:01:20.04,0:01:20.44,Default,,0,0,0,,{\k5}You{\k0} {\k5}call{\k0} {\k5}it{\k0} {\k0}“{\k5}blight{\k0},”{\k0} {\k5}we{\k0} {\k5}call{\k0} {\k5}it{\k0} {\k0}“{\k5}hell{\k0}”
+Dialogue: 0,0:01:20.44,0:01:29.96,Default,,0,0,0,,{\k5}Where{\k0} {\k5}the{\k0} {\k5}living{\k0} {\k57}rot{\k0} {\k28}but{\k0} {\k40}never{\k0} {\k50}fell
+Dialogue: 0,0:01:29.96,0:01:30.21,Default,,0,0,0,,{\k5}Living{\k0} {\k5}statues{\k0},{\k0} {\k5}keep{\k0} {\k5}your{\k0} {\k5}pose
+Dialogue: 0,0:01:30.21,0:01:32.12,Default,,0,0,0,,{\k5}While{\k0} {\k5}the{\k0} {\k161}city{\k0} {\k5}shrugs{\k0} {\k5}and{\k0} {\k5}overdose{\k0} {\k5}grows
+Dialogue: 0,0:01:32.12,0:01:32.42,Default,,0,0,0,,{\k5}Step{\k0} {\k5}around{\k0} {\k5}them{\k0},{\k0} {\k5}don't{\k0} {\k5}ask{\k0} {\k5}why
+Dialogue: 0,0:01:32.42,0:01:32.82,Default,,0,0,0,,{\k5}Just{\k0} {\k5}blame{\k0} {\k5}the{\k0} {\k5}weak{\k0} {\k5}and{\k0} {\k5}walk{\k0} {\k5}on{\k0} {\k5}by
+Dialogue: 0,0:01:32.82,0:01:33.07,Default,,0,0,0,,{\k5}Living{\k0} {\k5}statues{\k0},{\k0} {\k5}stand{\k0} {\k5}in{\k0} {\k5}shame
+Dialogue: 0,0:01:33.07,0:01:33.47,Default,,0,0,0,,{\k5}Not{\k0} {\k5}theirs{\k0} {\k0}—{\k0} {\k5}but{\k0} {\k5}ours{\k0},{\k0} {\k5}in{\k0} {\k5}freedom{\k0}’{\k5}s{\k0} {\k5}name
+Dialogue: 0,0:01:33.47,0:01:33.92,Default,,0,0,0,,{\k5}So{\k0} {\k5}freeze{\k0} {\k5}the{\k0} {\k5}frame{\k0},{\k0} {\k5}this{\k0} {\k5}ain{\k0}’{\k5}t{\k0} {\k5}a{\k0} {\k5}dream
+Dialogue: 0,0:01:34.06,0:01:42.20,Default,,0,0,0,,{\k74}It{\k0}’{\k8}s{\k0} {\k22}America{\k0},{\k0} {\k16}dressed{\k0} {\k10}in{\k0} {\k8}dopamine

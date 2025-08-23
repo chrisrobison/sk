@@ -1,20 +1,52 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:01:08.04,Default,,0,0,0,,Market numbers taking a dive\\NConsumer confidence barely alive\\NFactories closing down overnight\\NBut he tweets that everything\'s alright
-Dialogue: 0,0:00:00.00,0:00:42.23,Default,,0,0,0,,[Chorus]\\NEconomy in free fall again\\NTariffs and tweets from an egomaniac\'s pen\\NStock market crashing, no strategy or plan\\NJust a rich man\'s game we don\'t understand
-Dialogue: 0,0:00:00.00,0:01:02.17,Default,,0,0,0,,[Verse 2]\\NImport taxes hit the average Joe\\NWhile the billionaires watch their portfolios grow\\NHe claims it\'s America first but we pay the price\\NWhen basic economics gets sacrificed
-Dialogue: 0,0:00:00.00,0:01:15.65,Default,,0,0,0,,Inflation climbing, jobs disappearing fast\\NBuilding walls while burning bridges that would last\\NThe average worker feels the squeeze and strain\\NWhile the White House plays its economic shell game
-Dialogue: 0,0:00:00.00,0:00:42.23,Default,,0,0,0,,[Chorus]\\NEconomy in free fall again\\NTariffs and tweets from an egomaniac\'s pen\\NStock market crashing, no strategy or plan\\NJust a rich man\'s game we don\'t understand
+
+Dialogue: 0,0:00:02.13,0:00:02.16,Default,,0,0,0,,{\k0}[{\k3}Start{\k0}]
+Dialogue: 0,0:00:02.18,0:00:02.26,Default,,0,0,0,,{\k0}[{\k3}Guitar{\k0} {\k3}Solo{\k0}]
+Dialogue: 0,0:00:02.28,0:00:02.36,Default,,0,0,0,,{\k0}[{\k3}Verse{\k0} {\k3}1{\k0}]
+Dialogue: 0,0:00:02.38,0:00:02.71,Default,,0,0,0,,{\k3}Dollar{\k0} {\k3}signs{\k0} {\k3}in{\k0} {\k3}the{\k0} {\k3}eyes{\k0} {\k3}of{\k0} {\k3}fools
+Dialogue: 0,0:00:02.73,0:00:02.96,Default,,0,0,0,,{\k3}Ignoring{\k0} {\k3}all{\k0} {\k3}the{\k0} {\k3}economic{\k0} {\k3}rules
+Dialogue: 0,0:00:02.98,0:00:05.57,Default,,0,0,0,,{\k50}Slapping{\k0} {\k74}tariffs{\k0} {\k12}on{\k0} {\k54}Chinese{\k0} {\k36}goods
+Dialogue: 0,0:00:06.01,0:00:08.71,Default,,0,0,0,,{\k56}Making{\k0} {\k8}us{\k0} {\k22}pay{\k0} {\k22}while{\k0} {\k10}he{\k0} {\k22}says{\k0} {\k14}it's{\k0} {\k0}"{\k14}all{\k0} {\k38}good{\k0}"
+Dialogue: 0,0:00:08.75,0:00:12.29,Default,,0,0,0,,{\k136}Market{\k0} {\k70}numbers{\k0} {\k60}taking{\k0} {\k8}a{\k0} {\k48}dive
+Dialogue: 0,0:00:12.44,0:00:15.44,Default,,0,0,0,,{\k88}Consumer{\k0} {\k72}confidence{\k0} {\k38}barely{\k0} {\k78}alive
+Dialogue: 0,0:00:15.48,0:00:17.86,Default,,0,0,0,,{\k84}Factories{\k0} {\k36}closing{\k0} {\k32}down{\k0} {\k64}overnight
+Dialogue: 0,0:00:17.90,0:00:21.27,Default,,0,0,0,,{\k116}But{\k0} {\k12}he{\k0} {\k34}tweets{\k0} {\k42}that{\k0} {\k56}everything's{\k0} {\k44}alright
+Dialogue: 0,0:00:21.27,0:00:21.29,Default,,0,0,0,,{\k0}[{\k1}Pre{\k0}-{\k1}Chorus{\k0}]
+Dialogue: 0,0:00:21.29,0:00:24.73,Default,,0,0,0,,{\k1}A{\k0} {\k54}businessman{\k0} {\k6}who{\k0} {\k14}went{\k0} {\k52}bankrupt{\k0} {\k20}four{\k0} {\k42}times
+Dialogue: 0,0:00:25.53,0:00:28.33,Default,,0,0,0,,{\k20}Now{\k0} {\k16}he's{\k0} {\k28}running{\k0} {\k14}our{\k0} {\k46}economy{\k0} {\k30}into{\k0} {\k14}the{\k0} {\k66}ground
+Dialogue: 0,0:00:28.33,0:00:28.38,Default,,0,0,0,,{\k0}[{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:29.38,0:00:32.42,Default,,0,0,0,,{\k138}Economy{\k0} {\k12}in{\k0} {\k38}free{\k0} {\k40}fall{\k0} {\k62}again
+Dialogue: 0,0:00:32.97,0:00:35.63,Default,,0,0,0,,{\k50}Tariffs{\k0} {\k16}and{\k0} {\k28}tweets{\k0} {\k12}from{\k0} {\k4}an{\k0} {\k76}egomaniac's{\k0} {\k38}pen
+Dialogue: 0,0:00:36.17,0:00:39.10,Default,,0,0,0,,{\k24}Stock{\k0} {\k36}market{\k0} {\k62}crashing{\k0},{\k0} {\k16}no{\k0} {\k52}strategy{\k0} {\k14}or{\k0} {\k48}plan
+Dialogue: 0,0:00:39.83,0:00:42.49,Default,,0,0,0,,{\k22}Just{\k0} {\k10}a{\k0} {\k18}rich{\k0} {\k20}man's{\k0} {\k22}game{\k0} {\k12}we{\k0} {\k32}don't{\k0} {\k86}understand
+Dialogue: 0,0:00:49.81,0:00:50.27,Default,,0,0,0,,{\k0}[{\k24}Verse{\k0} {\k18}2{\k0}]
+Dialogue: 0,0:00:50.27,0:00:52.35,Default,,0,0,0,,{\k5}Import{\k0} {\k57}taxes{\k0} {\k12}hit{\k0} {\k26}the{\k0} {\k32}average{\k0} {\k36}Joe
+Dialogue: 0,0:00:52.41,0:00:55.70,Default,,0,0,0,,{\k20}While{\k0} {\k14}the{\k0} {\k84}billionaires{\k0} {\k26}watch{\k0} {\k24}their{\k0} {\k102}portfolios{\k0} {\k34}grow
+Dialogue: 0,0:00:55.74,0:00:59.04,Default,,0,0,0,,{\k80}He{\k0} {\k26}claims{\k0} {\k8}it's{\k0} {\k38}America{\k0} {\k38}first{\k0} {\k18}but{\k0} {\k14}we{\k0} {\k26}pay{\k0} {\k14}the{\k0} {\k34}price
+Dialogue: 0,0:00:59.32,0:01:02.23,Default,,0,0,0,,{\k16}When{\k0} {\k40}basic{\k0} {\k70}economics{\k0} {\k30}gets{\k0} {\k104}sacrificed
+Dialogue: 0,0:01:03.05,0:01:05.67,Default,,0,0,0,,{\k56}Inflation{\k0} {\k60}climbing{\k0},{\k0} {\k22}jobs{\k0} {\k76}disappearing{\k0} {\k36}fast
+Dialogue: 0,0:01:06.09,0:01:08.93,Default,,0,0,0,,{\k36}Building{\k0} {\k24}walls{\k0} {\k10}while{\k0} {\k34}burning{\k0} {\k42}bridges{\k0} {\k16}that{\k0} {\k24}would{\k0} {\k54}last
+Dialogue: 0,0:01:09.65,0:01:12.26,Default,,0,0,0,,{\k18}The{\k0} {\k26}average{\k0} {\k38}worker{\k0} {\k22}feels{\k0} {\k10}the{\k0} {\k36}squeeze{\k0} {\k12}and{\k0} {\k54}strain
+Dialogue: 0,0:01:12.34,0:01:15.69,Default,,0,0,0,,{\k18}While{\k0} {\k12}the{\k0} {\k26}White{\k0} {\k20}House{\k0} {\k44}plays{\k0} {\k14}its{\k0} {\k78}economic{\k0} {\k66}shell{\k0} {\k5}game
+Dialogue: 0,0:01:15.69,0:01:15.79,Default,,0,0,0,,{\k0}[{\k5}Pre{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:01:16.20,0:01:18.50,Default,,0,0,0,,{\k24}Trade{\k0} {\k20}wars{\k0} {\k16}aren't{\k0} {\k0}"{\k40}easy{\k0} {\k18}to{\k0} {\k82}win{\k0}"
+Dialogue: 0,0:01:19.02,0:01:21.39,Default,,0,0,0,,{\k28}When{\k0} {\k32}you{\k0} {\k20}don't{\k0} {\k18}know{\k0} {\k28}where{\k0} {\k24}to{\k0} {\k52}begin
+Dialogue: 0,0:01:21.43,0:01:24.69,Default,,0,0,0,,{\k186}Shooting{\k0} {\k48}yourself{\k0} {\k14}in{\k0} {\k12}the{\k0} {\k34}foot
+Dialogue: 0,0:01:25.73,0:01:28.09,Default,,0,0,0,,{\k20}While{\k0} {\k40}claiming{\k0} {\k22}that{\k0} {\k12}it's{\k0} {\k104}absolute
+Dialogue: 0,0:01:28.37,0:01:29.50,Default,,0,0,0,,{\k0}[{\k113}Chorus{\k0}]
+Dialogue: 0,0:01:29.68,0:01:32.48,Default,,0,0,0,,{\k122}Economy{\k0} {\k6}in{\k0} {\k42}free{\k0} {\k5}fall{\k0} {\k63}again
+Dialogue: 0,0:01:32.52,0:01:35.62,Default,,0,0,0,,{\k98}Tariffs{\k0} {\k12}and{\k0} {\k30}tweets{\k0} {\k14}from{\k0} {\k4}an{\k0} {\k76}egomaniac's{\k0} {\k40}pen
+Dialogue: 0,0:01:35.64,0:01:39.13,Default,,0,0,0,,{\k76}Stock{\k0} {\k38}market{\k0} {\k60}crashing{\k0},{\k0} {\k18}no{\k0} {\k54}strategy{\k0} {\k16}or{\k0} {\k56}plan
+Dialogue: 0,0:01:39.79,0:01:42.35,Default,,0,0,0,,{\k24}Just{\k0} {\k6}a{\k0} {\k18}rich{\k0} {\k20}man's{\k0} {\k22}game{\k0} {\k14}we{\k0} {\k34}don't{\k0} {\k74}understand
+Dialogue: 0,0:01:42.35,0:01:42.63,Default,,0,0,0,,{\k0}[{\k14}Post{\k0}-{\k14}Chorus{\k0}]
+Dialogue: 0,0:01:42.63,0:01:50.72,Default,,0,0,0,,{\k14}We{\k0} {\k20}pay{\k0}!{\k0} {\k38}We{\k0} {\k46}pay{\k0}!{\k0} {\k4}We{\k0} {\k46}always{\k0} {\k134}pay{\k0}!
+Dialogue: 0,0:01:55.81,0:02:01.23,Default,,0,0,0,,{\k34}We{\k0} {\k132}pay{\k0}!{\k0} {\k34}We{\k0} {\k138}pay{\k0}!{\k0} {\k20}For{\k0} {\k30}their{\k0} {\k128}mistakes{\k0}!

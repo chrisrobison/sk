@@ -1,18 +1,45 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:37.12,0:01:13.34,Default,,0,0,0,,[Chorus]\\NWe’re lost in Algorithm Nation!\\NNo free thought, just automation\\NScroll and swipe, no deviation\\NDumb by design, by recommendation
-Dialogue: 0,0:00:37.12,0:01:23.32,Default,,0,0,0,,[Verse 2]\\NThe feed decides who we should blame\\NAI prophets, playin’ the game\\NNo nuance here, just black or white\\NYour thoughts are leased, not yours by right
-Dialogue: 0,0:00:37.12,0:01:35.90,Default,,0,0,0,,Upvotes fuel your dopamine\\NDisagree? You’re off the screen\\NFake news tattooed on your soul\\NSold your mind for hearts and scrolls
+
+Dialogue: 0,0:00:45.05,0:00:47.40,Default,,0,0,0,,{\k70}Scrollin'{\k0} {\k26}through{\k0} {\k14}the{\k0} {\k94}curated{\k0} {\k16}lies{\k0},
+Dialogue: 0,0:00:47.64,0:00:49.80,Default,,0,0,0,,{\k52}Filtered{\k0} {\k28}truth{\k0} {\k20}with{\k0} {\k60}pixel{\k0} {\k16}eyes
+Dialogue: 0,0:00:50.16,0:00:52.17,Default,,0,0,0,,{\k42}Echo{\k0} {\k52}chamber{\k0} {\k96}serenade{\k0},
+Dialogue: 0,0:00:52.65,0:00:54.57,Default,,0,0,0,,{\k32}A{\k0}.{\k5}I{\k0}.{\k0} {\k27}knows{\k0} {\k26}just{\k0} {\k24}what{\k0} {\k24}you{\k0} {\k30}hate
+Dialogue: 0,0:00:54.85,0:00:56.99,Default,,0,0,0,,{\k26}No{\k0} {\k54}debate{\k0},{\k0} {\k26}just{\k0} {\k58}clickbait{\k0} {\k32}rage{\k0},
+Dialogue: 0,0:00:57.24,0:00:59.38,Default,,0,0,0,,{\k28}Truth{\k0} {\k52}imprisoned{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k54}data{\k0} {\k34}cage
+Dialogue: 0,0:00:59.64,0:01:01.78,Default,,0,0,0,,{\k32}Facts{\k0} {\k16}are{\k0} {\k56}optional{\k0},{\k0} {\k42}outrage{\k0} {\k32}sells{\k0},
+Dialogue: 0,0:01:02.04,0:01:04.39,Default,,0,0,0,,{\k56}Welcome{\k0} {\k14}to{\k0} {\k52}our{\k0} {\k52}algorithmic{\k0} {\k26}hell
+Dialogue: 0,0:01:04.45,0:01:06.67,Default,,0,0,0,,{\k28}We{\k0}’{\k5}re{\k0} {\k29}lost{\k0} {\k14}in{\k0} {\k66}Algorithm{\k0} {\k56}Nation{\k0}!
+Dialogue: 0,0:01:06.67,0:01:08.96,Default,,0,0,0,,{\k34}No{\k0} {\k26}free{\k0} {\k30}thought{\k0},{\k0} {\k22}just{\k0} {\k86}automation
+Dialogue: 0,0:01:09.18,0:01:11.36,Default,,0,0,0,,{\k38}Scroll{\k0} {\k10}and{\k0} {\k36}swipe{\k0},{\k0} {\k12}no{\k0} {\k92}deviation
+Dialogue: 0,0:01:11.64,0:01:14.00,Default,,0,0,0,,{\k26}Dumb{\k0} {\k14}by{\k0} {\k40}design{\k0},{\k0} {\k18}by{\k0} {\k114}recommendation
+Dialogue: 0,0:01:14.00,0:01:16.75,Default,,0,0,0,,{\k17}The{\k0} {\k17}feed{\k0} {\k54}decides{\k0} {\k22}who{\k0} {\k18}we{\k0} {\k28}should{\k0} {\k90}blame
+Dialogue: 0,0:01:16.87,0:01:18.57,Default,,0,0,0,,{\k8}AI{\k0} {\k56}prophets{\k0},{\k0} {\k32}playin{\k0}’{\k0} {\k18}the{\k0} {\k30}game
+Dialogue: 0,0:01:18.85,0:01:21.03,Default,,0,0,0,,{\k26}No{\k0} {\k28}nuance{\k0} {\k24}here{\k0},{\k0} {\k20}just{\k0} {\k28}black{\k0} {\k14}or{\k0} {\k38}white
+Dialogue: 0,0:01:21.06,0:01:23.38,Default,,0,0,0,,{\k16}Your{\k0} {\k30}thoughts{\k0} {\k14}are{\k0} {\k24}leased{\k0},{\k0} {\k20}not{\k0} {\k30}yours{\k0} {\k24}by{\k0} {\k30}right
+Dialogue: 0,0:01:23.80,0:01:25.78,Default,,0,0,0,,{\k42}Upvotes{\k0} {\k26}fuel{\k0} {\k24}your{\k0} {\k90}dopamine
+Dialogue: 0,0:01:26.04,0:01:28.21,Default,,0,0,0,,{\k88}Disagree{\k0}?{\k0} {\k30}You{\k0}’{\k5}re{\k0} {\k14}off{\k0} {\k16}the{\k0} {\k42}screen
+Dialogue: 0,0:01:28.45,0:01:30.67,Default,,0,0,0,,{\k30}Fake{\k0} {\k14}news{\k0} {\k60}tattooed{\k0} {\k10}on{\k0} {\k20}your{\k0} {\k42}soul
+Dialogue: 0,0:01:30.67,0:01:33.11,Default,,0,0,0,,{\k46}Sold{\k0} {\k24}your{\k0} {\k24}mind{\k0} {\k28}for{\k0} {\k28}hearts{\k0} {\k10}and{\k0} {\k56}scrolls
+Dialogue: 0,0:01:33.22,0:01:35.34,Default,,0,0,0,,{\k28}We{\k0}’{\k5}re{\k0} {\k33}trapped{\k0} {\k8}in{\k0} {\k74}Algorithm{\k0} {\k46}Nation{\k0}!
+Dialogue: 0,0:01:35.60,0:01:37.72,Default,,0,0,0,,{\k28}Mind{\k0} {\k54}control{\k0} {\k18}by{\k0} {\k92}personalization
+Dialogue: 0,0:01:38.00,0:01:40.17,Default,,0,0,0,,{\k42}Watch{\k0} {\k12}us{\k0} {\k28}march{\k0} {\k16}to{\k0} {\k94}simulation
+Dialogue: 0,0:01:40.21,0:01:42.95,Default,,0,0,0,,{\k52}Truth{\k0} {\k44}deleted{\k0} {\k16}by{\k0} {\k130}corporation
+Dialogue: 0,0:01:52.35,0:01:54.52,Default,,0,0,0,,{\k0}“{\k40}Terms{\k0} {\k6}of{\k0} {\k38}service{\k0} {\k70}you{\k0} {\k5}didn{\k0}’{\k5}t{\k0} {\k26}read{\k0},
+Dialogue: 0,0:01:54.81,0:01:56.92,Default,,0,0,0,,{\k30}Signed{\k0} {\k18}your{\k0} {\k30}brain{\k0} {\k12}to{\k0} {\k10}the{\k0} {\k52}data{\k0} {\k28}feed{\k0}.
+Dialogue: 0,0:01:57.12,0:01:59.34,Default,,0,0,0,,{\k12}It{\k0}’{\k5}s{\k0} {\k18}not{\k0} {\k80}surveillance{\k0},{\k0} {\k8}it{\k0}’{\k5}s{\k0} {\k24}just{\k0} {\k18}your{\k0} {\k30}taste{\k0}—
+Dialogue: 0,0:01:59.56,0:02:01.77,Default,,0,0,0,,{\k32}Until{\k0} {\k20}your{\k0} {\k30}vote{\k0} {\k8}and{\k0} {\k24}mind{\k0} {\k6}are{\k0} {\k56}replaced{\k0}.”
+Dialogue: 0,0:02:02.01,0:02:04.19,Default,,0,0,0,,{\k58}Screaming{\k0} {\k24}from{\k0} {\k76}Algorithm{\k0} {\k48}Nation{\k0}!
+Dialogue: 0,0:02:04.47,0:02:06.58,Default,,0,0,0,,{\k24}Click{\k0} {\k16}to{\k0} {\k32}agree{\k0} {\k16}to{\k0} {\k20}your{\k0} {\k72}sedation
+Dialogue: 0,0:02:06.100,0:02:08.98,Default,,0,0,0,,{\k14}One{\k0} {\k22}like{\k0} {\k44}closer{\k0} {\k4}to{\k0} {\k94}damnation
+Dialogue: 0,0:02:09.46,0:02:11.60,Default,,0,0,0,,{\k30}A{\k0}.{\k5}I{\k0}.{\k0} {\k33}smiles{\k0} {\k14}with{\k0} {\k24}no{\k0} {\k90}salvation
+Dialogue: 0,0:02:11.60,0:02:14.71,Default,,0,0,0,,{\k54}Hey{\k0}!{\k0} {\k54}Hey{\k0}!{\k0} {\k54}Hey{\k0}!{\k0} {\k54}Feed{\k0} {\k16}me{\k0} {\k66}lies{\k0}!
+Dialogue: 0,0:02:14.71,0:02:20.08,Default,,0,0,0,,{\k134}Hey{\k0}!{\k0} {\k134}Hey{\k0}!{\k0} {\k134}Hey{\k0}!{\k0} {\k134}Optimize{\k0}!

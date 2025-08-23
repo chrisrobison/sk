@@ -1,21 +1,58 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.99,0:00:19.42,Default,,0,0,0,,You step out swinging on the first green\\NDrive straight down like a laser beam\\NConfident stride they\'ve never seen\\NBut I know how this will go
-Dialogue: 0,0:00:10.99,0:00:37.19,Default,,0,0,0,,Straight shooter who can’t shoot straight\\NYou never lie, never hesitate\\NDropping strokes but you own your fate\\NYou\'re teeing off but you won’t escape
-Dialogue: 0,0:00:10.99,0:00:46.00,Default,,0,0,0,,I watch the score climb with the sun\\NWe’re way past par but having fun\\NHit the water, you never run\\NIt’s a badge you proudly wear
-Dialogue: 0,0:00:10.99,0:00:37.19,Default,,0,0,0,,Straight shooter who can’t shoot straight\\NYou never lie, never hesitate\\NDropping strokes but you own your fate\\NYou\'re teeing off but you won’t escape
-Dialogue: 0,0:00:10.99,0:01:10.61,Default,,0,0,0,,Could’ve kicked it out, but that’s not you\\NCounting every swing, no matter true or screwed\\NYour scorecard looks like modern art\\NBut you play your round with an honest heart
-Dialogue: 0,0:00:10.99,0:00:37.19,Default,,0,0,0,,Straight shooter who can’t shoot straight\\NYou never lie, never hesitate\\NDropping strokes but you own your fate\\NYou\'re teeing off but you won’t escape
+
+Dialogue: 0,0:00:00.71,0:00:09.04,Default,,0,0,0,,{\k0}[{\k829}Guitar{\k0} {\k5}Intro{\k0}]
+Dialogue: 0,0:00:09.04,0:00:09.35,Default,,0,0,0,,{\k0}({\k5}Fast{\k0},{\k0} {\k5}chugging{\k0} {\k5}power{\k0} {\k5}chords{\k0},{\k0} {\k5}energetic{\k0} {\k5}strumming{\k0})
+Dialogue: 0,0:00:09.35,0:00:09.50,Default,,0,0,0,,{\k0}[{\k5}Catching{\k0} {\k5}Guitar{\k0} {\k5}Hook{\k0}]
+Dialogue: 0,0:00:09.50,0:00:09.100,Default,,0,0,0,,{\k0}({\k5}Da{\k0} {\k5}na{\k0} {\k5}na{\k0},{\k0} {\k5}da{\k0} {\k5}na{\k0} {\k5}na{\k0},{\k0} {\k5}da{\k0} {\k5}na{\k0} {\k5}na{\k0} {\k5}naaa{\k0})
+Dialogue: 0,0:00:09.100,0:00:10.10,Default,,0,0,0,,{\k0}[{\k5}Verse{\k0} {\k5}1{\k0}]
+Dialogue: 0,0:00:10.98,0:00:13.39,Default,,0,0,0,,{\k26}You{\k0} {\k32}step{\k0} {\k14}out{\k0} {\k6}swinging{\k0} {\k10}on{\k0} {\k24}the{\k0} {\k24}first{\k0} {\k36}green
+Dialogue: 0,0:00:13.51,0:00:15.53,Default,,0,0,0,,{\k26}Drive{\k0} {\k28}straight{\k0} {\k22}down{\k0} {\k14}like{\k0} {\k2}a{\k0} {\k48}laser{\k0} {\k32}beam
+Dialogue: 0,0:00:15.77,0:00:17.82,Default,,0,0,0,,{\k50}Confident{\k0} {\k26}stride{\k0} {\k22}they've{\k0} {\k46}never{\k0} {\k40}seen
+Dialogue: 0,0:00:17.100,0:00:19.34,Default,,0,0,0,,{\k14}But{\k0} {\k4}I{\k0} {\k10}know{\k0} {\k16}how{\k0} {\k22}this{\k0} {\k16}will{\k0} {\k32}go
+Dialogue: 0,0:00:19.68,0:00:22.36,Default,,0,0,0,,{\k54}Ball{\k0}’{\k5}s{\k0} {\k14}in{\k0} {\k18}the{\k0} {\k50}bunker{\k0} {\k10}on{\k0} {\k22}hole{\k0} {\k46}three
+Dialogue: 0,0:00:22.40,0:00:24.43,Default,,0,0,0,,{\k22}Still{\k0} {\k20}you{\k0} {\k36}smile{\k0} {\k12}like{\k0} {\k8}it{\k0}’{\k5}s{\k0} {\k14}old{\k0} {\k58}routine
+Dialogue: 0,0:00:24.55,0:00:26.67,Default,,0,0,0,,{\k12}You{\k0} {\k28}line{\k0} {\k4}it{\k0} {\k10}up{\k0},{\k0} {\k14}you{\k0} {\k40}play{\k0} {\k6}it{\k0} {\k34}clean
+Dialogue: 0,0:00:26.89,0:00:28.37,Default,,0,0,0,,{\k22}Never{\k0} {\k18}cheat{\k0} {\k10}or{\k0} {\k18}let{\k0} {\k8}it{\k0} {\k18}roll
+Dialogue: 0,0:00:28.49,0:00:28.74,Default,,0,0,0,,{\k0}[{\k25}Chorus{\k0}]
+Dialogue: 0,0:00:28.80,0:00:30.56,Default,,0,0,0,,{\k32}Straight{\k0} {\k38}shooter{\k0} {\k6}who{\k0} {\k26}can{\k0}’{\k5}t{\k0} {\k17}shoot{\k0} {\k34}straight
+Dialogue: 0,0:00:30.66,0:00:33.14,Default,,0,0,0,,{\k12}You{\k0} {\k34}never{\k0} {\k40}lie{\k0},{\k0} {\k20}never{\k0} {\k126}hesitate
+Dialogue: 0,0:00:33.14,0:00:34.85,Default,,0,0,0,,{\k38}Dropping{\k0} {\k24}strokes{\k0} {\k12}but{\k0} {\k10}you{\k0} {\k12}own{\k0} {\k14}your{\k0} {\k34}fate
+Dialogue: 0,0:00:35.07,0:00:37.23,Default,,0,0,0,,{\k34}You're{\k0} {\k12}teeing{\k0} {\k6}off{\k0} {\k12}but{\k0} {\k12}you{\k0} {\k24}won{\k0}’{\k5}t{\k0} {\k52}escape
+Dialogue: 0,0:00:37.23,0:00:37.72,Default,,0,0,0,,{\k0}[{\k25}Verse{\k0} {\k24}2{\k0}]
+Dialogue: 0,0:00:37.87,0:00:39.99,Default,,0,0,0,,{\k10}I{\k0} {\k28}watch{\k0} {\k14}the{\k0} {\k30}score{\k0} {\k26}climb{\k0} {\k24}with{\k0} {\k20}the{\k0} {\k32}sun
+Dialogue: 0,0:00:40.08,0:00:42.20,Default,,0,0,0,,{\k14}We{\k0}’{\k5}re{\k0} {\k19}way{\k0} {\k16}past{\k0} {\k28}par{\k0} {\k20}but{\k0} {\k48}having{\k0} {\k30}fun
+Dialogue: 0,0:00:42.52,0:00:44.40,Default,,0,0,0,,{\k8}Hit{\k0} {\k20}the{\k0} {\k36}water{\k0},{\k0} {\k14}you{\k0} {\k50}never{\k0} {\k30}run
+Dialogue: 0,0:00:44.72,0:00:46.87,Default,,0,0,0,,{\k10}It{\k0}’{\k5}s{\k0} {\k2}a{\k0} {\k28}badge{\k0} {\k38}you{\k0} {\k30}proudly{\k0} {\k88}wear
+Dialogue: 0,0:00:46.87,0:00:48.89,Default,,0,0,0,,{\k5}Four{\k0}-{\k25}putt{\k0} {\k40}greens{\k0} {\k12}and{\k0} {\k24}rough{\k0} {\k22}that{\k0} {\k32}bites
+Dialogue: 0,0:00:49.03,0:00:51.15,Default,,0,0,0,,{\k34}Still{\k0} {\k16}you{\k0} {\k30}laugh{\k0} {\k26}through{\k0} {\k32}every{\k0} {\k38}slice
+Dialogue: 0,0:00:51.27,0:00:53.48,Default,,0,0,0,,{\k10}No{\k0} {\k18}Mulligans{\k0},{\k0} {\k18}no{\k0} {\k50}secret{\k0} {\k44}rights
+Dialogue: 0,0:00:53.48,0:00:55.02,Default,,0,0,0,,{\k30}Honest{\k0} {\k12}to{\k0} {\k8}a{\k0} {\k32}fault{\k0},{\k0} {\k8}I{\k0} {\k38}swear
+Dialogue: 0,0:00:55.02,0:00:55.37,Default,,0,0,0,,{\k0}[{\k35}Chorus{\k0}]
+Dialogue: 0,0:00:55.37,0:00:57.26,Default,,0,0,0,,{\k35}Straight{\k0} {\k34}shooter{\k0} {\k14}who{\k0} {\k24}can{\k0}’{\k5}t{\k0} {\k19}shoot{\k0} {\k42}straight
+Dialogue: 0,0:00:57.28,0:00:59.34,Default,,0,0,0,,{\k14}You{\k0} {\k20}never{\k0} {\k38}lie{\k0},{\k0} {\k28}never{\k0} {\k78}hesitate
+Dialogue: 0,0:00:59.52,0:01:01.15,Default,,0,0,0,,{\k14}Dropping{\k0} {\k8}strokes{\k0} {\k12}but{\k0} {\k12}you{\k0} {\k26}own{\k0} {\k5}your{\k0} {\k5}fate
+Dialogue: 0,0:01:01.15,0:01:01.65,Default,,0,0,0,,{\k5}You're{\k0} {\k5}teeing{\k0} {\k5}off{\k0} {\k5}but{\k0} {\k5}you{\k0} {\k5}won{\k0}’{\k5}t{\k0} {\k15}escape
+Dialogue: 0,0:01:01.65,0:01:01.84,Default,,0,0,0,,{\k0}[{\k19}Bridge{\k0}]
+Dialogue: 0,0:01:01.89,0:01:03.85,Default,,0,0,0,,{\k14}Could{\k0}’{\k10}ve{\k0} {\k18}kicked{\k0} {\k6}it{\k0} {\k14}out{\k0},{\k0} {\k10}but{\k0} {\k22}that{\k0}’{\k5}s{\k0} {\k20}not{\k0} {\k28}you
+Dialogue: 0,0:01:04.09,0:01:06.27,Default,,0,0,0,,{\k28}Counting{\k0} {\k16}every{\k0} {\k18}swing{\k0},{\k0} {\k12}no{\k0} {\k22}matter{\k0} {\k26}true{\k0} {\k10}or{\k0} {\k48}screwed
+Dialogue: 0,0:01:06.45,0:01:08.26,Default,,0,0,0,,{\k12}Your{\k0} {\k58}scorecard{\k0} {\k10}looks{\k0} {\k14}like{\k0} {\k40}modern{\k0} {\k18}art
+Dialogue: 0,0:01:08.28,0:01:10.64,Default,,0,0,0,,{\k10}But{\k0} {\k14}you{\k0} {\k24}play{\k0} {\k36}your{\k0} {\k5}round{\k0} {\k14}with{\k0} {\k4}an{\k0} {\k40}honest{\k0} {\k38}heart
+Dialogue: 0,0:01:10.64,0:01:10.98,Default,,0,0,0,,{\k0}[{\k34}Chorus{\k0}]
+Dialogue: 0,0:01:11.02,0:01:12.74,Default,,0,0,0,,{\k30}Straight{\k0} {\k28}shooter{\k0} {\k6}who{\k0} {\k26}can{\k0}’{\k5}t{\k0} {\k17}shoot{\k0} {\k32}straight
+Dialogue: 0,0:01:12.86,0:01:14.96,Default,,0,0,0,,{\k12}You{\k0} {\k20}never{\k0} {\k38}lie{\k0},{\k0} {\k24}never{\k0} {\k84}hesitate
+Dialogue: 0,0:01:15.48,0:01:17.11,Default,,0,0,0,,{\k18}Dropping{\k0} {\k28}strokes{\k0} {\k10}but{\k0} {\k10}you{\k0} {\k14}own{\k0} {\k16}your{\k0} {\k34}fate
+Dialogue: 0,0:01:17.33,0:01:19.65,Default,,0,0,0,,{\k12}You're{\k0} {\k20}teeing{\k0} {\k6}off{\k0} {\k12}but{\k0} {\k12}you{\k0} {\k28}won{\k0}’{\k5}t{\k0} {\k70}escape
+Dialogue: 0,0:01:20.30,0:01:20.95,Default,,0,0,0,,{\k0}[{\k65}Outro{\k0}]
+Dialogue: 0,0:01:21.65,0:01:27.43,Default,,0,0,0,,{\k0}({\k60}Fast{\k0} {\k55}picked{\k0} {\k50}guitar{\k0},{\k0} {\k44}harmonized{\k0} {\k39}leads{\k0})
+Dialogue: 0,0:01:28.39,0:01:30.50,Default,,0,0,0,,{\k34}Still{\k0} {\k14}swinging{\k0} {\k24}proud{\k0} {\k16}through{\k0} {\k38}every{\k0} {\k14}hole
+Dialogue: 0,0:01:30.78,0:01:32.80,Default,,0,0,0,,{\k2}A{\k0} {\k50}legend{\k0} {\k20}with{\k0} {\k10}a{\k0} {\k52}bogey{\k0} {\k36}soul
+Dialogue: 0,0:01:33.03,0:01:34.99,Default,,0,0,0,,{\k22}Can{\k0}’{\k5}t{\k0} {\k21}shoot{\k0} {\k30}straight{\k0} {\k12}but{\k0} {\k4}it{\k0} {\k22}makes{\k0} {\k18}you{\k0} {\k18}whole

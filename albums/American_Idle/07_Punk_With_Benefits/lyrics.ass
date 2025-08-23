@@ -1,15 +1,49 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.03,0:00:07.60,Default,,0,0,0,,{\k42}We{\k0} {\k5}used{\k0} {\k92}to{\k0} {\k5}scream{\k0} {\k17}in{\k0} {\k10}basements{\k0},{\k0} {\k16}now{\k0} {\k6}we{\k0} {\k30}shout{\k0} {\k8}on{\k0} {\k28}Zoom
+Dialogue: 0,0:00:07.92,0:00:10.89,Default,,0,0,0,,{\k28}Still{\k0} {\k14}smell{\k0} {\k18}like{\k0} {\k18}sweat{\k0} {\k8}and{\k0} {\k30}PBR{\k0},{\k0} {\k14}just{\k0} {\k28}with{\k0} {\k5}a{\k0} {\k40}better{\k0} {\k12}costume
+Dialogue: 0,0:00:10.93,0:00:12.59,Default,,0,0,0,,{\k28}DIY{\k0} {\k38}tattoos{\k0},{\k0} {\k5}now{\k0} {\k7}barcodes{\k0} {\k6}on{\k0} {\k6}our{\k0} {\k48}merch
+Dialogue: 0,0:00:12.61,0:00:14.68,Default,,0,0,0,,{\k6}I{\k0} {\k26}didn't{\k0} {\k5}sell{\k0} {\k25}out{\k0},{\k0} {\k28}bro{\k0},{\k0} {\k5}I{\k0} {\k5}just{\k0} {\k12}got{\k0} {\k14}paid{\k0} {\k6}to{\k0} {\k16}do{\k0} {\k10}the{\k0} {\k26}work
+Dialogue: 0,0:00:14.91,0:00:17.08,Default,,0,0,0,,{\k12}They{\k0} {\k26}say{\k0} {\k38}we're{\k0} {\k26}hypocrites{\k0} {\k6}for{\k0} {\k56}making{\k0} {\k22}rent
+Dialogue: 0,0:00:17.10,0:00:19.62,Default,,0,0,0,,{\k14}But{\k0} {\k12}my{\k0} {\k40}moral{\k0} {\k5}high{\k0} {\k29}ground{\k0}’{\k5}s{\k0} {\k11}got{\k0} {\k6}a{\k0} {\k26}ten{\k0} {\k20}percent
+Dialogue: 0,0:00:19.68,0:00:20.70,Default,,0,0,0,,{\k10}So{\k0} {\k20}here's{\k0} {\k16}the{\k0} {\k30}truth{\k0} {\k2}they{\k0} {\k2}can't{\k0} {\k2}unspin{\k0}:
+Dialogue: 0,0:00:20.70,0:00:20.85,Default,,0,0,0,,{\k2}We{\k0} {\k2}didn{\k0}’{\k2}t{\k0} {\k2}sell{\k0} {\k2}out{\k0} {\k0}—{\k0} {\k2}we{\k0} {\k2}just{\k0} {\k2}bought{\k0} {\k2}in
+Dialogue: 0,0:00:20.85,0:00:25.29,Default,,0,0,0,,{\k2}We{\k0} {\k2}bought{\k0} {\k2}in{\k0}!{\k0} {\k2}Like{\k0} {\k40}suckers{\k0} {\k22}at{\k0} {\k22}a{\k0} {\k14}swap{\k0} {\k8}meet
+Dialogue: 0,0:00:25.99,0:00:29.26,Default,,0,0,0,,{\k38}Now{\k0} {\k10}we{\k0} {\k10}got{\k0} {\k16}benefits{\k0} {\k20}and{\k0} {\k5}dental{\k0} {\k8}when{\k0} {\k28}we{\k0} {\k5}scream{\k0} {\k50}off{\k0} {\k74}beat
+Dialogue: 0,0:00:29.28,0:00:31.26,Default,,0,0,0,,{\k44}We{\k0} {\k5}bought{\k0} {\k9}in{\k0}!{\k0} {\k46}Still{\k0} {\k5}flipping{\k0} {\k12}off{\k0} {\k22}the{\k0} {\k42}system
+Dialogue: 0,0:00:31.28,0:00:33.88,Default,,0,0,0,,{\k28}But{\k0} {\k8}now{\k0} {\k6}we{\k0} {\k14}itemize{\k0} {\k10}the{\k0} {\k18}rage{\k0} {\k0}—{\k0} {\k10}'cause{\k0} {\k6}adult{\k0} {\k10}life's{\k0} {\k16}a{\k0} {\k86}prism
+Dialogue: 0,0:00:33.91,0:00:36.05,Default,,0,0,0,,{\k6}I{\k0} {\k24}still{\k0} {\k12}hate{\k0} {\k12}the{\k0} {\k16}man{\k0},{\k0} {\k6}I{\k0} {\k10}just{\k0} {\k10}invoice{\k0} {\k40}him{\k0} {\k44}monthly
+Dialogue: 0,0:00:36.31,0:00:42.01,Default,,0,0,0,,{\k18}My{\k0} {\k26}band{\k0}’{\k391}s{\k0} {\k6}on{\k0} {\k10}TikTok{\k0} {\k0}—{\k0} {\k5}it{\k0}’{\k5}s{\k0} {\k5}ugly{\k0} {\k5}but{\k0} {\k5}comfy
+Dialogue: 0,0:00:42.01,0:00:42.41,Default,,0,0,0,,{\k5}That{\k0} {\k5}crust{\k0} {\k5}punk{\k0} {\k5}purity{\k0}?{\k0} {\k5}A{\k0} {\k5}noble{\k0} {\k5}little{\k0} {\k5}lie
+Dialogue: 0,0:00:42.41,0:00:42.91,Default,,0,0,0,,{\k5}I{\k0}’{\k5}d{\k0} {\k5}rather{\k0} {\k5}own{\k0} {\k5}a{\k0} {\k5}house{\k0} {\k5}than{\k0} {\k5}eat{\k0} {\k5}trash{\k0} {\k5}pie
+Dialogue: 0,0:00:42.91,0:00:43.26,Default,,0,0,0,,{\k5}Yeah{\k0} {\k5}we{\k0} {\k5}still{\k0} {\k5}laugh{\k0} {\k5}at{\k0} {\k5}corporate{\k0} {\k5}hacks
+Dialogue: 0,0:00:43.26,0:00:44.20,Default,,0,0,0,,{\k5}But{\k0} {\k5}we{\k0} {\k5}got{\k0} {\k5}LLCs{\k0} {\k5}and{\k0} {\k5}union{\k0} {\k30}backs
+Dialogue: 0,0:00:45.79,0:00:48.33,Default,,0,0,0,,{\k10}So{\k0} {\k48}save{\k0} {\k6}your{\k0} {\k0}‘{\k38}poser{\k0}’{\k0} {\k46}violin{\k0} {\k0}—
+Dialogue: 0,0:00:48.91,0:00:52.88,Default,,0,0,0,,{\k12}We{\k0} {\k18}didn{\k0}’{\k68}t{\k0} {\k84}sell{\k0} {\k14}out{\k0},{\k0} {\k14}we{\k0} {\k22}just{\k0} {\k32}bought{\k0} {\k12}in
+Dialogue: 0,0:00:53.16,0:00:55.28,Default,,0,0,0,,{\k6}We{\k0} {\k12}bought{\k0} {\k16}in{\k0}!{\k0} {\k16}Got{\k0} {\k48}stock{\k0} {\k5}in{\k0} {\k10}our{\k0} {\k48}rebellion
+Dialogue: 0,0:00:55.91,0:00:56.98,Default,,0,0,0,,{\k12}With{\k0} {\k4}matching{\k0} {\k18}punk{\k0} {\k5}retirement{\k0} {\k5}plans{\k0} {\k5}and{\k0} {\k36}stickered{\k0} {\k5}Hellions
+Dialogue: 0,0:00:56.98,0:01:00.03,Default,,0,0,0,,{\k9}We{\k0} {\k5}bought{\k0} {\k6}in{\k0}!{\k0} {\k28}Now{\k0} {\k52}we{\k0} {\k6}pay{\k0} {\k26}for{\k0} {\k36}the{\k0} {\k42}distortion
+Dialogue: 0,0:01:00.03,0:01:01.96,Default,,0,0,0,,{\k5}We{\k0} {\k18}got{\k0} {\k16}sold{\k0} {\k30}the{\k0} {\k20}dream{\k0} {\k0}—{\k0} {\k5}and{\k0} {\k20}bought{\k0} {\k6}a{\k0} {\k10}punk{\k0} {\k2}proportion
+Dialogue: 0,0:01:10.48,0:01:13.01,Default,,0,0,0,,{\k0}"{\k12}Yo{\k0} {\k2}I{\k0} {\k18}still{\k0} {\k12}hate{\k0} {\k32}cops{\k0},{\k0} {\k10}but{\k0} {\k8}I{\k0} {\k5}am{\k0} {\k21}the{\k0} {\k22}HOA{\k0} {\k26}president{\k0} {\k36}now{\k0}...
+Dialogue: 0,0:01:13.03,0:01:15.03,Default,,0,0,0,,{\k10}My{\k0} {\k38}backyard{\k0} {\k18}punk{\k0} {\k22}fest{\k0} {\k8}ends{\k0} {\k4}at{\k0} {\k5}ten{\k0} {\k0}—{\k0} {\k33}noise{\k0} {\k4}ordinance{\k0},{\k0} {\k6}you{\k0} {\k14}know{\k0}?
+Dialogue: 0,0:01:15.31,0:01:17.92,Default,,0,0,0,,{\k10}I{\k0}’{\k5}m{\k0} {\k11}not{\k0} {\k34}a{\k0} {\k34}sellout{\k0}.{\k0} {\k8}I{\k0} {\k5}just{\k0} {\k11}bought{\k0} {\k5}a{\k0} {\k36}second{\k0} {\k76}fridge{\k0},
+Dialogue: 0,0:01:17.94,0:01:19.56,Default,,0,0,0,,{\k12}One{\k0} {\k10}for{\k0} {\k6}oat{\k0} {\k28}milk{\k0},{\k0} {\k10}one{\k0} {\k12}for{\k0} {\k22}rage{\k0}."
+Dialogue: 0,0:01:19.84,0:01:22.87,Default,,0,0,0,,{\k28}We{\k0} {\k30}bought{\k0} {\k20}in{\k0}!{\k0} {\k10}And{\k0} {\k42}yeah{\k0},{\k0} {\k24}the{\k0} {\k22}checks{\k0} {\k5}don{\k0}’{\k34}t{\k0} {\k5}bounce
+Dialogue: 0,0:01:23.00,0:01:24.58,Default,,0,0,0,,{\k28}Still{\k0} {\k5}scream{\k0} {\k9}the{\k0} {\k20}truth{\k0},{\k0} {\k12}just{\k0} {\k12}with{\k0} {\k24}accountant{\k0} {\k12}counts
+Dialogue: 0,0:01:24.61,0:01:25.62,Default,,0,0,0,,{\k22}We{\k0} {\k34}bought{\k0} {\k8}in{\k0}!{\k0} {\k8}Still{\k0} {\k8}smashing{\k0} {\k8}with{\k0} {\k8}precision
+Dialogue: 0,0:01:25.62,0:01:32.64,Default,,0,0,0,,{\k8}Call{\k0} {\k8}it{\k0} {\k20}punk{\k0} {\k38}2{\k0}.{\k26}0{\k0} {\k0}—{\k0} {\k18}with{\k0} {\k12}a{\k0} {\k58}dental{\k0} {\k5}plan{\k0} {\k7}and{\k0} {\k14}vision
+Dialogue: 0,0:01:32.64,0:01:34.08,Default,,0,0,0,,{\k5}So{\k0} {\k28}keep{\k0} {\k10}your{\k0} {\k5}gate{\k0},{\k0} {\k5}your{\k0} {\k16}scene{\k0},{\k0} {\k16}your{\k0} {\k5}sacred{\k0} {\k5}clout{\k0} {\k0}—
+Dialogue: 0,0:01:34.08,0:01:37.54,Default,,0,0,0,,{\k16}We{\k0} {\k32}didn{\k0}’{\k26}t{\k0} {\k8}sell{\k0} {\k108}out{\k0}…
+Dialogue: 0,0:01:37.56,0:01:39.87,Default,,0,0,0,,{\k46}We{\k0} {\k24}just{\k0} {\k34}bought{\k0}[{\k40}Outro{\k0}]
+Dialogue: 0,0:01:49.28,0:01:52.61,Default,,0,0,0,,{\k38}So{\k0} {\k32}keep{\k0} {\k18}your{\k0} {\k36}gate{\k0} {\k54}your{\k0} {\k10}scene{\k0} {\k22}your{\k0} {\k14}sacred{\k0} {\k70}clout{\k0} {\k0}—
+Dialogue: 0,0:01:52.64,0:01:54.34,Default,,0,0,0,,{\k26}We{\k0} {\k10}didn{\k0}’{\k32}t{\k0} {\k38}sell{\k0} {\k30}out{\k0}…
+Dialogue: 0,0:01:54.40,0:01:57.16,Default,,0,0,0,,{\k32}We{\k0} {\k10}just{\k0} {\k32}bought{\k0} {\k56}in{\k0}.

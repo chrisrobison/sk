@@ -1,0 +1,56 @@
+[Script Info]
+Title: Map Hack — The Suicidal Kennedys
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,38,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.93,0:00:05.53,Default,,0,0,0,Karaoke,{\k42}Deep {\k6}in {\k6}the {\k18}heart {\k4}of {\k6}the {\k18}Lone {\k18}Star {\k20}state
+Dialogue: 0,0:00:05.57,0:00:07.29,Default,,0,0,0,Karaoke,{\k16}They’re {\k38}redrawin’ {\k16}lines {\k8}fore {\k6}the {\k36}census {\k32}date
+Dialogue: 0,0:00:07.33,0:00:08.73,Default,,0,0,0,Karaoke,{\k24}Stuffin’ {\k12}the {\k12}map {\k10}like {\k2}a {\k2}ballot {\k2}pi {\k2}ata
+Dialogue: 0,0:00:08.91,0:00:10.56,Default,,0,0,0,Karaoke,{\k2}Shave {\k2}a {\k18}block {\k14}here {\k16}swap {\k2}a {\k24}block {\k10}of {\k40}MAGA
+Dialogue: 0,0:00:10.58,0:00:12.08,Default,,0,0,0,Karaoke,{\k18}Game {\k12}the {\k16}deck {\k12}while {\k6}the {\k34}dealer {\k30}sleeps
+Dialogue: 0,0:00:12.18,0:00:13.70,Default,,0,0,0,Karaoke,{\k30}Countin’ {\k16}seats {\k10}that {\k14}they {\k10}ain’t {\k16}supposed {\k4}to {\k32}keep
+Dialogue: 0,0:00:13.76,0:00:15.26,Default,,0,0,0,Karaoke,{\k20}Call {\k12}it {\k18}fair {\k10}with {\k2}a {\k20}wink {\k8}and {\k2}a {\k28}gun
+Dialogue: 0,0:00:15.34,0:00:16.82,Default,,0,0,0,Karaoke,{\k34}Mid-term {\k20}hustle’s {\k14}just {\k28}gettin’ {\k32}begun
+Dialogue: 0,0:00:17.21,0:00:19.25,Default,,0,0,0,Karaoke,{\k29}Democracy’s {\k29}duct-taped {\k42}to {\k6}the {\k10}chair
+Dialogue: 0,0:00:19.27,0:00:20.77,Default,,0,0,0,Karaoke,{\k10}While {\k8}they {\k8}carve {\k10}the {\k12}voters {\k8}like {\k12}county {\k6}fair
+Dialogue: 0,0:00:20.79,0:00:21.71,Default,,0,0,0,Karaoke,{\k6}Map {\k26}hack {\k10}Stack {\k2}the {\k40}pack
+Dialogue: 0,0:00:21.75,0:00:23.35,Default,,0,0,0,Karaoke,{\k74}Steal {\k6}the {\k12}House {\k6}and {\k8}don’t {\k6}look {\k36}back
+Dialogue: 0,0:00:23.47,0:00:25.21,Default,,0,0,0,Karaoke,{\k60}Map {\k8}hack {\k66}Slice {\k6}the {\k10}state
+Dialogue: 0,0:00:25.23,0:00:26.38,Default,,0,0,0,Karaoke,{\k8}Call {\k4}it {\k14}freedom {\k10}while {\k6}you {\k22}rig {\k6}the {\k22}fate
+Dialogue: 0,0:00:26.39,0:00:27.98,Default,,0,0,0,Karaoke,{\k74}From {\k16}Austin’s {\k8}blues {\k4}to {\k4}El {\k8}Paso {\k24}red
+Dialogue: 0,0:00:28.20,0:00:30.78,Default,,0,0,0,Karaoke,{\k14}They’ll {\k10}twist {\k6}the {\k28}borders {\k4}til {\k6}the {\k14}numbers {\k28}are {\k122}dead
+Dialogue: 0,0:00:32.77,0:00:34.31,Default,,0,0,0,Karaoke,{\k58}Newsom’s {\k18}laughin’ {\k8}from {\k6}the {\k14}west {\k16}coast {\k16}shore
+Dialogue: 0,0:00:34.33,0:00:35.95,Default,,0,0,0,Karaoke,{\k12}Says {\k4}If {\k32}Texas {\k18}cheats {\k14}we’ll {\k20}cheat {\k18}some {\k18}more
+Dialogue: 0,0:00:35.97,0:00:37.55,Default,,0,0,0,Karaoke,{\k8}It’s {\k4}a {\k4}tug-of {\k4}war {\k6}on {\k6}the {\k36}national {\k22}stage
+Dialogue: 0,0:00:37.65,0:00:39.32,Default,,0,0,0,Karaoke,{\k8}While {\k10}the {\k4}Constitution {\k30}rots {\k8}in {\k2}a {\k48}gerrymander {\k24}cage
+Dialogue: 0,0:00:39.38,0:00:40.90,Default,,0,0,0,Karaoke,{\k18}Lines {\k12}like {\k20}snakes {\k4}through {\k6}the {\k38}neighborhoods {\k30}crawl
+Dialogue: 0,0:00:40.82,0:00:42.32,Default,,0,0,0,Karaoke,{\k27}Crackin’ {\k27}your {\k27}voice {\k27}til {\k4}it {\k14}don’t {\k16}count {\k6}at {\k10}all
+Dialogue: 0,0:00:42.38,0:00:44.04,Default,,0,0,0,Karaoke,{\k14}No {\k20}shame {\k10}no {\k22}honor {\k14}just {\k36}partisan {\k26}lust
+Dialogue: 0,0:00:44.14,0:00:45.76,Default,,0,0,0,Karaoke,{\k22}Stuff {\k10}the {\k22}map {\k10}cause {\k6}the {\k36}system’s {\k38}dust
+Dialogue: 0,0:00:45.78,0:00:56.96,Default,,0,0,0,Karaoke,{\k795}Representation’s {\k34}a {\k202}rigged {\k40}arcade
+Dialogue: 0,0:00:56.98,0:00:58.35,Default,,0,0,0,Karaoke,{\k30}Drop {\k2}a {\k16}quarter {\k6}get {\k8}your {\k7}vote {\k7}mislaid
+Dialogue: 0,0:00:58.62,0:01:00.06,Default,,0,0,0,Karaoke,{\k7}Map {\k7}hack {\k7}Stack {\k7}the {\k7}pack
+Dialogue: 0,0:01:00.33,0:01:02.45,Default,,0,0,0,Karaoke,{\k7}Steal {\k7}the {\k7}House {\k7}and {\k7}don’t {\k7}look {\k7}back
+Dialogue: 0,0:01:02.72,0:01:04.16,Default,,0,0,0,Karaoke,{\k7}Map {\k7}hack {\k7}Slice {\k7}the {\k7}state
+Dialogue: 0,0:01:04.43,0:01:06.89,Default,,0,0,0,Karaoke,{\k7}Call {\k7}it {\k7}freedom {\k7}while {\k7}you {\k7}rig {\k7}the {\k7}fate
+Dialogue: 0,0:01:07.16,0:01:09.28,Default,,0,0,0,Karaoke,{\k7}From {\k7}San {\k7}Antone {\k7}to {\k7}the {\k7}Golden {\k7}Gate
+Dialogue: 0,0:01:09.55,0:01:10.99,Default,,0,0,0,Karaoke,{\k7}They’re {\k7}redrawin’ {\k7}truth {\k7}to {\k7}manipulate
+Dialogue: 0,0:01:11.26,0:01:14.52,Default,,0,0,0,Karaoke,{\k48}Cut {\k34}the {\k70}block {\k68}Swap {\k12}the {\k76}street
+Dialogue: 0,0:01:14.66,0:01:17.71,Default,,0,0,0,Karaoke,{\k30}Count {\k36}the {\k46}vote {\k38}before {\k14}the {\k36}people {\k72}meet
+Dialogue: 0,0:01:17.77,0:01:20.95,Default,,0,0,0,Karaoke,{\k60}Draw {\k12}the {\k40}lines {\k20}til {\k14}the {\k52}math {\k26}don’t {\k66}fit
+Dialogue: 0,0:01:20.99,0:01:24.05,Default,,0,0,0,Karaoke,{\k36}Then {\k38}shake {\k70}hands {\k22}call {\k10}it {\k106}politics
+Dialogue: 0,0:01:23.79,0:01:26.54,Default,,0,0,0,Karaoke,{\k95}Map {\k95}hack {\k34}Stack {\k20}the {\k54}pack
+Dialogue: 0,0:01:26.86,0:01:28.20,Default,,0,0,0,Karaoke,{\k10}Steal {\k6}the {\k40}House {\k6}and {\k10}don’t {\k8}look {\k42}back
+Dialogue: 0,0:01:28.39,0:01:30.08,Default,,0,0,0,Karaoke,{\k38}Map {\k38}hack {\k14}Slice {\k16}the {\k10}state
+Dialogue: 0,0:01:30.10,0:01:30.86,Default,,0,0,0,Karaoke,{\k8}Call {\k4}it {\k8}freedom {\k10}while {\k6}you {\k6}rig {\k6}the {\k5}fate
+Dialogue: 0,0:01:30.97,0:01:31.90,Default,,0,0,0,Karaoke,{\k5}From {\k5}border {\k5}walls {\k5}to {\k6}the {\k5}bay’s {\k5}bright {\k5}lights
+Dialogue: 0,0:01:31.92,0:01:32.27,Default,,0,0,0,Karaoke,{\k5}It’s {\k5}cartography {\k5}for {\k5}partisan {\k5}fights
+Dialogue: 0,0:01:32.29,0:01:32.64,Default,,0,0,0,Karaoke,{\k5}Mid-term {\k5}heist {\k5}in {\k5}broad {\k5}daylight
+Dialogue: 0,0:01:32.66,0:01:33.17,Default,,0,0,0,Karaoke,{\k5}They’re {\k5}redrawin’ {\k12}the {\k11}truth {\k11}while {\k11}we {\k11}scream {\k11}at {\k11}the {\k11}sight
+Dialogue: 0,0:01:33.10,0:01:33.31,Default,,0,0,0,Karaoke,{\k11}Map {\k11}hack {\k11}Map {\k11}hack
+Dialogue: 0,0:01:33.24,0:01:33.72,Default,,0,0,0,Karaoke,{\k11}Take {\k11}our {\k11}voice {\k11}never {\k11}give {\k4}it {\k24}back

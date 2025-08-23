@@ -1,20 +1,41 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.57,0:00:15.78,Default,,0,0,0,,[Verse]\\NWoke up feeling like I’m 90 years old\\NMy back’s on fire my story’s been told\\NUsed to bounce back like a rubber band snap\\NNow it’s two full days of this recovery trap
-Dialogue: 0,0:00:00.57,0:00:26.73,Default,,0,0,0,,[Chorus]\\NTwo day hangover it used to be one\\NThe party’s still fun but the damage is done\\NI pay double the price for my good time run\\NTwo day hangover it used to be one
-Dialogue: 0,0:00:00.57,0:00:42.82,Default,,0,0,0,,[Verse 2]\\NLast night tequila felt like a great plan\\NThis morning I’m dying can’t even stand\\NHair of the dog but the dog bit back\\NNow I’m trapped in this cycle of panic attack
-Dialogue: 0,0:00:00.57,0:00:53.30,Default,,0,0,0,,[Chorus]\\NTwo day hangover it used to be one\\NThe shots were so smooth now I’m under the gun\\NI party like a fool but the morning’s no fun\\NTwo day hangover it used to be one
-Dialogue: 0,0:00:00.57,0:01:05.84,Default,,0,0,0,,[Bridge]\\NUsed to dance till dawn no care in my head\\NNow I’m Googling remedies from the comfort of bed\\NPills and Gatorade can’t make this right\\NGuess I’ll feel normal by Tuesday night
+
+Dialogue: 0,0:00:05.30,0:00:05.33,Default,,0,0,0,,{\k0}[{\k3}Verse{\k0}]
+Dialogue: 0,0:00:05.35,0:00:07.79,Default,,0,0,0,,{\k40}Woke{\k0} {\k10}up{\k0} {\k32}feeling{\k0} {\k14}like{\k0} {\k6}I{\k0}’{\k5}m{\k0} {\k29}90{\k0} {\k30}years{\k0} {\k16}old
+Dialogue: 0,0:00:08.01,0:00:10.43,Default,,0,0,0,,{\k10}My{\k0} {\k30}back{\k0}’{\k5}s{\k0} {\k12}on{\k0} {\k40}fire{\k0} {\k10}my{\k0} {\k36}story{\k0}’{\k5}s{\k0} {\k10}been{\k0} {\k40}told
+Dialogue: 0,0:00:10.89,0:00:13.18,Default,,0,0,0,,{\k12}Used{\k0} {\k8}to{\k0} {\k30}bounce{\k0} {\k28}back{\k0} {\k16}like{\k0} {\k2}a{\k0} {\k28}rubber{\k0} {\k26}band{\k0} {\k36}snap
+Dialogue: 0,0:00:13.22,0:00:15.90,Default,,0,0,0,,{\k16}Now{\k0} {\k10}it{\k0}’{\k5}s{\k0} {\k19}two{\k0} {\k30}full{\k0} {\k30}days{\k0} {\k6}of{\k0} {\k12}this{\k0} {\k62}recovery{\k0} {\k34}trap
+Dialogue: 0,0:00:16.22,0:00:16.74,Default,,0,0,0,,{\k0}[{\k52}Chorus{\k0}]
+Dialogue: 0,0:00:16.74,0:00:18.54,Default,,0,0,0,,{\k5}Two{\k0} {\k5}day{\k0} {\k52}hangover{\k0} {\k6}it{\k0} {\k16}used{\k0} {\k24}to{\k0} {\k14}be{\k0} {\k12}one
+Dialogue: 0,0:00:18.79,0:00:21.21,Default,,0,0,0,,{\k12}The{\k0} {\k40}party{\k0}’{\k5}s{\k0} {\k17}still{\k0} {\k28}fun{\k0} {\k14}but{\k0} {\k10}the{\k0} {\k46}damage{\k0} {\k8}is{\k0} {\k28}done
+Dialogue: 0,0:00:21.45,0:00:23.93,Default,,0,0,0,,{\k10}I{\k0} {\k20}pay{\k0} {\k10}double{\k0} {\k8}the{\k0} {\k32}price{\k0} {\k14}for{\k0} {\k12}my{\k0} {\k22}good{\k0} {\k32}time{\k0} {\k30}run
+Dialogue: 0,0:00:24.29,0:00:26.82,Default,,0,0,0,,{\k52}Two{\k0} {\k5}day{\k0} {\k57}hangover{\k0} {\k4}it{\k0} {\k14}used{\k0} {\k22}to{\k0} {\k14}be{\k0} {\k34}one
+Dialogue: 0,0:00:32.41,0:00:32.94,Default,,0,0,0,,{\k0}[{\k36}Verse{\k0} {\k6}2{\k0}]
+Dialogue: 0,0:00:32.98,0:00:34.78,Default,,0,0,0,,{\k12}Last{\k0} {\k22}night{\k0} {\k8}tequila{\k0} {\k18}felt{\k0} {\k12}like{\k0} {\k4}a{\k0} {\k28}great{\k0} {\k34}plan
+Dialogue: 0,0:00:34.96,0:00:37.39,Default,,0,0,0,,{\k14}This{\k0} {\k44}morning{\k0} {\k10}I{\k0}’{\k5}m{\k0} {\k43}dying{\k0} {\k22}can{\k0}’{\k12}t{\k0} {\k56}even{\k0} {\k5}stand
+Dialogue: 0,0:00:37.80,0:00:40.13,Default,,0,0,0,,{\k32}Hair{\k0} {\k12}of{\k0} {\k8}the{\k0} {\k32}dog{\k0} {\k12}but{\k0} {\k8}the{\k0} {\k28}dog{\k0} {\k22}bit{\k0} {\k30}back
+Dialogue: 0,0:00:40.27,0:00:42.79,Default,,0,0,0,,{\k10}Now{\k0} {\k6}I{\k0}’{\k5}m{\k0} {\k32}trapped{\k0} {\k8}in{\k0} {\k6}this{\k0} {\k48}cycle{\k0} {\k4}of{\k0} {\k46}panic{\k0} {\k40}attack
+Dialogue: 0,0:00:43.15,0:00:43.69,Default,,0,0,0,,{\k0}[{\k54}Chorus{\k0}]
+Dialogue: 0,0:00:43.69,0:00:45.49,Default,,0,0,0,,{\k5}Two{\k0} {\k5}day{\k0} {\k36}hangover{\k0} {\k8}it{\k0} {\k14}used{\k0} {\k22}to{\k0} {\k16}be{\k0} {\k12}one
+Dialogue: 0,0:00:45.73,0:00:48.20,Default,,0,0,0,,{\k10}The{\k0} {\k24}shots{\k0} {\k16}were{\k0} {\k14}so{\k0} {\k36}smooth{\k0} {\k18}now{\k0} {\k10}I{\k0}’{\k5}m{\k0} {\k26}under{\k0} {\k16}the{\k0} {\k28}gun
+Dialogue: 0,0:00:48.46,0:00:50.92,Default,,0,0,0,,{\k8}I{\k0} {\k28}party{\k0} {\k14}like{\k0} {\k4}a{\k0} {\k30}fool{\k0} {\k12}but{\k0} {\k8}the{\k0} {\k42}morning{\k0}’{\k5}s{\k0} {\k15}no{\k0} {\k30}fun
+Dialogue: 0,0:00:51.30,0:00:53.65,Default,,0,0,0,,{\k52}Two{\k0} {\k5}day{\k0} {\k58}hangover{\k0} {\k4}it{\k0} {\k12}used{\k0} {\k18}to{\k0} {\k16}be{\k0} {\k10}one
+Dialogue: 0,0:00:54.48,0:00:54.93,Default,,0,0,0,,{\k0}[{\k45}Bridge{\k0}]
+Dialogue: 0,0:00:55.41,0:00:58.42,Default,,0,0,0,,{\k80}Used{\k0} {\k6}to{\k0} {\k22}dance{\k0} {\k8}till{\k0} {\k32}dawn{\k0} {\k22}no{\k0} {\k22}care{\k0} {\k8}in{\k0} {\k6}my{\k0} {\k10}head
+Dialogue: 0,0:00:58.44,0:01:00.83,Default,,0,0,0,,{\k12}Now{\k0} {\k6}I{\k0}’{\k32}m{\k0} {\k5}Googling{\k0} {\k53}remedies{\k0} {\k16}from{\k0} {\k8}the{\k0} {\k38}comfort{\k0} {\k8}of{\k0} {\k30}bed
+Dialogue: 0,0:01:01.35,0:01:03.53,Default,,0,0,0,,{\k22}Pills{\k0} {\k8}and{\k0} {\k62}Gatorade{\k0} {\k28}can{\k0}’{\k5}t{\k0} {\k18}make{\k0} {\k18}this{\k0} {\k28}right
+Dialogue: 0,0:01:04.01,0:01:08.24,Default,,0,0,0,,{\k18}Guess{\k0} {\k10}I{\k0}’{\k5}ll{\k0} {\k23}feel{\k0} {\k40}normal{\k0} {\k14}by{\k0} {\k44}Tuesday{\k0} {\k44}night
+Dialogue: 0,0:01:13.39,0:01:19.23,Default,,0,0,0,,{\k0}[{\k35}Verse{\k0} {\k25}3{\k0}]
+Dialogue: 0,0:01:24.56,0:01:27.07,Default,,0,0,0,,{\k16}The{\k0} {\k32}clock{\k0}’{\k5}s{\k0} {\k30}my{\k0} {\k34}enemy{\k0} {\k20}time{\k0}’{\k5}s{\k0} {\k25}not{\k0} {\k20}my{\k0} {\k30}friend
+Dialogue: 0,0:01:27.47,0:01:29.70,Default,,0,0,0,,{\k26}Can{\k0}’{\k5}t{\k0} {\k19}stop{\k0} {\k8}the{\k0} {\k32}party{\k0} {\k12}but{\k0} {\k4}I{\k0} {\k30}can{\k0}’{\k5}t{\k0} {\k52}pretend
+Dialogue: 0,0:01:30.19,0:01:32.52,Default,,0,0,0,,{\k24}Youth{\k0} {\k16}was{\k0} {\k4}a{\k0} {\k52}blessing{\k0} {\k8}I{\k0} {\k28}never{\k0} {\k24}did{\k0} {\k30}see
+Dialogue: 0,0:01:32.56,0:01:35.31,Default,,0,0,0,,{\k14}Now{\k0} {\k10}it{\k0}’{\k5}s{\k0} {\k23}two{\k0}-{\k28}day{\k0} {\k60}payback{\k0} {\k22}for{\k0} {\k26}every{\k0} {\k46}spree

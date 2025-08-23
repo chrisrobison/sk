@@ -1,16 +1,46 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.80,0:01:04.88,Default,,0,0,0,,[Chorus]\\NTwo dogs, one leash, no peace\\NMy arms are stretched like a Jesus piece\\NI’m the clown car driver of a canine parade\\NEvery morning feels like a hand grenade\\NTwo dogs, one leash, no peace
+
+Dialogue: 0,0:00:00.77,0:00:03.10,Default,,0,0,0,,{\k44}Alarm{\k0} {\k30}clock{\k0} {\k58}screams{\k0},{\k0} {\k5}I{\k0} {\k29}hit{\k0} {\k5}snooze{\k0} {\k13}like{\k0} {\k2}a{\k0} {\k30}pro
+Dialogue: 0,0:00:03.28,0:00:05.52,Default,,0,0,0,,{\k10}But{\k0} {\k14}two{\k0} {\k32}pairs{\k0} {\k8}of{\k0} {\k14}eyes{\k0} {\k24}say{\k0},{\k0} {\k0}“{\k22}C{\k0}’{\k10}mon{\k0},{\k0} {\k24}let{\k0}’{\k5}s{\k0} {\k23}go{\k0}!”
+Dialogue: 0,0:00:05.72,0:00:07.99,Default,,0,0,0,,{\k10}The{\k0} {\k26}leash{\k0} {\k10}is{\k0} {\k6}a{\k0} {\k28}mess{\k0},{\k0} {\k22}they{\k0}’{\k5}re{\k0} {\k50}tangled{\k0} {\k34}again
+Dialogue: 0,0:00:08.21,0:00:10.49,Default,,0,0,0,,{\k6}I{\k0} {\k14}know{\k0} {\k10}they{\k0} {\k18}need{\k0} {\k6}to{\k0} {\k28}go{\k0},{\k0} {\k24}just{\k0} {\k30}don't{\k0} {\k24}know{\k0} {\k30}when
+Dialogue: 0,0:00:10.67,0:00:12.80,Default,,0,0,0,,{\k16}Coffee{\k0}’{\k26}s{\k0} {\k22}cold{\k0} {\k20}but{\k0} {\k16}they{\k0} {\k20}don{\k0}’{\k5}t{\k0} {\k27}care
+Dialogue: 0,0:00:12.84,0:00:15.46,Default,,0,0,0,,{\k46}They{\k0}’{\k5}re{\k0} {\k25}sniffing{\k0} {\k20}every{\k0} {\k32}pole{\k0},{\k0} {\k20}every{\k0} {\k28}tree{\k0},{\k0} {\k18}every{\k0} {\k32}chair
+Dialogue: 0,0:00:15.64,0:00:17.47,Default,,0,0,0,,{\k6}I{\k0} {\k30}swear{\k0} {\k26}they{\k0}’{\k5}re{\k0} {\k43}plotting{\k0} {\k5}to{\k0} {\k29}drag{\k0} {\k12}me{\k0} {\k8}to{\k0} {\k1}hell
+Dialogue: 0,0:00:17.47,0:00:17.51,Default,,0,0,0,,{\k1}Through{\k0} {\k1}puddles{\k0} {\k1}and{\k0} {\k1}mud{\k0},{\k0} {\k1}can{\k0}’{\k1}t{\k0} {\k1}you{\k0} {\k1}tell{\k0}?
+Dialogue: 0,0:00:17.51,0:00:17.54,Default,,0,0,0,,{\k1}Two{\k0} {\k1}dogs{\k0},{\k0} {\k1}one{\k0} {\k1}leash{\k0},{\k0} {\k1}no{\k0} {\k1}peace
+Dialogue: 0,0:00:17.54,0:00:17.59,Default,,0,0,0,,{\k1}Every{\k0} {\k1}day{\k0}’{\k1}s{\k0} {\k1}a{\k0} {\k1}tug{\k0}-{\k1}of{\k0}-{\k1}war{\k0} {\k1}masterpiece
+Dialogue: 0,0:00:17.59,0:00:27.77,Default,,0,0,0,,{\k1}I{\k0}’{\k1}m{\k0} {\k1}the{\k0} {\k28}unpaid{\k0} {\k12}chauffeur{\k0} {\k14}for{\k0} {\k14}their{\k0} {\k44}daily{\k0} {\k40}parade
+Dialogue: 0,0:00:27.83,0:00:29.90,Default,,0,0,0,,{\k10}Oh{\k0},{\k0} {\k8}the{\k0} {\k62}sidewalks{\k0} {\k24}crack{\k0} {\k10}where{\k0} {\k10}my{\k0} {\k28}dignity{\k0} {\k22}fades
+Dialogue: 0,0:00:29.94,0:00:32.64,Default,,0,0,0,,{\k56}Two{\k0} {\k8}dogs{\k0},{\k0} {\k10}one{\k0} {\k58}leash{\k0},{\k0} {\k78}no{\k0} {\k5}peace
+Dialogue: 0,0:00:34.47,0:00:35.92,Default,,0,0,0,,{\k42}Neighbors{\k0} {\k18}wave{\k0},{\k0} {\k4}I{\k0} {\k38}pretend{\k0} {\k6}I{\k0}’{\k5}m{\k0} {\k5}in{\k0} {\k5}control
+Dialogue: 0,0:00:35.92,0:00:36.32,Default,,0,0,0,,{\k5}But{\k0} {\k5}Rio{\k0}’{\k5}s{\k0} {\k5}barking{\k0} {\k5}then{\k0} {\k5}digging{\k0} {\k5}a{\k0} {\k5}hole{\k0},
+Dialogue: 0,0:00:36.32,0:00:41.36,Default,,0,0,0,,{\k5}Yuki{\k0}’{\k5}s{\k0} {\k5}biting{\k0} {\k5}at{\k0} {\k5}the{\k0} {\k5}mailman{\k0}’{\k106}s{\k0} {\k26}shoe
+Dialogue: 0,0:00:41.62,0:00:43.92,Default,,0,0,0,,{\k6}I{\k0}’{\k5}m{\k0} {\k28}yelling{\k0} {\k18}their{\k0} {\k26}names{\k0} {\k12}'cause{\k0} {\k2}I{\k0} {\k5}don't{\k0} {\k46}know{\k0} {\k14}what{\k0} {\k26}to{\k0} {\k5}do
+Dialogue: 0,0:00:44.05,0:00:46.31,Default,,0,0,0,,{\k20}This{\k0} {\k24}isn{\k0}’{\k5}t{\k0} {\k54}exercise{\k0},{\k0} {\k12}this{\k0} {\k8}is{\k0} {\k24}urban{\k0} {\k54}combat
+Dialogue: 0,0:00:46.57,0:00:49.03,Default,,0,0,0,,{\k8}I{\k0}’{\k5}m{\k0} {\k25}dodging{\k0} {\k30}scooters{\k0},{\k0} {\k30}strollers{\k0},{\k0} {\k10}and{\k0} {\k4}a{\k0} {\k60}psycho{\k0} {\k52}cat
+Dialogue: 0,0:00:49.05,0:00:51.46,Default,,0,0,0,,{\k8}Some{\k0} {\k28}days{\k0} {\k12}I{\k0} {\k34}dream{\k0} {\k8}of{\k0} {\k4}a{\k0} {\k60}robot{\k0} {\k44}pup
+Dialogue: 0,0:00:51.48,0:00:54.22,Default,,0,0,0,,{\k12}But{\k0} {\k14}then{\k0} {\k12}they{\k0} {\k18}look{\k0} {\k6}at{\k0} {\k10}me{\k0} {\k10}and{\k0} {\k12}I{\k0} {\k26}just{\k0} {\k34}shut{\k0} {\k52}up
+Dialogue: 0,0:00:54.22,0:00:56.24,Default,,0,0,0,,{\k36}Two{\k0} {\k32}dogs{\k0},{\k0} {\k12}one{\k0} {\k40}leash{\k0},{\k0} {\k8}no{\k0} {\k34}peace
+Dialogue: 0,0:00:56.68,0:00:58.59,Default,,0,0,0,,{\k4}My{\k0} {\k10}arms{\k0} {\k12}are{\k0} {\k28}stretched{\k0} {\k12}like{\k0} {\k4}a{\k0} {\k54}Jesus{\k0} {\k28}piece
+Dialogue: 0,0:00:58.65,0:01:01.01,Default,,0,0,0,,{\k6}I{\k0}’{\k5}m{\k0} {\k9}the{\k0} {\k30}clown{\k0} {\k28}car{\k0} {\k22}driver{\k0} {\k8}of{\k0} {\k4}a{\k0} {\k30}canine{\k0} {\k58}parade
+Dialogue: 0,0:01:01.09,0:01:03.39,Default,,0,0,0,,{\k20}Every{\k0} {\k52}morning{\k0} {\k28}feels{\k0} {\k12}like{\k0} {\k4}a{\k0} {\k26}hand{\k0} {\k4}grenade
+Dialogue: 0,0:01:03.71,0:01:05.30,Default,,0,0,0,,{\k16}Two{\k0} {\k24}dogs{\k0},{\k0} {\k8}one{\k0} {\k44}leash{\k0},{\k0} {\k10}no{\k0} {\k32}peace
+Dialogue: 0,0:01:05.45,0:01:05.95,Default,,0,0,0,,{\k4}I{\k0} {\k5}love{\k0} {\k0}‘{\k5}em{\k0},{\k0} {\k6}I{\k0} {\k5}do{\k0},{\k0} {\k5}but{\k0} {\k5}they{\k0}’{\k5}re{\k0} {\k5}both{\k0} {\k5}insane
+Dialogue: 0,0:01:05.95,0:01:09.72,Default,,0,0,0,,{\k5}Chasing{\k0} {\k5}squirrels{\k0} {\k5}like{\k0} {\k3}it{\k0}’{\k40}s{\k0} {\k44}their{\k0} {\k68}cocaine
+Dialogue: 0,0:01:10.06,0:01:10.100,Default,,0,0,0,,{\k6}And{\k0} {\k12}when{\k0} {\k20}we{\k0}’{\k5}re{\k0} {\k21}home{\k0},{\k0} {\k4}they{\k0} {\k4}just{\k0} {\k4}crash{\k0} {\k4}and{\k0} {\k4}snore
+Dialogue: 0,0:01:10.100,0:01:17.91,Default,,0,0,0,,{\k4}While{\k0} {\k4}I{\k0}’{\k22}m{\k0} {\k22}bandaging{\k0} {\k34}wounds{\k0} {\k14}from{\k0} {\k6}the{\k0} {\k44}civil{\k0} {\k132}war
+Dialogue: 0,0:01:18.72,0:01:20.88,Default,,0,0,0,,{\k30}Two{\k0} {\k32}dogs{\k0},{\k0} {\k14}one{\k0} {\k30}leash{\k0},{\k0} {\k22}no{\k0} {\k54}peace
+Dialogue: 0,0:01:20.90,0:01:23.03,Default,,0,0,0,,{\k18}Call{\k0} {\k8}the{\k0} {\k38}UN{\k0} {\k18}for{\k0} {\k4}a{\k0} {\k54}barking{\k0} {\k30}cease
+Dialogue: 0,0:01:23.05,0:01:25.45,Default,,0,0,0,,{\k12}But{\k0} {\k54}tomorrow{\k0} {\k6}at{\k0} {\k28}dawn{\k0},{\k0} {\k18}we{\k0}’{\k5}ll{\k0} {\k11}be{\k0} {\k12}out{\k0} {\k38}again
+Dialogue: 0,0:01:25.47,0:01:27.80,Default,,0,0,0,,{\k16}Just{\k0} {\k4}a{\k0} {\k26}guy{\k0},{\k0} {\k14}his{\k0} {\k32}dogs{\k0},{\k0} {\k16}and{\k0} {\k44}zero{\k0} {\k16}zen
+Dialogue: 0,0:01:28.34,0:01:31.53,Default,,0,0,0,,{\k18}Two{\k0} {\k28}dogs{\k0},{\k0} {\k10}one{\k0} {\k40}leash{\k0},{\k0} {\k16}no{\k0} {\k168}peace{\k0}!

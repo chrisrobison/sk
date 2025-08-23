@@ -1,23 +1,39 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.75,0:00:23.52,Default,,0,0,0,,Scroll down the feed, it’s a circus every day\\NOpinions over evidence, no one cares what experts say\\NShouting matches everywhere, sense replaced by pride\\NDelusion\'s the currency, logic set aside
-Dialogue: 0,0:00:11.75,0:01:39.63,Default,,0,0,0,,We lost respect for reason\\NLet arrogance ignite\\NEntertainment over truth,\\NIt’s ignorance in the light
-Dialogue: 0,0:00:11.75,0:00:52.08,Default,,0,0,0,,Society\'s in free fall, critical thinking\'s deceased\\NWe celebrate the loudest while intelligence decreased\\NIgnorance is power now, stupidity\'s the trend\\NWatching as our culture takes a nosedive to the end
-Dialogue: 0,0:00:11.75,0:01:12.45,Default,,0,0,0,,Hey! Hey! Hey! Hey!\\NDumb it down! Dumb it down!
-Dialogue: 0,0:00:11.75,0:01:24.46,Default,,0,0,0,,Headlines scream with nonsense, facts don\'t matter anymore\\NConspiracy theories sell while truth gets shown the door\\NExperts are discredited, while fools take center stage\\NWelcome to the kingdom where the jester is the sage
-Dialogue: 0,0:00:11.75,0:01:36.63,Default,,0,0,0,,We\'re trading wisdom for clicks\\NIntelligence for likes\\NBreeding generations of\\NMinds that never think twice
-Dialogue: 0,0:00:11.75,0:00:52.08,Default,,0,0,0,,Society\'s in free fall, critical thinking\'s deceased\\NWe celebrate the loudest while intelligence decreased\\NIgnorance is power now, stupidity\'s the trend\\NWatching as our culture takes a nosedive to the end
-Dialogue: 0,0:00:11.75,0:01:12.45,Default,,0,0,0,,Hey! Hey! Hey! Hey!\\NDumb it down! Dumb it down!
+
+Dialogue: 0,0:00:11.52,0:00:14.32,Default,,0,0,0,,{\k52}Scroll{\k0} {\k16}down{\k0} {\k4}the{\k0} {\k40}feed{\k0},{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k4}a{\k0} {\k38}circus{\k0} {\k60}every{\k0} {\k5}day
+Dialogue: 0,0:00:14.32,0:00:17.37,Default,,0,0,0,,{\k77}Opinions{\k0} {\k22}over{\k0} {\k30}evidence{\k0},{\k0} {\k10}no{\k0} {\k10}one{\k0} {\k22}cares{\k0} {\k16}what{\k0} {\k32}experts{\k0} {\k36}say
+Dialogue: 0,0:00:17.69,0:00:20.34,Default,,0,0,0,,{\k36}Shouting{\k0} {\k34}matches{\k0} {\k46}everywhere{\k0},{\k0} {\k44}sense{\k0} {\k18}replaced{\k0} {\k18}by{\k0} {\k36}pride
+Dialogue: 0,0:00:20.60,0:00:24.48,Default,,0,0,0,,{\k72}Delusion's{\k0} {\k2}the{\k0} {\k72}currency{\k0},{\k0} {\k40}logic{\k0} {\k88}set{\k0} {\k18}aside
+Dialogue: 0,0:00:24.48,0:00:26.25,Default,,0,0,0,,{\k5}We{\k0} {\k12}lost{\k0} {\k38}respect{\k0} {\k24}for{\k0} {\k72}reason
+Dialogue: 0,0:00:26.57,0:00:29.33,Default,,0,0,0,,{\k42}Let{\k0} {\k74}arrogance{\k0} {\k102}ignite
+Dialogue: 0,0:00:30.63,0:00:32.86,Default,,0,0,0,,{\k112}Entertainment{\k0} {\k36}over{\k0} {\k54}truth{\k0},
+Dialogue: 0,0:00:32.88,0:00:35.10,Default,,0,0,0,,{\k36}It{\k0}’{\k5}s{\k0} {\k57}ignorance{\k0} {\k20}in{\k0} {\k22}the{\k0} {\k42}light
+Dialogue: 0,0:00:40.52,0:00:43.23,Default,,0,0,0,,{\k70}Society's{\k0} {\k10}in{\k0} {\k56}free{\k0} {\k14}fall{\k0},{\k0} {\k22}critical{\k0} {\k46}thinking's{\k0} {\k18}deceased
+Dialogue: 0,0:00:43.49,0:00:46.25,Default,,0,0,0,,{\k14}We{\k0} {\k54}celebrate{\k0} {\k18}the{\k0} {\k28}loudest{\k0} {\k20}while{\k0} {\k64}intelligence{\k0} {\k50}decreased
+Dialogue: 0,0:00:46.62,0:00:49.60,Default,,0,0,0,,{\k32}Ignorance{\k0} {\k36}is{\k0} {\k10}power{\k0} {\k20}now{\k0},{\k0} {\k70}stupidity's{\k0} {\k12}the{\k0} {\k68}trend
+Dialogue: 0,0:00:49.62,0:00:52.41,Default,,0,0,0,,{\k32}Watching{\k0} {\k16}as{\k0} {\k10}our{\k0} {\k36}culture{\k0} {\k18}takes{\k0} {\k8}a{\k0} {\k34}nosedive{\k0} {\k16}to{\k0} {\k10}the{\k0} {\k24}end
+Dialogue: 0,0:00:53.15,0:00:56.33,Default,,0,0,0,,{\k20}Hey{\k0}!{\k0} {\k20}Hey{\k0}!{\k0} {\k16}Hey{\k0}!{\k0} {\k20}Hey{\k0}!
+Dialogue: 0,0:00:56.91,0:01:00.92,Default,,0,0,0,,{\k22}Dumb{\k0} {\k6}it{\k0} {\k48}down{\k0}!{\k0} {\k24}Dumb{\k0} {\k6}it{\k0} {\k72}down{\k0}!
+Dialogue: 0,0:01:12.37,0:01:14.96,Default,,0,0,0,,{\k40}Headlines{\k0} {\k20}scream{\k0} {\k8}with{\k0} {\k34}nonsense{\k0},{\k0} {\k18}facts{\k0} {\k14}don't{\k0} {\k34}matter{\k0} {\k54}anymore
+Dialogue: 0,0:01:14.98,0:01:18.09,Default,,0,0,0,,{\k88}Conspiracy{\k0} {\k34}theories{\k0} {\k24}sell{\k0} {\k38}while{\k0} {\k22}truth{\k0} {\k20}gets{\k0} {\k6}shown{\k0} {\k6}the{\k0} {\k36}door
+Dialogue: 0,0:01:18.13,0:01:21.23,Default,,0,0,0,,{\k78}Experts{\k0} {\k12}are{\k0} {\k74}discredited{\k0},{\k0} {\k8}while{\k0} {\k20}fools{\k0} {\k20}take{\k0} {\k2}center{\k0} {\k48}stage
+Dialogue: 0,0:01:21.56,0:01:24.42,Default,,0,0,0,,{\k34}Welcome{\k0} {\k16}to{\k0} {\k12}the{\k0} {\k34}kingdom{\k0} {\k16}where{\k0} {\k8}the{\k0} {\k38}jester{\k0} {\k10}is{\k0} {\k2}the{\k0} {\k54}sage
+Dialogue: 0,0:01:25.22,0:01:27.77,Default,,0,0,0,,{\k20}We're{\k0} {\k62}trading{\k0} {\k70}wisdom{\k0} {\k36}for{\k0} {\k48}clicks
+Dialogue: 0,0:01:27.79,0:01:30.53,Default,,0,0,0,,{\k128}Intelligence{\k0} {\k32}for{\k0} {\k96}likes
+Dialogue: 0,0:01:31.51,0:01:33.87,Default,,0,0,0,,{\k64}Breeding{\k0} {\k130}generations{\k0} {\k16}of
+Dialogue: 0,0:01:33.95,0:01:36.58,Default,,0,0,0,,{\k30}Minds{\k0} {\k24}that{\k0} {\k44}never{\k0} {\k22}think{\k0} {\k100}twice
+Dialogue: 0,0:01:36.96,0:01:39.66,Default,,0,0,0,,{\k60}Society's{\k0} {\k8}in{\k0} {\k20}free{\k0} {\k18}fall{\k0},{\k0} {\k12}critical{\k0} {\k56}thinking's{\k0} {\k20}deceased
+Dialogue: 0,0:01:39.98,0:01:43.45,Default,,0,0,0,,{\k14}We{\k0} {\k52}celebrate{\k0} {\k14}the{\k0} {\k42}loudest{\k0} {\k20}while{\k0} {\k72}intelligence{\k0} {\k32}decreased
+Dialogue: 0,0:01:44.17,0:01:45.89,Default,,0,0,0,,{\k8}Ignorance{\k0} {\k12}is{\k0} {\k4}power{\k0} {\k4}now{\k0},{\k0} {\k4}stupidity's{\k0} {\k4}the{\k0} {\k42}trend
+Dialogue: 0,0:01:46.27,0:01:49.02,Default,,0,0,0,,{\k22}Watching{\k0} {\k20}as{\k0} {\k18}our{\k0} {\k54}culture{\k0} {\k10}takes{\k0} {\k22}a{\k0} {\k14}nosedive{\k0} {\k18}to{\k0} {\k20}the{\k0} {\k24}end
+Dialogue: 0,0:01:49.17,0:01:51.56,Default,,0,0,0,,{\k28}Hey{\k0}!{\k0} {\k32}Hey{\k0}!{\k0} {\k8}Hey{\k0}!{\k0} {\k22}Hey{\k0}!
+Dialogue: 0,0:01:53.50,0:01:56.50,Default,,0,0,0,,{\k22}Dumb{\k0} {\k8}it{\k0} {\k44}down{\k0}!{\k0} {\k28}Dumb{\k0} {\k8}it{\k0} {\k80}down{\k0}!

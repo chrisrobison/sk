@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:48.06,0:00:49.78,Default,,0,0,0,,{\k24}I{\k0} {\k20}died{\k0} {\k30}broke{\k0} {\k6}in{\k0} {\k4}a{\k0} {\k48}broke{\k0}-{\k5}ass{\k0} {\k19}town
+Dialogue: 0,0:00:49.86,0:00:51.68,Default,,0,0,0,,{\k12}No{\k0} {\k44}flowers{\k0},{\k0} {\k26}no{\k0} {\k5}suit{\k0},{\k0} {\k13}no{\k0} {\k14}hole{\k0} {\k4}in{\k0} {\k6}the{\k0} {\k36}ground
+Dialogue: 0,0:00:51.88,0:00:53.87,Default,,0,0,0,,{\k46}The{\k0} {\k5}priest{\k0}’{\k5}s{\k0} {\k5}a{\k0} {\k17}guy{\k0} {\k12}I{\k0} {\k18}met{\k0} {\k20}last{\k0} {\k46}week
+Dialogue: 0,0:00:53.87,0:00:55.63,Default,,0,0,0,,{\k12}He{\k0} {\k12}charged{\k0} {\k12}me{\k0} {\k2}double{\k0} {\k24}just{\k0} {\k8}to{\k0} {\k46}speak
+Dialogue: 0,0:00:55.65,0:00:57.65,Default,,0,0,0,,{\k10}The{\k0} {\k46}coffin{\k0}’{\k5}s{\k0} {\k40}made{\k0} {\k26}of{\k0} {\k8}particle{\k0} {\k52}board
+Dialogue: 0,0:00:57.65,0:00:59.46,Default,,0,0,0,,{\k5}Recycled{\k0} {\k46}likes{\k0} {\k22}I{\k0} {\k10}can{\k0}’{\k5}t{\k0} {\k76}afford
+Dialogue: 0,0:00:59.64,0:01:01.28,Default,,0,0,0,,{\k16}No{\k0} {\k12}one{\k0} {\k22}showed{\k0} {\k16}but{\k0} {\k24}bots{\k0} {\k16}and{\k0} {\k12}debt
+Dialogue: 0,0:01:01.34,0:01:03.22,Default,,0,0,0,,{\k16}My{\k0} {\k40}final{\k0} {\k20}post{\k0}?{\k0} {\k0}“{\k26}Still{\k0} {\k16}not{\k0} {\k20}dead{\k0} {\k24}yet{\k0}”
+Dialogue: 0,0:01:03.46,0:01:05.31,Default,,0,0,0,,{\k24}Crowdfunded{\k0} {\k8}funeral{\k0},{\k0} {\k14}click{\k0} {\k8}to{\k0} {\k54}pay
+Dialogue: 0,0:01:05.31,0:01:06.93,Default,,0,0,0,,{\k20}Venmo{\k0} {\k12}my{\k0} {\k26}soul{\k0} {\k10}and{\k0} {\k24}walk{\k0} {\k34}away
+Dialogue: 0,0:01:07.01,0:01:08.90,Default,,0,0,0,,{\k18}No{\k0} {\k22}tombstone{\k0},{\k0} {\k18}just{\k0} {\k12}a{\k0} {\k8}QR{\k0} {\k30}code
+Dialogue: 0,0:01:09.12,0:01:10.90,Default,,0,0,0,,{\k26}Scan{\k0} {\k14}for{\k0} {\k6}grief{\k0} {\k0}—{\k0} {\k14}or{\k0} {\k24}skip{\k0} {\k16}this{\k0} {\k26}load
+Dialogue: 0,0:01:11.10,0:01:12.79,Default,,0,0,0,,{\k26}Crowdfunded{\k0} {\k44}funeral{\k0},{\k0} {\k32}pay{\k0}-{\k5}per{\k0}-{\k33}cry
+Dialogue: 0,0:01:12.97,0:01:14.71,Default,,0,0,0,,{\k34}Stream{\k0} {\k10}it{\k0} {\k32}live{\k0} {\k10}as{\k0} {\k52}I{\k0} {\k10}flatline
+Dialogue: 0,0:01:14.75,0:01:16.60,Default,,0,0,0,,{\k18}No{\k0} {\k22}heaven{\k0},{\k0} {\k18}no{\k0} {\k18}hell{\k0},{\k0} {\k20}just{\k0} {\k18}a{\k0} {\k14}GoFundMe{\k0} {\k32}goal
+Dialogue: 0,0:01:16.80,0:01:19.13,Default,,0,0,0,,{\k6}To{\k0} {\k20}bury{\k0} {\k16}what's{\k0} {\k14}left{\k0} {\k4}of{\k0} {\k12}my{\k0} {\k18}rock{\k0} {\k12}'n{\k0} {\k94}roll{\k0} 
+Dialogue: 0,0:01:20.25,0:01:21.72,Default,,0,0,0,,{\k32}No{\k0} {\k48}organist{\k0},{\k0} {\k18}just{\k0} {\k20}autoplay
+Dialogue: 0,0:01:22.26,0:01:24.06,Default,,0,0,0,,{\k62}Suggested{\k0} {\k18}hymns{\k0} {\k18}from{\k0} {\k62}yesterday
+Dialogue: 0,0:01:24.08,0:01:26.29,Default,,0,0,0,,{\k2}The{\k0} {\k46}flowers{\k0} {\k48}wilted{\k0} {\k12}on{\k0} {\k64}arrival
+Dialogue: 0,0:01:26.31,0:01:28.29,Default,,0,0,0,,{\k20}Sent{\k0} {\k18}too{\k0} {\k20}late{\k0} {\k16}by{\k0} {\k32}Prime{\k0} {\k72}Revival
+Dialogue: 0,0:01:28.31,0:01:29.90,Default,,0,0,0,,{\k34}Ashes{\k0} {\k34}shipped{\k0} {\k14}in{\k0} {\k58}Amazon
+Dialogue: 0,0:01:29.92,0:01:31.82,Default,,0,0,0,,{\k66}Delivered{\k0} {\k24}wrong{\k0} {\k0}—{\k0} {\k16}they{\k0} {\k24}dropped{\k0} {\k16}my{\k0} {\k26}mom
+Dialogue: 0,0:01:31.84,0:01:33.69,Default,,0,0,0,,{\k18}They{\k0} {\k22}taped{\k0} {\k20}me{\k0} {\k10}up{\k0} {\k10}and{\k0} {\k26}shipped{\k0} {\k38}again
+Dialogue: 0,0:01:33.75,0:01:35.73,Default,,0,0,0,,{\k14}With{\k0} {\k42}tracking{\k0} {\k24}code{\k0}:{\k0} {\k0}“{\k20}This{\k0} {\k12}is{\k0} {\k10}the{\k0} {\k26}end{\k0}”
+Dialogue: 0,0:01:35.73,0:01:36.65,Default,,0,0,0,,{\k72}Crowdfunded{\k0} {\k5}funeral{\k0},{\k0} {\k5}tap{\k0} {\k5}to{\k0} {\k5}tip
+Dialogue: 0,0:01:36.65,0:01:37.10,Default,,0,0,0,,{\k5}No{\k0} {\k5}next{\k0} {\k5}of{\k0} {\k5}kin{\k0},{\k0} {\k5}just{\k0} {\k5}a{\k0} {\k5}punk{\k0}-{\k5}ass{\k0} {\k5}crypt
+Dialogue: 0,0:01:37.10,0:01:38.94,Default,,0,0,0,,{\k5}No{\k0} {\k148}prayers{\k0},{\k0} {\k5}no{\k0} {\k5}psalms{\k0},{\k0} {\k5}just{\k0} {\k5}ads{\k0} {\k5}that{\k0} {\k5}play
+Dialogue: 0,0:01:38.94,0:01:39.24,Default,,0,0,0,,{\k0}"{\k5}Buy{\k0} {\k5}more{\k0} {\k5}grief{\k0} {\k0}—{\k0} {\k5}the{\k0} {\k5}American{\k0} {\k5}way{\k0}!"
+Dialogue: 0,0:01:39.24,0:01:39.54,Default,,0,0,0,,{\k5}Crowdfunded{\k0} {\k5}funeral{\k0},{\k0} {\k5}can't{\k0} {\k5}afford{\k0} {\k5}to{\k0} {\k5}die
+Dialogue: 0,0:01:39.54,0:01:39.89,Default,,0,0,0,,{\k5}So{\k0} {\k5}laugh{\k0} {\k5}with{\k0} {\k5}me{\k0} {\k5}as{\k0} {\k5}we{\k0} {\k5}monetize
+Dialogue: 0,0:01:39.89,0:01:40.14,Default,,0,0,0,,{\k5}My{\k0} {\k5}final{\k0} {\k5}breath{\k0} {\k5}is{\k0} {\k5}demonetized
+Dialogue: 0,0:01:40.14,0:01:40.44,Default,,0,0,0,,{\k5}The{\k0} {\k5}thumbnail{\k0} {\k5}said{\k0}:{\k0} {\k0}“{\k5}Local{\k0} {\k5}Punk{\k0} {\k5}Dies{\k0}”
+Dialogue: 0,0:01:40.44,0:01:41.76,Default,,0,0,0,,{\k5}Dearly{\k0} {\k5}beloved{\k0},{\k0} {\k5}we{\k0} {\k5}are{\k0} {\k5}gathered{\k0} {\k5}here{\k0} {\k103}today
+Dialogue: 0,0:01:47.75,0:01:57.97,Default,,0,0,0,,{\k138}To{\k0} {\k44}celebrate{\k0} {\k8}the{\k0} {\k16}life{\k0} {\k6}of{\k0} {\k96}someone
+Dialogue: 0,0:01:58.43,0:02:00.63,Default,,0,0,0,,{\k16}Who{\k0} {\k30}couldn{\k0}’{\k8}t{\k0} {\k26}even{\k0} {\k8}afford{\k0} {\k6}the{\k0} {\k24}deluxe{\k0} {\k38}cremation{\k0} {\k26}package
+Dialogue: 0,0:02:01.15,0:02:04.65,Default,,0,0,0,,{\k6}Let{\k0} {\k122}us{\k0} {\k24}bow{\k0} {\k38}our{\k0} {\k78}heads{\k0}...
+Dialogue: 0,0:02:05.36,0:02:06.76,Default,,0,0,0,,{\k0}...{\k8}to{\k0} {\k82}capitalism{\k0}.{\k0} {\k44}Amen{\k0}.
+Dialogue: 0,0:02:06.98,0:02:07.98,Default,,0,0,0,,{\k8}Crowdfunded{\k0} {\k12}funeral{\k0},{\k0} {\k24}swipe{\k0} {\k8}to{\k0} {\k38}cry
+Dialogue: 0,0:02:08.26,0:02:09.98,Default,,0,0,0,,{\k20}Left{\k0} {\k18}my{\k0} {\k24}will{\k0} {\k6}in{\k0} {\k2}a{\k0} {\k36}Google{\k0} {\k36}Drive
+Dialogue: 0,0:02:10.22,0:02:12.04,Default,,0,0,0,,{\k18}No{\k0} {\k22}last{\k0} {\k22}words{\k0},{\k0} {\k16}just{\k0} {\k26}terms{\k0} {\k4}and{\k0} {\k48}fees
+Dialogue: 0,0:02:12.12,0:02:13.87,Default,,0,0,0,,{\k24}Upload{\k0} {\k14}my{\k0} {\k28}soul{\k0} {\k10}in{\k0} {\k68}MP3s
+Dialogue: 0,0:02:14.03,0:02:15.35,Default,,0,0,0,,{\k38}Crowdfunded{\k0} {\k22}funeral{\k0} {\k0}—{\k0} {\k8}punk{\k0} {\k8}ain't{\k0} {\k14}dead
+Dialogue: 0,0:02:15.39,0:02:17.53,Default,,0,0,0,,{\k38}We{\k0} {\k8}just{\k0} {\k24}sold{\k0} {\k4}the{\k0} {\k26}rights{\k0} {\k10}to{\k0} {\k12}what{\k0} {\k14}we{\k0} {\k30}said
+Dialogue: 0,0:02:17.69,0:02:19.45,Default,,0,0,0,,{\k10}So{\k0} {\k18}dig{\k0} {\k20}my{\k0} {\k24}grave{\k0} {\k10}with{\k0} {\k2}a{\k0} {\k34}broken{\k0} {\k28}phone
+Dialogue: 0,0:02:19.66,0:02:21.66,Default,,0,0,0,,{\k6}And{\k0} {\k24}write{\k0} {\k0}“{\k16}LOL{\k0}”{\k0} {\k8}on{\k0} {\k22}my{\k0} {\k72}headstone
+Dialogue: 0,0:02:22.96,0:02:23.38,Default,,0,0,0,,{\k42}Crowdfunded{\k0}...
+Dialogue: 0,0:02:39.22,0:02:39.48,Default,,0,0,0,,{\k26}Funeral{\k0}...
+Dialogue: 0,0:02:44.29,0:02:44.57,Default,,0,0,0,,{\k28}Crowdfunded{\k0}...
+Dialogue: 0,0:02:46.68,0:02:46.97,Default,,0,0,0,,{\k30}Funeral{\k0}...
+Dialogue: 0,0:02:49.28,0:02:49.50,Default,,0,0,0,,{\k22}Crowdfunded{\k0}...
+Dialogue: 0,0:02:51.48,0:02:51.88,Default,,0,0,0,,{\k40}Funeral{\k0}...
+Dialogue: 0,0:02:54.29,0:02:54.35,Default,,0,0,0,,{\k6}Crowdfunded{\k0}...
+Dialogue: 0,0:02:56.91,0:02:57.11,Default,,0,0,0,,{\k20}Funeral{\k0}...

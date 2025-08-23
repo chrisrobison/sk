@@ -1,17 +1,29 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:35.27,0:00:56.43,Default,,0,0,0,,The framers saw this coming\\NChecks and balances eroding\\NWhen ambition meets delusion\\NDemocracy imploding
-Dialogue: 0,0:00:35.27,0:01:22.34,Default,,0,0,0,,Break through! Break through!\\NThey\'ll try to break through!
+
+Dialogue: 0,0:00:00.77,0:00:02.91,Default,,0,0,0,,{\k114}Constitution{\k0} {\k58}amendment{\k0} {\k32}twenty{\k0}-{\k5}two
+Dialogue: 0,0:00:03.70,0:00:06.39,Default,,0,0,0,,{\k14}Two{\k0} {\k20}terms{\k0} {\k72}maximum{\k0},{\k0} {\k18}that's{\k0} {\k8}all{\k0} {\k12}you{\k0} {\k28}can{\k0} {\k30}do
+Dialogue: 0,0:00:06.45,0:00:09.06,Default,,0,0,0,,{\k100}Power{\k0} {\k5}hungry{\k0} {\k58}minds{\k0} {\k24}will{\k0} {\k22}always{\k0} {\k26}construe
+Dialogue: 0,0:00:09.54,0:00:13.74,Default,,0,0,0,,{\k10}A{\k0} {\k68}loophole{\k0} {\k10}in{\k0} {\k26}the{\k0} {\k82}system{\k0} {\k14}to{\k0} {\k30}break{\k0} {\k34}through
+Dialogue: 0,0:00:32.89,0:00:35.99,Default,,0,0,0,,{\k52}History{\k0} {\k38}repeats{\k0} {\k12}with{\k0} {\k80}dictatorial{\k0} {\k104}dreams
+Dialogue: 0,0:00:36.29,0:00:38.38,Default,,0,0,0,,{\k18}FDR's{\k0} {\k32}legacy{\k0} {\k12}led{\k0} {\k8}to{\k0} {\k8}these{\k0} {\k52}safeguard{\k0} {\k62}schemes
+Dialogue: 0,0:00:38.68,0:00:41.22,Default,,0,0,0,,{\k22}Now{\k0} {\k38}another{\k0} {\k26}man{\k0} {\k24}claims{\k0} {\k58}exceptional{\k0} {\k54}means
+Dialogue: 0,0:00:41.68,0:00:44.31,Default,,0,0,0,,{\k12}To{\k0} {\k66}circumvent{\k0} {\k14}what{\k0} {\k82}democracy{\k0} {\k70}means
+Dialogue: 0,0:00:46.33,0:00:47.89,Default,,0,0,0,,{\k10}The{\k0} {\k34}framers{\k0} {\k18}saw{\k0} {\k10}this{\k0} {\k68}coming
+Dialogue: 0,0:00:48.66,0:00:50.62,Default,,0,0,0,,{\k36}Checks{\k0} {\k14}and{\k0} {\k56}balances{\k0} {\k60}eroding
+Dialogue: 0,0:00:51.94,0:00:54.17,Default,,0,0,0,,{\k20}When{\k0} {\k74}ambition{\k0} {\k32}meets{\k0} {\k78}delusion
+Dialogue: 0,0:00:54.63,0:00:56.65,Default,,0,0,0,,{\k82}Democracy{\k0} {\k106}imploding
+Dialogue: 0,0:01:01.09,0:01:04.25,Default,,0,0,0,,{\k102}Constitution{\k0} {\k76}amendment{\k0} {\k26}twenty{\k0}-{\k98}two
+Dialogue: 0,0:01:04.27,0:01:06.67,Default,,0,0,0,,{\k16}Two{\k0} {\k48}terms{\k0} {\k26}maximum{\k0},{\k0} {\k18}that's{\k0} {\k8}all{\k0} {\k10}you{\k0} {\k32}can{\k0} {\k22}do
+Dialogue: 0,0:01:06.71,0:01:09.50,Default,,0,0,0,,{\k6}Power{\k0} {\k32}hungry{\k0} {\k50}minds{\k0} {\k8}will{\k0} {\k26}always{\k0} {\k32}construe
+Dialogue: 0,0:01:10.18,0:01:14.56,Default,,0,0,0,,{\k8}A{\k0} {\k70}loophole{\k0} {\k38}in{\k0} {\k24}the{\k0} {\k40}system{\k0} {\k12}to{\k0} {\k32}break{\k0} {\k138}through
+Dialogue: 0,0:01:16.05,0:01:20.47,Default,,0,0,0,,{\k32}Break{\k0} {\k120}through{\k0}!{\k0} {\k32}Break{\k0} {\k120}through{\k0}!
+Dialogue: 0,0:01:20.47,0:01:26.38,Default,,0,0,0,,{\k65}They'll{\k0} {\k32}try{\k0} {\k16}to{\k0} {\k381}break{\k0} {\k48}through{\k0}!

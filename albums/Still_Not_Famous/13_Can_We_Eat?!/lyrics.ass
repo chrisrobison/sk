@@ -1,19 +1,32 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.64,0:02:21.51,Default,,0,0,0,,Fridge is empty, pantry’s a joke\\NOne sad pickle and some diet Coke\\NWe swore we’d shop but we slept instead\\NStomach’s rumbling now the clock strikes six\\NWe argue and we disagree, pick and mix\\NYou want sushi, I want fries and shakes\\NRound and round, another fight to undertake
-Dialogue: 0,0:00:46.64,0:01:49.65,Default,,0,0,0,,Menus on my phone we scroll for an hour\\NYou say you’re vegan now, you want a cauliflower\\NI just want burritos or maybe some wings\\NWhy does dinner turn into a million things
-Dialogue: 0,0:00:46.64,0:01:59.71,Default,,0,0,0,,We had breakfast cold and lunch was late\\NThey say food brings love but this might bring hate
-Dialogue: 0,0:00:46.64,0:02:21.51,Default,,0,0,0,,Stomach’s rumbling now the clock strikes six\\NWe argue and we disagree, pick and mix\\NYou want sushi, I want fries and shakes\\NRound and round, another fight to undertake
+
+Dialogue: 0,0:00:46.59,0:00:49.58,Default,,0,0,0,,{\k46}Fridge{\k0} {\k8}is{\k0} {\k38}empty{\k0},{\k0} {\k44}pantry{\k0}’{\k6}s{\k0} {\k94}a{\k0} {\k5}joke
+Dialogue: 0,0:00:49.58,0:00:51.94,Default,,0,0,0,,{\k9}One{\k0} {\k12}sad{\k0} {\k34}pickle{\k0} {\k8}and{\k0} {\k14}some{\k0} {\k42}diet{\k0} {\k76}Coke
+Dialogue: 0,0:00:51.96,0:00:54.24,Default,,0,0,0,,{\k4}We{\k0} {\k16}swore{\k0} {\k20}we{\k0}’{\k5}d{\k0} {\k30}shop{\k0} {\k22}but{\k0} {\k14}we{\k0} {\k30}slept{\k0} {\k60}instead
+Dialogue: 0,0:00:54.28,0:01:01.69,Default,,0,0,0,,{\k72}Stomach{\k0}’{\k10}s{\k0} {\k70}rumbling{\k0} {\k18}now{\k0} {\k8}the{\k0} {\k28}clock{\k0} {\k38}strikes{\k0} {\k40}six
+Dialogue: 0,0:01:02.94,0:01:06.94,Default,,0,0,0,,{\k20}We{\k0} {\k46}argue{\k0} {\k12}and{\k0} {\k22}we{\k0} {\k110}disagree{\k0},{\k0} {\k20}pick{\k0} {\k18}and{\k0} {\k42}mix
+Dialogue: 0,0:01:08.56,0:01:12.95,Default,,0,0,0,,{\k18}You{\k0} {\k20}want{\k0} {\k64}sushi{\k0},{\k0} {\k14}I{\k0} {\k36}want{\k0} {\k36}fries{\k0} {\k16}and{\k0} {\k94}shakes
+Dialogue: 0,0:01:13.81,0:01:17.67,Default,,0,0,0,,{\k50}Round{\k0} {\k16}and{\k0} {\k32}round{\k0},{\k0} {\k38}another{\k0} {\k34}fight{\k0} {\k24}to{\k0} {\k100}undertake
+Dialogue: 0,0:01:19.38,0:01:25.63,Default,,0,0,0,,{\k94}Can{\k0} {\k5}we{\k0} {\k5}eat{\k0} {\k18}oh{\k0} {\k108}can{\k0} {\k5}we{\k0} {\k98}eat
+Dialogue: 0,0:01:25.63,0:01:29.64,Default,,0,0,0,,{\k5}Can{\k0} {\k5}we{\k0} {\k5}eat{\k0} {\k18}oh{\k0} {\k100}can{\k0} {\k22}we{\k0} {\k14}eat
+Dialogue: 0,0:01:29.64,0:01:34.26,Default,,0,0,0,,{\k5}Menus{\k0} {\k16}on{\k0} {\k28}my{\k0} {\k54}phone{\k0} {\k12}we{\k0} {\k34}scroll{\k0} {\k26}for{\k0} {\k10}an{\k0} {\k108}hour
+Dialogue: 0,0:01:34.75,0:01:39.06,Default,,0,0,0,,{\k30}You{\k0} {\k22}say{\k0} {\k22}you{\k0}’{\k5}re{\k0} {\k62}vegan{\k0} {\k42}now{\k0},{\k0} {\k12}you{\k0} {\k18}want{\k0} {\k4}a{\k0} {\k122}cauliflower
+Dialogue: 0,0:01:39.90,0:01:44.27,Default,,0,0,0,,{\k8}I{\k0} {\k24}just{\k0} {\k26}want{\k0} {\k110}burritos{\k0} {\k12}or{\k0} {\k34}maybe{\k0} {\k26}some{\k0} {\k48}wings
+Dialogue: 0,0:01:45.89,0:01:49.72,Default,,0,0,0,,{\k20}Why{\k0} {\k24}does{\k0} {\k64}dinner{\k0} {\k106}turn{\k0} {\k22}into{\k0} {\k2}a{\k0} {\k50}million{\k0} {\k68}things
+Dialogue: 0,0:01:51.32,0:01:55.60,Default,,0,0,0,,{\k18}We{\k0} {\k16}had{\k0} {\k62}breakfast{\k0} {\k44}cold{\k0} {\k18}and{\k0} {\k20}lunch{\k0} {\k24}was{\k0} {\k42}late
+Dialogue: 0,0:01:56.49,0:02:00.25,Default,,0,0,0,,{\k24}They{\k0} {\k28}say{\k0} {\k28}food{\k0} {\k30}brings{\k0} {\k26}love{\k0} {\k14}but{\k0} {\k30}this{\k0} {\k32}might{\k0} {\k32}bring{\k0} {\k26}hate
+Dialogue: 0,0:02:01.77,0:02:05.61,Default,,0,0,0,,{\k70}Stomach{\k0}’{\k5}s{\k0} {\k71}rumbling{\k0} {\k16}now{\k0} {\k8}the{\k0} {\k30}clock{\k0} {\k36}strikes{\k0} {\k38}six
+Dialogue: 0,0:02:06.91,0:02:10.94,Default,,0,0,0,,{\k22}We{\k0} {\k44}argue{\k0} {\k14}and{\k0} {\k24}we{\k0} {\k110}disagree{\k0},{\k0} {\k30}pick{\k0} {\k16}and{\k0} {\k42}mix
+Dialogue: 0,0:02:12.58,0:02:16.31,Default,,0,0,0,,{\k18}You{\k0} {\k20}want{\k0} {\k66}sushi{\k0},{\k0} {\k10}I{\k0} {\k44}want{\k0} {\k36}fries{\k0} {\k14}and{\k0} {\k46}shakes
+Dialogue: 0,0:02:17.85,0:02:21.59,Default,,0,0,0,,{\k28}Round{\k0} {\k12}and{\k0} {\k32}round{\k0},{\k0} {\k70}another{\k0} {\k34}fight{\k0} {\k18}to{\k0} {\k20}undertake
+Dialogue: 0,0:02:23.32,0:02:27.08,Default,,0,0,0,,{\k90}Can{\k0} {\k12}we{\k0} {\k16}eat{\k0} {\k32}oh{\k0} {\k12}can{\k0} {\k4}we{\k0} {\k8}eat
+Dialogue: 0,0:02:27.95,0:02:32.13,Default,,0,0,0,,{\k15}Can{\k0} {\k23}we{\k0} {\k30}eat{\k0} {\k38}oh{\k0} {\k73}can{\k0} {\k4}we{\k0} {\k5}eat

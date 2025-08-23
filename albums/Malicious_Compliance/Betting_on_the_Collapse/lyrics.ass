@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:14.39,0:00:17.48,Default,,0,0,0,,{\k40}They{\k0}’{\k5}re{\k0} {\k38}selling{\k0} {\k46}futures{\k0} {\k8}on{\k0} {\k4}a{\k0} {\k44}funeral{\k0} {\k44}pyre{\k0},
+Dialogue: 0,0:00:17.90,0:00:20.93,Default,,0,0,0,,{\k44}Cash{\k0} {\k8}in{\k0} {\k18}your{\k0} {\k36}hand{\k0} {\k28}while{\k0} {\k6}the{\k0} {\k44}world{\k0}’{\k5}s{\k0} {\k12}on{\k0} {\k46}fire{\k0}.
+Dialogue: 0,0:00:20.95,0:00:24.23,Default,,0,0,0,,{\k166}FanDuel{\k0} {\k5}odds{\k0} {\k8}on{\k0} {\k98}democracy{\k0}’{\k5}s{\k0} {\k32}death{\k0},
+Dialogue: 0,0:00:24.75,0:00:27.76,Default,,0,0,0,,{\k36}Place{\k0} {\k32}your{\k0} {\k34}bets{\k0} {\k40}before{\k0} {\k36}the{\k0} {\k36}last{\k0} {\k38}breath{\k0}.
+Dialogue: 0,0:00:28.20,0:00:58.59,Default,,0,0,0,,{\k42}Betting{\k0} {\k8}on{\k0} {\k10}the{\k0} {\k72}collapse{\k0},{\k0} {\k38}roll{\k0} {\k12}the{\k0} {\k26}dice{\k0} {\k52}again{\k0},
+Dialogue: 0,0:00:59.04,0:01:02.10,Default,,0,0,0,,{\k76}Markets{\k0} {\k40}crash{\k0} {\k16}but{\k0} {\k16}the{\k0} {\k32}house{\k0} {\k42}still{\k0} {\k48}wins{\k0}.
+Dialogue: 0,0:01:02.46,0:01:05.45,Default,,0,0,0,,{\k40}Trade{\k0} {\k32}your{\k0} {\k40}soul{\k0} {\k24}for{\k0} {\k6}a{\k0} {\k48}dollar{\k0} {\k10}in{\k0} {\k20}hand{\k0},
+Dialogue: 0,0:01:05.89,0:01:08.97,Default,,0,0,0,,{\k78}Gamblers{\k0} {\k40}running{\k0} {\k8}the{\k0} {\k84}promised{\k0} {\k48}land{\k0}.
+Dialogue: 0,0:01:09.23,0:01:11.08,Default,,0,0,0,,{\k50}Meta{\k0} {\k5}cuts{\k0} {\k5}jobs{\k0} {\k5}while{\k0} {\k6}the{\k0} {\k40}rent{\k0} {\k40}goes{\k0} {\k5}high{\k0},
+Dialogue: 0,0:01:11.08,0:01:13.43,Default,,0,0,0,,{\k39}Red{\k0} {\k5}lines{\k0} {\k18}drawn{\k0} {\k52}in{\k0} {\k5}a{\k0} {\k62}gerrymandered{\k0} {\k5}sky{\k0}.
+Dialogue: 0,0:01:13.44,0:01:14.98,Default,,0,0,0,,{\k14}Politicians{\k0} {\k28}dealing{\k0} {\k5}like{\k0} {\k11}it{\k0}’{\k5}s{\k0} {\k10}all{\k0} {\k2}a{\k0} {\k48}game{\k0},
+Dialogue: 0,0:01:16.64,0:01:19.77,Default,,0,0,0,,{\k16}Stock{\k0} {\k52}ticker{\k0} {\k8}rigged{\k0} {\k22}but{\k0} {\k24}they{\k0}’{\k8}re{\k0} {\k10}not{\k0} {\k28}to{\k0} {\k72}blame{\k0}.
+Dialogue: 0,0:01:33.23,0:01:49.59,Default,,0,0,0,,{\k52}Betting{\k0} {\k10}on{\k0} {\k10}the{\k0} {\k58}collapse{\k0},{\k0} {\k6}roll{\k0} {\k8}the{\k0} {\k24}dice{\k0} {\k8}again{\k0},
+Dialogue: 0,0:01:50.47,0:01:53.51,Default,,0,0,0,,{\k76}Markets{\k0} {\k44}crash{\k0} {\k18}but{\k0} {\k16}the{\k0} {\k32}house{\k0} {\k40}still{\k0} {\k44}wins{\k0}.
+Dialogue: 0,0:01:53.89,0:01:56.94,Default,,0,0,0,,{\k42}Trade{\k0} {\k20}your{\k0} {\k42}soul{\k0} {\k26}for{\k0} {\k4}a{\k0} {\k46}dollar{\k0} {\k14}in{\k0} {\k42}hand{\k0},
+Dialogue: 0,0:01:57.32,0:01:58.70,Default,,0,0,0,,{\k118}Gamblers{\k0} {\k5}running{\k0} {\k5}the{\k0} {\k5}promised{\k0} {\k5}land{\k0}.
+Dialogue: 0,0:01:58.70,0:01:59.14,Default,,0,0,0,,{\k14}Spin{\k0} {\k5}the{\k0} {\k5}wheel{\k0}—{\k5}your{\k0} {\k5}rights{\k0} {\k5}are{\k0} {\k5}gone{\k0}!
+Dialogue: 0,0:01:59.14,0:01:59.54,Default,,0,0,0,,{\k5}Shuffle{\k0} {\k5}the{\k0} {\k5}deck{\k0}—{\k5}it{\k0}’{\k5}s{\k0} {\k5}all{\k0} {\k5}a{\k0} {\k5}con{\k0}!
+Dialogue: 0,0:01:59.54,0:01:59.79,Default,,0,0,0,,{\k5}Winners{\k0} {\k5}pick{\k0} {\k5}the{\k0} {\k5}losers{\k0} {\k5}clean{\k0},
+Dialogue: 0,0:01:59.79,0:02:00.04,Default,,0,0,0,,{\k5}Bloodstains{\k0} {\k5}on{\k0} {\k5}the{\k0} {\k5}slot{\k0} {\k5}machine{\k0}!
+Dialogue: 0,0:02:00.04,0:02:00.44,Default,,0,0,0,,{\k5}Betting{\k0} {\k5}on{\k0} {\k5}the{\k0} {\k5}collapse{\k0},{\k0} {\k5}who{\k0}’{\k5}s{\k0} {\k5}keeping{\k0} {\k5}score{\k0}?
+Dialogue: 0,0:02:00.44,0:02:00.89,Default,,0,0,0,,{\k5}The{\k0} {\k5}floor{\k0} {\k5}caves{\k0} {\k5}in{\k0} {\k5}but{\k0} {\k5}they{\k0} {\k5}just{\k0} {\k5}want{\k0} {\k5}more{\k0}.
+Dialogue: 0,0:02:00.89,0:02:01.24,Default,,0,0,0,,{\k5}Stack{\k0} {\k5}the{\k0} {\k5}chips{\k0} {\k5}on{\k0} {\k5}a{\k0} {\k5}broken{\k0} {\k5}land{\k0},
+Dialogue: 0,0:02:01.24,0:02:01.74,Default,,0,0,0,,{\k5}The{\k0} {\k5}house{\k0} {\k5}still{\k0} {\k5}wins{\k0} {\k5}with{\k0} {\k5}a{\k0} {\k5}dead{\k0} {\k5}man{\k0}’{\k5}s{\k0} {\k5}hand{\k0}.

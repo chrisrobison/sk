@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Karaoke Player</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: black;
+      font-family: Arial, sans-serif;
+    }
+    #bg {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      background: url('art.png') center center no-repeat;
+      background-size: cover;
+      filter: blur(24px) brightness(0.6);
+      transform: scale(1.1);
+      z-index: 1;
+    }
+    #loop {
+      position: absolute;
+      width: 50vmin;
+      height: 50vmin;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 2;
+      overflow: hidden;
+      border-radius: 1rem;
+    }
+    #loop video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    #lyrics {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 80%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      z-index: 3;
+    }
+    .line {
+      opacity: 0.3;
+      color: #ccc;
+      font-size: 2.4vh;
+      line-height: 1.6;
+      transition: all 0.2s;
+    }
+    .line.current {
+      color: white;
+      font-weight: bold;
+      font-size: 3.5vh;
+      opacity: 1;
+    }
+    #audio {
+      display: none;
+    }
+    #intro {
+      position: fixed;
+      z-index: 4;
+      background: black;
+      color: white;
+      font-size: 4vh;
+      text-align: center;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    #intro button {
+      margin-top: 20px;
+      padding: 10px 30px;
+      font-size: 3vh;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<div id="bg"></div>
+
+<div id="loop">
+  <video id="loopvid" src="art.mp4" autoplay muted loop playsinline></video>
+</div>
+
+<div id="lyrics"></div>
+
+<audio id="audio" src="karaoke.mp3"></audio>
+
+<div id="intro">
+  <div>🎤 Two Dogs, One Leash 🎤</div>
+  <button onclick="startKaraoke()">Start</button>
+</div>
+
+<script>
+let lines = [];
+let currentLine = 0;
+let fadeInVocals = true; // set to false to disable
+
+async function startKaraoke() {
+  document.getElementById('intro').style.display = 'none';
+
+  const [lyricsText, vocalsJson] = await Promise.all([
+    fetch("lyrics.txt").then(r => r.text()),
+    fetch("vocals.json").then(r => r.json())
+  ]);
+
+  const rawLines = lyricsText.trim().split(/\r?\n/).filter(l => l.trim());
+  const wordData = vocalsJson.segments.flatMap(seg => seg.words || []);
+
+  // Match each line with start and end times using word order
+  let wi = 0;
+  for (let text of rawLines) {
+    const lineWords = text.trim().split(/\s+/);
+    const matched = [];
+    for (let j = 0; j < lineWords.length && wi < wordData.length; j++) {
+      matched.push(wordData[wi++]);
+    }
+    const start = matched[0]?.start || 0;
+    const end = matched[matched.length - 1]?.end || (start + 2);
+    lines.push({ text, start, end });
+  }
+
+  const lyricsDiv = document.getElementById("lyrics");
+  lines.forEach((l, i) => {
+    const div = document.createElement("div");
+    div.className = "line";
+    div.dataset.index = i;
+    div.textContent = l.text;
+    lyricsDiv.appendChild(div);
+  });
+
+  const audio = document.getElementById("audio");
+  audio.volume = fadeInVocals ? 0.0 : 1.0;
+  audio.play();
+
+  if (fadeInVocals) {
+    const interval = setInterval(() => {
+      if (audio.volume < 1.0) {
+        audio.volume = Math.min(1.0, audio.volume + 0.01);
+      } else {
+        clearInterval(interval);
+      }
+    }, 200); // fades in over ~5s
+  }
+
+  requestAnimationFrame(sync);
+}
+
+function sync() {
+  const audio = document.getElementById("audio");
+  const t = audio.currentTime;
+  const lyricEls = [...document.querySelectorAll(".line")];
+
+  for (let i = 0; i < lines.length; i++) {
+    if (t >= lines[i].start && t <= lines[i].end) {
+      currentLine = i;
+      break;
+    }
+  }
+
+  // Show prev, current, next2
+  const lyricsDiv = document.getElementById("lyrics");
+  lyricsDiv.innerHTML = "";
+
+  for (let i = -1; i <= 2; i++) {
+    const idx = currentLine + i;
+    if (idx >= 0 && idx < lines.length) {
+      const div = document.createElement("div");
+      div.className = "line" + (i === 0 ? " current" : "");
+      div.textContent = lines[idx].text;
+      lyricsDiv.appendChild(div);
+    }
+  }
+
+  requestAnimationFrame(sync);
+}
+</script>
+
+</body>
+</html>

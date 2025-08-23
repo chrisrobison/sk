@@ -1,16 +1,33 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.29,0:01:12.74,Default,,0,0,0,,[Verse 2]\\NClipboard kings, they nod and yawn\\NBuilding nothing as time drags on\\NCoffee stains on an empty plan\\NStuck on pause since change began
+
+Dialogue: 0,0:00:03.88,0:00:08.66,Default,,0,0,0,,{\k150}Five{\k0} {\k28}alarms{\k0} {\k8}I{\k0} {\k38}snooze{\k0},{\k0} {\k106}trying{\k0} {\k74}again
+Dialogue: 0,0:00:08.72,0:00:14.41,Default,,0,0,0,,{\k190}Dragging{\k0} {\k28}my{\k0} {\k30}feet{\k0} {\k120}to{\k0} {\k6}who{\k0} {\k70}knows{\k0} {\k36}when
+Dialogue: 0,0:00:14.45,0:00:21.12,Default,,0,0,0,,{\k156}Toast{\k0} {\k60}burned{\k0} {\k40}black{\k0},{\k0} {\k30}another{\k0} {\k26}late{\k0} {\k288}start
+Dialogue: 0,0:00:22.13,0:00:25.11,Default,,0,0,0,,{\k14}Faking{\k0} {\k18}a{\k0} {\k48}smile{\k0},{\k0} {\k8}I{\k0} {\k34}play{\k0} {\k28}the{\k0} {\k80}part
+Dialogue: 0,0:00:26.00,0:01:33.02,Default,,0,0,0,,{\k86}American{\k0} {\k32}idle{\k0},{\k0} {\k26}stuck{\k0} {\k8}in{\k0} {\k10}a{\k0} {\k38}chair
+Dialogue: 0,0:01:33.08,0:01:36.01,Default,,0,0,0,,{\k68}Dreams{\k0} {\k112}collecting{\k0} {\k20}dust{\k0} {\k10}in{\k0} {\k38}dead{\k0} {\k20}air
+Dialogue: 0,0:01:36.37,0:01:39.13,Default,,0,0,0,,{\k70}Promises{\k0} {\k36}sold{\k0} {\k28}for{\k0} {\k68}minimum{\k0} {\k52}wage
+Dialogue: 0,0:01:39.35,0:01:42.09,Default,,0,0,0,,{\k38}Counting{\k0} {\k34}the{\k0} {\k64}hours{\k0} {\k18}in{\k0} {\k12}a{\k0} {\k50}cage
+Dialogue: 0,0:01:43.23,0:01:47.60,Default,,0,0,0,,{\k28}Whoa{\k0} {\k6}oh{\k0} {\k6}oh{\k0} {\k6}oh{\k0},{\k0} {\k4}whoa{\k0} {\k4}oh{\k0} {\k6}oh{\k0} {\k6}oh
+Dialogue: 0,0:01:47.62,0:01:49.50,Default,,0,0,0,,{\k6}Whoa{\k0} {\k6}oh{\k0} {\k6}oh{\k0} {\k8}oh{\k0},{\k0} {\k60}American{\k0} {\k58}idle{\k0}!
+Dialogue: 0,0:01:49.50,0:01:49.80,Default,,0,0,0,,{\k5}Clipboard{\k0} {\k5}kings{\k0},{\k0} {\k5}they{\k0} {\k5}nod{\k0} {\k5}and{\k0} {\k5}yawn
+Dialogue: 0,0:01:49.80,0:01:50.10,Default,,0,0,0,,{\k5}Building{\k0} {\k5}nothing{\k0} {\k5}as{\k0} {\k5}time{\k0} {\k5}drags{\k0} {\k5}on
+Dialogue: 0,0:01:50.10,0:01:50.40,Default,,0,0,0,,{\k5}Coffee{\k0} {\k5}stains{\k0} {\k5}on{\k0} {\k5}an{\k0} {\k5}empty{\k0} {\k5}plan
+Dialogue: 0,0:01:50.40,0:01:50.70,Default,,0,0,0,,{\k5}Stuck{\k0} {\k5}on{\k0} {\k5}pause{\k0} {\k5}since{\k0} {\k5}change{\k0} {\k5}began
+Dialogue: 0,0:01:50.70,0:01:50.95,Default,,0,0,0,,{\k5}Routine{\k0} {\k5}feels{\k0} {\k5}like{\k0} {\k5}a{\k0} {\k5}disease
+Dialogue: 0,0:01:50.95,0:01:51.15,Default,,0,0,0,,{\k5}Trading{\k0} {\k5}fire{\k0} {\k5}for{\k0} {\k5}guarantees
+Dialogue: 0,0:02:16.96,0:02:19.84,Default,,0,0,0,,{\k102}American{\k0} {\k38}idle{\k0},{\k0} {\k26}stuck{\k0} {\k8}in{\k0} {\k10}a{\k0} {\k44}chair
+Dialogue: 0,0:02:20.14,0:02:22.75,Default,,0,0,0,,{\k32}Dreams{\k0} {\k102}collecting{\k0} {\k26}dust{\k0} {\k8}in{\k0} {\k38}dead{\k0} {\k20}air
+Dialogue: 0,0:02:23.03,0:02:25.93,Default,,0,0,0,,{\k66}Promises{\k0} {\k34}sold{\k0} {\k34}for{\k0} {\k58}minimum{\k0} {\k70}wage
+Dialogue: 0,0:02:25.95,0:02:28.25,Default,,0,0,0,,{\k38}Counting{\k0} {\k38}the{\k0} {\k60}hours{\k0} {\k14}in{\k0} {\k10}a{\k0} {\k10}cage
+Dialogue: 0,0:02:28.25,0:02:28.75,Default,,0,0,0,,{\k4}Whoa{\k0} {\k4}oh{\k0} {\k6}oh{\k0} {\k6}oh{\k0},{\k0} {\k4}whoa{\k0} {\k4}oh{\k0} {\k6}oh{\k0} {\k6}oh
+Dialogue: 0,0:02:28.75,0:02:32.60,Default,,0,0,0,,{\k4}Whoa{\k0} {\k4}oh{\k0} {\k6}oh{\k0} {\k6}oh{\k0},{\k0} {\k6}American{\k0} {\k6}idle{\k0}!

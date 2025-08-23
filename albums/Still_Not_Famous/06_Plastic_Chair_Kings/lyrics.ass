@@ -1,19 +1,48 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.93,0:00:34.96,Default,,0,0,0,,You roll in loud like you own the place\\NDroppin punchlines no one wants to chase\\NAlways got a story but it\'s full of holes\\NEvery word a show for their clueless souls
-Dialogue: 0,0:00:13.93,0:01:20.76,Default,,0,0,0,,Say it once again\\NGotta flex your grin\\NBut you never win\\NYou never win\\NShouting all the time just to fill the air\\NNever knowin when to zip it up\\NTalkin like they\'re kings in some plastic chair\\NMaking noise but never enough
-Dialogue: 0,0:00:13.93,0:01:46.72,Default,,0,0,0,,Spin it round and round\\NCrank it up so loud\\NBut it all falls down\\NIt all falls down
-Dialogue: 0,0:00:13.93,0:01:20.76,Default,,0,0,0,,Shouting all the time just to fill the air\\NNever knowin when to zip it up\\NTalkin like they\'re kings in some plastic chair\\NMaking noise but never enough
+
+Dialogue: 0,0:00:13.84,0:00:13.87,Default,,0,0,0,,{\k0}[{\k3}Start{\k0}]
+Dialogue: 0,0:00:13.89,0:00:13.97,Default,,0,0,0,,{\k0}[{\k3}Verse{\k0} {\k3}1{\k0}]
+Dialogue: 0,0:00:13.99,0:00:16.97,Default,,0,0,0,,{\k38}You{\k0} {\k30}roll{\k0} {\k12}in{\k0} {\k36}loud{\k0} {\k28}like{\k0} {\k16}you{\k0} {\k14}own{\k0} {\k10}the{\k0} {\k48}place
+Dialogue: 0,0:00:20.02,0:00:22.94,Default,,0,0,0,,{\k36}Droppin{\k0} {\k54}punchlines{\k0} {\k26}no{\k0} {\k12}one{\k0} {\k46}wants{\k0} {\k12}to{\k0} {\k46}chase
+Dialogue: 0,0:00:26.15,0:00:29.01,Default,,0,0,0,,{\k28}Always{\k0} {\k28}got{\k0} {\k8}a{\k0} {\k60}story{\k0} {\k18}but{\k0} {\k10}it's{\k0} {\k26}full{\k0} {\k10}of{\k0} {\k52}holes
+Dialogue: 0,0:00:32.18,0:00:35.52,Default,,0,0,0,,{\k24}Every{\k0} {\k16}word{\k0} {\k12}a{\k0} {\k34}show{\k0} {\k20}for{\k0} {\k24}their{\k0} {\k50}clueless{\k0} {\k102}souls
+Dialogue: 0,0:00:36.67,0:00:37.58,Default,,0,0,0,,{\k0}[{\k86}Pre{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:37.58,0:00:38.65,Default,,0,0,0,,{\k5}Say{\k0} {\k5}it{\k0} {\k22}once{\k0} {\k48}again
+Dialogue: 0,0:00:38.79,0:00:40.13,Default,,0,0,0,,{\k30}Gotta{\k0} {\k38}flex{\k0} {\k18}your{\k0} {\k36}grin
+Dialogue: 0,0:00:40.29,0:00:41.67,Default,,0,0,0,,{\k16}But{\k0} {\k16}you{\k0} {\k46}never{\k0} {\k42}win
+Dialogue: 0,0:00:41.69,0:00:43.29,Default,,0,0,0,,{\k6}You{\k0} {\k26}never{\k0} {\k38}win
+Dialogue: 0,0:00:43.33,0:00:44.44,Default,,0,0,0,,{\k0}[{\k110}Chorus{\k0}]
+Dialogue: 0,0:00:44.44,0:00:48.34,Default,,0,0,0,,{\k5}Shouting{\k0} {\k14}all{\k0} {\k24}the{\k0} {\k66}time{\k0} {\k32}just{\k0} {\k44}to{\k0} {\k56}fill{\k0} {\k56}the{\k0} {\k22}air
+Dialogue: 0,0:00:48.38,0:00:52.66,Default,,0,0,0,,{\k196}Never{\k0} {\k50}knowin{\k0} {\k34}when{\k0} {\k34}to{\k0} {\k16}zip{\k0} {\k10}it{\k0} {\k12}up
+Dialogue: 0,0:00:56.05,0:01:00.39,Default,,0,0,0,,{\k36}Talkin{\k0} {\k16}like{\k0} {\k106}they're{\k0} {\k5}kings{\k0} {\k20}in{\k0} {\k42}some{\k0} {\k102}plastic{\k0} {\k62}chair
+Dialogue: 0,0:01:01.69,0:01:04.92,Default,,0,0,0,,{\k52}Making{\k0} {\k28}noise{\k0} {\k34}but{\k0} {\k98}never{\k0} {\k72}enough
+Dialogue: 0,0:01:04.92,0:01:05.93,Default,,0,0,0,,{\k0}[{\k50}Post{\k0}-{\k50}Chorus{\k0}]
+Dialogue: 0,0:01:05.93,0:01:07.90,Default,,0,0,0,,{\k50}Hey{\k0} {\k50}hey{\k0} {\k50}hey{\k0} {\k42}yeah
+Dialogue: 0,0:01:08.44,0:01:10.50,Default,,0,0,0,,{\k72}Whoa{\k0} {\k40}whoa{\k0} {\k22}whoa
+Dialogue: 0,0:01:11.51,0:01:13.12,Default,,0,0,0,,{\k0}[{\k30}Verse{\k0} {\k38}2{\k0}]
+Dialogue: 0,0:01:13.97,0:01:16.99,Default,,0,0,0,,{\k46}Opinions{\k0} {\k40}flying{\k0} {\k52}faster{\k0} {\k14}than{\k0} {\k14}their{\k0} {\k32}cheap{\k0} {\k68}guitars
+Dialogue: 0,0:01:17.03,0:01:23.00,Default,,0,0,0,,{\k328}Cutting{\k0} {\k22}through{\k0} {\k26}the{\k0} {\k30}room{\k0} {\k16}just{\k0} {\k22}like{\k0} {\k38}old{\k0} {\k68}cigars
+Dialogue: 0,0:01:26.08,0:01:29.27,Default,,0,0,0,,{\k38}Pushing{\k0} {\k28}every{\k0} {\k54}button{\k0} {\k18}till{\k0} {\k14}you{\k0} {\k46}break{\k0} {\k10}or{\k0} {\k72}bruise
+Dialogue: 0,0:01:31.95,0:01:35.01,Default,,0,0,0,,{\k42}Living{\k0} {\k30}for{\k0} {\k68}attention{\k0} {\k18}they{\k0} {\k18}will{\k0} {\k40}always{\k0} {\k48}lose
+Dialogue: 0,0:01:35.05,0:01:35.97,Default,,0,0,0,,{\k0}[{\k45}Pre{\k0}-{\k41}Chorus{\k0}]
+Dialogue: 0,0:01:36.07,0:01:37.95,Default,,0,0,0,,{\k38}Spin{\k0} {\k6}it{\k0} {\k18}round{\k0} {\k16}and{\k0} {\k44}round
+Dialogue: 0,0:01:39.12,0:01:41.14,Default,,0,0,0,,{\k56}Crank{\k0} {\k8}it{\k0} {\k8}up{\k0} {\k32}so{\k0} {\k26}loud
+Dialogue: 0,0:01:41.82,0:01:43.90,Default,,0,0,0,,{\k20}But{\k0} {\k8}it{\k0} {\k16}all{\k0} {\k48}falls{\k0} {\k60}down
+Dialogue: 0,0:01:43.92,0:01:46.88,Default,,0,0,0,,{\k4}It{\k0} {\k18}all{\k0} {\k48}falls{\k0} {\k58}down
+Dialogue: 0,0:01:46.88,0:01:48.64,Default,,0,0,0,,{\k0}[{\k176}Chorus{\k0}]
+Dialogue: 0,0:01:48.64,0:01:54.41,Default,,0,0,0,,{\k176}Shouting{\k0} {\k10}all{\k0} {\k20}the{\k0} {\k64}time{\k0} {\k30}just{\k0} {\k36}to{\k0} {\k52}fill{\k0} {\k46}the{\k0} {\k30}air
+Dialogue: 0,0:01:56.05,0:01:58.83,Default,,0,0,0,,{\k34}Never{\k0} {\k50}knowin{\k0} {\k32}when{\k0} {\k28}to{\k0} {\k16}zip{\k0} {\k12}it{\k0} {\k26}up
+Dialogue: 0,0:02:01.94,0:02:06.33,Default,,0,0,0,,{\k44}Talkin{\k0} {\k16}like{\k0} {\k80}they're{\k0} {\k5}kings{\k0} {\k25}in{\k0} {\k46}some{\k0} {\k94}plastic{\k0} {\k58}chair
+Dialogue: 0,0:02:07.67,0:02:10.68,Default,,0,0,0,,{\k32}Making{\k0} {\k30}noise{\k0} {\k34}but{\k0} {\k90}never{\k0} {\k48}enough
+Dialogue: 0,0:02:10.88,0:02:11.93,Default,,0,0,0,,{\k0}[{\k42}Post{\k0}-{\k36}Chorus{\k0}]
+Dialogue: 0,0:02:12.25,0:02:13.97,Default,,0,0,0,,{\k30}Hey{\k0} {\k24}hey{\k0} {\k28}hey{\k0} {\k48}yeah
+Dialogue: 0,0:02:14.45,0:02:16.62,Default,,0,0,0,,{\k134}Whoa{\k0} {\k10}whoa{\k0} {\k12}whoa

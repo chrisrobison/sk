@@ -75,11 +75,11 @@ Walgreens closing one by one.
 Walgreens closing one by <u>one.</u>
 
 20
-00:00:25,569 --> 00:00:25,870
+00:00:25,569 --> 00:00:25,850
 <u>Target</u> locks up everything.
 
 21
-00:00:25,870 --> 00:00:25,890
+00:00:25,850 --> 00:00:25,890
 Target locks up everything.
 
 22
@@ -255,11 +255,11 @@ While mom and pop <u>shops</u> hit the ground.
 While mom and pop shops hit the ground.
 
 65
-00:00:35,209 --> 00:00:35,449
+00:00:35,209 --> 00:00:35,469
 While mom and pop shops <u>hit</u> the ground.
 
 66
-00:00:35,449 --> 00:00:35,489
+00:00:35,469 --> 00:00:35,489
 While mom and pop shops hit the ground.
 
 67
@@ -304,399 +304,399 @@ Professor politics regresses <u>hopes.</u>
 
 77
 00:00:38,455 --> 00:00:38,996
-<u>Buffering</u> planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+<u>Buffering</u> planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 78
 00:00:38,996 --> 00:00:39,036
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 79
 00:00:39,036 --> 00:00:39,316
-Buffering <u>planning</u> built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering <u>planning</u> built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 80
 00:00:39,316 --> 00:00:39,336
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 81
 00:00:39,336 --> 00:00:39,556
-Buffering planning <u>built</u> on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning <u>built</u> on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 82
 00:00:39,556 --> 00:00:39,636
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 83
 00:00:39,636 --> 00:00:39,796
-Buffering planning built <u>on</u> false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built <u>on</u> false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 84
 00:00:39,796 --> 00:00:39,836
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 85
 00:00:39,836 --> 00:00:40,077
-Buffering planning built on <u>false</u> cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on <u>false</u> cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 86
 00:00:40,077 --> 00:00:40,117
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 87
 00:00:40,117 --> 00:00:40,457
-Buffering planning built on false <u>cloaks</u> The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false <u>cloaks</u> The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 88
 00:00:40,457 --> 00:00:40,797
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 89
 00:00:40,797 --> 00:00:40,918
-Buffering planning built on false cloaks <u>The</u> city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks <u>The</u> city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 90
 00:00:40,918 --> 00:00:40,938
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 91
 00:00:40,938 --> 00:00:41,178
-Buffering planning built on false cloaks The <u>city</u> by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The <u>city</u> by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 92
 00:00:41,178 --> 00:00:41,218
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 93
 00:00:41,218 --> 00:00:41,358
-Buffering planning built on false cloaks The city <u>by</u> the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city <u>by</u> the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 94
 00:00:41,358 --> 00:00:41,378
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 95
 00:00:41,378 --> 00:00:41,458
-Buffering planning built on false cloaks The city by <u>the</u> bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by <u>the</u> bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 96
 00:00:41,458 --> 00:00:41,498
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 97
 00:00:41,498 --> 00:00:41,698
-Buffering planning built on false cloaks The city by the <u>bay</u> of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the <u>bay</u> of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 98
 00:00:41,698 --> 00:00:41,718
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 99
 00:00:41,718 --> 00:00:41,759
-Buffering planning built on false cloaks The city by the bay <u>of</u> disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay <u>of</u> disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 100
 00:00:41,759 --> 00:00:41,839
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 101
 00:00:41,839 --> 00:00:42,459
-Buffering planning built on false cloaks The city by the bay of <u>disarray</u> Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of <u>disarray</u> Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 102
 00:00:42,459 --> 00:00:42,740
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 103
 00:00:42,740 --> 00:00:43,260
-Buffering planning built on false cloaks The city by the bay of disarray <u>Astithesis</u> continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray <u>Astithesis</u> continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 104
 00:00:43,260 --> 00:00:43,280
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 105
 00:00:43,280 --> 00:00:43,701
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis <u>continue</u> to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis <u>continue</u> to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 106
 00:00:43,701 --> 00:00:43,721
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 107
 00:00:43,721 --> 00:00:43,841
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue <u>to</u> fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue <u>to</u> fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 108
 00:00:43,841 --> 00:00:43,961
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 109
 00:00:43,961 --> 00:00:44,281
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to <u>fade</u> away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to <u>fade</u> away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 110
 00:00:44,281 --> 00:00:44,341
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 111
 00:00:44,341 --> 00:00:44,782
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade <u>away</u> Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade <u>away</u> Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 112
 00:00:44,782 --> 00:00:45,382
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 113
-00:00:45,382 --> 00:00:45,603
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away <u>Empty</u> storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+00:00:45,382 --> 00:00:45,583
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away <u>Empty</u> storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 114
-00:00:45,603 --> 00:00:45,623
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+00:00:45,583 --> 00:00:45,623
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 115
 00:00:45,623 --> 00:00:46,143
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty <u>storefronts</u> line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty <u>storefronts</u> line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 116
 00:00:46,143 --> 00:00:46,203
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 117
 00:00:46,203 --> 00:00:46,484
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts <u>line</u> the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts <u>line</u> the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 118
 00:00:46,484 --> 00:00:46,504
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 119
 00:00:46,504 --> 00:00:46,624
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line <u>the</u> streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line <u>the</u> streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 120
 00:00:46,624 --> 00:00:46,664
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 121
 00:00:46,664 --> 00:00:47,024
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the <u>streets</u> Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the <u>streets</u> Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 122
 00:00:47,024 --> 00:00:47,525
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 123
 00:00:47,525 --> 00:00:48,085
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets <u>Diabolism</u> in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets <u>Capitalism</u> in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 124
 00:00:48,085 --> 00:00:48,386
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 125
 00:00:48,386 --> 00:00:48,506
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism <u>in</u> retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism <u>in</u> retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 126
 00:00:48,506 --> 00:00:48,606
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 127
 00:00:48,606 --> 00:00:49,086
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in <u>retreat</u> Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in <u>retreat</u> Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 128
 00:00:49,086 --> 00:00:49,727
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 129
 00:00:49,727 --> 00:00:50,007
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat <u>Corporate</u> chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat <u>Corporate</u> chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 130
 00:00:50,007 --> 00:00:50,027
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 131
 00:00:50,027 --> 00:00:50,328
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate <u>chains</u> all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate <u>chains</u> all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 132
 00:00:50,328 --> 00:00:50,428
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 133
 00:00:50,428 --> 00:00:50,548
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains <u>all</u> running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains <u>all</u> running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 134
 00:00:50,548 --> 00:00:50,628
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 135
 00:00:50,628 --> 00:00:50,888
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all <u>running</u> scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all <u>running</u> scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 136
 00:00:50,888 --> 00:00:50,928
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 137
 00:00:50,928 --> 00:00:51,249
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running <u>scared</u> While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running <u>scared</u> While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 138
 00:00:51,249 --> 00:00:51,469
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 139
 00:00:51,469 --> 00:00:51,629
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared <u>While</u> City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared <u>While</u> City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 140
 00:00:51,629 --> 00:00:51,649
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 141
 00:00:51,649 --> 00:00:51,949
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While <u>City</u> Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While <u>City</u> Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 142
 00:00:51,949 --> 00:00:52,009
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 143
-00:00:52,009 --> 00:00:52,330
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City <u>Hall</u> just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+00:00:52,009 --> 00:00:52,350
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City <u>Hall</u> just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 144
-00:00:52,330 --> 00:00:52,390
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+00:00:52,350 --> 00:00:52,390
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 145
 00:00:52,390 --> 00:00:52,590
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall <u>just</u> stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall <u>just</u> stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 146
 00:00:52,590 --> 00:00:52,650
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 147
 00:00:52,650 --> 00:00:52,990
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just <u>stares</u> and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just <u>stares</u> and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 148
 00:00:52,990 --> 00:00:53,050
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 149
 00:00:53,050 --> 00:00:53,151
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares <u>and</u> stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares <u>and</u> stares Bye bye bye Watch them go Bye bye bye Told you so
 
 150
 00:00:53,151 --> 00:00:53,211
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 151
 00:00:53,211 --> 00:00:53,751
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and <u>stares</u> Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and <u>stares</u> Bye bye bye Watch them go Bye bye bye Told you so
 
 152
 00:00:53,751 --> 00:00:54,892
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 153
 00:00:54,892 --> 00:00:55,133
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares <u>Bye</u> bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares <u>Bye</u> bye bye Watch them go Bye bye bye Told you so
 
 154
 00:00:55,133 --> 00:00:55,173
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 155
 00:00:55,173 --> 00:00:55,393
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye <u>bye</u> bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye <u>bye</u> bye Watch them go Bye bye bye Told you so
 
 156
 00:00:55,393 --> 00:00:55,453
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 157
 00:00:55,453 --> 00:00:55,833
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye <u>bye</u> Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye <u>bye</u> Watch them go Bye bye bye Told you so
 
 158
 00:00:55,833 --> 00:00:57,195
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 159
 00:00:57,195 --> 00:00:57,475
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye <u>Watch</u> them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye <u>Watch</u> them go Bye bye bye Told you so
 
 160
 00:00:57,475 --> 00:00:57,515
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 161
 00:00:57,515 --> 00:00:57,695
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch <u>them</u> go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch <u>them</u> go Bye bye bye Told you so
 
 162
 00:00:57,695 --> 00:00:57,755
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 163
 00:00:57,755 --> 00:00:58,136
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them <u>go</u> Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them <u>go</u> Bye bye bye Told you so
 
 164
 00:00:58,136 --> 00:00:59,397
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 165
 00:00:59,397 --> 00:00:59,658
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go <u>Bye</u> bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go <u>Bye</u> bye bye Told you so
 
 166
 00:00:59,658 --> 00:00:59,698
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 167
 00:00:59,698 --> 00:00:59,938
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye <u>bye</u> bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye <u>bye</u> bye Told you so
 
 168
 00:00:59,938 --> 00:00:59,978
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 169
 00:00:59,978 --> 00:01:00,398
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye <u>bye</u> Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye <u>bye</u> Told you so
 
 170
 00:01:00,398 --> 00:01:01,660
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 171
 00:01:01,660 --> 00:01:01,980
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye <u>Told</u> you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye <u>Told</u> you so
 
 172
 00:01:01,980 --> 00:01:02,020
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 173
 00:01:02,020 --> 00:01:02,180
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told <u>you</u> so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told <u>you</u> so
 
 174
 00:01:02,180 --> 00:01:02,240
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you so
 
 175
 00:01:02,240 --> 00:01:02,961
-Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Diabolism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you <u>so</u>
+Buffering planning built on false cloaks The city by the bay of disarray Astithesis continue to fade away Empty storefronts line the streets Capitalism in retreat Corporate chains all running scared While City Hall just stares and stares Bye bye bye Watch them go Bye bye bye Told you <u>so</u>
 
 176
 00:01:20,272 --> 00:01:20,833
@@ -987,11 +987,11 @@ Tech bros paid three grand for rent While small shops can't make a dent Economic
 Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San <u>Francisco's</u> than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
 
 248
-00:01:36,777 --> 00:01:36,817
+00:01:36,777 --> 00:01:36,837
 Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's than Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
 
 249
-00:01:36,817 --> 00:01:37,078
+00:01:36,837 --> 00:01:37,078
 Tech bros paid three grand for rent While small shops can't make a dent Economic paradox San Francisco's <u>than</u> Dora's box High-rise towers, port-a-tours What the hell are we fighting for?
 
 250
@@ -1347,24 +1347,24 @@ While City Hall just stands and stares.
 While City Hall just stands and <u>stares.</u>
 
 338
-00:01:57,248 --> 00:01:57,468
-<u>Bye</u> bye bye.
+00:01:57,248 --> 00:01:57,488
+<u>Bye,</u> bye, bye.
 
 339
-00:01:57,468 --> 00:01:57,509
-Bye bye bye.
+00:01:57,488 --> 00:01:57,509
+Bye, bye, bye.
 
 340
-00:01:57,509 --> 00:01:57,769
-Bye <u>bye</u> bye.
+00:01:57,509 --> 00:01:57,789
+Bye, <u>bye,</u> bye.
 
 341
-00:01:57,769 --> 00:01:57,809
-Bye bye bye.
+00:01:57,789 --> 00:01:57,809
+Bye, bye, bye.
 
 342
 00:01:57,809 --> 00:01:58,230
-Bye bye <u>bye.</u>
+Bye, bye, <u>bye.</u>
 
 343
 00:01:59,511 --> 00:01:59,772
@@ -1387,24 +1387,24 @@ Watch them go.
 Watch them <u>go.</u>
 
 348
-00:02:01,775 --> 00:02:01,995
-<u>Bye</u> bye bye.
+00:02:01,775 --> 00:02:02,015
+<u>Bye,</u> bye, bye.
 
 349
-00:02:01,995 --> 00:02:02,055
-Bye bye bye.
+00:02:02,015 --> 00:02:02,055
+Bye, bye, bye.
 
 350
-00:02:02,055 --> 00:02:02,316
-Bye <u>bye</u> bye.
+00:02:02,055 --> 00:02:02,336
+Bye, <u>bye,</u> bye.
 
 351
-00:02:02,316 --> 00:02:02,356
-Bye bye bye.
+00:02:02,336 --> 00:02:02,356
+Bye, bye, bye.
 
 352
 00:02:02,356 --> 00:02:02,756
-Bye bye <u>bye.</u>
+Bye, bye, <u>bye.</u>
 
 353
 00:02:04,038 --> 00:02:04,419

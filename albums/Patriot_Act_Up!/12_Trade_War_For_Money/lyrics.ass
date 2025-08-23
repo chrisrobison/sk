@@ -1,20 +1,43 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.34,0:00:50.64,Default,,0,0,0,,Tariff tantrum, economic meltdown\\NTrade war posturing while the market\'s falling down\\NGlobal standing fading fast, alliances worn thin\\NIt\'s hard to lead the world when you can\'t even win
-Dialogue: 0,0:00:15.34,0:00:50.64,Default,,0,0,0,,Tariff tantrum, economic meltdown\\NTrade war posturing while the market\'s falling down\\NGlobal standing fading fast, alliances worn thin\\NIt\'s hard to lead the world when you can\'t even win
-Dialogue: 0,0:00:15.34,0:00:59.67,Default,,0,0,0,,The world moves on without us\\NAs we build our paper walls\\NActing tough but looking foolish\\NPride before the fall
-Dialogue: 0,0:00:15.34,0:00:50.64,Default,,0,0,0,,Tariff tantrum, economic meltdown\\NTrade war posturing while the market\'s falling down\\NGlobal standing fading fast, alliances worn thin\\NIt\'s hard to lead the world when you can\'t even win
-Dialogue: 0,0:00:15.34,0:01:34.46,Default,,0,0,0,,Western leadership in question\\NGlobal order rearranged\\NAll because one man\'s ego\\NCouldn\'t be contained
+
+Dialogue: 0,0:00:15.30,0:00:17.25,Default,,0,0,0,,{\k56}Ego{\k0}-{\k5}driven{\k0} {\k27}policies{\k0},{\k0} {\k24}slapping{\k0} {\k28}tariffs{\k0} {\k16}left{\k0} {\k6}and{\k0} {\k20}right
+Dialogue: 0,0:00:17.61,0:00:19.49,Default,,0,0,0,,{\k24}Markets{\k0} {\k24}tumbling{\k0} {\k26}daily{\k0},{\k0} {\k26}futures{\k0} {\k22}looking{\k0} {\k12}not{\k0} {\k14}so{\k0} {\k22}bright
+Dialogue: 0,0:00:19.75,0:00:21.71,Default,,0,0,0,,{\k0}"{\k44}America{\k0} {\k18}First{\k0}"{\k0} {\k4}he{\k0} {\k18}screams{\k0},{\k0} {\k8}as{\k0} {\k18}portfolios{\k0} {\k16}crash{\k0} {\k8}and{\k0} {\k22}burn
+Dialogue: 0,0:00:22.03,0:00:24.17,Default,,0,0,0,,{\k22}When{\k0} {\k22}will{\k0} {\k14}this{\k0} {\k64}administration{\k0} {\k16}ever{\k0} {\k50}learn{\k0}?
+Dialogue: 0,0:00:24.19,0:00:26.28,Default,,0,0,0,,{\k44}Tariff{\k0} {\k76}tantrum{\k0},{\k0} {\k42}economic{\k0} {\k38}meltdown
+Dialogue: 0,0:00:26.56,0:00:28.40,Default,,0,0,0,,{\k20}Trade{\k0} {\k20}war{\k0} {\k30}posturing{\k0} {\k10}while{\k0} {\k6}the{\k0} {\k26}market's{\k0} {\k26}falling{\k0} {\k24}down
+Dialogue: 0,0:00:28.74,0:00:30.57,Default,,0,0,0,,{\k22}Global{\k0} {\k26}standing{\k0} {\k26}fading{\k0} {\k24}fast{\k0},{\k0} {\k38}alliances{\k0} {\k32}worn{\k0} {\k5}thin
+Dialogue: 0,0:00:30.80,0:00:32.76,Default,,0,0,0,,{\k10}It's{\k0} {\k12}hard{\k0} {\k10}to{\k0} {\k12}lead{\k0} {\k8}the{\k0} {\k22}world{\k0} {\k12}when{\k0} {\k8}you{\k0} {\k20}can't{\k0} {\k30}even{\k0} {\k22}win
+Dialogue: 0,0:00:33.10,0:00:35.09,Default,,0,0,0,,{\k30}Farmers{\k0} {\k24}losing{\k0} {\k34}billions{\k0},{\k0} {\k26}factories{\k0} {\k26}closing{\k0} {\k28}doors
+Dialogue: 0,0:00:35.39,0:00:37.37,Default,,0,0,0,,{\k26}Working{\k0} {\k28}class{\k0} {\k5}is{\k0} {\k19}suffering{\k0},{\k0} {\k14}while{\k0} {\k8}he{\k0} {\k36}settles{\k0} {\k8}old{\k0} {\k32}scores
+Dialogue: 0,0:00:37.59,0:00:39.57,Default,,0,0,0,,{\k16}Tweets{\k0} {\k26}replace{\k0} {\k60}diplomacy{\k0},{\k0} {\k22}allies{\k0} {\k18}pushed{\k0} {\k34}away
+Dialogue: 0,0:00:39.57,0:00:41.67,Default,,0,0,0,,{\k72}Western{\k0} {\k50}influence{\k0} {\k20}eroding{\k0} {\k14}more{\k0} {\k10}each{\k0} {\k22}day
+Dialogue: 0,0:00:41.72,0:00:44.04,Default,,0,0,0,,{\k68}Tariff{\k0} {\k52}tantrum{\k0},{\k0} {\k42}economic{\k0} {\k38}meltdown
+Dialogue: 0,0:00:44.08,0:00:46.12,Default,,0,0,0,,{\k52}Trade{\k0} {\k14}war{\k0} {\k12}posturing{\k0} {\k6}while{\k0} {\k8}the{\k0} {\k28}market's{\k0} {\k24}falling{\k0} {\k22}down
+Dialogue: 0,0:00:46.48,0:00:48.33,Default,,0,0,0,,{\k28}Global{\k0} {\k20}standing{\k0} {\k22}fading{\k0} {\k18}fast{\k0},{\k0} {\k42}alliances{\k0} {\k36}worn{\k0} {\k5}thin
+Dialogue: 0,0:00:48.33,0:00:50.61,Default,,0,0,0,,{\k33}It's{\k0} {\k10}hard{\k0} {\k10}to{\k0} {\k12}lead{\k0} {\k8}the{\k0} {\k24}world{\k0} {\k12}when{\k0} {\k10}you{\k0} {\k20}can't{\k0} {\k28}even{\k0} {\k24}win
+Dialogue: 0,0:00:50.65,0:00:52.89,Default,,0,0,0,,{\k80}The{\k0} {\k24}world{\k0} {\k26}moves{\k0} {\k8}on{\k0} {\k42}without{\k0} {\k6}us
+Dialogue: 0,0:00:52.97,0:00:54.71,Default,,0,0,0,,{\k6}As{\k0} {\k10}we{\k0} {\k26}build{\k0} {\k10}our{\k0} {\k36}paper{\k0} {\k50}walls
+Dialogue: 0,0:00:55.47,0:00:57.34,Default,,0,0,0,,{\k38}Acting{\k0} {\k24}tough{\k0} {\k22}but{\k0} {\k34}looking{\k0} {\k42}foolish
+Dialogue: 0,0:00:57.58,0:00:59.84,Default,,0,0,0,,{\k38}Pride{\k0} {\k34}before{\k0} {\k18}the{\k0} {\k114}fall
+Dialogue: 0,0:01:08.49,0:01:10.60,Default,,0,0,0,,{\k60}Economists{\k0} {\k6}are{\k0} {\k32}warning{\k0},{\k0} {\k40}history{\k0} {\k4}has{\k0} {\k26}shown
+Dialogue: 0,0:01:10.78,0:01:12.84,Default,,0,0,0,,{\k16}Trade{\k0} {\k12}wars{\k0} {\k10}have{\k0} {\k18}no{\k0} {\k30}winners{\k0},{\k0} {\k16}only{\k0} {\k20}debts{\k0} {\k14}that{\k0} {\k8}have{\k0} {\k28}grown
+Dialogue: 0,0:01:13.08,0:01:15.06,Default,,0,0,0,,{\k56}Short{\k0}-{\k5}term{\k0} {\k51}thinking{\k0},{\k0} {\k52}long{\k0}-{\k5}term{\k0} {\k25}pain
+Dialogue: 0,0:01:15.46,0:01:17.25,Default,,0,0,0,,{\k68}Ego{\k0}-{\k5}driven{\k0} {\k37}policy{\k0} {\k16}down{\k0} {\k6}the{\k0} {\k28}drain
+Dialogue: 0,0:01:17.53,0:01:19.57,Default,,0,0,0,,{\k42}Tariff{\k0} {\k52}tantrum{\k0},{\k0} {\k46}economic{\k0} {\k36}meltdown
+Dialogue: 0,0:01:19.89,0:01:21.71,Default,,0,0,0,,{\k18}Trade{\k0} {\k12}war{\k0} {\k28}posturing{\k0} {\k10}while{\k0} {\k6}the{\k0} {\k26}market's{\k0} {\k26}falling{\k0} {\k26}down
+Dialogue: 0,0:01:22.01,0:01:23.94,Default,,0,0,0,,{\k24}Global{\k0} {\k28}standing{\k0} {\k24}fading{\k0} {\k26}fast{\k0},{\k0} {\k38}alliances{\k0} {\k38}worn{\k0} {\k5}thin
+Dialogue: 0,0:01:24.09,0:01:26.16,Default,,0,0,0,,{\k10}It's{\k0} {\k10}hard{\k0} {\k8}to{\k0} {\k14}lead{\k0} {\k8}the{\k0} {\k24}world{\k0} {\k10}when{\k0} {\k12}you{\k0} {\k26}can't{\k0} {\k20}even{\k0} {\k24}win
+Dialogue: 0,0:01:26.46,0:01:28.44,Default,,0,0,0,,{\k52}Western{\k0} {\k66}leadership{\k0} {\k10}in{\k0} {\k48}question
+Dialogue: 0,0:01:28.68,0:01:30.16,Default,,0,0,0,,{\k26}Global{\k0} {\k20}order{\k0} {\k88}rearranged
+Dialogue: 0,0:01:31.05,0:01:33.03,Default,,0,0,0,,{\k16}All{\k0} {\k56}because{\k0} {\k10}one{\k0} {\k28}man's{\k0} {\k40}ego
+Dialogue: 0,0:01:33.39,0:01:34.99,Default,,0,0,0,,{\k30}Couldn't{\k0} {\k12}be{\k0} {\k112}contained

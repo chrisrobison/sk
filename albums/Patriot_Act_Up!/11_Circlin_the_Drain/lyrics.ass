@@ -1,19 +1,67 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.77,0:00:56.49,Default,,0,0,0,,Remember when facts had a little more weight?\\NNow it\'s \"Truth Social\" served on a gold dinner plate\\NCongress is streaming on OnlyFans\\NAnd the nukes are auctioned off to the highest stan
-Dialogue: 0,0:00:06.77,0:01:06.49,Default,,0,0,0,,Border walls built from iPhone screens\\NAnd ICE drones fly by Red Bull machines\\NNASA sold to Tesla’s brand\\NBecause Mars is the backup, just not for your fam
-Dialogue: 0,0:00:06.77,0:01:12.51,Default,,0,0,0,,“Well folks, in today’s great America™\\NYou can privatize a prison but not your grandma’s insulin.”
-Dialogue: 0,0:00:06.77,0:02:11.27,Default,,0,0,0,,The working class gets a pat on the back\\N\"Essential heroes\" but your pension\'s hacked\\NSo raise a middle finger to the status quo\\NWhen the rich man\'s system starts to blow
+
+Dialogue: 0,0:00:06.82,0:00:09.14,Default,,0,0,0,,{\k18}They{\k0} {\k14}took{\k0} {\k8}a{\k0} {\k64}sledgehammer{\k0} {\k8}to{\k0} {\k70}Capitol{\k0} {\k28}Hill
+Dialogue: 0,0:00:09.46,0:00:11.68,Default,,0,0,0,,{\k32}Trump's{\k0} {\k10}in{\k0} {\k4}a{\k0} {\k24}robe{\k0},{\k0} {\k34}poppin'{\k0} {\k48}Adderall{\k0} {\k30}pills
+Dialogue: 0,0:00:11.98,0:00:14.04,Default,,0,0,0,,{\k24}Musk{\k0} {\k28}tweets{\k0} {\k28}laws{\k0} {\k16}from{\k0} {\k4}a{\k0} {\k40}private{\k0} {\k30}jet
+Dialogue: 0,0:00:14.06,0:00:16.91,Default,,0,0,0,,{\k26}Says{\k0},{\k0} {\k0}"{\k74}Democracy{\k0}’{\k5}s{\k0} {\k30}dead{\k0},{\k0} {\k14}but{\k0} {\k24}we're{\k0} {\k22}not{\k0} {\k20}there{\k0} {\k22}yet{\k0}"
+Dialogue: 0,0:00:17.39,0:00:19.03,Default,,0,0,0,,{\k54}Education{\k0}?{\k0} {\k16}Yeah{\k0},{\k0} {\k10}they{\k0} {\k28}torched{\k0} {\k10}the{\k0} {\k30}schools
+Dialogue: 0,0:00:19.13,0:00:21.59,Default,,0,0,0,,{\k6}Replaced{\k0} {\k34}teachers{\k0} {\k6}with{\k0} {\k50}clickbait{\k0} {\k8}and{\k0} {\k46}crypto{\k0} {\k38}fools
+Dialogue: 0,0:00:21.95,0:00:24.14,Default,,0,0,0,,{\k30}Kids{\k0} {\k28}learn{\k0} {\k24}more{\k0} {\k12}from{\k0} {\k54}TikTok{\k0} {\k40}feeds
+Dialogue: 0,0:00:24.20,0:00:26.75,Default,,0,0,0,,{\k14}Than{\k0} {\k4}a{\k0} {\k48}thousand{\k0} {\k80}bureaucratic{\k0} {\k80}PhD{\k0}’{\k5}s
+Dialogue: 0,0:00:26.75,0:00:29.26,Default,,0,0,0,,{\k21}We're{\k0} {\k44}circlin'{\k0} {\k10}the{\k0} {\k32}drain{\k0} {\k8}in{\k0} {\k8}a{\k0} {\k92}limousine
+Dialogue: 0,0:00:29.26,0:00:31.55,Default,,0,0,0,,{\k30}Led{\k0} {\k20}by{\k0} {\k58}billionaires{\k0} {\k18}with{\k0} {\k80}guillotines
+Dialogue: 0,0:00:31.85,0:00:34.00,Default,,0,0,0,,{\k42}Freeze{\k0} {\k22}your{\k0} {\k30}funds{\k0} {\k6}if{\k0} {\k20}you{\k0}’{\k30}re{\k0} {\k5}old{\k0} {\k23}and{\k0} {\k5}gray
+Dialogue: 0,0:00:34.21,0:00:36.42,Default,,0,0,0,,{\k0}"{\k22}Come{\k0} {\k56}verify{\k0} {\k5}in{\k0} {\k33}person{\k0} {\k8}or{\k0} {\k42}fade{\k0} {\k32}away{\k0}!"
+Dialogue: 0,0:00:36.50,0:00:39.13,Default,,0,0,0,,{\k16}We{\k0} {\k22}got{\k0} {\k50}tariffs{\k0} {\k26}on{\k0} {\k16}air{\k0},{\k0} {\k40}taxes{\k0} {\k10}on{\k0} {\k36}dreams
+Dialogue: 0,0:00:39.27,0:00:41.47,Default,,0,0,0,,{\k64}Outrage{\k0} {\k52}inflation{\k0} {\k8}in{\k0} {\k6}the{\k0} {\k22}land{\k0} {\k4}of{\k0} {\k8}the{\k0} {\k26}memes
+Dialogue: 0,0:00:41.73,0:00:44.40,Default,,0,0,0,,{\k10}Is{\k0} {\k20}this{\k0} {\k72}dystopia{\k0} {\k18}or{\k0} {\k24}just{\k0} {\k96}routine{\k0}?
+Dialogue: 0,0:00:44.40,0:00:46.58,Default,,0,0,0,,{\k34}It{\k0}’{\k5}s{\k0} {\k27}freedom{\k0},{\k0} {\k26}baby{\k0},{\k0} {\k14}for{\k0} {\k8}the{\k0} {\k36}ultra{\k0}-{\k44}obscene
+Dialogue: 0,0:00:46.62,0:00:49.11,Default,,0,0,0,,{\k66}Remember{\k0} {\k16}when{\k0} {\k28}facts{\k0} {\k16}had{\k0} {\k4}a{\k0} {\k26}little{\k0} {\k24}more{\k0} {\k26}weight{\k0}?
+Dialogue: 0,0:00:49.17,0:00:51.81,Default,,0,0,0,,{\k12}Now{\k0} {\k10}it's{\k0} {\k0}"{\k24}Truth{\k0} {\k28}Social{\k0}"{\k0} {\k30}served{\k0} {\k8}on{\k0} {\k2}a{\k0} {\k34}gold{\k0} {\k22}dinner{\k0} {\k30}plate
+Dialogue: 0,0:00:51.83,0:00:53.79,Default,,0,0,0,,{\k54}Congress{\k0} {\k8}is{\k0} {\k48}streaming{\k0} {\k46}on{\k0} {\k18}OnlyFans
+Dialogue: 0,0:00:54.23,0:00:56.56,Default,,0,0,0,,{\k8}And{\k0} {\k6}the{\k0} {\k28}nukes{\k0} {\k18}are{\k0} {\k28}auctioned{\k0} {\k10}off{\k0} {\k12}to{\k0} {\k10}the{\k0} {\k32}highest{\k0} {\k42}stan
+Dialogue: 0,0:00:56.100,0:00:59.24,Default,,0,0,0,,{\k32}Border{\k0} {\k32}walls{\k0} {\k26}built{\k0} {\k16}from{\k0} {\k40}iPhone{\k0} {\k38}screens
+Dialogue: 0,0:00:59.30,0:01:01.67,Default,,0,0,0,,{\k10}And{\k0} {\k8}ICE{\k0} {\k30}drones{\k0} {\k28}fly{\k0} {\k8}by{\k0} {\k20}Red{\k0} {\k28}Bull{\k0} {\k44}machines
+Dialogue: 0,0:01:02.05,0:01:03.97,Default,,0,0,0,,{\k38}NASA{\k0} {\k28}sold{\k0} {\k12}to{\k0} {\k48}Tesla{\k0}’{\k5}s{\k0} {\k30}brand
+Dialogue: 0,0:01:04.11,0:01:07.09,Default,,0,0,0,,{\k32}Because{\k0} {\k34}Mars{\k0} {\k6}is{\k0} {\k10}the{\k0} {\k44}backup{\k0},{\k0} {\k16}just{\k0} {\k12}not{\k0} {\k10}for{\k0} {\k14}your{\k0} {\k82}fam
+Dialogue: 0,0:01:07.60,0:01:09.70,Default,,0,0,0,,{\k0}“{\k20}Well{\k0} {\k44}folks{\k0},{\k0} {\k8}in{\k0} {\k8}today{\k0}’{\k24}s{\k0} {\k14}great{\k0} {\k42}America{\k0}™
+Dialogue: 0,0:01:09.92,0:01:13.41,Default,,0,0,0,,{\k8}You{\k0} {\k12}can{\k0} {\k54}privatize{\k0} {\k12}a{\k0} {\k30}prison{\k0} {\k8}but{\k0} {\k12}not{\k0} {\k8}your{\k0} {\k28}grandma{\k0}’{\k28}s{\k0} {\k10}insulin{\k0}.”
+Dialogue: 0,0:01:14.11,0:01:16.33,Default,,0,0,0,,{\k0}"{\k24}Let's{\k0} {\k12}hear{\k0} {\k4}it{\k0} {\k10}for{\k0} {\k8}the{\k0} {\k22}free{\k0} {\k30}market{\k0},{\k0} {\k20}unless{\k0} {\k8}you're{\k0} {\k24}broke{\k0}!"
+Dialogue: 0,0:01:16.69,0:01:19.05,Default,,0,0,0,,{\k26}We're{\k0} {\k44}circlin'{\k0} {\k8}the{\k0} {\k36}drain{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k76}limousine
+Dialogue: 0,0:01:19.35,0:01:21.58,Default,,0,0,0,,{\k24}Led{\k0} {\k14}by{\k0} {\k64}billionaires{\k0} {\k20}with{\k0} {\k80}guillotines
+Dialogue: 0,0:01:21.88,0:01:23.100,Default,,0,0,0,,{\k42}Freeze{\k0} {\k24}your{\k0} {\k28}funds{\k0} {\k6}if{\k0} {\k16}you{\k0}’{\k5}re{\k0} {\k16}old{\k0} {\k8}and{\k0} {\k28}gray
+Dialogue: 0,0:01:24.20,0:01:26.50,Default,,0,0,0,,{\k0}"{\k28}Come{\k0} {\k46}verify{\k0} {\k8}in{\k0} {\k34}person{\k0} {\k12}or{\k0} {\k30}just{\k0} {\k48}decay{\k0}!"
+Dialogue: 0,0:01:26.52,0:01:29.36,Default,,0,0,0,,{\k14}We{\k0} {\k24}got{\k0} {\k48}tariffs{\k0} {\k12}on{\k0} {\k46}love{\k0},{\k0} {\k44}taxes{\k0} {\k12}on{\k0} {\k48}rage
+Dialogue: 0,0:01:29.38,0:01:32.23,Default,,0,0,0,,{\k36}A{\k0} {\k5}post{\k0}-{\k28}truth{\k0} {\k28}gospel{\k0} {\k16}for{\k0} {\k30}the{\k0} {\k16}surveillance{\k0} {\k16}age
+Dialogue: 0,0:01:32.23,0:01:34.23,Default,,0,0,0,,{\k5}Is{\k0} {\k17}this{\k0} {\k2}a{\k0} {\k26}nightmare{\k0} {\k36}or{\k0} {\k5}a{\k0} {\k33}wet{\k0} {\k66}dream{\k0}?
+Dialogue: 0,0:01:34.53,0:01:36.77,Default,,0,0,0,,{\k18}It{\k0}’{\k5}s{\k0} {\k33}freedom{\k0},{\k0} {\k32}baby{\k0},{\k0} {\k8}in{\k0} {\k6}a{\k0} {\k42}fascist{\k0} {\k50}regime
+Dialogue: 0,0:01:36.79,0:01:38.98,Default,,0,0,0,,{\k2}So{\k0} {\k16}light{\k0} {\k16}that{\k0} {\k64}Molotov{\k0} {\k14}with{\k0} {\k12}your{\k0} {\k26}last{\k0} {\k42}receipt
+Dialogue: 0,0:01:39.18,0:01:41.51,Default,,0,0,0,,{\k18}Tell{\k0} {\k14}the{\k0} {\k30}SEC{\k0} {\k4}to{\k0} {\k26}kiss{\k0} {\k18}both{\k0} {\k26}cheeks
+Dialogue: 0,0:01:41.81,0:01:43.99,Default,,0,0,0,,{\k8}If{\k0} {\k6}it{\k0} {\k14}all{\k0} {\k24}goes{\k0} {\k26}down{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k30}blaze{\k0} {\k8}of{\k0} {\k26}tweets
+Dialogue: 0,0:01:44.16,0:01:46.90,Default,,0,0,0,,{\k18}We'll{\k0} {\k8}be{\k0} {\k32}moshing{\k0} {\k4}in{\k0} {\k6}the{\k0} {\k28}streets{\k0} {\k16}with{\k0} {\k28}punk{\k0} {\k24}rock{\k0} {\k66}beats
+Dialogue: 0,0:01:47.80,0:01:54.17,Default,,0,0,0,,{\k192}The{\k0} {\k46}algorithm{\k0} {\k30}judges{\k0} {\k20}what's{\k0} {\k22}left{\k0} {\k4}of{\k0} {\k10}our{\k0} {\k22}rights
+Dialogue: 0,0:01:54.23,0:01:56.59,Default,,0,0,0,,{\k16}While{\k0} {\k20}we're{\k0} {\k12}all{\k0} {\k26}doom{\k0}-{\k40}scrolling{\k0} {\k18}through{\k0} {\k32}endless{\k0} {\k34}fights
+Dialogue: 0,0:01:57.13,0:01:59.22,Default,,0,0,0,,{\k46}Corporate{\k0} {\k48}bailouts{\k0} {\k10}are{\k0} {\k30}raining{\k0} {\k28}down
+Dialogue: 0,0:01:59.66,0:02:01.60,Default,,0,0,0,,{\k10}On{\k0} {\k32}private{\k0} {\k26}yachts{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k40}sinking{\k0} {\k36}town
+Dialogue: 0,0:02:02.14,0:02:04.12,Default,,0,0,0,,{\k10}The{\k0} {\k32}working{\k0} {\k28}class{\k0} {\k18}gets{\k0} {\k2}a{\k0} {\k22}pat{\k0} {\k6}on{\k0} {\k8}the{\k0} {\k36}back
+Dialogue: 0,0:02:04.73,0:02:06.65,Default,,0,0,0,,{\k0}"{\k42}Essential{\k0} {\k28}heroes{\k0}"{\k0} {\k10}but{\k0} {\k12}your{\k0} {\k44}pension's{\k0} {\k38}hacked
+Dialogue: 0,0:02:06.67,0:02:09.18,Default,,0,0,0,,{\k16}So{\k0} {\k28}raise{\k0} {\k2}a{\k0} {\k24}middle{\k0} {\k28}finger{\k0} {\k12}to{\k0} {\k6}the{\k0} {\k44}status{\k0} {\k42}quo
+Dialogue: 0,0:02:09.19,0:02:11.74,Default,,0,0,0,,{\k16}When{\k0} {\k10}the{\k0} {\k24}rich{\k0} {\k28}man's{\k0} {\k42}system{\k0} {\k30}starts{\k0} {\k14}to{\k0} {\k46}blow
+Dialogue: 0,0:02:11.78,0:02:14.08,Default,,0,0,0,,{\k22}We're{\k0} {\k42}circlin'{\k0} {\k8}the{\k0} {\k34}drain{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k76}limousine
+Dialogue: 0,0:02:14.41,0:02:15.39,Default,,0,0,0,,{\k78}Led{\k0} {\k5}by{\k0} {\k5}billionaires{\k0} {\k5}with{\k0} {\k5}guillotines
+Dialogue: 0,0:02:15.39,0:02:15.69,Default,,0,0,0,,{\k5}But{\k0} {\k5}the{\k0} {\k5}guillotines{\k0} {\k5}are{\k0} {\k5}turning{\k0} {\k5}around
+Dialogue: 0,0:02:15.69,0:02:16.04,Default,,0,0,0,,{\k5}When{\k0} {\k5}the{\k0} {\k5}masses{\k0} {\k5}finally{\k0} {\k5}make{\k0} {\k5}their{\k0} {\k5}sound
+Dialogue: 0,0:02:16.04,0:02:16.49,Default,,0,0,0,,{\k5}We{\k0} {\k5}got{\k0} {\k5}nothing{\k0} {\k5}to{\k0} {\k5}lose{\k0} {\k5}but{\k0} {\k5}our{\k0} {\k5}student{\k0} {\k5}loans
+Dialogue: 0,0:02:16.49,0:02:16.84,Default,,0,0,0,,{\k5}Our{\k0} {\k5}climate{\k0} {\k5}anxiety{\k0} {\k5}and{\k0} {\k5}our{\k0} {\k5}broken{\k0} {\k5}homes
+Dialogue: 0,0:02:16.84,0:02:17.24,Default,,0,0,0,,{\k5}Is{\k0} {\k5}this{\k0} {\k5}the{\k0} {\k5}end{\k0} {\k5}or{\k0} {\k5}a{\k0} {\k5}new{\k0} {\k5}regime{\k0}?
+Dialogue: 0,0:02:17.24,0:02:17.64,Default,,0,0,0,,{\k5}It's{\k0} {\k5}revolution{\k0},{\k0} {\k5}baby{\k0},{\k0} {\k5}for{\k0} {\k5}the{\k0} {\k5}punk{\k0} {\k5}rock{\k0} {\k5}team{\k0}!
+Dialogue: 0,0:02:17.64,0:02:17.84,Default,,0,0,0,,{\k0}"{\k5}DIY{\k0} {\k5}or{\k0} {\k5}fucking{\k0} {\k5}die{\k0}!"

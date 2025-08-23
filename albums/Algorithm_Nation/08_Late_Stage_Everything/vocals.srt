@@ -1,298 +1,298 @@
 1
-00:00:00,031 --> 00:00:00,132
-<u>you</u>
+00:00:48,935 --> 00:00:49,536
+<u>Vlasic</u> motions, melting skies, billionaires in space while the planet it fries.
 
 2
-00:00:48,935 --> 00:00:49,536
-<u>Vlasic</u> motions, melting skies, billionaires in space while the planet fries.
+00:00:49,536 --> 00:00:49,716
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 3
-00:00:49,536 --> 00:00:49,716
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:49,716 --> 00:00:50,256
+Vlasic <u>motions,</u> melting skies, billionaires in space while the planet it fries.
 
 4
-00:00:49,716 --> 00:00:50,256
-Vlasic <u>motions,</u> melting skies, billionaires in space while the planet fries.
+00:00:50,256 --> 00:00:50,276
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 5
-00:00:50,256 --> 00:00:50,276
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:50,276 --> 00:00:50,817
+Vlasic motions, <u>melting</u> skies, billionaires in space while the planet it fries.
 
 6
-00:00:50,276 --> 00:00:50,817
-Vlasic motions, <u>melting</u> skies, billionaires in space while the planet fries.
+00:00:50,817 --> 00:00:50,837
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 7
-00:00:50,817 --> 00:00:50,837
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:50,837 --> 00:00:51,238
+Vlasic motions, melting <u>skies,</u> billionaires in space while the planet it fries.
 
 8
-00:00:50,837 --> 00:00:51,238
-Vlasic motions, melting <u>skies,</u> billionaires in space while the planet fries.
+00:00:51,238 --> 00:00:51,458
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 9
-00:00:51,238 --> 00:00:51,458
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:51,458 --> 00:00:51,938
+Vlasic motions, melting skies, <u>billionaires</u> in space while the planet it fries.
 
 10
-00:00:51,458 --> 00:00:51,938
-Vlasic motions, melting skies, <u>billionaires</u> in space while the planet fries.
+00:00:51,938 --> 00:00:51,998
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 11
-00:00:51,938 --> 00:00:51,998
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:51,998 --> 00:00:52,058
+Vlasic motions, melting skies, billionaires <u>in</u> space while the planet it fries.
 
 12
-00:00:51,998 --> 00:00:52,058
-Vlasic motions, melting skies, billionaires <u>in</u> space while the planet fries.
+00:00:52,058 --> 00:00:52,078
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 13
-00:00:52,058 --> 00:00:52,078
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:52,078 --> 00:00:52,359
+Vlasic motions, melting skies, billionaires in <u>space</u> while the planet it fries.
 
 14
-00:00:52,078 --> 00:00:52,359
-Vlasic motions, melting skies, billionaires in <u>space</u> while the planet fries.
+00:00:52,359 --> 00:00:52,379
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 15
-00:00:52,359 --> 00:00:52,379
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:52,379 --> 00:00:52,559
+Vlasic motions, melting skies, billionaires in space <u>while</u> the planet it fries.
 
 16
-00:00:52,379 --> 00:00:52,559
-Vlasic motions, melting skies, billionaires in space <u>while</u> the planet fries.
+00:00:52,559 --> 00:00:52,579
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 17
-00:00:52,559 --> 00:00:52,579
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:52,579 --> 00:00:52,659
+Vlasic motions, melting skies, billionaires in space while <u>the</u> planet it fries.
 
 18
-00:00:52,579 --> 00:00:52,659
-Vlasic motions, melting skies, billionaires in space while <u>the</u> planet fries.
+00:00:52,659 --> 00:00:52,699
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 19
-00:00:52,659 --> 00:00:52,699
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:52,699 --> 00:00:53,020
+Vlasic motions, melting skies, billionaires in space while the <u>planet</u> it fries.
 
 20
-00:00:52,699 --> 00:00:53,020
-Vlasic motions, melting skies, billionaires in space while the <u>planet</u> fries.
+00:00:53,020 --> 00:00:53,100
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 21
-00:00:53,020 --> 00:00:53,260
-Vlasic motions, melting skies, billionaires in space while the planet fries.
+00:00:53,100 --> 00:00:53,240
+Vlasic motions, melting skies, billionaires in space while the planet <u>it</u> fries.
 
 22
-00:00:53,260 --> 00:00:53,640
-Vlasic motions, melting skies, billionaires in space while the planet <u>fries.</u>
+00:00:53,240 --> 00:00:53,260
+Vlasic motions, melting skies, billionaires in space while the planet it fries.
 
 23
-00:00:53,901 --> 00:00:54,361
-<u>Healthcare's</u> a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:53,260 --> 00:00:53,640
+Vlasic motions, melting skies, billionaires in space while the planet it <u>fries.</u>
 
 24
-00:00:54,361 --> 00:00:54,421
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:53,901 --> 00:00:54,361
+<u>Healthcare's</u> a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 25
-00:00:54,421 --> 00:00:54,481
-Healthcare's <u>a</u> raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:54,361 --> 00:00:54,421
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 26
-00:00:54,481 --> 00:00:54,501
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:54,421 --> 00:00:54,481
+Healthcare's <u>a</u> raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 27
-00:00:54,501 --> 00:00:54,862
-Healthcare's a <u>raffle,</u> rent's a scam, AI rides spoons while I eat cold spam.
+00:00:54,481 --> 00:00:54,501
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 28
-00:00:54,862 --> 00:00:55,102
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:54,501 --> 00:00:54,862
+Healthcare's a <u>raffle,</u> rent's a scam, AI rides spoons while I eat cult spam.
 
 29
-00:00:55,102 --> 00:00:55,362
-Healthcare's a raffle, <u>rent's</u> a scam, AI rides spoons while I eat cold spam.
+00:00:54,862 --> 00:00:55,102
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 30
-00:00:55,362 --> 00:00:55,502
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:55,102 --> 00:00:55,362
+Healthcare's a raffle, <u>rent's</u> a scam, AI rides spoons while I eat cult spam.
 
 31
-00:00:55,502 --> 00:00:55,562
-Healthcare's a raffle, rent's <u>a</u> scam, AI rides spoons while I eat cold spam.
+00:00:55,362 --> 00:00:55,502
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 32
-00:00:55,562 --> 00:00:55,622
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:55,502 --> 00:00:55,562
+Healthcare's a raffle, rent's <u>a</u> scam, AI rides spoons while I eat cult spam.
 
 33
-00:00:55,622 --> 00:00:56,023
-Healthcare's a raffle, rent's a <u>scam,</u> AI rides spoons while I eat cold spam.
+00:00:55,562 --> 00:00:55,622
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 34
-00:00:56,023 --> 00:00:56,223
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:55,622 --> 00:00:56,023
+Healthcare's a raffle, rent's a <u>scam,</u> AI rides spoons while I eat cult spam.
 
 35
-00:00:56,223 --> 00:00:56,563
-Healthcare's a raffle, rent's a scam, <u>AI</u> rides spoons while I eat cold spam.
+00:00:56,023 --> 00:00:56,223
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 36
-00:00:56,563 --> 00:00:56,583
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:56,223 --> 00:00:56,563
+Healthcare's a raffle, rent's a scam, <u>AI</u> rides spoons while I eat cult spam.
 
 37
-00:00:56,583 --> 00:00:56,844
-Healthcare's a raffle, rent's a scam, AI <u>rides</u> spoons while I eat cold spam.
+00:00:56,563 --> 00:00:56,583
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 38
-00:00:56,844 --> 00:00:56,904
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:56,583 --> 00:00:56,844
+Healthcare's a raffle, rent's a scam, AI <u>rides</u> spoons while I eat cult spam.
 
 39
-00:00:56,904 --> 00:00:57,184
-Healthcare's a raffle, rent's a scam, AI rides <u>spoons</u> while I eat cold spam.
+00:00:56,844 --> 00:00:56,904
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 40
-00:00:57,184 --> 00:00:57,224
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:56,904 --> 00:00:57,184
+Healthcare's a raffle, rent's a scam, AI rides <u>spoons</u> while I eat cult spam.
 
 41
-00:00:57,224 --> 00:00:57,625
-Healthcare's a raffle, rent's a scam, AI rides spoons <u>while</u> I eat cold spam.
+00:00:57,184 --> 00:00:57,224
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 42
-00:00:57,625 --> 00:00:57,645
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:57,224 --> 00:00:57,625
+Healthcare's a raffle, rent's a scam, AI rides spoons <u>while</u> I eat cult spam.
 
 43
-00:00:57,645 --> 00:00:57,665
-Healthcare's a raffle, rent's a scam, AI rides spoons while <u>I</u> eat cold spam.
+00:00:57,625 --> 00:00:57,645
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 44
-00:00:57,665 --> 00:00:57,685
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:57,645 --> 00:00:57,665
+Healthcare's a raffle, rent's a scam, AI rides spoons while <u>I</u> eat cult spam.
 
 45
-00:00:57,685 --> 00:00:57,745
-Healthcare's a raffle, rent's a scam, AI rides spoons while I <u>eat</u> cold spam.
+00:00:57,665 --> 00:00:57,685
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 46
-00:00:57,745 --> 00:00:57,785
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:57,685 --> 00:00:57,745
+Healthcare's a raffle, rent's a scam, AI rides spoons while I <u>eat</u> cult spam.
 
 47
-00:00:57,785 --> 00:00:58,085
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat <u>cold</u> spam.
+00:00:57,745 --> 00:00:57,785
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 48
-00:00:58,085 --> 00:00:58,105
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold spam.
+00:00:57,785 --> 00:00:58,085
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat <u>cult</u> spam.
 
 49
-00:00:58,105 --> 00:00:58,466
-Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cold <u>spam.</u>
+00:00:58,085 --> 00:00:58,105
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult spam.
 
 50
-00:00:58,646 --> 00:00:58,966
-<u>Skull</u> Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:00:58,105 --> 00:00:58,466
+Healthcare's a raffle, rent's a scam, AI rides spoons while I eat cult <u>spam.</u>
 
 51
-00:00:58,966 --> 00:00:59,006
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:00:58,646 --> 00:00:58,966
+<u>Skull</u> Pass 2, hit the like.
 
 52
-00:00:59,006 --> 00:00:59,286
-Skull <u>Pass</u> 2, hit the like, world's on fire, but hey, cool bike!
+00:00:58,966 --> 00:00:59,006
+Skull Pass 2, hit the like.
 
 53
-00:00:59,286 --> 00:00:59,306
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:00:59,006 --> 00:00:59,286
+Skull <u>Pass</u> 2, hit the like.
 
 54
-00:00:59,306 --> 00:00:59,587
-Skull Pass <u>2,</u> hit the like, world's on fire, but hey, cool bike!
+00:00:59,286 --> 00:00:59,306
+Skull Pass 2, hit the like.
 
 55
-00:00:59,587 --> 00:00:59,987
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:00:59,306 --> 00:00:59,587
+Skull Pass <u>2,</u> hit the like.
 
 56
-00:00:59,987 --> 00:01:00,127
-Skull Pass 2, <u>hit</u> the like, world's on fire, but hey, cool bike!
+00:00:59,587 --> 00:00:59,987
+Skull Pass 2, hit the like.
 
 57
-00:01:00,127 --> 00:01:00,167
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:00:59,987 --> 00:01:00,127
+Skull Pass 2, <u>hit</u> the like.
 
 58
-00:01:00,167 --> 00:01:00,368
-Skull Pass 2, hit <u>the</u> like, world's on fire, but hey, cool bike!
+00:01:00,127 --> 00:01:00,167
+Skull Pass 2, hit the like.
 
 59
-00:01:00,368 --> 00:01:00,488
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:01:00,167 --> 00:01:00,368
+Skull Pass 2, hit <u>the</u> like.
 
 60
-00:01:00,488 --> 00:01:01,048
-Skull Pass 2, hit the <u>like,</u> world's on fire, but hey, cool bike!
+00:01:00,368 --> 00:01:00,488
+Skull Pass 2, hit the like.
 
 61
-00:01:01,048 --> 00:01:01,068
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+00:01:00,488 --> 00:01:01,048
+Skull Pass 2, hit the <u>like.</u>
 
 62
 00:01:01,068 --> 00:01:01,409
-Skull Pass 2, hit the like, <u>world's</u> on fire, but hey, cool bike!
+<u>World's</u> on fire, but hey, cool bike.
 
 63
 00:01:01,409 --> 00:01:01,529
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+World's on fire, but hey, cool bike.
 
 64
 00:01:01,529 --> 00:01:01,629
-Skull Pass 2, hit the like, world's <u>on</u> fire, but hey, cool bike!
+World's <u>on</u> fire, but hey, cool bike.
 
 65
 00:01:01,629 --> 00:01:01,689
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+World's on fire, but hey, cool bike.
 
 66
 00:01:01,689 --> 00:01:01,989
-Skull Pass 2, hit the like, world's on <u>fire,</u> but hey, cool bike!
+World's on <u>fire,</u> but hey, cool bike.
 
 67
 00:01:01,989 --> 00:01:02,170
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+World's on fire, but hey, cool bike.
 
 68
 00:01:02,170 --> 00:01:02,290
-Skull Pass 2, hit the like, world's on fire, <u>but</u> hey, cool bike!
+World's on fire, <u>but</u> hey, cool bike.
 
 69
 00:01:02,290 --> 00:01:02,330
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+World's on fire, but hey, cool bike.
 
 70
 00:01:02,330 --> 00:01:02,550
-Skull Pass 2, hit the like, world's on fire, but <u>hey,</u> cool bike!
+World's on fire, but <u>hey,</u> cool bike.
 
 71
 00:01:02,550 --> 00:01:02,590
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+World's on fire, but hey, cool bike.
 
 72
 00:01:02,590 --> 00:01:02,850
-Skull Pass 2, hit the like, world's on fire, but hey, <u>cool</u> bike!
+World's on fire, but hey, <u>cool</u> bike.
 
 73
 00:01:02,850 --> 00:01:02,890
-Skull Pass 2, hit the like, world's on fire, but hey, cool bike!
+World's on fire, but hey, cool bike.
 
 74
 00:01:02,890 --> 00:01:03,451
-Skull Pass 2, hit the like, world's on fire, but hey, cool <u>bike!</u>
+World's on fire, but hey, cool <u>bike.</u>
 
 75
 00:01:03,471 --> 00:01:03,731
@@ -444,39 +444,39 @@ We're laughing through collapse, dancing, fury, <u>detay.</u>
 
 112
 00:01:10,759 --> 00:01:11,019
-<u>Orders</u> and illusion, chaos, blaze!
+<u>Orders</u> and illusion, chaos, blaze.
 
 113
 00:01:11,019 --> 00:01:11,100
-Orders and illusion, chaos, blaze!
+Orders and illusion, chaos, blaze.
 
 114
 00:01:11,100 --> 00:01:11,180
-Orders <u>and</u> illusion, chaos, blaze!
+Orders <u>and</u> illusion, chaos, blaze.
 
 115
 00:01:11,180 --> 00:01:11,220
-Orders and illusion, chaos, blaze!
+Orders and illusion, chaos, blaze.
 
 116
 00:01:11,220 --> 00:01:11,640
-Orders and <u>illusion,</u> chaos, blaze!
+Orders and <u>illusion,</u> chaos, blaze.
 
 117
 00:01:11,640 --> 00:01:11,900
-Orders and illusion, chaos, blaze!
+Orders and illusion, chaos, blaze.
 
 118
 00:01:11,900 --> 00:01:12,481
-Orders and illusion, <u>chaos,</u> blaze!
+Orders and illusion, <u>chaos,</u> blaze.
 
 119
 00:01:12,481 --> 00:01:12,521
-Orders and illusion, chaos, blaze!
+Orders and illusion, chaos, blaze.
 
 120
 00:01:12,521 --> 00:01:13,322
-Orders and illusion, chaos, <u>blaze!</u>
+Orders and illusion, chaos, <u>blaze.</u>
 
 121
 00:01:17,791 --> 00:01:18,232
@@ -736,605 +736,601 @@ We're all just rats in a crypto <u>trap.</u>
 
 185
 00:01:32,293 --> 00:01:32,553
-<u>Lake</u> stage, every beat we meme on a bait.
+<u>Late</u> stage, every beat we meme our fate.
 
 186
 00:01:32,553 --> 00:01:32,574
-Lake stage, every beat we meme on a bait.
+Late stage, every beat we meme our fate.
 
 187
 00:01:32,574 --> 00:01:32,914
-Lake <u>stage,</u> every beat we meme on a bait.
+Late <u>stage,</u> every beat we meme our fate.
 
 188
 00:01:32,914 --> 00:01:32,974
-Lake stage, every beat we meme on a bait.
+Late stage, every beat we meme our fate.
 
 189
 00:01:32,974 --> 00:01:33,194
-Lake stage, <u>every</u> beat we meme on a bait.
+Late stage, <u>every</u> beat we meme our fate.
 
 190
 00:01:33,194 --> 00:01:33,214
-Lake stage, every beat we meme on a bait.
+Late stage, every beat we meme our fate.
 
 191
 00:01:33,214 --> 00:01:33,355
-Lake stage, every <u>beat</u> we meme on a bait.
+Late stage, every <u>beat</u> we meme our fate.
 
 192
 00:01:33,355 --> 00:01:33,375
-Lake stage, every beat we meme on a bait.
+Late stage, every beat we meme our fate.
 
 193
 00:01:33,375 --> 00:01:33,515
-Lake stage, every beat <u>we</u> meme on a bait.
+Late stage, every beat <u>we</u> meme our fate.
 
 194
 00:01:33,515 --> 00:01:33,535
-Lake stage, every beat we meme on a bait.
+Late stage, every beat we meme our fate.
 
 195
 00:01:33,535 --> 00:01:33,936
-Lake stage, every beat we <u>meme</u> on a bait.
+Late stage, every beat we <u>meme</u> our fate.
 
 196
 00:01:33,936 --> 00:01:33,956
-Lake stage, every beat we meme on a bait.
+Late stage, every beat we meme our fate.
 
 197
 00:01:33,956 --> 00:01:34,056
-Lake stage, every beat we meme <u>on</u> a bait.
+Late stage, every beat we meme <u>our</u> fate.
 
 198
-00:01:34,056 --> 00:01:34,076
-Lake stage, every beat we meme on a bait.
+00:01:34,056 --> 00:01:34,116
+Late stage, every beat we meme our fate.
 
 199
-00:01:34,076 --> 00:01:34,096
-Lake stage, every beat we meme on <u>a</u> bait.
+00:01:34,116 --> 00:01:34,416
+Late stage, every beat we meme our <u>fate.</u>
 
 200
-00:01:34,096 --> 00:01:34,116
-Lake stage, every beat we meme on a bait.
-
-201
-00:01:34,116 --> 00:01:34,416
-Lake stage, every beat we meme on a <u>bait.</u>
-
-202
 00:01:34,657 --> 00:01:35,278
 <u>Celebrate,</u> call out, swift flip bait.
 
-203
+201
 00:01:35,278 --> 00:01:35,298
 Celebrate, call out, swift flip bait.
 
-204
+202
 00:01:35,298 --> 00:01:35,518
 Celebrate, <u>call</u> out, swift flip bait.
 
-205
+203
 00:01:35,518 --> 00:01:35,638
 Celebrate, call out, swift flip bait.
 
-206
+204
 00:01:35,638 --> 00:01:35,778
 Celebrate, call <u>out,</u> swift flip bait.
 
-207
+205
 00:01:35,778 --> 00:01:35,798
 Celebrate, call out, swift flip bait.
 
-208
+206
 00:01:35,798 --> 00:01:36,139
 Celebrate, call out, <u>swift</u> flip bait.
 
-209
+207
 00:01:36,139 --> 00:01:36,179
 Celebrate, call out, swift flip bait.
 
-210
+208
 00:01:36,179 --> 00:01:36,459
 Celebrate, call out, swift <u>flip</u> bait.
 
-211
+209
 00:01:36,459 --> 00:01:36,499
 Celebrate, call out, swift flip bait.
 
-212
+210
 00:01:36,499 --> 00:01:37,060
 Celebrate, call out, swift flip <u>bait.</u>
 
-213
+211
 00:01:37,080 --> 00:01:37,401
 <u>Truth</u> is dead, long live spin.
 
-214
+212
 00:01:37,401 --> 00:01:37,561
 Truth is dead, long live spin.
 
-215
+213
 00:01:37,561 --> 00:01:37,661
 Truth <u>is</u> dead, long live spin.
 
-216
+214
 00:01:37,661 --> 00:01:37,721
 Truth is dead, long live spin.
 
-217
+215
 00:01:37,721 --> 00:01:38,062
 Truth is <u>dead,</u> long live spin.
 
-218
+216
 00:01:38,062 --> 00:01:38,322
 Truth is dead, long live spin.
 
-219
+217
 00:01:38,322 --> 00:01:38,603
 Truth is dead, <u>long</u> live spin.
 
-220
+218
 00:01:38,603 --> 00:01:38,643
 Truth is dead, long live spin.
 
-221
+219
 00:01:38,643 --> 00:01:38,903
 Truth is dead, long <u>live</u> spin.
 
-222
+220
 00:01:38,903 --> 00:01:38,923
 Truth is dead, long live spin.
 
-223
+221
 00:01:38,923 --> 00:01:39,244
 Truth is dead, long live <u>spin.</u>
 
-224
+222
 00:01:39,264 --> 00:01:39,504
 <u>Tell</u> me who profits when we don't win.
 
-225
+223
 00:01:39,504 --> 00:01:39,564
 Tell me who profits when we don't win.
 
-226
+224
 00:01:39,564 --> 00:01:39,784
 Tell <u>me</u> who profits when we don't win.
 
-227
+225
 00:01:39,784 --> 00:01:39,865
 Tell me who profits when we don't win.
 
-228
+226
 00:01:39,865 --> 00:01:40,105
 Tell me <u>who</u> profits when we don't win.
 
-229
+227
 00:01:40,105 --> 00:01:40,145
 Tell me who profits when we don't win.
 
-230
+228
 00:01:40,145 --> 00:01:40,746
 Tell me who <u>profits</u> when we don't win.
 
-231
+229
 00:01:40,746 --> 00:01:40,806
 Tell me who profits when we don't win.
 
-232
+230
 00:01:40,806 --> 00:01:41,066
 Tell me who profits <u>when</u> we don't win.
 
-233
+231
 00:01:41,066 --> 00:01:41,127
 Tell me who profits when we don't win.
 
-234
+232
 00:01:41,127 --> 00:01:41,367
 Tell me who profits when <u>we</u> don't win.
 
-235
+233
 00:01:41,367 --> 00:01:41,707
 Tell me who profits when we don't win.
 
-236
+234
 00:01:41,707 --> 00:01:42,008
 Tell me who profits when we <u>don't</u> win.
 
-237
+235
 00:01:42,008 --> 00:01:42,068
 Tell me who profits when we don't win.
 
-238
+236
 00:01:42,068 --> 00:01:42,769
 Tell me who profits when we don't <u>win.</u>
 
-239
+237
 00:01:59,067 --> 00:01:59,267
-<u>This</u> is it.
+<u>This</u> is it, the sequel nobody asked for.
+
+238
+00:01:59,267 --> 00:01:59,327
+This is it, the sequel nobody asked for.
+
+239
+00:01:59,327 --> 00:01:59,408
+This <u>is</u> it, the sequel nobody asked for.
 
 240
-00:01:59,267 --> 00:01:59,327
-This is it.
+00:01:59,408 --> 00:01:59,508
+This is it, the sequel nobody asked for.
 
 241
-00:01:59,327 --> 00:01:59,408
-This <u>is</u> it.
+00:01:59,508 --> 00:01:59,608
+This is <u>it,</u> the sequel nobody asked for.
 
 242
-00:01:59,408 --> 00:01:59,508
-This is it.
+00:01:59,608 --> 00:01:59,888
+This is it, the sequel nobody asked for.
 
 243
-00:01:59,508 --> 00:01:59,608
-This is <u>it.</u>
+00:01:59,888 --> 00:02:00,008
+This is it, <u>the</u> sequel nobody asked for.
 
 244
-00:01:59,888 --> 00:02:00,008
-<u>The</u> sequel nobody asked for.
+00:02:00,008 --> 00:02:00,049
+This is it, the sequel nobody asked for.
 
 245
-00:02:00,008 --> 00:02:00,049
-The sequel nobody asked for.
+00:02:00,049 --> 00:02:00,429
+This is it, the <u>sequel</u> nobody asked for.
 
 246
-00:02:00,049 --> 00:02:00,429
-The <u>sequel</u> nobody asked for.
+00:02:00,429 --> 00:02:00,489
+This is it, the sequel nobody asked for.
 
 247
-00:02:00,429 --> 00:02:00,489
-The sequel nobody asked for.
+00:02:00,489 --> 00:02:00,890
+This is it, the sequel <u>nobody</u> asked for.
 
 248
-00:02:00,489 --> 00:02:00,890
-The sequel <u>nobody</u> asked for.
+00:02:00,890 --> 00:02:01,190
+This is it, the sequel nobody asked for.
 
 249
-00:02:00,890 --> 00:02:01,190
-The sequel nobody asked for.
+00:02:01,190 --> 00:02:01,431
+This is it, the sequel nobody <u>asked</u> for.
 
 250
-00:02:01,190 --> 00:02:01,431
-The sequel nobody <u>asked</u> for.
+00:02:01,431 --> 00:02:01,771
+This is it, the sequel nobody asked for.
 
 251
-00:02:01,431 --> 00:02:01,771
-The sequel nobody asked for.
+00:02:01,771 --> 00:02:01,992
+This is it, the sequel nobody asked <u>for.</u>
 
 252
-00:02:01,771 --> 00:02:01,992
-The sequel nobody asked <u>for.</u>
-
-253
 00:02:02,012 --> 00:02:02,693
 <u>Reboots,</u> three calls, three months of foam.
 
-254
+253
 00:02:02,693 --> 00:02:02,713
 Reboots, three calls, three months of foam.
 
-255
+254
 00:02:02,713 --> 00:02:02,893
 Reboots, <u>three</u> calls, three months of foam.
 
-256
+255
 00:02:02,893 --> 00:02:02,933
 Reboots, three calls, three months of foam.
 
-257
+256
 00:02:02,933 --> 00:02:03,274
 Reboots, three <u>calls,</u> three months of foam.
 
-258
+257
 00:02:03,274 --> 00:02:03,314
 Reboots, three calls, three months of foam.
 
-259
+258
 00:02:03,314 --> 00:02:03,494
 Reboots, three calls, <u>three</u> months of foam.
 
-260
+259
 00:02:03,494 --> 00:02:03,534
 Reboots, three calls, three months of foam.
 
-261
+260
 00:02:03,534 --> 00:02:03,794
 Reboots, three calls, three <u>months</u> of foam.
 
-262
+261
 00:02:03,794 --> 00:02:03,874
 Reboots, three calls, three months of foam.
 
-263
+262
 00:02:03,874 --> 00:02:03,935
 Reboots, three calls, three months <u>of</u> foam.
 
-264
+263
 00:02:03,935 --> 00:02:03,975
 Reboots, three calls, three months of foam.
 
-265
+264
 00:02:03,975 --> 00:02:04,335
 Reboots, three calls, three months of <u>foam.</u>
 
-266
+265
 00:02:04,616 --> 00:02:05,677
 <u>Syphilization's</u> final update.
 
-267
+266
 00:02:05,677 --> 00:02:05,777
 Syphilization's final update.
 
-268
+267
 00:02:05,777 --> 00:02:06,198
 Syphilization's <u>final</u> update.
 
-269
+268
 00:02:06,198 --> 00:02:06,919
 Syphilization's final update.
 
-270
+269
 00:02:06,919 --> 00:02:07,400
 Syphilization's final <u>update.</u>
 
-271
+270
 00:02:08,442 --> 00:02:08,662
 <u>Bug</u> ridden and insecure.
 
-272
+271
 00:02:08,662 --> 00:02:08,702
 Bug ridden and insecure.
 
-273
+272
 00:02:08,702 --> 00:02:08,942
 Bug <u>ridden</u> and insecure.
 
-274
+273
 00:02:08,942 --> 00:02:08,982
 Bug ridden and insecure.
 
-275
+274
 00:02:08,982 --> 00:02:09,062
 Bug ridden <u>and</u> insecure.
 
-276
+275
 00:02:09,062 --> 00:02:09,123
 Bug ridden and insecure.
 
-277
+276
 00:02:09,123 --> 00:02:09,764
 Bug ridden and <u>insecure.</u>
 
-278
+277
 00:02:10,084 --> 00:02:10,324
 <u>Late</u> stage, everything smile and grind.
 
-279
+278
 00:02:10,324 --> 00:02:10,364
 Late stage, everything smile and grind.
 
-280
+279
 00:02:10,364 --> 00:02:10,725
 Late <u>stage,</u> everything smile and grind.
 
-281
+280
 00:02:10,725 --> 00:02:10,805
 Late stage, everything smile and grind.
 
-282
+281
 00:02:10,805 --> 00:02:11,226
 Late stage, <u>everything</u> smile and grind.
 
-283
+282
 00:02:11,226 --> 00:02:11,266
 Late stage, everything smile and grind.
 
-284
+283
 00:02:11,266 --> 00:02:11,646
 Late stage, everything <u>smile</u> and grind.
 
-285
+284
 00:02:11,646 --> 00:02:11,727
 Late stage, everything smile and grind.
 
-286
+285
 00:02:11,727 --> 00:02:11,827
 Late stage, everything smile <u>and</u> grind.
 
-287
+286
 00:02:11,827 --> 00:02:11,867
 Late stage, everything smile and grind.
 
-288
+287
 00:02:11,867 --> 00:02:12,348
 Late stage, everything smile and <u>grind.</u>
 
-289
+288
 00:02:12,448 --> 00:02:12,628
 <u>Buy</u> your own chains, their fun shit signed.
 
-290
+289
 00:02:12,628 --> 00:02:12,668
 Buy your own chains, their fun shit signed.
 
-291
+290
 00:02:12,668 --> 00:02:12,788
 Buy <u>your</u> own chains, their fun shit signed.
 
-292
+291
 00:02:12,788 --> 00:02:12,868
 Buy your own chains, their fun shit signed.
 
-293
+292
 00:02:12,868 --> 00:02:12,989
 Buy your <u>own</u> chains, their fun shit signed.
 
-294
+293
 00:02:12,989 --> 00:02:13,029
 Buy your own chains, their fun shit signed.
 
-295
+294
 00:02:13,029 --> 00:02:13,369
 Buy your own <u>chains,</u> their fun shit signed.
 
-296
+295
 00:02:13,369 --> 00:02:13,389
 Buy your own chains, their fun shit signed.
 
-297
+296
 00:02:13,389 --> 00:02:13,589
 Buy your own chains, <u>their</u> fun shit signed.
 
-298
+297
 00:02:13,589 --> 00:02:13,650
 Buy your own chains, their fun shit signed.
 
-299
+298
 00:02:13,650 --> 00:02:13,950
 Buy your own chains, their <u>fun</u> shit signed.
 
-300
+299
 00:02:13,950 --> 00:02:13,970
 Buy your own chains, their fun shit signed.
 
-301
+300
 00:02:13,970 --> 00:02:14,230
 Buy your own chains, their fun <u>shit</u> signed.
 
-302
+301
 00:02:14,230 --> 00:02:14,291
 Buy your own chains, their fun shit signed.
 
-303
+302
 00:02:14,291 --> 00:02:14,851
 Buy your own chains, their fun shit <u>signed.</u>
 
-304
+303
 00:02:14,871 --> 00:02:15,032
 <u>We're</u> the joke, we're the fudge line too.
 
-305
+304
 00:02:15,032 --> 00:02:15,052
 We're the joke, we're the fudge line too.
 
-306
+305
 00:02:15,052 --> 00:02:15,132
 We're <u>the</u> joke, we're the fudge line too.
 
-307
+306
 00:02:15,132 --> 00:02:15,172
 We're the joke, we're the fudge line too.
 
-308
+307
 00:02:15,172 --> 00:02:15,452
 We're the <u>joke,</u> we're the fudge line too.
 
-309
+308
 00:02:15,452 --> 00:02:15,472
 We're the joke, we're the fudge line too.
 
-310
+309
 00:02:15,472 --> 00:02:15,753
 We're the joke, <u>we're</u> the fudge line too.
 
-311
+310
 00:02:15,753 --> 00:02:15,813
 We're the joke, we're the fudge line too.
 
-312
+311
 00:02:15,813 --> 00:02:15,993
 We're the joke, we're <u>the</u> fudge line too.
 
-313
+312
 00:02:15,993 --> 00:02:16,053
 We're the joke, we're the fudge line too.
 
-314
+313
 00:02:16,053 --> 00:02:16,374
 We're the joke, we're the <u>fudge</u> line too.
 
-315
+314
 00:02:16,374 --> 00:02:16,414
 We're the joke, we're the fudge line too.
 
-316
+315
 00:02:16,414 --> 00:02:16,654
 We're the joke, we're the fudge <u>line</u> too.
 
-317
+316
 00:02:16,654 --> 00:02:16,674
 We're the joke, we're the fudge line too.
 
-318
+317
 00:02:16,674 --> 00:02:16,975
 We're the joke, we're the fudge line <u>too.</u>
 
-319
+318
 00:02:17,255 --> 00:02:17,576
 <u>Welcome</u> to the end, bought to you by you.
 
-320
+319
 00:02:17,576 --> 00:02:17,596
 Welcome to the end, bought to you by you.
 
-321
+320
 00:02:17,596 --> 00:02:17,696
 Welcome <u>to</u> the end, bought to you by you.
 
-322
+321
 00:02:17,696 --> 00:02:17,736
 Welcome to the end, bought to you by you.
 
-323
+322
 00:02:17,736 --> 00:02:17,856
 Welcome to <u>the</u> end, bought to you by you.
 
-324
+323
 00:02:17,856 --> 00:02:17,996
 Welcome to the end, bought to you by you.
 
-325
+324
 00:02:17,996 --> 00:02:18,157
 Welcome to the <u>end,</u> bought to you by you.
 
-326
+325
 00:02:18,157 --> 00:02:18,177
 Welcome to the end, bought to you by you.
 
-327
+326
 00:02:18,177 --> 00:02:18,357
 Welcome to the end, <u>bought</u> to you by you.
 
-328
+327
 00:02:18,357 --> 00:02:18,377
 Welcome to the end, bought to you by you.
 
-329
+328
 00:02:18,377 --> 00:02:18,497
 Welcome to the end, bought <u>to</u> you by you.
 
-330
+329
 00:02:18,497 --> 00:02:18,537
 Welcome to the end, bought to you by you.
 
-331
+330
 00:02:18,537 --> 00:02:18,757
 Welcome to the end, bought to <u>you</u> by you.
 
-332
+331
 00:02:18,757 --> 00:02:18,798
 Welcome to the end, bought to you by you.
 
-333
+332
 00:02:18,798 --> 00:02:19,058
 Welcome to the end, bought to you <u>by</u> you.
 
-334
+333
 00:02:19,058 --> 00:02:19,118
 Welcome to the end, bought to you by you.
 
-335
+334
 00:02:19,118 --> 00:02:19,759
 Welcome to the end, bought to you by <u>you.</u>
 

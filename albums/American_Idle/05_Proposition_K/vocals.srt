@@ -295,7 +295,7 @@ Proposition K, got it wrong <u>all</u> along.
 Proposition K, got it wrong all along.
 
 75
-00:00:37,302 --> 00:00:38,123
+00:00:37,302 --> 00:00:38,103
 Proposition K, got it wrong all <u>along.</u>
 
 76
@@ -591,11 +591,11 @@ Too loud, too fast, can't sleep, can't last.
 Too loud, too fast, <u>can't</u> sleep, can't last.
 
 149
-00:00:57,686 --> 00:00:57,726
+00:00:57,686 --> 00:00:57,786
 Too loud, too fast, can't sleep, can't last.
 
 150
-00:00:57,726 --> 00:00:58,207
+00:00:57,786 --> 00:00:58,207
 Too loud, too fast, can't <u>sleep,</u> can't last.
 
 151
@@ -616,741 +616,753 @@ Too loud, too fast, can't sleep, can't <u>last.</u>
 
 155
 00:01:06,502 --> 00:01:06,923
-<u>Once</u> we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+<u>Once</u> we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 156
 00:01:06,923 --> 00:01:07,023
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 157
 00:01:07,023 --> 00:01:07,283
-Once <u>we</u> had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once <u>we</u> had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 158
-00:01:07,283 --> 00:01:07,344
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:07,283 --> 00:01:07,343
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 159
-00:01:07,344 --> 00:01:07,564
-Once we <u>had</u> peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:07,343 --> 00:01:07,564
+Once we <u>had</u> peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 160
 00:01:07,564 --> 00:01:07,624
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 161
 00:01:07,624 --> 00:01:07,985
-Once we had <u>peace</u> off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had <u>peace</u> off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 162
 00:01:07,985 --> 00:01:08,205
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 163
 00:01:08,205 --> 00:01:08,345
-Once we had peace <u>off</u> the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace <u>off</u> the great highway, now it's gridlock on Tuesday, hawking every day.
 
 164
-00:01:08,345 --> 00:01:08,386
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:08,345 --> 00:01:08,385
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 165
-00:01:08,386 --> 00:01:08,546
-Once we had peace off <u>the</u> Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:08,385 --> 00:01:08,546
+Once we had peace off <u>the</u> great highway, now it's gridlock on Tuesday, hawking every day.
 
 166
 00:01:08,546 --> 00:01:08,606
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 167
 00:01:08,606 --> 00:01:09,147
-Once we had peace off the <u>Great</u> Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace off the <u>great</u> highway, now it's gridlock on Tuesday, hawking every day.
 
 168
 00:01:09,147 --> 00:01:09,187
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 169
-00:01:09,187 --> 00:01:10,029
-Once we had peace off the Great <u>Highway,</u> now it's gridlock on Tuesday, hawking every day.
+00:01:09,187 --> 00:01:10,028
+Once we had peace off the great <u>highway,</u> now it's gridlock on Tuesday, hawking every day.
 
 170
-00:01:10,029 --> 00:01:10,069
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:10,028 --> 00:01:10,068
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 171
-00:01:10,069 --> 00:01:10,389
-Once we had peace off the Great Highway, <u>now</u> it's gridlock on Tuesday, hawking every day.
+00:01:10,068 --> 00:01:10,389
+Once we had peace off the great highway, <u>now</u> it's gridlock on Tuesday, hawking every day.
 
 172
-00:01:10,389 --> 00:01:10,490
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:10,389 --> 00:01:10,489
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 173
-00:01:10,490 --> 00:01:10,610
-Once we had peace off the Great Highway, now <u>it's</u> gridlock on Tuesday, hawking every day.
+00:01:10,489 --> 00:01:10,609
+Once we had peace off the great highway, now <u>it's</u> gridlock on Tuesday, hawking every day.
 
 174
-00:01:10,610 --> 00:01:10,650
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:10,609 --> 00:01:10,649
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 175
-00:01:10,650 --> 00:01:11,371
-Once we had peace off the Great Highway, now it's <u>gridlock</u> on Tuesday, hawking every day.
+00:01:10,649 --> 00:01:11,371
+Once we had peace off the great highway, now it's <u>gridlock</u> on Tuesday, hawking every day.
 
 176
-00:01:11,371 --> 00:01:11,512
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:11,371 --> 00:01:11,511
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 177
-00:01:11,512 --> 00:01:11,612
-Once we had peace off the Great Highway, now it's gridlock <u>on</u> Tuesday, hawking every day.
+00:01:11,511 --> 00:01:11,611
+Once we had peace off the great highway, now it's gridlock <u>on</u> Tuesday, hawking every day.
 
 178
-00:01:11,612 --> 00:01:11,652
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:11,611 --> 00:01:11,651
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 179
-00:01:11,652 --> 00:01:12,333
-Once we had peace off the Great Highway, now it's gridlock on <u>Tuesday,</u> hawking every day.
+00:01:11,651 --> 00:01:12,332
+Once we had peace off the great highway, now it's gridlock on <u>Tuesday,</u> hawking every day.
 
 180
-00:01:12,333 --> 00:01:12,393
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:12,332 --> 00:01:12,392
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 181
-00:01:12,393 --> 00:01:13,074
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, <u>hawking</u> every day.
+00:01:12,392 --> 00:01:13,074
+Once we had peace off the great highway, now it's gridlock on Tuesday, <u>hawking</u> every day.
 
 182
-00:01:13,074 --> 00:01:13,295
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:13,074 --> 00:01:13,294
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 183
-00:01:13,295 --> 00:01:13,595
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking <u>every</u> day.
+00:01:13,294 --> 00:01:13,595
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking <u>every</u> day.
 
 184
-00:01:13,595 --> 00:01:13,656
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every day.
+00:01:13,595 --> 00:01:13,655
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every day.
 
 185
-00:01:13,656 --> 00:01:14,457
-Once we had peace off the Great Highway, now it's gridlock on Tuesday, hawking every <u>day.</u>
+00:01:13,655 --> 00:01:14,456
+Once we had peace off the great highway, now it's gridlock on Tuesday, hawking every <u>day.</u>
 
 186
-00:01:14,477 --> 00:01:15,679
+00:01:14,476 --> 00:01:15,678
 <u>Incardio's</u> file called it progress for all, but hundreds of neighbors ignore his recall.
 
 187
-00:01:15,679 --> 00:01:15,699
+00:01:15,678 --> 00:01:15,698
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 188
-00:01:15,699 --> 00:01:16,040
+00:01:15,698 --> 00:01:16,039
 Incardio's <u>file</u> called it progress for all, but hundreds of neighbors ignore his recall.
 
 189
-00:01:16,040 --> 00:01:16,240
+00:01:16,039 --> 00:01:16,239
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 190
-00:01:16,240 --> 00:01:16,461
+00:01:16,239 --> 00:01:16,460
 Incardio's file <u>called</u> it progress for all, but hundreds of neighbors ignore his recall.
 
 191
-00:01:16,461 --> 00:01:16,541
+00:01:16,460 --> 00:01:16,540
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 192
-00:01:16,541 --> 00:01:16,641
+00:01:16,540 --> 00:01:16,640
 Incardio's file called <u>it</u> progress for all, but hundreds of neighbors ignore his recall.
 
 193
-00:01:16,641 --> 00:01:16,661
+00:01:16,640 --> 00:01:16,660
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 194
-00:01:16,661 --> 00:01:17,403
+00:01:16,660 --> 00:01:17,401
 Incardio's file called it <u>progress</u> for all, but hundreds of neighbors ignore his recall.
 
 195
-00:01:17,403 --> 00:01:17,463
+00:01:17,401 --> 00:01:17,461
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 196
-00:01:17,463 --> 00:01:17,683
+00:01:17,461 --> 00:01:17,682
 Incardio's file called it progress <u>for</u> all, but hundreds of neighbors ignore his recall.
 
 197
-00:01:17,683 --> 00:01:17,904
+00:01:17,682 --> 00:01:17,902
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 198
-00:01:17,904 --> 00:01:18,445
+00:01:17,902 --> 00:01:18,443
 Incardio's file called it progress for <u>all,</u> but hundreds of neighbors ignore his recall.
 
 199
-00:01:18,445 --> 00:01:18,465
+00:01:18,443 --> 00:01:18,463
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 200
-00:01:18,465 --> 00:01:18,645
+00:01:18,463 --> 00:01:18,643
 Incardio's file called it progress for all, <u>but</u> hundreds of neighbors ignore his recall.
 
 201
-00:01:18,645 --> 00:01:18,705
+00:01:18,643 --> 00:01:18,704
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 202
-00:01:18,705 --> 00:01:19,386
+00:01:18,704 --> 00:01:19,385
 Incardio's file called it progress for all, but <u>hundreds</u> of neighbors ignore his recall.
 
 203
-00:01:19,386 --> 00:01:19,527
+00:01:19,385 --> 00:01:19,525
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 204
-00:01:19,527 --> 00:01:19,607
+00:01:19,525 --> 00:01:19,605
 Incardio's file called it progress for all, but hundreds <u>of</u> neighbors ignore his recall.
 
 205
-00:01:19,607 --> 00:01:19,707
+00:01:19,605 --> 00:01:19,705
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 206
-00:01:19,707 --> 00:01:20,408
+00:01:19,705 --> 00:01:20,407
 Incardio's file called it progress for all, but hundreds of <u>neighbors</u> ignore his recall.
 
 207
-00:01:20,408 --> 00:01:20,529
+00:01:20,407 --> 00:01:20,527
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 208
-00:01:20,529 --> 00:01:21,010
+00:01:20,527 --> 00:01:21,008
 Incardio's file called it progress for all, but hundreds of neighbors <u>ignore</u> his recall.
 
 209
-00:01:21,010 --> 00:01:21,070
+00:01:21,008 --> 00:01:21,068
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 210
-00:01:21,070 --> 00:01:21,390
+00:01:21,068 --> 00:01:21,388
 Incardio's file called it progress for all, but hundreds of neighbors ignore <u>his</u> recall.
 
 211
-00:01:21,390 --> 00:01:21,430
+00:01:21,388 --> 00:01:21,428
 Incardio's file called it progress for all, but hundreds of neighbors ignore his recall.
 
 212
-00:01:21,430 --> 00:01:22,072
+00:01:21,428 --> 00:01:22,069
 Incardio's file called it progress for all, but hundreds of neighbors ignore his <u>recall.</u>
 
 213
-00:01:22,432 --> 00:01:22,693
+00:01:22,430 --> 00:01:22,691
 <u>No</u> environmental study to say if we're doomed.
 
 214
-00:01:22,693 --> 00:01:22,873
+00:01:22,691 --> 00:01:22,871
 No environmental study to say if we're doomed.
 
 215
-00:01:22,873 --> 00:01:24,596
+00:01:22,871 --> 00:01:24,594
 No <u>environmental</u> study to say if we're doomed.
 
 216
-00:01:24,596 --> 00:01:24,636
+00:01:24,594 --> 00:01:24,634
 No environmental study to say if we're doomed.
 
 217
-00:01:24,636 --> 00:01:25,378
+00:01:24,634 --> 00:01:25,375
 No environmental <u>study</u> to say if we're doomed.
 
 218
-00:01:25,378 --> 00:01:25,438
+00:01:25,375 --> 00:01:25,435
 No environmental study to say if we're doomed.
 
 219
-00:01:25,438 --> 00:01:25,578
+00:01:25,435 --> 00:01:25,576
 No environmental study <u>to</u> say if we're doomed.
 
 220
-00:01:25,578 --> 00:01:25,658
+00:01:25,576 --> 00:01:25,656
 No environmental study to say if we're doomed.
 
 221
-00:01:25,658 --> 00:01:26,059
+00:01:25,656 --> 00:01:26,056
 No environmental study to <u>say</u> if we're doomed.
 
 222
-00:01:26,059 --> 00:01:26,259
+00:01:26,056 --> 00:01:26,257
 No environmental study to say if we're doomed.
 
 223
-00:01:26,259 --> 00:01:26,360
+00:01:26,257 --> 00:01:26,357
 No environmental study to say <u>if</u> we're doomed.
 
 224
-00:01:26,360 --> 00:01:26,420
+00:01:26,357 --> 00:01:26,417
 No environmental study to say if we're doomed.
 
 225
-00:01:26,420 --> 00:01:26,640
+00:01:26,417 --> 00:01:26,638
 No environmental study to say if <u>we're</u> doomed.
 
 226
-00:01:26,640 --> 00:01:26,680
+00:01:26,638 --> 00:01:26,678
 No environmental study to say if we're doomed.
 
 227
-00:01:26,680 --> 00:01:29,185
+00:01:26,678 --> 00:01:29,202
 No environmental study to say if we're <u>doomed.</u>
 
 228
-00:01:30,245 --> 00:01:30,606
-<u>Just</u> spikes and the blocks and another ballot consumed.
+00:01:30,245 --> 00:01:30,605
+<u>Just</u> bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 229
-00:01:30,606 --> 00:01:30,806
-Just spikes and the blocks and another ballot consumed.
+00:01:30,605 --> 00:01:30,666
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 230
-00:01:30,806 --> 00:01:31,186
-Just <u>spikes</u> and the blocks and another ballot consumed.
+00:01:30,666 --> 00:01:31,186
+Just <u>bikes</u> and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 231
 00:01:31,186 --> 00:01:31,206
-Just spikes and the blocks and another ballot consumed.
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 232
-00:01:31,206 --> 00:01:31,407
-Just spikes <u>and</u> the blocks and another ballot consumed.
+00:01:31,206 --> 00:01:31,406
+Just bikes <u>and</u> the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 233
-00:01:31,407 --> 00:01:31,467
-Just spikes and the blocks and another ballot consumed.
+00:01:31,406 --> 00:01:31,467
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 234
 00:01:31,467 --> 00:01:31,587
-Just spikes and <u>the</u> blocks and another ballot consumed.
+Just bikes and <u>the</u> blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 235
 00:01:31,587 --> 00:01:31,627
-Just spikes and the blocks and another ballot consumed.
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 236
 00:01:31,627 --> 00:01:32,248
-Just spikes and the <u>blocks</u> and another ballot consumed.
+Just bikes and the <u>blocks</u> and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 237
 00:01:32,248 --> 00:01:32,268
-Just spikes and the blocks and another ballot consumed.
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 238
 00:01:32,268 --> 00:01:32,448
-Just spikes and the blocks <u>and</u> another ballot consumed.
+Just bikes and the blocks <u>and</u> another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 239
 00:01:32,448 --> 00:01:32,548
-Just spikes and the blocks and another ballot consumed.
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 240
-00:01:32,548 --> 00:01:33,530
-Just spikes and the blocks and <u>another</u> ballot consumed.
+00:01:32,548 --> 00:01:33,529
+Just bikes and the blocks and <u>another</u> ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 241
-00:01:33,530 --> 00:01:33,610
-Just spikes and the blocks and another ballot consumed.
+00:01:33,529 --> 00:01:33,609
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 242
-00:01:33,610 --> 00:01:34,271
-Just spikes and the blocks and another <u>ballot</u> consumed.
+00:01:33,609 --> 00:01:34,270
+Just bikes and the blocks and another <u>ballot</u> consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 243
-00:01:34,271 --> 00:01:34,331
-Just spikes and the blocks and another ballot consumed.
+00:01:34,270 --> 00:01:34,330
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 244
-00:01:34,331 --> 00:01:36,574
-Just spikes and the blocks and another ballot <u>consumed.</u>
+00:01:34,330 --> 00:01:36,553
+Just bikes and the blocks and another ballot <u>consumed</u> Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 245
-00:01:37,615 --> 00:01:37,876
-<u>Five</u> position cake, got it wrong all along.
+00:01:36,553 --> 00:01:37,614
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 246
-00:01:37,876 --> 00:01:37,896
-Five position cake, got it wrong all along.
+00:01:37,614 --> 00:01:37,875
+Just bikes and the blocks and another ballot consumed <u>Five</u> position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 247
-00:01:37,896 --> 00:01:38,597
-Five <u>position</u> cake, got it wrong all along.
+00:01:37,875 --> 00:01:37,895
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 248
-00:01:38,597 --> 00:01:38,637
-Five position cake, got it wrong all along.
+00:01:37,895 --> 00:01:38,596
+Just bikes and the blocks and another ballot consumed Five <u>position</u> cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 249
-00:01:38,637 --> 00:01:39,718
-Five position <u>cake,</u> got it wrong all along.
+00:01:38,596 --> 00:01:38,636
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 250
-00:01:39,718 --> 00:01:40,099
-Five position cake, got it wrong all along.
+00:01:38,636 --> 00:01:39,717
+Just bikes and the blocks and another ballot consumed Five position <u>cake,</u> got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 251
-00:01:40,099 --> 00:01:40,419
-Five position cake, <u>got</u> it wrong all along.
+00:01:39,717 --> 00:01:40,098
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 252
-00:01:40,419 --> 00:01:40,499
-Five position cake, got it wrong all along.
+00:01:40,098 --> 00:01:40,418
+Just bikes and the blocks and another ballot consumed Five position cake, <u>got</u> it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 253
-00:01:40,499 --> 00:01:40,600
-Five position cake, got <u>it</u> wrong all along.
+00:01:40,418 --> 00:01:40,498
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 254
-00:01:40,600 --> 00:01:40,640
-Five position cake, got it wrong all along.
+00:01:40,498 --> 00:01:40,598
+Just bikes and the blocks and another ballot consumed Five position cake, got <u>it</u> wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 255
-00:01:40,640 --> 00:01:40,940
-Five position cake, got it <u>wrong</u> all along.
+00:01:40,598 --> 00:01:40,638
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 256
-00:01:40,940 --> 00:01:41,080
-Five position cake, got it wrong all along.
+00:01:40,638 --> 00:01:40,939
+Just bikes and the blocks and another ballot consumed Five position cake, got it <u>wrong</u> all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 257
-00:01:41,080 --> 00:01:41,220
-Five position cake, got it wrong <u>all</u> along.
+00:01:40,939 --> 00:01:41,079
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 258
-00:01:41,220 --> 00:01:41,301
-Five position cake, got it wrong all along.
+00:01:41,079 --> 00:01:41,219
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong <u>all</u> along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 259
-00:01:41,301 --> 00:01:42,162
-Five position cake, got it wrong all <u>along.</u>
+00:01:41,219 --> 00:01:41,299
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 260
-00:01:42,362 --> 00:01:42,562
-<u>We're</u> choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:41,299 --> 00:01:42,160
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all <u>along</u> We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 261
-00:01:42,562 --> 00:01:42,602
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:42,160 --> 00:01:42,361
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 262
-00:01:42,602 --> 00:01:43,163
-We're <u>choking</u> on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:42,361 --> 00:01:42,561
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along <u>We're</u> choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 263
-00:01:43,163 --> 00:01:43,303
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:42,561 --> 00:01:42,601
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 264
-00:01:43,303 --> 00:01:43,384
-We're choking <u>on</u> the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:42,601 --> 00:01:43,162
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're <u>choking</u> on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 265
-00:01:43,384 --> 00:01:43,424
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:43,162 --> 00:01:43,302
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 266
-00:01:43,424 --> 00:01:43,564
-We're choking on <u>the</u> traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:43,302 --> 00:01:43,382
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking <u>on</u> the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 267
-00:01:43,564 --> 00:01:43,624
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:43,382 --> 00:01:43,422
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 268
-00:01:43,624 --> 00:01:44,245
-We're choking on the <u>traffic</u> as the parade malls are cut off on days to build their outdoor states.
+00:01:43,422 --> 00:01:43,562
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on <u>the</u> traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 269
-00:01:44,245 --> 00:01:44,265
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:43,562 --> 00:01:43,622
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 270
-00:01:44,265 --> 00:01:44,325
-We're choking on the traffic <u>as</u> the parade malls are cut off on days to build their outdoor states.
+00:01:43,622 --> 00:01:44,243
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the <u>traffic</u> as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 271
-00:01:44,325 --> 00:01:44,345
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:44,243 --> 00:01:44,263
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 272
-00:01:44,345 --> 00:01:44,445
-We're choking on the traffic as <u>the</u> parade malls are cut off on days to build their outdoor states.
+00:01:44,263 --> 00:01:44,323
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic <u>as</u> the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 273
-00:01:44,445 --> 00:01:44,485
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:44,323 --> 00:01:44,343
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 274
-00:01:44,485 --> 00:01:45,126
-We're choking on the traffic as the <u>parade</u> malls are cut off on days to build their outdoor states.
+00:01:44,343 --> 00:01:44,443
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as <u>the</u> parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 275
-00:01:45,126 --> 00:01:45,146
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:44,443 --> 00:01:44,483
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 276
-00:01:45,146 --> 00:01:45,426
-We're choking on the traffic as the parade <u>malls</u> are cut off on days to build their outdoor states.
+00:01:44,483 --> 00:01:45,124
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the <u>parade</u> balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 277
-00:01:45,426 --> 00:01:45,687
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:45,124 --> 00:01:45,144
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 278
-00:01:45,687 --> 00:01:45,827
-We're choking on the traffic as the parade malls <u>are</u> cut off on days to build their outdoor states.
+00:01:45,144 --> 00:01:45,425
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade <u>balls</u> on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 279
-00:01:45,827 --> 00:01:45,867
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:45,425 --> 00:01:45,685
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 280
-00:01:45,867 --> 00:01:46,147
-We're choking on the traffic as the parade malls are <u>cut</u> off on days to build their outdoor states.
+00:01:45,685 --> 00:01:45,825
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls <u>on</u> Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 281
-00:01:46,147 --> 00:01:46,248
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:45,825 --> 00:01:45,865
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 282
-00:01:46,248 --> 00:01:46,368
-We're choking on the traffic as the parade malls are cut <u>off</u> on days to build their outdoor states.
+00:01:45,865 --> 00:01:46,145
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on <u>Cut</u> off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 283
-00:01:46,368 --> 00:01:46,508
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:46,145 --> 00:01:46,246
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 284
-00:01:46,508 --> 00:01:46,608
-We're choking on the traffic as the parade malls are cut off <u>on</u> days to build their outdoor states.
+00:01:46,246 --> 00:01:46,366
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut <u>off</u> on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 285
-00:01:46,608 --> 00:01:46,628
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:46,366 --> 00:01:46,506
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 286
-00:01:46,628 --> 00:01:47,529
-We're choking on the traffic as the parade malls are cut off on <u>days</u> to build their outdoor states.
+00:01:46,506 --> 00:01:46,606
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off <u>on</u> James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 287
-00:01:47,529 --> 00:01:47,850
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:46,606 --> 00:01:47,207
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 288
-00:01:47,850 --> 00:01:48,050
-We're choking on the traffic as the parade malls are cut off on days <u>to</u> build their outdoor states.
+00:01:47,207 --> 00:01:47,527
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on <u>James</u> to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 289
-00:01:48,050 --> 00:01:48,110
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:47,527 --> 00:01:47,848
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 290
-00:01:48,110 --> 00:01:48,371
-We're choking on the traffic as the parade malls are cut off on days to <u>build</u> their outdoor states.
+00:01:47,848 --> 00:01:48,048
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James <u>to</u> build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 291
-00:01:48,371 --> 00:01:48,411
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:48,048 --> 00:01:48,108
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 292
-00:01:48,411 --> 00:01:48,651
-We're choking on the traffic as the parade malls are cut off on days to build <u>their</u> outdoor states.
+00:01:48,108 --> 00:01:48,368
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to <u>build</u> their outdoor stage Sunset in Richmond, I'm burning with grace
 
 293
-00:01:48,651 --> 00:01:48,831
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:48,368 --> 00:01:48,408
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 294
-00:01:48,831 --> 00:01:49,292
-We're choking on the traffic as the parade malls are cut off on days to build their <u>outdoor</u> states.
+00:01:48,408 --> 00:01:48,649
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build <u>their</u> outdoor stage Sunset in Richmond, I'm burning with grace
 
 295
-00:01:49,292 --> 00:01:49,332
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor states.
+00:01:48,649 --> 00:01:48,829
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 296
-00:01:49,332 --> 00:01:50,213
-We're choking on the traffic as the parade malls are cut off on days to build their outdoor <u>states.</u>
+00:01:48,829 --> 00:01:49,289
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their <u>outdoor</u> stage Sunset in Richmond, I'm burning with grace
 
 297
-00:01:50,634 --> 00:01:51,395
-<u>Sunset</u> in Richmond, I'm burning with grace.
+00:01:49,289 --> 00:01:49,330
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 298
-00:01:51,395 --> 00:01:51,515
-Sunset in Richmond, I'm burning with grace.
+00:01:49,330 --> 00:01:50,191
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor <u>stage</u> Sunset in Richmond, I'm burning with grace
 
 299
-00:01:51,515 --> 00:01:51,615
-Sunset <u>in</u> Richmond, I'm burning with grace.
+00:01:50,191 --> 00:01:50,631
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 300
-00:01:51,615 --> 00:01:51,675
-Sunset in Richmond, I'm burning with grace.
+00:01:50,631 --> 00:01:51,392
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage <u>Sunset</u> in Richmond, I'm burning with grace
 
 301
-00:01:51,675 --> 00:01:52,396
-Sunset in <u>Richmond,</u> I'm burning with grace.
+00:01:51,392 --> 00:01:51,512
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 302
-00:01:52,396 --> 00:01:52,476
-Sunset in Richmond, I'm burning with grace.
+00:01:51,512 --> 00:01:51,612
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset <u>in</u> Richmond, I'm burning with grace
 
 303
-00:01:52,476 --> 00:01:52,597
-Sunset in Richmond, <u>I'm</u> burning with grace.
+00:01:51,612 --> 00:01:51,673
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 304
-00:01:52,597 --> 00:01:52,637
-Sunset in Richmond, I'm burning with grace.
+00:01:51,673 --> 00:01:52,393
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in <u>Richmond,</u> I'm burning with grace
 
 305
-00:01:52,637 --> 00:01:53,117
-Sunset in Richmond, I'm <u>burning</u> with grace.
+00:01:52,393 --> 00:01:52,474
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 306
-00:01:53,117 --> 00:01:53,177
-Sunset in Richmond, I'm burning with grace.
+00:01:52,474 --> 00:01:52,594
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, <u>I'm</u> burning with grace
 
 307
-00:01:53,177 --> 00:01:53,318
-Sunset in Richmond, I'm burning <u>with</u> grace.
+00:01:52,594 --> 00:01:52,634
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 308
-00:01:53,318 --> 00:01:53,358
-Sunset in Richmond, I'm burning with grace.
+00:01:52,634 --> 00:01:53,114
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm <u>burning</u> with grace
 
 309
-00:01:53,358 --> 00:01:54,379
-Sunset in Richmond, I'm burning with <u>grace.</u>
+00:01:53,114 --> 00:01:53,174
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 310
-00:01:56,266 --> 00:01:56,587
-<u>Too</u> loud, too fast, if sweet can last.
+00:01:53,174 --> 00:01:53,315
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning <u>with</u> grace
 
 311
-00:01:56,587 --> 00:01:56,688
-Too loud, too fast, if sweet can last.
+00:01:53,315 --> 00:01:53,355
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with grace
 
 312
-00:01:56,688 --> 00:01:56,849
-Too <u>loud,</u> too fast, if sweet can last.
+00:01:53,355 --> 00:01:54,396
+Just bikes and the blocks and another ballot consumed Five position cake, got it wrong all along We're choking on the traffic as the parade balls on Cut off on James to build their outdoor stage Sunset in Richmond, I'm burning with <u>grace</u>
 
 313
-00:01:56,849 --> 00:01:56,869
-Too loud, too fast, if sweet can last.
+00:01:56,266 --> 00:01:56,587
+<u>Too</u> loud, too fast, just we can't last.
 
 314
-00:01:56,869 --> 00:01:57,070
-Too loud, <u>too</u> fast, if sweet can last.
+00:01:56,587 --> 00:01:56,688
+Too loud, too fast, just we can't last.
 
 315
-00:01:57,070 --> 00:01:57,110
-Too loud, too fast, if sweet can last.
+00:01:56,688 --> 00:01:56,849
+Too <u>loud,</u> too fast, just we can't last.
 
 316
-00:01:57,110 --> 00:01:57,391
-Too loud, too <u>fast,</u> if sweet can last.
+00:01:56,849 --> 00:01:56,869
+Too loud, too fast, just we can't last.
 
 317
-00:01:57,391 --> 00:01:57,512
-Too loud, too fast, if sweet can last.
+00:01:56,869 --> 00:01:57,070
+Too loud, <u>too</u> fast, just we can't last.
 
 318
-00:01:57,512 --> 00:01:57,672
-Too loud, too fast, <u>if</u> sweet can last.
+00:01:57,070 --> 00:01:57,110
+Too loud, too fast, just we can't last.
 
 319
-00:01:57,672 --> 00:01:57,712
-Too loud, too fast, if sweet can last.
+00:01:57,110 --> 00:01:57,391
+Too loud, too <u>fast,</u> just we can't last.
 
 320
-00:01:57,712 --> 00:01:57,954
-Too loud, too fast, if <u>sweet</u> can last.
+00:01:57,391 --> 00:01:57,491
+Too loud, too fast, just we can't last.
 
 321
-00:01:57,954 --> 00:01:58,014
-Too loud, too fast, if sweet can last.
+00:01:57,491 --> 00:01:57,672
+Too loud, too fast, <u>just</u> we can't last.
 
 322
-00:01:58,014 --> 00:01:58,375
-Too loud, too fast, if sweet <u>can</u> last.
+00:01:57,672 --> 00:01:57,733
+Too loud, too fast, just we can't last.
 
 323
-00:01:58,375 --> 00:01:58,416
-Too loud, too fast, if sweet can last.
+00:01:57,733 --> 00:01:57,954
+Too loud, too fast, just <u>we</u> can't last.
 
 324
-00:01:58,416 --> 00:02:00,344
-Too loud, too fast, if sweet can <u>last.</u>
+00:01:57,954 --> 00:01:58,014
+Too loud, too fast, just we can't last.
 
 325
-00:02:00,364 --> 00:02:00,585
-<u>Too</u> loud, too fast, if sweet can last.
+00:01:58,014 --> 00:01:58,375
+Too loud, too fast, just we <u>can't</u> last.
 
 326
-00:02:00,585 --> 00:02:00,625
-Too loud, too fast, if sweet can last.
+00:01:58,375 --> 00:01:58,416
+Too loud, too fast, just we can't last.
 
 327
-00:02:00,625 --> 00:02:00,887
-Too <u>loud,</u> too fast, if sweet can last.
+00:01:58,416 --> 00:02:00,344
+Too loud, too fast, just we can't <u>last.</u>
 
 328
-00:02:00,887 --> 00:02:00,907
-Too loud, too fast, if sweet can last.
+00:02:00,364 --> 00:02:00,585
+<u>Too</u> loud, too fast, just we can't last.
 
 329
-00:02:00,907 --> 00:02:01,087
-Too loud, <u>too</u> fast, if sweet can last.
+00:02:00,585 --> 00:02:00,625
+Too loud, too fast, just we can't last.
 
 330
-00:02:01,087 --> 00:02:01,128
-Too loud, too fast, if sweet can last.
+00:02:00,625 --> 00:02:00,887
+Too <u>loud,</u> too fast, just we can't last.
 
 331
-00:02:01,128 --> 00:02:01,409
-Too loud, too <u>fast,</u> if sweet can last.
+00:02:00,887 --> 00:02:00,907
+Too loud, too fast, just we can't last.
 
 332
-00:02:01,409 --> 00:02:01,509
-Too loud, too fast, if sweet can last.
+00:02:00,907 --> 00:02:01,087
+Too loud, <u>too</u> fast, just we can't last.
 
 333
-00:02:01,509 --> 00:02:01,630
-Too loud, too fast, <u>if</u> sweet can last.
+00:02:01,087 --> 00:02:01,128
+Too loud, too fast, just we can't last.
 
 334
-00:02:01,630 --> 00:02:01,670
-Too loud, too fast, if sweet can last.
+00:02:01,128 --> 00:02:01,409
+Too loud, too <u>fast,</u> just we can't last.
 
 335
-00:02:01,670 --> 00:02:01,931
-Too loud, too fast, if <u>sweet</u> can last.
+00:02:01,409 --> 00:02:01,489
+Too loud, too fast, just we can't last.
 
 336
-00:02:01,931 --> 00:02:01,971
-Too loud, too fast, if sweet can last.
+00:02:01,489 --> 00:02:01,630
+Too loud, too fast, <u>just</u> we can't last.
 
 337
-00:02:01,971 --> 00:02:02,293
-Too loud, too fast, if sweet <u>can</u> last.
+00:02:01,630 --> 00:02:01,690
+Too loud, too fast, just we can't last.
 
 338
-00:02:02,293 --> 00:02:02,695
-Too loud, too fast, if sweet can last.
+00:02:01,690 --> 00:02:01,931
+Too loud, too fast, just <u>we</u> can't last.
 
 339
+00:02:01,931 --> 00:02:01,971
+Too loud, too fast, just we can't last.
+
+340
+00:02:01,971 --> 00:02:02,293
+Too loud, too fast, just we <u>can't</u> last.
+
+341
+00:02:02,293 --> 00:02:02,695
+Too loud, too fast, just we can't last.
+
+342
 00:02:02,695 --> 00:02:03,036
-Too loud, too fast, if sweet can <u>last.</u>
+Too loud, too fast, just we can't <u>last.</u>
 

@@ -1,18 +1,54 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,{\k11}Took {\k13}the {\k7}mic {\k8}with {\k35}swagger, {\k17}shined {\k9}a {\k31}self-made {\k38}crown 
-Dialogue: 0,0:00:06.00,0:00:08.00,Default,,0,0,0,,{\k22}Claimed {\k4}he’d {\k21}drain {\k10}the {\k34}system, {\k14}tear {\k38}corruption {\k29}down 
-Dialogue: 0,0:00:08.00,0:00:58.00,Default,,0,0,0,,{\k25}But {\k16}all {\k14}we {\k17}got {\k15}were {\k100}hashtags {\k3}and {\k24}a {\k27}meme {\k10}parade 
+
+Dialogue: 0,0:00:04.34,0:00:04.37,Default,,0,0,0,,{\k0} {\k0}[{\k3}Start{\k0}]
+Dialogue: 0,0:00:04.38,0:00:06.59,Default,,0,0,0,,{\k20}Took{\k0} {\k6}the{\k0} {\k24}mic{\k0} {\k5}with{\k0} {\k29}swagger{\k0},{\k0} {\k18}shined{\k0} {\k6}a{\k0} {\k54}self{\k0}-{\k5}made{\k0} {\k34}crown
+Dialogue: 0,0:00:06.83,0:00:08.96,Default,,0,0,0,,{\k18}Claimed{\k0} {\k8}he{\k0}’{\k5}d{\k0} {\k15}drain{\k0} {\k8}the{\k0} {\k30}system{\k0},{\k0} {\k10}tear{\k0} {\k64}corruption{\k0} {\k30}down
+Dialogue: 0,0:00:09.04,0:00:11.38,Default,,0,0,0,,{\k12}But{\k0} {\k12}all{\k0} {\k12}we{\k0} {\k14}got{\k0} {\k12}were{\k0} {\k58}hashtags{\k0} {\k36}and{\k0} {\k5}a{\k0} {\k5}meme{\k0} {\k38}parade
+Dialogue: 0,0:00:11.62,0:00:13.89,Default,,0,0,0,,{\k36}Crypto{\k0} {\k12}jokes{\k0} {\k8}and{\k0} {\k56}punchlines{\k0},{\k0} {\k24}nothing{\k0} {\k24}really{\k0} {\k42}changed
+Dialogue: 0,0:00:14.07,0:00:16.19,Default,,0,0,0,,{\k16}Rode{\k0} {\k6}the{\k0} {\k14}hype{\k0} {\k12}with{\k0} {\k28}tweets{\k0} {\k20}like{\k0} {\k20}kings{\k0} {\k6}of{\k0} {\k28}clown{\k0} {\k28}town
+Dialogue: 0,0:00:16.45,0:00:19.02,Default,,0,0,0,,{\k30}Tau{\k0} {\k5}ted{\k0} {\k53}revolution{\k0},{\k0} {\k24}came{\k0} {\k26}back{\k0} {\k22}run{\k0}-{\k74}down
+Dialogue: 0,0:00:23.88,0:00:24.16,Default,,0,0,0,,{\k0}[{\k28}Chorus{\k0}]
+Dialogue: 0,0:00:24.16,0:00:25.74,Default,,0,0,0,,{\k5}Thought{\k0} {\k3}you{\k0}’{\k26}d{\k0} {\k18}fix{\k0} {\k10}the{\k0} {\k24}mess{\k0},{\k0} {\k20}save{\k0} {\k10}the{\k0} {\k26}day
+Dialogue: 0,0:00:25.76,0:00:28.08,Default,,0,0,0,,{\k16}Cut{\k0} {\k6}a{\k0} {\k46}trillion{\k0} {\k8}in{\k0} {\k26}waste{\k0},{\k0} {\k14}you{\k0} {\k26}said{\k0},{\k0} {\k52}hooray
+Dialogue: 0,0:00:28.43,0:00:30.57,Default,,0,0,0,,{\k16}But{\k0} {\k12}your{\k0} {\k26}rocket{\k0} {\k32}crashed{\k0} {\k10}on{\k0} {\k22}launch{\k0},{\k0} {\k14}so{\k0} {\k46}clich{\k0}é
+Dialogue: 0,0:00:30.85,0:00:33.02,Default,,0,0,0,,{\k24}Nine{\k0} {\k30}billion{\k0} {\k30}pennies{\k0},{\k0} {\k28}that{\k0}’{\k5}s{\k0} {\k12}all{\k0} {\k16}you{\k0} {\k50}saved
+Dialogue: 0,0:00:33.02,0:00:33.96,Default,,0,0,0,,{\k0}[{\k47}Post{\k0}-{\k47}Chorus{\k0}]
+Dialogue: 0,0:00:33.96,0:00:38.31,Default,,0,0,0,,{\k47}Hey{\k0} {\k24}you{\k0},{\k0} {\k24}so{\k0} {\k22}not{\k0} {\k60}special{\k0} {\k190}anyway
+Dialogue: 0,0:00:38.59,0:00:42.24,Default,,0,0,0,,{\k60}Hey{\k0} {\k28}you{\k0},{\k0} {\k26}just{\k0} {\k16}a{\k0} {\k30}meme{\k0} {\k10}of{\k0} {\k116}yesterday
+Dialogue: 0,0:00:42.32,0:00:43.33,Default,,0,0,0,,{\k0}[{\k96}Verse{\k0} {\k5}2{\k0}]
+Dialogue: 0,0:00:43.33,0:00:45.02,Default,,0,0,0,,{\k5}Came{\k0} {\k5}barking{\k0} {\k5}for{\k0} {\k34}Dohge{\k0},{\k0} {\k30}wild{\k0} {\k4}on{\k0} {\k6}the{\k0} {\k42}stage
+Dialogue: 0,0:00:45.24,0:00:47.43,Default,,0,0,0,,{\k30}Selling{\k0} {\k22}moon{\k0} {\k30}tickets{\k0},{\k0} {\k22}but{\k0} {\k24}just{\k0} {\k28}pocket{\k0} {\k36}change
+Dialogue: 0,0:01:21.59,0:01:26.10,Default,,0,0,0,,{\k24}Big{\k0} {\k34}suit{\k0} {\k14}and{\k0} {\k32}black{\k0} {\k10}eye{\k0},{\k0} {\k58}the{\k0} {\k60}circus{\k0},{\k0} {\k18}the{\k0} {\k86}act
+Dialogue: 0,0:01:26.31,0:01:31.40,Default,,0,0,0,,{\k58}Golden{\k0} {\k24}key{\k0} {\k22}from{\k0} {\k44}Trump{\k0},{\k0} {\k58}hollow{\k0} {\k18}as{\k0} {\k18}the{\k0} {\k168}facts
+Dialogue: 0,0:01:31.40,0:01:31.72,Default,,0,0,0,,{\k0}[{\k16}Pre{\k0}-{\k16}Chorus{\k0}]
+Dialogue: 0,0:01:31.72,0:01:34.94,Default,,0,0,0,,{\k16}Camera{\k0} {\k64}flashes{\k0},{\k0} {\k56}fake{\k0} {\k52}confetti{\k0},{\k0} {\k36}paper{\k0} {\k66}crown
+Dialogue: 0,0:01:35.00,0:01:40.09,Default,,0,0,0,,{\k146}You{\k0}’{\k5}re{\k0} {\k10}a{\k0} {\k60}punchline{\k0} {\k72}painted{\k0} {\k18}as{\k0} {\k8}a{\k0} {\k44}breakthrough{\k0} {\k92}clown
+Dialogue: 0,0:01:40.15,0:01:42.53,Default,,0,0,0,,{\k0}[{\k238}Chorus{\k0}]
+Dialogue: 0,0:01:42.53,0:01:45.62,Default,,0,0,0,,{\k5}Thought{\k0} {\k33}you{\k0}’{\k5}d{\k0} {\k24}fix{\k0} {\k10}the{\k0} {\k36}mess{\k0},{\k0} {\k30}save{\k0} {\k10}the{\k0} {\k48}day
+Dialogue: 0,0:01:47.06,0:01:50.48,Default,,0,0,0,,{\k22}Cut{\k0} {\k6}a{\k0} {\k64}trillion{\k0} {\k14}in{\k0} {\k38}waste{\k0},{\k0} {\k14}you{\k0} {\k28}said{\k0},{\k0} {\k70}hooray
+Dialogue: 0,0:01:51.89,0:01:55.93,Default,,0,0,0,,{\k16}But{\k0} {\k20}your{\k0} {\k54}rocket{\k0} {\k32}crashed{\k0} {\k8}on{\k0} {\k52}launch{\k0},{\k0} {\k26}so{\k0} {\k136}clich{\k0}é
+Dialogue: 0,0:01:56.25,0:02:00.48,Default,,0,0,0,,{\k36}Nine{\k0} {\k52}billion{\k0} {\k56}pennies{\k0},{\k0} {\k56}that{\k0}’{\k5}s{\k0} {\k18}all{\k0} {\k38}you{\k0} {\k102}saved
+Dialogue: 0,0:02:00.48,0:02:00.58,Default,,0,0,0,,{\k0}[{\k5}Post{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:02:00.58,0:02:05.51,Default,,0,0,0,,{\k5}Hey{\k0} {\k64}you{\k0},{\k0} {\k20}so{\k0} {\k18}not{\k0} {\k72}special{\k0} {\k154}anyway
+Dialogue: 0,0:02:05.53,0:02:11.86,Default,,0,0,0,,{\k6}Hey{\k0} {\k164}you{\k0},{\k0} {\k22}just{\k0} {\k20}a{\k0} {\k36}meme{\k0} {\k18}of{\k0} {\k273}yesterday{\k0} {\k3}Big{\k0} {\k3}suit{\k0} {\k3}and{\k0} {\k3}black{\k0} {\k3}eye{\k0},{\k0} {\k3}the{\k0} {\k3}circus{\k0},{\k0} {\k3}the{\k0} {\k3}act
+Dialogue: 0,0:02:11.88,0:02:12.26,Default,,0,0,0,,{\k3}Golden{\k0} {\k3}key{\k0} {\k3}from{\k0} {\k3}Trump{\k0},{\k0} {\k3}hollow{\k0} {\k3}as{\k0} {\k3}the{\k0} {\k3}facts
+Dialogue: 0,0:02:12.28,0:02:12.36,Default,,0,0,0,,{\k0}[{\k3}Pre{\k0}-{\k3}Chorus{\k0}]
+Dialogue: 0,0:02:12.38,0:02:12.66,Default,,0,0,0,,{\k3}Camera{\k0} {\k3}flashes{\k0},{\k0} {\k3}fake{\k0} {\k3}confetti{\k0},{\k0} {\k3}paper{\k0} {\k3}crown
+Dialogue: 0,0:02:12.68,0:02:13.11,Default,,0,0,0,,{\k3}You{\k0}’{\k3}re{\k0} {\k3}a{\k0} {\k3}punchline{\k0} {\k3}painted{\k0} {\k3}as{\k0} {\k3}a{\k0} {\k3}breakthrough{\k0} {\k3}clown
+Dialogue: 0,0:02:13.13,0:02:13.16,Default,,0,0,0,,{\k0}[{\k3}Chorus{\k0}]
+Dialogue: 0,0:02:13.18,0:02:13.61,Default,,0,0,0,,{\k3}Thought{\k0} {\k3}you{\k0}’{\k3}d{\k0} {\k3}fix{\k0} {\k3}the{\k0} {\k3}mess{\k0},{\k0} {\k3}save{\k0} {\k3}the{\k0} {\k3}day
+Dialogue: 0,0:02:13.63,0:02:14.01,Default,,0,0,0,,{\k3}Cut{\k0} {\k3}a{\k0} {\k3}trillion{\k0} {\k3}in{\k0} {\k3}waste{\k0},{\k0} {\k3}you{\k0} {\k3}said{\k0},{\k0} {\k3}hooray
+Dialogue: 0,0:02:14.03,0:02:14.41,Default,,0,0,0,,{\k3}But{\k0} {\k3}your{\k0} {\k3}rocket{\k0} {\k3}crashed{\k0} {\k3}on{\k0} {\k3}launch{\k0},{\k0} {\k3}so{\k0} {\k3}clich{\k0}é
+Dialogue: 0,0:02:14.43,0:02:14.81,Default,,0,0,0,,{\k3}Nine{\k0} {\k3}billion{\k0} {\k3}pennies{\k0},{\k0} {\k3}that{\k0}’{\k3}s{\k0} {\k3}all{\k0} {\k3}you{\k0} {\k3}sprayed
+Dialogue: 0,0:02:14.83,0:02:14.91,Default,,0,0,0,,{\k0}[{\k3}Post{\k0}-{\k3}Chorus{\k0}]
+Dialogue: 0,0:02:14.93,0:02:15.21,Default,,0,0,0,,{\k3}Hey{\k0} {\k3}you{\k0},{\k0} {\k3}so{\k0} {\k3}not{\k0} {\k3}special{\k0} {\k3}anyway
+Dialogue: 0,0:02:15.23,0:02:15.56,Default,,0,0,0,,{\k3}Hey{\k0} {\k3}you{\k0},{\k0} {\k3}just{\k0} {\k3}a{\k0} {\k3}meme{\k0} {\k3}of{\k0} {\k3}yesterday

@@ -1,20 +1,39 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.49,0:01:01.72,Default,,0,0,0,,Oh oh oh\\NDown we go
-Dialogue: 0,0:00:02.49,0:01:19.35,Default,,0,0,0,,Tariffs slammed my savings to the floor\\NPundits laugh as my balance reads poor\\NBudget dreams, yeah they’re shown the door\\NSpending less just isn’t punk anymore
-Dialogue: 0,0:00:02.49,0:01:38.94,Default,,0,0,0,,We planned, we saved, we barely got by\\NNow they tax and blame a foreign supply\\NChasing dollars that just flutter and die\\NBut we’re too broke to even ask why
-Dialogue: 0,0:00:02.49,0:00:53.04,Default,,0,0,0,,Digging deep in my 401K hole\\NNumbers slip and my future gets sold\\NInflation\'s biting right through my soul\\NCan I retire still feeling whole
-Dialogue: 0,0:00:02.49,0:01:01.72,Default,,0,0,0,,Oh oh oh\\NDown we go
+
+Dialogue: 0,0:00:00.03,0:00:03.52,Default,,0,0,0,,{\k84}Ripped{\k0}-{\k6}up{\k0} {\k86}statements{\k0} {\k44}stack{\k0} {\k8}on{\k0} {\k18}my{\k0} {\k46}floor
+Dialogue: 0,0:00:04.94,0:00:07.34,Default,,0,0,0,,{\k102}Calculators{\k0} {\k30}cracked{\k0} {\k44}since{\k0} {\k44}'94
+Dialogue: 0,0:00:09.32,0:00:12.21,Default,,0,0,0,,{\k28}Boss{\k0} {\k26}said{\k0} {\k48}save{\k0} {\k26}but{\k0} {\k10}I{\k0} {\k30}needed{\k0} {\k38}more
+Dialogue: 0,0:00:13.71,0:00:16.73,Default,,0,0,0,,{\k48}Broken{\k0} {\k54}system{\k0} {\k48}kicking{\k0} {\k48}down{\k0} {\k16}the{\k0} {\k46}door
+Dialogue: 0,0:00:16.77,0:00:21.08,Default,,0,0,0,,{\k186}Empty{\k0} {\k50}pockets{\k0} {\k12}and{\k0} {\k14}they{\k0} {\k48}still{\k0} {\k38}want{\k0} {\k40}more
+Dialogue: 0,0:00:21.14,0:00:25.90,Default,,0,0,0,,{\k186}Panic{\k0} {\k64}scrolling{\k0} {\k30}every{\k0} {\k76}market{\k0} {\k86}score
+Dialogue: 0,0:00:26.83,0:00:29.91,Default,,0,0,0,,{\k58}Grinding{\k0} {\k24}teeth{\k0} {\k12}at{\k0} {\k130}politicians{\k0}’{\k0} {\k44}lore
+Dialogue: 0,0:00:31.32,0:00:34.36,Default,,0,0,0,,{\k42}Crashing{\k0} {\k58}dreams{\k0} {\k30}that{\k0} {\k6}I{\k0} {\k50}can{\k0}’{\k5}t{\k0} {\k62}ignore
+Dialogue: 0,0:00:34.42,0:00:40.31,Default,,0,0,0,,{\k321}Digging{\k0} {\k28}deep{\k0} {\k10}in{\k0} {\k14}my{\k0} {\k114}401K{\k0} {\k44}hole
+Dialogue: 0,0:00:40.35,0:00:44.42,Default,,0,0,0,,{\k138}Numbers{\k0} {\k36}slip{\k0} {\k10}and{\k0} {\k16}my{\k0} {\k50}future{\k0} {\k22}gets{\k0} {\k52}sold
+Dialogue: 0,0:00:44.44,0:00:49.09,Default,,0,0,0,,{\k230}Inflation's{\k0} {\k42}biting{\k0} {\k24}right{\k0} {\k26}through{\k0} {\k18}my{\k0} {\k88}soul
+Dialogue: 0,0:00:50.22,0:00:53.04,Default,,0,0,0,,{\k42}Can{\k0} {\k18}I{\k0} {\k64}retire{\k0} {\k30}still{\k0} {\k46}feeling{\k0} {\k54}whole
+Dialogue: 0,0:00:53.04,0:00:55.84,Default,,0,0,0,,{\k5}Oh{\k0} {\k14}oh{\k0} {\k102}oh
+Dialogue: 0,0:00:56.97,0:00:59.79,Default,,0,0,0,,{\k60}Down{\k0} {\k28}we{\k0} {\k20}go
+Dialogue: 0,0:01:02.95,0:01:05.100,Default,,0,0,0,,{\k54}Tariffs{\k0} {\k34}slammed{\k0} {\k18}my{\k0} {\k76}savings{\k0} {\k26}to{\k0} {\k14}the{\k0} {\k48}floor
+Dialogue: 0,0:01:07.46,0:01:10.46,Default,,0,0,0,,{\k38}Pundits{\k0} {\k32}laugh{\k0} {\k14}as{\k0} {\k18}my{\k0} {\k46}balance{\k0} {\k24}reads{\k0} {\k46}poor
+Dialogue: 0,0:01:11.94,0:01:14.79,Default,,0,0,0,,{\k26}Budget{\k0} {\k60}dreams{\k0},{\k0} {\k32}yeah{\k0} {\k40}they{\k0}’{\k5}re{\k0} {\k34}shown{\k0} {\k14}the{\k0} {\k44}door
+Dialogue: 0,0:01:16.21,0:01:19.53,Default,,0,0,0,,{\k48}Spending{\k0} {\k28}less{\k0} {\k28}just{\k0} {\k30}isn{\k0}’{\k5}t{\k0} {\k44}punk{\k0} {\k112}anymore
+Dialogue: 0,0:01:23.02,0:01:25.81,Default,,0,0,0,,{\k28}We{\k0} {\k36}planned{\k0},{\k0} {\k16}we{\k0} {\k32}saved{\k0},{\k0} {\k14}we{\k0} {\k48}barely{\k0} {\k22}got{\k0} {\k46}by
+Dialogue: 0,0:01:25.85,0:01:30.19,Default,,0,0,0,,{\k158}Now{\k0} {\k20}they{\k0} {\k30}tax{\k0} {\k10}and{\k0} {\k32}blame{\k0} {\k6}a{\k0} {\k56}foreign{\k0} {\k68}supply
+Dialogue: 0,0:01:30.21,0:01:34.56,Default,,0,0,0,,{\k186}Chasing{\k0} {\k50}dollars{\k0} {\k24}that{\k0} {\k16}just{\k0} {\k56}flutter{\k0} {\k10}and{\k0} {\k48}die
+Dialogue: 0,0:01:36.26,0:01:38.94,Default,,0,0,0,,{\k18}But{\k0} {\k22}we{\k0}’{\k5}re{\k0} {\k21}too{\k0} {\k28}broke{\k0} {\k12}to{\k0} {\k42}even{\k0} {\k18}ask{\k0} {\k46}why
+Dialogue: 0,0:01:38.98,0:01:48.22,Default,,0,0,0,,{\k653}Digging{\k0} {\k32}deep{\k0} {\k16}in{\k0} {\k18}my{\k0} {\k110}401K{\k0} {\k44}hole
+Dialogue: 0,0:01:49.34,0:01:52.84,Default,,0,0,0,,{\k46}Numbers{\k0} {\k34}slip{\k0} {\k14}and{\k0} {\k18}my{\k0} {\k30}future{\k0} {\k22}gets{\k0} {\k104}sold
+Dialogue: 0,0:01:53.53,0:01:56.54,Default,,0,0,0,,{\k52}Inflation's{\k0} {\k54}biting{\k0} {\k48}right{\k0} {\k26}through{\k0} {\k16}my{\k0} {\k50}soul
+Dialogue: 0,0:01:56.56,0:02:00.75,Default,,0,0,0,,{\k183}Can{\k0} {\k10}I{\k0} {\k68}retire{\k0} {\k30}still{\k0} {\k46}feeling{\k0} {\k42}whole
+Dialogue: 0,0:02:00.77,0:02:05.36,Default,,0,0,0,,{\k6}Oh{\k0} {\k12}oh{\k0} {\k52}oh
+Dialogue: 0,0:02:05.46,0:02:10.21,Default,,0,0,0,,{\k205}Down{\k0} {\k261}we{\k0} {\k5}go

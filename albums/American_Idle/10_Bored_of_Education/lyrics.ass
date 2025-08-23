@@ -1,16 +1,52 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.97,0:01:32.18,Default,,0,0,0,,[Verse 2]\\NTV screens blast mindless shows\\NSocial media feeds the flame\\NFools get famous overnight\\NWhile libraries collect the dust
+
+Dialogue: 0,0:00:01.47,0:00:01.79,Default,,0,0,0,,{\k0}[{\k32}Start{\k0}]
+Dialogue: 0,0:00:01.79,0:00:02.05,Default,,0,0,0,,{\k0}[{\k5}Guitar{\k0} {\k21}Intro{\k0}]
+Dialogue: 0,0:00:02.07,0:00:02.52,Default,,0,0,0,,{\k0}({\k8}Palm{\k0}-{\k5}muted{\k0} {\k5}power{\k0} {\k1}chords{\k0},{\k0} {\k14}fast{\k0} {\k5}and{\k0} {\k5}catchy{\k0})
+Dialogue: 0,0:00:02.52,0:00:05.08,Default,,0,0,0,,{\k0}[{\k251}Verse{\k0} {\k5}1{\k0}]
+Dialogue: 0,0:00:12.86,0:00:15.74,Default,,0,0,0,,{\k82}Marching{\k0} {\k32}to{\k0} {\k38}the{\k0} {\k56}lowest{\k0} {\k52}bar
+Dialogue: 0,0:00:16.20,0:00:18.94,Default,,0,0,0,,{\k72}Thinking{\k0} {\k40}less{\k0} {\k32}gets{\k0} {\k16}you{\k0} {\k50}far
+Dialogue: 0,0:00:19.38,0:00:22.15,Default,,0,0,0,,{\k80}Logic's{\k0} {\k32}left{\k0} {\k76}behind{\k0} {\k8}the{\k0} {\k54}trend
+Dialogue: 0,0:00:22.37,0:00:24.49,Default,,0,0,0,,{\k58}Idiots{\k0} {\k20}get{\k0} {\k12}to{\k0} {\k36}set{\k0} {\k20}the{\k0} {\k22}end
+Dialogue: 0,0:00:25.71,0:00:26.40,Default,,0,0,0,,{\k0}[{\k64}Pre{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:26.40,0:00:28.63,Default,,0,0,0,,{\k57}Reason{\k0} {\k5}drowned{\k0} {\k36}by{\k0} {\k42}empty{\k0} {\k58}noise
+Dialogue: 0,0:00:29.03,0:00:31.88,Default,,0,0,0,,{\k56}Common{\k0} {\k46}sense{\k0} {\k72}replaced{\k0} {\k20}by{\k0} {\k58}ploys
+Dialogue: 0,0:00:32.20,0:00:35.10,Default,,0,0,0,,{\k56}Blindly{\k0} {\k48}led{\k0} {\k36}by{\k0} {\k52}liars{\k0} {\k62}bold
+Dialogue: 0,0:00:35.44,0:00:38.30,Default,,0,0,0,,{\k28}Truth{\k0} {\k30}gets{\k0} {\k58}bought{\k0} {\k12}and{\k0} {\k56}cheaply{\k0} {\k56}sold
+Dialogue: 0,0:00:38.30,0:00:38.54,Default,,0,0,0,,{\k0}[{\k8}Thought{\k0}-{\k8}Provoking{\k0} {\k8}Tag{\k0}]
+Dialogue: 0,0:00:38.54,0:00:41.33,Default,,0,0,0,,{\k8}If{\k0} {\k62}knowledge{\k0} {\k18}is{\k0} {\k4}a{\k0} {\k124}crime
+Dialogue: 0,0:00:41.33,0:00:44.87,Default,,0,0,0,,{\k44}Then{\k0} {\k34}what{\k0}’{\k5}s{\k0} {\k26}the{\k0} {\k38}price{\k0} {\k14}we{\k0} {\k74}pay{\k0}?[{\k65}Chorus{\k0}]
+Dialogue: 0,0:00:45.11,0:00:47.96,Default,,0,0,0,,{\k56}Dumbing{\k0} {\k52}down{\k0} {\k40}is{\k0} {\k52}trending{\k0} {\k60}now
+Dialogue: 0,0:00:48.46,0:00:51.16,Default,,0,0,0,,{\k108}Ignorance{\k0} {\k16}is{\k0} {\k28}bliss{\k0} {\k24}they{\k0} {\k58}say
+Dialogue: 0,0:00:51.60,0:00:54.37,Default,,0,0,0,,{\k114}Critical{\k0} {\k18}thought{\k0} {\k32}thrown{\k0} {\k72}away
+Dialogue: 0,0:00:54.79,0:00:57.57,Default,,0,0,0,,{\k60}Standing{\k0} {\k60}proud{\k0} {\k20}to{\k0} {\k26}be{\k0} {\k82}clich{\k0}é
+Dialogue: 0,0:00:57.57,0:00:57.67,Default,,0,0,0,,{\k0}[{\k5}Post{\k0}-{\k5}Chorus{\k0}]
+Dialogue: 0,0:00:57.67,0:01:01.96,Default,,0,0,0,,{\k277}Hey{\k0}!{\k0} {\k42}Hey{\k0}!{\k0} {\k5}Stupid's{\k0} {\k12}all{\k0} {\k10}the{\k0} {\k58}rage{\k0}!
+Dialogue: 0,0:01:04.68,0:01:08.85,Default,,0,0,0,,{\k44}Hey{\k0}!{\k0} {\k40}Hey{\k0}!{\k0} {\k36}Turn{\k0} {\k12}another{\k0} {\k78}page{\k0}!
+Dialogue: 0,0:01:12.41,0:01:17.30,Default,,0,0,0,,{\k0}[{\k67}Verse{\k0} {\k55}2{\k0}]
+Dialogue: 0,0:01:21.08,0:01:23.97,Default,,0,0,0,,{\k44}TV{\k0} {\k42}screens{\k0} {\k32}blast{\k0} {\k56}mindless{\k0} {\k58}shows
+Dialogue: 0,0:01:24.37,0:01:27.11,Default,,0,0,0,,{\k74}Social{\k0} {\k74}media{\k0} {\k22}feeds{\k0} {\k10}the{\k0} {\k56}flame
+Dialogue: 0,0:01:27.17,0:01:30.27,Default,,0,0,0,,{\k80}Fools{\k0} {\k26}get{\k0} {\k80}famous{\k0} {\k76}overnight
+Dialogue: 0,0:01:30.37,0:01:32.66,Default,,0,0,0,,{\k32}While{\k0} {\k56}libraries{\k0} {\k52}collect{\k0} {\k14}the{\k0} {\k42}dust
+Dialogue: 0,0:01:34.12,0:01:35.32,Default,,0,0,0,,{\k0}[{\k8}Pre{\k0}-{\k106}Chorus{\k0}]
+Dialogue: 0,0:01:35.32,0:01:36.94,Default,,0,0,0,,{\k5}Information{\k0} {\k8}at{\k0} {\k8}our{\k0} {\k122}fingertips
+Dialogue: 0,0:01:37.38,0:01:40.61,Default,,0,0,0,,{\k34}We{\k0} {\k36}choose{\k0} {\k30}to{\k0} {\k48}stay{\k0} {\k10}in{\k0} {\k20}the{\k0} {\k106}dark
+Dialogue: 0,0:01:40.63,0:01:43.43,Default,,0,0,0,,{\k124}Celebrating{\k0} {\k150}mediocrity
+Dialogue: 0,0:01:43.81,0:01:45.33,Default,,0,0,0,,{\k12}It's{\k0} {\k58}tearing{\k0} {\k20}us{\k0} {\k10}apart
+Dialogue: 0,0:01:45.37,0:01:46.41,Default,,0,0,0,,{\k0}[{\k104}Chorus{\k0}]
+Dialogue: 0,0:01:47.09,0:01:50.01,Default,,0,0,0,,{\k60}Dumbing{\k0} {\k52}down{\k0} {\k44}is{\k0} {\k56}trending{\k0} {\k58}now
+Dialogue: 0,0:01:50.55,0:01:53.25,Default,,0,0,0,,{\k106}Ignorance{\k0} {\k20}is{\k0} {\k30}bliss{\k0} {\k24}they{\k0} {\k56}say
+Dialogue: 0,0:01:53.72,0:01:56.46,Default,,0,0,0,,{\k116}Critical{\k0} {\k34}thought{\k0} {\k32}thrown{\k0} {\k50}away
+Dialogue: 0,0:01:56.80,0:01:59.08,Default,,0,0,0,,{\k72}Standing{\k0} {\k52}proud{\k0} {\k36}to{\k0} {\k26}be{\k0} {\k20}clich{\k0}é
+Dialogue: 0,0:01:59.08,0:01:59.72,Default,,0,0,0,,{\k0}[{\k5}Post{\k0}-{\k56}Chorus{\k0}]
+Dialogue: 0,0:01:59.72,0:02:04.17,Default,,0,0,0,,{\k5}Hey{\k0}!{\k0} {\k240}Hey{\k0}!{\k0} {\k46}Stupid's{\k0} {\k18}all{\k0} {\k10}the{\k0} {\k58}rage{\k0}!
+Dialogue: 0,0:02:04.19,0:02:11.00,Default,,0,0,0,,{\k8}Hey{\k0}!{\k0} {\k22}Hey{\k0}!{\k0} {\k36}Turn{\k0} {\k14}another{\k0} {\k72}page{\k0}!

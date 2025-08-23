@@ -1,17 +1,55 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.65,0:00:45.21,Default,,0,0,0,,[Verse 1]\\NIt’s Friday night, they’re out in packs\\NMatching skirts and verbal attacks\\NShots lined up like a firing squad\\NScreamin’ \"Woooo!\" like it’s a gift from God
-Dialogue: 0,0:00:20.65,0:00:49.72,Default,,0,0,0,,Selfie sticks and broken heels\\NTwerking to songs they don’t even feel\\NHair extensions, vocal fry\\N\"Woooo!\" echoes like a battle cry
+
+Dialogue: 0,0:00:00.00,0:00:01.71,Default,,0,0,0,,{\k5}It{\k0}’{\k5}s{\k0} {\k43}Friday{\k0} {\k18}night{\k0},{\k0} {\k46}they{\k0}’{\k5}re{\k0} {\k5}out{\k0} {\k5}in{\k0} {\k29}packs
+Dialogue: 0,0:00:01.97,0:00:03.73,Default,,0,0,0,,{\k40}Matching{\k0} {\k30}skirts{\k0} {\k10}and{\k0} {\k30}verbal{\k0} {\k40}attacks
+Dialogue: 0,0:00:03.92,0:00:05.62,Default,,0,0,0,,{\k26}Shots{\k0} {\k22}lined{\k0} {\k10}up{\k0} {\k14}like{\k0} {\k4}a{\k0} {\k40}firing{\k0} {\k28}squad
+Dialogue: 0,0:00:05.64,0:00:07.62,Default,,0,0,0,,{\k24}Screamin{\k0}’{\k0} {\k0}"{\k20}Woooo{\k0}!"{\k0} {\k16}like{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k4}a{\k0} {\k22}gift{\k0} {\k20}from{\k0} {\k30}God
+Dialogue: 0,0:00:07.78,0:00:09.50,Default,,0,0,0,,{\k42}Selfie{\k0} {\k30}sticks{\k0} {\k10}and{\k0} {\k40}broken{\k0} {\k30}heels
+Dialogue: 0,0:00:09.72,0:00:11.43,Default,,0,0,0,,{\k36}Twerking{\k0} {\k8}to{\k0} {\k24}songs{\k0} {\k10}they{\k0} {\k14}don{\k0}’{\k5}t{\k0} {\k22}even{\k0} {\k32}feel
+Dialogue: 0,0:00:11.69,0:00:13.39,Default,,0,0,0,,{\k40}Hair{\k0} {\k50}extensions{\k0},{\k0} {\k34}vocal{\k0} {\k36}fry
+Dialogue: 0,0:00:13.46,0:00:15.35,Default,,0,0,0,,{\k0}"{\k29}Woooo{\k0}!"{\k0} {\k22}echoes{\k0} {\k18}like{\k0} {\k10}a{\k0} {\k34}battle{\k0} {\k40}cry
+Dialogue: 0,0:00:15.77,0:00:17.35,Default,,0,0,0,,{\k22}Wooo{\k0} {\k44}girls{\k0},{\k0} {\k22}break{\k0} {\k14}the{\k0} {\k34}sound
+Dialogue: 0,0:00:17.75,0:00:19.19,Default,,0,0,0,,{\k20}Every{\k0} {\k12}bar{\k0} {\k32}becomes{\k0} {\k70}battleground
+Dialogue: 0,0:00:19.66,0:00:21.08,Default,,0,0,0,,{\k14}Raise{\k0} {\k8}a{\k0} {\k24}glass{\k0},{\k0} {\k10}then{\k0} {\k18}raise{\k0} {\k12}your{\k0} {\k18}pitch
+Dialogue: 0,0:00:21.14,0:00:23.12,Default,,0,0,0,,{\k60}Every{\k0} {\k0}“{\k18}Wooo{\k0}!”{\k0} {\k18}another{\k0} {\k90}glitch
+Dialogue: 0,0:00:23.45,0:00:25.18,Default,,0,0,0,,{\k18}In{\k0} {\k6}the{\k0} {\k46}matrix{\k0} {\k12}of{\k0} {\k20}your{\k0} {\k42}brain
+Dialogue: 0,0:00:25.24,0:00:26.98,Default,,0,0,0,,{\k70}Decibels{\k0} {\k10}of{\k0} {\k22}drunk{\k0} {\k56}disdain
+Dialogue: 0,0:00:27.48,0:00:28.85,Default,,0,0,0,,{\k12}Wooo{\k0} {\k44}girls{\k0} {\k0}—{\k0} {\k22}scream{\k0} {\k10}for{\k0} {\k26}fame
+Dialogue: 0,0:00:28.87,0:00:30.83,Default,,0,0,0,,{\k14}But{\k0} {\k12}no{\k0} {\k8}one{\k0} {\k16}here{\k0} {\k54}remembers{\k0} {\k18}your{\k0} {\k34}name
+Dialogue: 0,0:00:31.19,0:00:32.76,Default,,0,0,0,,{\k14}One{\k0} {\k18}just{\k0} {\k28}cried{\k0},{\k0} {\k16}no{\k0} {\k6}one{\k0} {\k20}knows{\k0} {\k26}why
+Dialogue: 0,0:00:32.80,0:00:34.78,Default,,0,0,0,,{\k56}Another{\k0}’{\k5}s{\k0} {\k21}making{\k0} {\k10}out{\k0} {\k12}with{\k0} {\k12}some{\k0} {\k34}finance{\k0} {\k28}guy
+Dialogue: 0,0:00:34.94,0:00:36.81,Default,,0,0,0,,{\k12}They{\k0} {\k20}laugh{\k0} {\k8}at{\k0} {\k22}memes{\k0} {\k10}from{\k0} {\k28}2012
+Dialogue: 0,0:00:36.95,0:00:38.75,Default,,0,0,0,,{\k10}And{\k0} {\k28}call{\k0} {\k5}it{\k0} {\k0}"{\k31}slay{\k0}"{\k0} {\k0}—{\k0} {\k18}just{\k0} {\k24}kill{\k0} {\k18}me{\k0} {\k24}now
+Dialogue: 0,0:00:38.97,0:00:41.06,Default,,0,0,0,,{\k26}Shots{\k0} {\k18}for{\k0} {\k24}brunch{\k0},{\k0} {\k12}and{\k0} {\k22}brunch{\k0} {\k14}for{\k0} {\k70}clout
+Dialogue: 0,0:00:41.06,0:00:42.84,Default,,0,0,0,,{\k0}"{\k60}Woooo{\k0}!"{\k0} {\k5}for{\k0} {\k5}eggs{\k0},{\k0} {\k12}now{\k0} {\k22}scream{\k0} {\k8}and{\k0} {\k54}shout
+Dialogue: 0,0:00:42.86,0:00:44.68,Default,,0,0,0,,{\k42}Birthday{\k0} {\k46}sashes{\k0},{\k0} {\k32}glitter{\k0} {\k48}bombs
+Dialogue: 0,0:00:44.70,0:00:47.17,Default,,0,0,0,,{\k56}Mimosas{\k0} {\k20}mixed{\k0} {\k14}with{\k0} {\k82}vocal{\k0} {\k26}bombs
+Dialogue: 0,0:00:47.17,0:00:48.49,Default,,0,0,0,,{\k5}Wooo{\k0} {\k43}girls{\k0},{\k0} {\k20}break{\k0} {\k12}the{\k0} {\k36}sound
+Dialogue: 0,0:00:48.87,0:00:50.31,Default,,0,0,0,,{\k20}Every{\k0} {\k20}bar{\k0} {\k22}becomes{\k0} {\k70}battleground
+Dialogue: 0,0:00:50.79,0:00:52.23,Default,,0,0,0,,{\k14}Raise{\k0} {\k4}a{\k0} {\k22}glass{\k0},{\k0} {\k12}then{\k0} {\k18}raise{\k0} {\k12}your{\k0} {\k34}pitch
+Dialogue: 0,0:00:52.26,0:00:53.68,Default,,0,0,0,,{\k22}Every{\k0} {\k0}“{\k27}Wooo{\k0}!”{\k0} {\k32}another{\k0} {\k34}glitch
+Dialogue: 0,0:00:54.70,0:00:56.14,Default,,0,0,0,,{\k8}In{\k0} {\k6}the{\k0} {\k52}logic{\k0} {\k12}of{\k0} {\k18}the{\k0} {\k26}night
+Dialogue: 0,0:00:56.50,0:00:58.10,Default,,0,0,0,,{\k28}Every{\k0} {\k22}cheer{\k0} {\k18}just{\k0} {\k22}kills{\k0} {\k14}the{\k0} {\k34}vibe
+Dialogue: 0,0:00:58.48,0:01:00.09,Default,,0,0,0,,{\k26}Wooo{\k0} {\k48}girls{\k0} {\k0}—{\k0} {\k24}dance{\k0} {\k8}and{\k0} {\k32}scream
+Dialogue: 0,0:01:00.13,0:01:03.65,Default,,0,0,0,,{\k14}Like{\k0} {\k84}chaos{\k0} {\k18}in{\k0} {\k14}a{\k0} {\k40}Forever{\k0} {\k30}21{\k0} {\k84}dream
+Dialogue: 0,0:01:04.17,0:01:05.25,Default,,0,0,0,,{\k0}“{\k28}Woooo{\k0} {\k12}for{\k0} {\k4}my{\k0} {\k58}ex{\k0}!”
+Dialogue: 0,0:01:05.27,0:01:07.54,Default,,0,0,0,,{\k0}“{\k18}Woooo{\k0} {\k4}for{\k0} {\k20}my{\k0} {\k62}shoes{\k0}!”
+Dialogue: 0,0:01:07.56,0:01:10.58,Default,,0,0,0,,{\k0}“{\k24}Woooo{\k0} {\k12}for{\k0} {\k5}that{\k0} {\k10}guy{\k0} {\k6}that{\k0} {\k16}just{\k0} {\k26}texted{\k0} {\k14}me{\k0} {\k0}‘{\k44}sup{\k0}’{\k0} {\k12}at{\k0} {\k62}2am{\k0}!”
+Dialogue: 0,0:01:10.76,0:01:11.84,Default,,0,0,0,,{\k0}“{\k12}WOOOO{\k0} {\k24}for{\k0} {\k10}no{\k0} {\k16}reason{\k0}!”
+Dialogue: 0,0:01:11.86,0:01:14.08,Default,,0,0,0,,{\k24}Wooo{\k0} {\k42}girls{\k0},{\k0} {\k28}queens{\k0} {\k10}of{\k0} {\k94}cringe
+Dialogue: 0,0:01:14.08,0:01:15.44,Default,,0,0,0,,{\k7}Every{\k0} {\k0}“{\k7}Wooo{\k0}!”{\k0} {\k7}makes{\k0} {\k16}my{\k0} {\k40}eardrums{\k0} {\k38}singe
+Dialogue: 0,0:01:15.75,0:01:17.35,Default,,0,0,0,,{\k28}Bar{\k0} {\k12}tabs{\k0} {\k12}long{\k0},{\k0} {\k50}attention{\k0} {\k34}short
+Dialogue: 0,0:01:17.83,0:01:19.37,Default,,0,0,0,,{\k14}A{\k0} {\k24}riot{\k0} {\k4}in{\k0} {\k4}a{\k0} {\k50}Juul{\k0} {\k5}cloud{\k0} {\k33}court
+Dialogue: 0,0:01:19.75,0:01:21.67,Default,,0,0,0,,{\k24}Wooo{\k0} {\k42}girls{\k0} {\k0}—{\k0} {\k18}go{\k0} {\k22}full{\k0} {\k68}send
+Dialogue: 0,0:01:21.69,0:01:23.41,Default,,0,0,0,,{\k14}'Til{\k0} {\k10}the{\k0} {\k46}hangover{\k0} {\k20}makes{\k0} {\k60}amends
+Dialogue: 0,0:01:23.43,0:01:25.14,Default,,0,0,0,,{\k26}Wooo{\k0} {\k34}girls{\k0} {\k0}—{\k0} {\k16}you{\k0} {\k24}rule{\k0} {\k12}the{\k0} {\k28}scene
+Dialogue: 0,0:01:25.30,0:01:28.14,Default,,0,0,0,,{\k16}With{\k0} {\k4}a{\k0} {\k38}scream{\k0} {\k18}that{\k0} {\k22}haunts{\k0} {\k18}my{\k0} {\k50}punk{\k0} {\k5}rock{\k0} {\k79}dreams

@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:49.68,0:00:49.76,Default,,0,0,0,,{\k0}[{\k3}Verse{\k0} {\k3}1{\k0}]
+Dialogue: 0,0:00:49.78,0:00:52.52,Default,,0,0,0,,{\k14}I{\k0} {\k22}said{\k0} {\k0}“{\k18}gay{\k0}”{\k0} {\k6}in{\k0} {\k2}a{\k0} {\k38}song{\k0} {\k0}—{\k0} {\k24}now{\k0} {\k12}I{\k0}’{\k5}m{\k0} {\k10}a{\k0} {\k54}criminal
+Dialogue: 0,0:00:52.58,0:00:54.74,Default,,0,0,0,,{\k16}Tried{\k0} {\k6}to{\k0} {\k16}teach{\k0} {\k12}some{\k0} {\k54}history{\k0} {\k0}—{\k0} {\k22}now{\k0} {\k8}I{\k0}’{\k5}m{\k0} {\k49}political
+Dialogue: 0,0:00:54.80,0:00:57.02,Default,,0,0,0,,{\k12}They{\k0} {\k24}banned{\k0} {\k18}my{\k0} {\k30}books{\k0},{\k0} {\k26}burned{\k0} {\k22}my{\k0} {\k32}words
+Dialogue: 0,0:00:57.29,0:00:59.41,Default,,0,0,0,,{\k24}Guess{\k0} {\k22}free{\k0} {\k44}speech{\k0} {\k6}is{\k0} {\k24}just{\k0} {\k18}for{\k0} {\k34}birds
+Dialogue: 0,0:00:59.65,0:01:01.67,Default,,0,0,0,,{\k20}Tried{\k0} {\k4}to{\k0} {\k16}play{\k0} {\k2}a{\k0} {\k24}show{\k0} {\k8}in{\k0} {\k52}Tampa{\k0} {\k24}Bay
+Dialogue: 0,0:01:01.73,0:01:04.07,Default,,0,0,0,,{\k10}But{\k0} {\k12}the{\k0} {\k54}venue{\k0} {\k52}vanished{\k0} {\k88}yesterday
+Dialogue: 0,0:01:04.19,0:01:06.44,Default,,0,0,0,,{\k16}No{\k0} {\k54}dancing{\k0} {\k24}here{\k0},{\k0} {\k28}no{\k0} {\k28}drag{\k0},{\k0} {\k18}no{\k0} {\k28}fun
+Dialogue: 0,0:01:06.61,0:01:08.92,Default,,0,0,0,,{\k14}Your{\k0} {\k0}“{\k42}freedom{\k0} {\k24}state{\k0}”{\k0} {\k24}just{\k0} {\k28}pulled{\k0} {\k10}a{\k0} {\k40}gun
+Dialogue: 0,0:01:11.72,0:01:11.96,Default,,0,0,0,,{\k0}[{\k24}Chorus{\k0}]
+Dialogue: 0,0:01:11.96,0:01:12.26,Default,,0,0,0,,{\k0}🎶{\k0} {\k5}This{\k0} {\k5}song{\k0} {\k5}is{\k0} {\k5}banned{\k0} {\k5}in{\k0} {\k5}Florida{\k0}!
+Dialogue: 0,0:01:12.26,0:01:14.02,Default,,0,0,0,,{\k5}Can{\k0}’{\k5}t{\k0} {\k5}play{\k0} {\k5}it{\k0} {\k5}in{\k0} {\k5}the{\k0} {\k86}panhandle{\k0} {\k18}no{\k0} {\k26}more
+Dialogue: 0,0:01:14.04,0:01:16.41,Default,,0,0,0,,{\k26}Too{\k0} {\k30}loud{\k0},{\k0} {\k18}too{\k0} {\k32}proud{\k0},{\k0} {\k10}too{\k0} {\k26}real{\k0} {\k16}to{\k0} {\k42}ignore
+Dialogue: 0,0:01:16.42,0:01:19.23,Default,,0,0,0,,{\k30}They{\k0} {\k26}locked{\k0} {\k14}the{\k0} {\k36}amps{\k0} {\k5}and{\k0} {\k39}boarded{\k0} {\k8}the{\k0} {\k84}door
+Dialogue: 0,0:01:19.23,0:01:19.53,Default,,0,0,0,,{\k5}This{\k0} {\k5}song{\k0} {\k5}is{\k0} {\k5}banned{\k0} {\k5}in{\k0} {\k5}Florida{\k0}!
+Dialogue: 0,0:01:21.28,0:01:23.49,Default,,0,0,0,,{\k54}Filed{\k0} {\k52}under{\k0} {\k0}“{\k5}Woke{\k0} {\k11}and{\k0} {\k50}Dangerous{\k0} {\k32}Trash{\k0}”
+Dialogue: 0,0:01:23.77,0:01:26.11,Default,,0,0,0,,{\k22}Sing{\k0} {\k8}it{\k0} {\k34}loud{\k0} {\k48}before{\k0} {\k22}they{\k0} {\k62}smash
+Dialogue: 0,0:01:26.97,0:01:29.13,Default,,0,0,0,,{\k20}Your{\k0} {\k42}busted{\k0} {\k44}boombox{\k0} {\k8}of{\k0} {\k24}free{\k0} {\k44}speech{\k0} {\k0}🎶
+Dialogue: 0,0:01:29.51,0:01:30.21,Default,,0,0,0,,{\k0}[{\k16}Verse{\k0} {\k52}2{\k0}]
+Dialogue: 0,0:01:30.21,0:01:31.73,Default,,0,0,0,,{\k5}Parental{\k0} {\k25}rights{\k0} {\k10}or{\k0} {\k50}fascist{\k0} {\k34}vibes{\k0}?
+Dialogue: 0,0:01:32.11,0:01:34.06,Default,,0,0,0,,{\k10}One{\k0} {\k26}man's{\k0} {\k28}fear{\k0} {\k10}is{\k0} {\k62}another{\k0}’{\k5}s{\k0} {\k26}life
+Dialogue: 0,0:01:34.20,0:01:36.42,Default,,0,0,0,,{\k14}They{\k0} {\k24}ban{\k0} {\k24}what{\k0}’{\k5}s{\k0} {\k34}brown{\k0},{\k0} {\k14}they{\k0} {\k22}ban{\k0} {\k24}what{\k0}’{\k5}s{\k0} {\k28}queer
+Dialogue: 0,0:01:36.56,0:01:38.76,Default,,0,0,0,,{\k16}They{\k0} {\k26}ban{\k0} {\k50}whatever{\k0} {\k12}they{\k0} {\k14}don{\k0}’{\k5}t{\k0} {\k51}wanna{\k0} {\k26}hear
+Dialogue: 0,0:01:38.86,0:01:40.14,Default,,0,0,0,,{\k16}Sunshine{\k0} {\k30}State{\k0},{\k0} {\k20}now{\k0} {\k16}shades{\k0} {\k8}are{\k0} {\k18}drawn
+Dialogue: 0,0:01:40.14,0:01:42.60,Default,,0,0,0,,{\k5}You{\k0}’{\k28}re{\k0} {\k20}safe{\k0} {\k0}—{\k0} {\k32}unless{\k0} {\k34}you{\k0} {\k5}were{\k0} {\k73}born
+Dialogue: 0,0:01:42.62,0:01:44.31,Default,,0,0,0,,{\k52}Different{\k0},{\k0} {\k40}broke{\k0},{\k0} {\k18}or{\k0} {\k46}thinking{\k0} {\k5}straight
+Dialogue: 0,0:01:44.31,0:01:47.15,Default,,0,0,0,,{\k37}You{\k0}’{\k18}ll{\k0} {\k24}find{\k0} {\k14}out{\k0} {\k30}quick{\k0} {\k14}it{\k0}’{\k5}s{\k0} {\k24}too{\k0} {\k42}late
+Dialogue: 0,0:01:47.31,0:01:47.60,Default,,0,0,0,,{\k0}[{\k24}Bridge{\k0} {\k0}–{\k0} {\k5}shouted{\k0}]
+Dialogue: 0,0:01:47.60,0:01:48.33,Default,,0,0,0,,{\k5}Don{\k0}’{\k5}t{\k0} {\k13}say{\k0} {\k42}gay{\k0}!
+Dialogue: 0,0:01:48.49,0:01:49.57,Default,,0,0,0,,{\k24}Don{\k0}’{\k5}t{\k0} {\k24}say{\k0} {\k46}black{\k0}!
+Dialogue: 0,0:01:49.57,0:01:50.65,Default,,0,0,0,,{\k28}Don{\k0}’{\k5}t{\k0} {\k22}say{\k0} {\k42}science{\k0}!
+Dialogue: 0,0:01:50.77,0:01:51.77,Default,,0,0,0,,{\k24}Don{\k0}’{\k5}t{\k0} {\k28}fight{\k0} {\k36}back{\k0}!
+Dialogue: 0,0:01:51.99,0:01:52.97,Default,,0,0,0,,{\k26}Don{\k0}’{\k5}t{\k0} {\k22}read{\k0} {\k38}books{\k0}!
+Dialogue: 0,0:01:53.17,0:01:54.16,Default,,0,0,0,,{\k24}Don{\k0}’{\k5}t{\k0} {\k27}grow{\k0} {\k36}weed{\k0}!
+Dialogue: 0,0:01:54.36,0:01:56.62,Default,,0,0,0,,{\k16}Don{\k0}’{\k5}t{\k0} {\k5}you{\k0} {\k24}dare{\k0} {\k22}teach{\k0} {\k12}kids{\k0} {\k10}to{\k0} {\k26}think{\k0} {\k12}or{\k0} {\k48}read{\k0}!
+Dialogue: 0,0:01:59.06,0:01:59.34,Default,,0,0,0,,{\k0}[{\k28}Chorus{\k0}]
+Dialogue: 0,0:01:59.34,0:01:59.64,Default,,0,0,0,,{\k0}🎶{\k0} {\k5}This{\k0} {\k5}song{\k0} {\k5}is{\k0} {\k5}banned{\k0} {\k5}in{\k0} {\k5}Florida{\k0}!
+Dialogue: 0,0:01:59.64,0:02:01.39,Default,,0,0,0,,{\k5}Banned{\k0} {\k5}like{\k0} {\k20}facts{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k30}school{\k0} {\k82}debate
+Dialogue: 0,0:02:01.41,0:02:03.51,Default,,0,0,0,,{\k28}Banned{\k0} {\k22}like{\k0} {\k26}art{\k0} {\k16}they{\k0} {\k16}used{\k0} {\k10}to{\k0} {\k62}celebrate
+Dialogue: 0,0:02:03.79,0:02:06.03,Default,,0,0,0,,{\k28}Banned{\k0} {\k22}like{\k0} {\k28}hope{\k0} {\k38}behind{\k0} {\k8}a{\k0} {\k48}gate
+Dialogue: 0,0:02:06.03,0:02:06.33,Default,,0,0,0,,{\k5}This{\k0} {\k5}song{\k0} {\k5}is{\k0} {\k5}banned{\k0} {\k5}in{\k0} {\k5}Florida{\k0}!
+Dialogue: 0,0:02:08.31,0:02:10.52,Default,,0,0,0,,{\k14}So{\k0} {\k28}crank{\k0} {\k10}it{\k0} {\k30}loud{\k0},{\k0} {\k58}disturb{\k0} {\k18}the{\k0} {\k30}peace
+Dialogue: 0,0:02:10.84,0:02:13.08,Default,,0,0,0,,{\k24}Make{\k0} {\k68}DeSantis{\k0} {\k16}call{\k0} {\k20}the{\k0} {\k76}police{\k0} {\k0}🎶
+Dialogue: 0,0:02:13.64,0:02:14.66,Default,,0,0,0,,{\k0}[{\k24}Outro{\k0} {\k0}–{\k0} {\k5}call{\k0} {\k37}and{\k0} {\k5}response{\k0} {\k30}chant{\k0}]
+Dialogue: 0,0:02:14.66,0:02:14.97,Default,,0,0,0,,{\k0}🎤{\k0} {\k5}Who{\k0} {\k21}banned{\k0} {\k5}it{\k0}?
+Dialogue: 0,0:02:14.97,0:02:15.02,Default,,0,0,0,,{\k0}📢{\k0} {\k5}Florida{\k0}!
+Dialogue: 0,0:02:15.02,0:02:15.22,Default,,0,0,0,,{\k0}🎤{\k0} {\k20}Why{\k0}?
+Dialogue: 0,0:02:15.26,0:02:15.82,Default,,0,0,0,,{\k0}📢{\k0} {\k22}Too{\k0} {\k28}real{\k0}!
+Dialogue: 0,0:02:15.84,0:02:16.39,Default,,0,0,0,,{\k0}🎤{\k0} {\k22}What{\k0} {\k24}now{\k0}?
+Dialogue: 0,0:02:16.45,0:02:17.03,Default,,0,0,0,,{\k0}📢{\k0} {\k22}Play{\k0} {\k4}it{\k0} {\k24}louder{\k0}!
+Dialogue: 0,0:02:17.07,0:02:18.61,Default,,0,0,0,,{\k0}🎤{\k0} {\k16}This{\k0} {\k20}song{\k0} {\k6}is{\k0} {\k28}banned{\k0} {\k62}in{\k0}—
+Dialogue: 0,0:02:18.63,0:02:18.95,Default,,0,0,0,,{\k0}📢{\k0} {\k32}FLORIDA{\k0}!!!

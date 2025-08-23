@@ -1,21 +1,35 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.83,0:00:43.98,Default,,0,0,0,,Did you count the crashes climbing, families stranded on the curb\\NShuffled papers, skipped the study, just pretend it’s not absurd
-Dialogue: 0,0:00:11.83,0:01:06.04,Default,,0,0,0,,All the cars losing patience, jammed in front of my home\\NProp K parks it for tourists, while we’re stuck in the zone\\NSunset, Richmond left behind in endless horns and fumes\\NNo one asked what happens here, democracy left the room
-Dialogue: 0,0:00:11.83,0:01:11.90,Default,,0,0,0,,No way out now no way through\\NOverflow on avenues
-Dialogue: 0,0:00:11.83,0:01:06.04,Default,,0,0,0,,All the cars losing patience, jammed in front of my home\\NProp K parks it for tourists, while we’re stuck in the zone\\NSunset, Richmond left behind in endless horns and fumes\\NNo one asked what happens here, democracy left the room
-Dialogue: 0,0:00:11.83,0:01:11.90,Default,,0,0,0,,No way out now no way through\\NOverflow on avenues
-Dialogue: 0,0:00:11.83,0:01:06.04,Default,,0,0,0,,All the cars losing patience, jammed in front of my home\\NSunset, Richmond left behind in endless horns and fumes\\NNo one asked what happens here, democracy left the room
+
+Dialogue: 0,0:00:11.81,0:00:16.42,Default,,0,0,0,,{\k0} {\k62}Remember{\k0} {\k62}Sunday{\k0} {\k60}morning{\k0},{\k0} {\k36}quiet{\k0},{\k0} {\k28}coffee{\k0} {\k38}steam{\k0} {\k54}outside{\k0} {\k12}my{\k0} {\k42}door
+Dialogue: 0,0:00:16.44,0:00:22.55,Default,,0,0,0,,{\k6}Now{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k70}sirens{\k0} {\k48}every{\k0} {\k54}hour{\k0},{\k0} {\k40}engines{\k0} {\k68}roaring{\k0},{\k0} {\k48}endless{\k0} {\k38}more
+Dialogue: 0,0:00:22.59,0:00:28.20,Default,,0,0,0,,{\k80}Traded{\k0} {\k66}blacktop{\k0} {\k34}for{\k0} {\k6}a{\k0} {\k54}promise{\k0},{\k0} {\k12}but{\k0} {\k10}the{\k0} {\k32}deal{\k0} {\k12}was{\k0} {\k12}one{\k0}-{\k26}way{\k0} {\k126}signed
+Dialogue: 0,0:00:28.20,0:00:33.85,Default,,0,0,0,,{\k66}Public{\k0} {\k32}vote{\k0} {\k66}without{\k0} {\k44}our{\k0} {\k68}warning{\k0},{\k0} {\k40}left{\k0} {\k12}our{\k0} {\k26}lives{\k0} {\k38}stuck{\k0} {\k16}in{\k0} {\k22}a{\k0} {\k56}line
+Dialogue: 0,0:00:33.91,0:00:39.28,Default,,0,0,0,,{\k42}Did{\k0} {\k16}you{\k0} {\k44}count{\k0} {\k44}the{\k0} {\k44}crashes{\k0} {\k70}climbing{\k0},{\k0} {\k46}families{\k0} {\k86}stranded{\k0} {\k8}on{\k0} {\k8}the{\k0} {\k48}curb
+Dialogue: 0,0:00:39.64,0:00:44.95,Default,,0,0,0,,{\k42}Shuffled{\k0} {\k74}papers{\k0},{\k0} {\k36}skipped{\k0} {\k8}the{\k0} {\k84}study{\k0},{\k0} {\k16}just{\k0} {\k34}pretend{\k0} {\k10}it{\k0}’{\k5}s{\k0} {\k18}not{\k0} {\k160}absurd
+Dialogue: 0,0:00:44.95,0:00:49.82,Default,,0,0,0,,{\k46}All{\k0} {\k8}the{\k0} {\k36}cars{\k0} {\k42}losing{\k0} {\k72}patience{\k0},{\k0} {\k36}jammed{\k0} {\k8}in{\k0} {\k36}front{\k0} {\k6}of{\k0} {\k28}my{\k0} {\k54}home
+Dialogue: 0,0:00:49.88,0:00:55.39,Default,,0,0,0,,{\k104}Prop{\k0} {\k18}K{\k0} {\k62}parks{\k0} {\k5}it{\k0} {\k10}for{\k0} {\k82}tourists{\k0},{\k0} {\k28}while{\k0} {\k46}we{\k0}’{\k5}re{\k0} {\k50}stuck{\k0} {\k14}in{\k0} {\k12}the{\k0} {\k68}zone
+Dialogue: 0,0:00:55.43,0:01:00.85,Default,,0,0,0,,{\k120}Sunset{\k0},{\k0} {\k72}Richmond{\k0} {\k30}left{\k0} {\k66}behind{\k0} {\k16}in{\k0} {\k34}endless{\k0} {\k46}horns{\k0} {\k12}and{\k0} {\k64}fumes
+Dialogue: 0,0:01:01.56,0:01:06.30,Default,,0,0,0,,{\k20}No{\k0} {\k16}one{\k0} {\k20}asked{\k0} {\k42}what{\k0} {\k46}happens{\k0} {\k56}here{\k0},{\k0} {\k92}democracy{\k0} {\k30}left{\k0} {\k8}the{\k0} {\k62}room
+Dialogue: 0,0:01:06.32,0:01:10.27,Default,,0,0,0,,{\k4}No{\k0} {\k16}way{\k0} {\k14}out{\k0} {\k12}now{\k0} {\k12}no{\k0} {\k24}way{\k0} {\k60}through
+Dialogue: 0,0:01:10.33,0:01:13.17,Default,,0,0,0,,{\k150}Overflow{\k0} {\k6}on{\k0} {\k110}avenues
+Dialogue: 0,0:01:16.53,0:01:21.59,Default,,0,0,0,,{\k32}Lines{\k0} {\k4}of{\k0} {\k38}metal{\k0} {\k44}never{\k0} {\k36}ending{\k0} {\k38}kids{\k0} {\k34}dodging{\k0} {\k28}double{\k0}-{\k38}yellow{\k0} {\k104}speed
+Dialogue: 0,0:01:22.01,0:01:27.26,Default,,0,0,0,,{\k44}Nights{\k0} {\k38}haunted{\k0} {\k30}by{\k0} {\k42}engines{\k0} {\k48}blending{\k0} {\k14}with{\k0} {\k42}ballots{\k0} {\k14}no{\k0} {\k10}one{\k0} {\k26}ever{\k0} {\k46}read{\k0} {\k16}or{\k0} {\k44}heeds
+Dialogue: 0,0:01:27.62,0:01:33.35,Default,,0,0,0,,{\k38}Where{\k0}’{\k5}s{\k0} {\k12}our{\k0} {\k16}air{\k0} {\k26}that{\k0}’{\k5}s{\k0} {\k22}not{\k0} {\k26}from{\k0} {\k114}tailpipes{\k0} {\k42}stacking{\k0} {\k12}up{\k0} {\k62}for{\k0} {\k24}blocks{\k0}?
+Dialogue: 0,0:01:33.45,0:01:38.19,Default,,0,0,0,,{\k12}Shoved{\k0} {\k5}it{\k0} {\k34}through{\k0} {\k52}without{\k0} {\k12}a{\k0} {\k46}study{\k0},{\k0} {\k20}while{\k0} {\k32}they{\k0}’{\k34}re{\k0} {\k54}patting{\k0} {\k32}backs{\k0} {\k14}in{\k0} {\k42}talks
+Dialogue: 0,0:01:38.61,0:01:42.48,Default,,0,0,0,,{\k24}Said{\k0} {\k12}it{\k0}’{\k68}s{\k0} {\k100}green{\k0} {\k10}but{\k0} {\k56}crushed{\k0} {\k6}the{\k0} {\k8}green{\k0},{\k0} {\k5}the{\k0} {\k5}law{\k0} {\k5}was{\k0} {\k5}just{\k0} {\k5}a{\k0} {\k5}word
+Dialogue: 0,0:01:42.64,0:01:47.39,Default,,0,0,0,,{\k72}Ignored{\k0} {\k64}the{\k0} {\k48}folks{\k0} {\k28}who{\k0} {\k4}live{\k0} {\k42}here{\k0} {\k5}most{\k0},{\k0} {\k10}our{\k0} {\k32}voices{\k0} {\k36}never{\k0} {\k54}heard
+Dialogue: 0,0:01:47.55,0:01:51.53,Default,,0,0,0,,{\k20}All{\k0} {\k5}the{\k0} {\k5}cars{\k0} {\k36}losing{\k0} {\k108}patience{\k0},{\k0} {\k58}jammed{\k0} {\k8}in{\k0} {\k36}front{\k0} {\k6}of{\k0} {\k24}my{\k0} {\k54}home
+Dialogue: 0,0:01:51.55,0:01:57.08,Default,,0,0,0,,{\k106}Prop{\k0} {\k20}K{\k0} {\k34}parks{\k0} {\k10}it{\k0} {\k14}for{\k0} {\k28}tourists{\k0},{\k0} {\k30}while{\k0} {\k20}we{\k0}’{\k8}re{\k0} {\k48}stuck{\k0} {\k16}in{\k0} {\k14}the{\k0} {\k28}zone
+Dialogue: 0,0:01:57.12,0:02:02.59,Default,,0,0,0,,{\k120}Sunset{\k0},{\k0} {\k72}Richmond{\k0} {\k30}left{\k0} {\k70}behind{\k0} {\k10}in{\k0} {\k34}endless{\k0} {\k46}horns{\k0} {\k12}and{\k0} {\k66}fumes
+Dialogue: 0,0:02:03.27,0:02:08.34,Default,,0,0,0,,{\k18}No{\k0} {\k18}one{\k0} {\k20}asked{\k0} {\k44}what{\k0} {\k48}happens{\k0} {\k56}here{\k0},{\k0} {\k90}democracy{\k0} {\k16}left{\k0} {\k12}the{\k0} {\k90}room
+Dialogue: 0,0:02:15.45,0:02:17.34,Default,,0,0,0,,{\k34}No{\k0} {\k18}way{\k0} {\k12}out{\k0} {\k12}now{\k0} {\k12}no{\k0} {\k24}way{\k0} {\k50}through
+Dialogue: 0,0:02:17.40,0:02:40.99,Default,,0,0,0,,{\k129}Overflow{\k0} {\k6}on{\k0} {\k66}avenues

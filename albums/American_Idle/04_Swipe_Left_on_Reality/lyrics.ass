@@ -1,18 +1,39 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.75,0:01:37.04,Default,,0,0,0,,Whoa whoa empty hearts on hold\\NWhoa whoa dopamine so cold
-Dialogue: 0,0:00:12.75,0:01:22.94,Default,,0,0,0,,I\'m just another pixel in a cynical parade\\NTapping out confessions to a digital charade\\NFilters on my feelings and the bio is cliché\\NWe chase another stranger just to fill the day
-Dialogue: 0,0:00:12.75,0:01:37.04,Default,,0,0,0,,Whoa whoa empty hearts on hold\\NWhoa whoa dopamine so cold
+
+Dialogue: 0,0:00:12.70,0:00:15.73,Default,,0,0,0,,{\k50}Life{\k0} {\k60}reduced{\k0} {\k10}to{\k0} {\k40}swiping{\k0} {\k32}left{\k0} {\k18}and{\k0} {\k36}right
+Dialogue: 0,0:00:16.07,0:00:18.91,Default,,0,0,0,,{\k42}Scrolling{\k0} {\k22}through{\k0} {\k10}the{\k0} {\k40}void{\k0} {\k8}in{\k0} {\k10}the{\k0} {\k34}pale{\k0} {\k30}blue{\k0} {\k34}light
+Dialogue: 0,0:00:19.27,0:00:22.12,Default,,0,0,0,,{\k58}Profiles{\k0} {\k22}lined{\k0} {\k14}up{\k0} {\k18}like{\k0} {\k2}a{\k0} {\k36}deck{\k0} {\k12}of{\k0} {\k44}cards
+Dialogue: 0,0:00:22.46,0:00:25.26,Default,,0,0,0,,{\k44}Laughing{\k0} {\k8}at{\k0} {\k10}the{\k0} {\k40}boredom{\k0},{\k0} {\k36}hiding{\k0} {\k12}all{\k0} {\k12}our{\k0} {\k64}scars
+Dialogue: 0,0:00:25.80,0:00:28.33,Default,,0,0,0,,{\k90}Notifications{\k0} {\k38}chase{\k0} {\k5}me{\k0} {\k21}through{\k0} {\k40}another{\k0} {\k34}night
+Dialogue: 0,0:00:28.67,0:00:31.57,Default,,0,0,0,,{\k12}It{\k0}’{\k5}s{\k0} {\k48}easier{\k0} {\k8}to{\k0} {\k26}scroll{\k0} {\k6}than{\k0} {\k24}try{\k0} {\k10}to{\k0} {\k32}make{\k0} {\k16}it{\k0} {\k42}right
+Dialogue: 0,0:00:32.03,0:00:34.70,Default,,0,0,0,,{\k46}Everyone's{\k0} {\k54}performing{\k0},{\k0} {\k14}no{\k0} {\k10}one{\k0} {\k32}wants{\k0} {\k30}the{\k0} {\k42}truth
+Dialogue: 0,0:00:35.10,0:00:38.74,Default,,0,0,0,,{\k38}Chasing{\k0} {\k74}validation{\k0} {\k16}just{\k0} {\k6}to{\k0} {\k26}numb{\k0} {\k14}our{\k0} {\k92}youth
+Dialogue: 0,0:00:38.74,0:00:41.99,Default,,0,0,0,,{\k54}Swipe{\k0} {\k20}left{\k0} {\k10}of{\k0} {\k70}reality{\k0} {\k28}fading{\k0} {\k54}into{\k0} {\k58}screens
+Dialogue: 0,0:00:42.25,0:00:44.90,Default,,0,0,0,,{\k38}Matching{\k0} {\k14}with{\k0} {\k4}a{\k0} {\k50}ghost{\k0} {\k26}or{\k0} {\k64}another{\k0} {\k32}meme
+Dialogue: 0,0:00:45.13,0:00:48.14,Default,,0,0,0,,{\k62}Connection{\k0} {\k8}is{\k0} {\k2}a{\k0} {\k40}scroll{\k0},{\k0} {\k116}validation{\k0} {\k42}hits
+Dialogue: 0,0:00:48.48,0:00:51.45,Default,,0,0,0,,{\k44}Profiles{\k0} {\k8}in{\k0} {\k12}the{\k0} {\k24}dark{\k0} {\k54}pretending{\k0} {\k20}we{\k0} {\k92}exist
+Dialogue: 0,0:00:51.83,0:00:57.92,Default,,0,0,0,,{\k142}Whoa{\k0} {\k182}whoa{\k0} {\k34}empty{\k0} {\k30}hearts{\k0} {\k16}on{\k0} {\k58}hold
+Dialogue: 0,0:00:59.86,0:01:04.55,Default,,0,0,0,,{\k194}Whoa{\k0} {\k8}whoa{\k0} {\k70}dopamine{\k0} {\k36}so{\k0} {\k82}cold
+Dialogue: 0,0:01:10.47,0:01:13.63,Default,,0,0,0,,{\k20}I'm{\k0} {\k24}just{\k0} {\k40}another{\k0} {\k40}pixel{\k0} {\k14}in{\k0} {\k6}a{\k0} {\k62}cynical{\k0} {\k66}parade
+Dialogue: 0,0:01:13.91,0:01:16.75,Default,,0,0,0,,{\k42}Tapping{\k0} {\k12}out{\k0} {\k54}confessions{\k0} {\k16}to{\k0} {\k6}a{\k0} {\k56}digital{\k0} {\k64}charade
+Dialogue: 0,0:01:17.11,0:01:19.82,Default,,0,0,0,,{\k40}Filters{\k0} {\k10}on{\k0} {\k14}my{\k0} {\k38}feelings{\k0} {\k10}and{\k0} {\k10}the{\k0} {\k44}bio{\k0} {\k10}is{\k0} {\k52}clich{\k0}é
+Dialogue: 0,0:01:20.02,0:01:22.94,Default,,0,0,0,,{\k14}We{\k0} {\k24}chase{\k0} {\k44}another{\k0} {\k38}stranger{\k0} {\k18}just{\k0} {\k10}to{\k0} {\k26}fill{\k0} {\k22}the{\k0} {\k56}day
+Dialogue: 0,0:01:23.54,0:01:26.14,Default,,0,0,0,,{\k16}We{\k0} {\k28}never{\k0} {\k40}look{\k0} {\k8}up{\k0} {\k32}from{\k0} {\k26}the{\k0} {\k60}glare
+Dialogue: 0,0:01:26.20,0:01:29.33,Default,,0,0,0,,{\k96}Lost{\k0} {\k30}in{\k0} {\k18}the{\k0} {\k34}feed{\k0} {\k26}we{\k0} {\k60}share
+Dialogue: 0,0:01:29.39,0:01:32.61,Default,,0,0,0,,{\k110}Wasting{\k0} {\k36}days{\k0} {\k12}in{\k0} {\k148}disrepair
+Dialogue: 0,0:01:32.63,0:01:35.29,Default,,0,0,0,,{\k4}Do{\k0} {\k30}you{\k0} {\k36}even{\k0} {\k102}care{\k0}?
+Dialogue: 0,0:01:36.32,0:01:39.24,Default,,0,0,0,,{\k52}Swipe{\k0} {\k10}left{\k0} {\k6}of{\k0} {\k66}reality{\k0} {\k28}fading{\k0} {\k48}into{\k0} {\k54}screens
+Dialogue: 0,0:01:39.54,0:01:42.07,Default,,0,0,0,,{\k38}Matching{\k0} {\k14}with{\k0} {\k4}a{\k0} {\k32}ghost{\k0} {\k12}or{\k0} {\k78}another{\k0} {\k32}meme
+Dialogue: 0,0:01:42.31,0:01:45.19,Default,,0,0,0,,{\k60}Connection{\k0} {\k8}is{\k0} {\k4}a{\k0} {\k38}scroll{\k0},{\k0} {\k106}validation{\k0} {\k38}hits
+Dialogue: 0,0:01:45.57,0:01:48.35,Default,,0,0,0,,{\k38}Profiles{\k0} {\k10}in{\k0} {\k10}the{\k0} {\k24}dark{\k0} {\k58}pretending{\k0} {\k32}we{\k0} {\k70}exist
+Dialogue: 0,0:01:49.32,0:01:54.32,Default,,0,0,0,,{\k57}Whoa{\k0} {\k43}whoa{\k0} {\k30}empty{\k0} {\k30}hearts{\k0} {\k16}on{\k0} {\k56}hold
+Dialogue: 0,0:01:55.44,0:02:01.03,Default,,0,0,0,,{\k63}Whoa{\k0} {\k69}whoa{\k0} {\k76}dopamine{\k0} {\k34}so{\k0} {\k102}cold

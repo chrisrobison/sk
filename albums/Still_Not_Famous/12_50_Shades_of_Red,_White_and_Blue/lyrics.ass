@@ -1,17 +1,34 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.36,0:02:06.18,Default,,0,0,0,,Sneakers stained with the paint on the walls\\NTruth gets lost in a parade of calls\\NBlank devotion dressed up for the show\\NYou want red, white and blue in your bed\\NKiss the flag, let it cover your head\\NGot the stars in your eyes, pride running through\\NFifty shades of red, white and blue
-Dialogue: 0,0:00:04.36,0:02:06.18,Default,,0,0,0,,You want red, white and blue in your bed\\NKiss the flag, let it cover your head\\NGot the stars in your eyes, pride running through\\NFifty shades of red, white and blue
+
+Dialogue: 0,0:00:04.37,0:00:07.77,Default,,0,0,0,,{\k60}Marching{\k0} {\k34}boots{\k0} {\k34}lining{\k0} {\k12}up{\k0} {\k14}in{\k0} {\k10}the{\k0} {\k80}street{\k0}.
+Dialogue: 0,0:00:09.75,0:00:13.16,Default,,0,0,0,,{\k58}Broken{\k0} {\k38}glass{\k0} {\k6}and{\k0} {\k4}a{\k0} {\k54}three{\k0} {\k42}minute{\k0} {\k92}speech{\k0}.
+Dialogue: 0,0:00:14.92,0:00:17.82,Default,,0,0,0,,{\k54}Posters{\k0} {\k28}peel{\k0} {\k12}but{\k0} {\k10}the{\k0} {\k56}slogans{\k0} {\k48}stay{\k0} {\k52}new{\k0}.
+Dialogue: 0,0:00:17.86,0:00:23.13,Default,,0,0,0,,{\k260}History{\k0} {\k38}repeats{\k0} {\k14}but{\k0} {\k8}the{\k0} {\k64}shade{\k0} {\k8}is{\k0} {\k32}still{\k0} {\k56}true{\k0}.
+Dialogue: 0,0:00:26.07,0:00:29.40,Default,,0,0,0,,{\k58}Sneakers{\k0} {\k32}stained{\k0} {\k10}with{\k0} {\k10}the{\k0} {\k50}paint{\k0} {\k10}on{\k0} {\k10}the{\k0} {\k102}walls{\k0}.
+Dialogue: 0,0:00:31.03,0:00:34.64,Default,,0,0,0,,{\k44}Truth{\k0} {\k22}gets{\k0} {\k32}lost{\k0} {\k6}in{\k0} {\k4}a{\k0} {\k96}parade{\k0} {\k8}of{\k0} {\k96}calls{\k0}.
+Dialogue: 0,0:00:36.40,0:00:39.47,Default,,0,0,0,,{\k26}Blank{\k0} {\k26}devotion{\k0} {\k32}dressed{\k0} {\k16}up{\k0} {\k32}for{\k0} {\k12}the{\k0} {\k74}show{\k0}.
+Dialogue: 0,0:00:39.55,0:00:44.78,Default,,0,0,0,,{\k208}How{\k0} {\k22}much{\k0} {\k34}flag{\k0} {\k10}do{\k0} {\k12}you{\k0} {\k50}need{\k0} {\k30}just{\k0} {\k12}to{\k0} {\k92}know{\k0}?
+Dialogue: 0,0:00:45.82,0:00:49.77,Default,,0,0,0,,{\k14}You{\k0} {\k34}want{\k0} {\k56}red{\k0},{\k0} {\k34}white{\k0},{\k0} {\k10}and{\k0} {\k62}blue{\k0} {\k6}in{\k0} {\k28}your{\k0} {\k84}bed{\k0}.
+Dialogue: 0,0:00:50.72,0:00:54.53,Default,,0,0,0,,{\k32}Tis{\k0} {\k10}a{\k0} {\k68}fact{\k0},{\k0} {\k38}let{\k0} {\k10}it{\k0} {\k74}cover{\k0} {\k26}your{\k0} {\k70}head{\k0}.
+Dialogue: 0,0:00:55.69,0:00:59.31,Default,,0,0,0,,{\k20}Got{\k0} {\k22}the{\k0} {\k76}stars{\k0} {\k14}in{\k0} {\k26}your{\k0} {\k18}eye{\k0},{\k0} {\k26}fight{\k0} {\k8}on{\k0} {\k10}a{\k0} {\k60}crew{\k0}.
+Dialogue: 0,0:01:00.11,0:01:04.62,Default,,0,0,0,,{\k46}Fifty{\k0} {\k44}shades{\k0} {\k16}of{\k0} {\k44}red{\k0},{\k0} {\k26}white{\k0},{\k0} {\k18}and{\k0} {\k76}blue{\k0}.
+Dialogue: 0,0:01:04.64,0:01:09.97,Default,,0,0,0,,{\k6}Oh{\k0},{\k0} {\k278}oh{\k0},{\k0} {\k18}oh{\k0},{\k0} {\k6}oh{\k0},{\k0} {\k18}oh{\k0},{\k0} {\k4}oh{\k0}.
+Dialogue: 0,0:01:12.47,0:01:18.97,Default,,0,0,0,,{\k22}Wave{\k0} {\k4}the{\k0} {\k66}banners{\k0} {\k4}at{\k0} {\k10}the{\k0} {\k42}mirror{\k0} {\k42}every{\k0} {\k62}day{\k0}.
+Dialogue: 0,0:01:21.35,0:01:24.20,Default,,0,0,0,,{\k30}Gradually{\k0} {\k8}just{\k0} {\k14}to{\k0} {\k10}the{\k0} {\k48}comfort{\k0} {\k10}on{\k0} {\k102}display{\k0}.
+Dialogue: 0,0:01:24.24,0:01:28.75,Default,,0,0,0,,{\k236}Shaded{\k0} {\k30}green{\k0} {\k4}upon{\k0} {\k8}the{\k0} {\k28}rush{\k0} {\k10}of{\k0} {\k54}being{\k0} {\k40}right{\k0}.
+Dialogue: 0,0:01:28.78,0:01:33.53,Default,,0,0,0,,{\k248}Raps{\k0} {\k14}so{\k0} {\k32}tight{\k0} {\k20}you{\k0} {\k26}can't{\k0} {\k24}see{\k0} {\k20}any{\k0} {\k34}light{\k0}.
+Dialogue: 0,0:01:36.52,0:01:39.12,Default,,0,0,0,,{\k76}Disalimated{\k0} {\k46}every{\k0} {\k44}anthem{\k0} {\k74}played{\k0}.
+Dialogue: 0,0:01:41.77,0:01:44.91,Default,,0,0,0,,{\k36}Worship{\k0} {\k22}power{\k0} {\k28}like{\k0} {\k4}the{\k0} {\k42}game{\k0} {\k22}you{\k0} {\k114}made{\k0}.
+Dialogue: 0,0:01:47.91,0:01:51.88,Default,,0,0,0,,{\k22}You{\k0} {\k34}want{\k0} {\k56}red{\k0},{\k0} {\k38}white{\k0},{\k0} {\k12}and{\k0} {\k70}blue{\k0} {\k8}in{\k0} {\k32}your{\k0} {\k72}bed{\k0}.
+Dialogue: 0,0:01:53.04,0:01:56.83,Default,,0,0,0,,{\k20}Just{\k0} {\k14}a{\k0} {\k62}flag{\k0},{\k0} {\k22}let{\k0} {\k20}it{\k0} {\k38}cover{\k0} {\k34}your{\k0} {\k68}head{\k0}.
+Dialogue: 0,0:01:57.93,0:02:01.82,Default,,0,0,0,,{\k12}You{\k0} {\k20}got{\k0} {\k20}the{\k0} {\k76}stars{\k0} {\k12}in{\k0} {\k24}your{\k0} {\k20}eyes{\k0},{\k0} {\k32}fight{\k0} {\k8}on{\k0} {\k16}a{\k0} {\k68}crew{\k0}.
+Dialogue: 0,0:02:01.88,0:02:07.17,Default,,0,0,0,,{\k106}Fifty{\k0} {\k40}shades{\k0} {\k8}of{\k0} {\k48}red{\k0},{\k0} {\k28}white{\k0},{\k0} {\k98}and{\k0} {\k16}blue{\k0}.

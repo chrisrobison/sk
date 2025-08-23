@@ -1,22 +1,33 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.49,0:00:30.64,Default,,0,0,0,,Used to cruise on weekends, friends on the beach\\NNow frustrated drivers fill every side street\\NWhat once was a shortcut is a nightmare now\\NAll for a ribbon and a political vow
-Dialogue: 0,0:00:09.49,0:00:49.84,Default,,0,0,0,,Proposition K got it wrong all along\\NWe’re choking on the traffic as the parade rolls on\\NCut off our veins to build their outdoor stage\\NSunset and Richmond are burning with rage
-Dialogue: 0,0:00:09.49,0:01:57.24,Default,,0,0,0,,Too loud too fast can\'t sleep can\'t last\\NToo loud too fast can\'t sleep can\'t last
-Dialogue: 0,0:00:09.49,0:01:22.03,Default,,0,0,0,,Once we had peace off the Great Highway\\NNow it\'s gridlock on Tuesday, honking every day\\NEngardio smiled, called it progress for all\\NBut hundreds of neighbors ignore his recall
-Dialogue: 0,0:00:09.49,0:01:31.51,Default,,0,0,0,,No environmental study to say if we’re doomed\\NJust bikes and the blocs—another ballot consumed
-Dialogue: 0,0:00:09.49,0:00:49.84,Default,,0,0,0,,Proposition K got it wrong all along\\NWe’re choking on the traffic as the parade rolls on\\NCut off our veins to build their outdoor stage\\NSunset and Richmond are burning with rage
-Dialogue: 0,0:00:09.49,0:01:57.24,Default,,0,0,0,,Too loud too fast can\'t sleep can\'t last\\NToo loud too fast can\'t sleep can\'t last
+
+Dialogue: 0,0:00:14.09,0:00:18.07,Default,,0,0,0,,{\k32}Used{\k0} {\k6}to{\k0} {\k50}cruise{\k0} {\k12}on{\k0} {\k88}weekends{\k0},{\k0} {\k38}friends{\k0} {\k10}on{\k0} {\k16}the{\k0} {\k40}beach
+Dialogue: 0,0:00:18.40,0:00:22.06,Default,,0,0,0,,{\k18}Now{\k0} {\k90}frustrated{\k0} {\k68}drivers{\k0} {\k36}fill{\k0} {\k36}every{\k0} {\k28}side{\k0} {\k40}street
+Dialogue: 0,0:00:22.42,0:00:26.15,Default,,0,0,0,,{\k20}What{\k0} {\k18}once{\k0} {\k34}was{\k0} {\k4}a{\k0} {\k74}shortcut{\k0} {\k12}is{\k0} {\k12}a{\k0} {\k62}nightmare{\k0} {\k44}now
+Dialogue: 0,0:00:26.79,0:00:32.72,Default,,0,0,0,,{\k16}All{\k0} {\k44}for{\k0} {\k4}a{\k0} {\k72}ribbon{\k0} {\k10}and{\k0} {\k14}a{\k0} {\k120}political{\k0} {\k204}vow
+Dialogue: 0,0:00:33.58,0:00:38.14,Default,,0,0,0,,{\k102}Proposition{\k0} {\k102}K{\k0} {\k30}got{\k0} {\k10}it{\k0} {\k30}wrong{\k0} {\k16}all{\k0} {\k82}along
+Dialogue: 0,0:00:38.38,0:00:41.81,Default,,0,0,0,,{\k22}We{\k0}’{\k46}re{\k0} {\k5}choking{\k0} {\k8}on{\k0} {\k12}the{\k0} {\k56}traffic{\k0} {\k8}as{\k0} {\k8}the{\k0} {\k60}parade{\k0} {\k28}rolls{\k0} {\k12}on
+Dialogue: 0,0:00:41.87,0:00:46.21,Default,,0,0,0,,{\k28}Cut{\k0} {\k12}off{\k0} {\k14}our{\k0} {\k88}veins{\k0} {\k18}to{\k0} {\k24}build{\k0} {\k22}their{\k0} {\k50}outdoor{\k0} {\k88}stage
+Dialogue: 0,0:00:46.63,0:00:50.12,Default,,0,0,0,,{\k78}Sunset{\k0} {\k10}and{\k0} {\k70}Richmond{\k0} {\k10}are{\k0} {\k44}burning{\k0} {\k18}with{\k0} {\k70}rage
+Dialogue: 0,0:00:52.36,0:00:55.18,Default,,0,0,0,,{\k24}Too{\k0} {\k26}loud{\k0} {\k18}too{\k0} {\k26}fast{\k0} {\k22}can't{\k0} {\k34}sleep{\k0} {\k32}can't{\k0} {\k74}last
+Dialogue: 0,0:00:56.37,0:00:59.25,Default,,0,0,0,,{\k24}Too{\k0} {\k36}loud{\k0} {\k12}too{\k0} {\k30}fast{\k0} {\k18}can't{\k0} {\k32}sleep{\k0} {\k32}can't{\k0} {\k44}last
+Dialogue: 0,0:01:06.50,0:01:10.07,Default,,0,0,0,,{\k44}Once{\k0} {\k28}we{\k0} {\k24}had{\k0} {\k38}peace{\k0} {\k16}off{\k0} {\k6}the{\k0} {\k52}Great{\k0} {\k86}Highway
+Dialogue: 0,0:01:10.09,0:01:13.95,Default,,0,0,0,,{\k28}Now{\k0} {\k12}it's{\k0} {\k72}gridlock{\k0} {\k12}on{\k0} {\k64}Tuesday{\k0},{\k0} {\k66}honking{\k0} {\k30}every{\k0} {\k28}day
+Dialogue: 0,0:01:13.100,0:01:18.06,Default,,0,0,0,,{\k168}Engardio{\k0} {\k34}smiled{\k0},{\k0} {\k36}called{\k0} {\k8}it{\k0} {\k72}progress{\k0} {\k24}for{\k0} {\k16}all
+Dialogue: 0,0:01:18.46,0:01:22.09,Default,,0,0,0,,{\k18}But{\k0} {\k68}hundreds{\k0} {\k8}of{\k0} {\k68}neighbors{\k0} {\k48}ignore{\k0} {\k30}his{\k0} {\k64}recall
+Dialogue: 0,0:01:22.43,0:01:29.20,Default,,0,0,0,,{\k26}No{\k0} {\k180}environmental{\k0} {\k78}study{\k0} {\k16}to{\k0} {\k42}say{\k0} {\k10}if{\k0} {\k22}we{\k0}’{\k5}re{\k0} {\k250}doomed
+Dialogue: 0,0:01:30.25,0:01:36.57,Default,,0,0,0,,{\k34}Just{\k0} {\k52}bikes{\k0} {\k22}and{\k0} {\k10}the{\k0} {\k60}blocs{\k0}—{\k98}another{\k0} {\k66}ballot{\k0} {\k224}consumed
+Dialogue: 0,0:01:37.63,0:01:42.16,Default,,0,0,0,,{\k26}Proposition{\k0} {\k106}K{\k0} {\k30}got{\k0} {\k10}it{\k0} {\k28}wrong{\k0} {\k16}all{\k0} {\k82}along
+Dialogue: 0,0:01:42.36,0:01:45.77,Default,,0,0,0,,{\k22}We{\k0}’{\k5}re{\k0} {\k52}choking{\k0} {\k6}on{\k0} {\k12}the{\k0} {\k58}traffic{\k0} {\k10}as{\k0} {\k10}the{\k0} {\k60}parade{\k0} {\k30}rolls{\k0} {\k10}on
+Dialogue: 0,0:01:45.84,0:01:50.19,Default,,0,0,0,,{\k32}Cut{\k0} {\k12}off{\k0} {\k12}our{\k0} {\k62}veins{\k0} {\k18}to{\k0} {\k26}build{\k0} {\k26}their{\k0} {\k50}outdoor{\k0} {\k86}stage
+Dialogue: 0,0:01:50.65,0:01:54.40,Default,,0,0,0,,{\k76}Sunset{\k0} {\k10}and{\k0} {\k70}Richmond{\k0} {\k10}are{\k0} {\k46}burning{\k0} {\k16}with{\k0} {\k98}rage
+Dialogue: 0,0:01:56.27,0:01:59.16,Default,,0,0,0,,{\k30}Too{\k0} {\k26}loud{\k0} {\k18}too{\k0} {\k28}fast{\k0} {\k12}can't{\k0} {\k24}sleep{\k0} {\k32}can't{\k0} {\k72}last
+Dialogue: 0,0:02:00.38,0:02:03.04,Default,,0,0,0,,{\k20}Too{\k0} {\k26}loud{\k0} {\k16}too{\k0} {\k30}fast{\k0} {\k14}can't{\k0} {\k22}sleep{\k0} {\k30}can't{\k0} {\k66}last

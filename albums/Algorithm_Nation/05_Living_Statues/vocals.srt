@@ -563,11 +563,11 @@ Oh, oh, <u>stand</u> so still.
 Oh, oh, stand so still.
 
 142
-00:00:54,874 --> 00:00:55,214
+00:00:54,874 --> 00:00:55,194
 Oh, oh, stand <u>so</u> still.
 
 143
-00:00:55,214 --> 00:00:55,294
+00:00:55,194 --> 00:00:55,294
 Oh, oh, stand so still.
 
 144
@@ -604,47 +604,47 @@ Oh, chills and <u>brilf.</u>
 
 152
 00:01:08,155 --> 00:01:09,016
-<u>Sirens</u> pass by but nobody stirs.
+<u>Sirens</u> pass by, but nobody stirs.
 
 153
 00:01:09,016 --> 00:01:09,076
-Sirens pass by but nobody stirs.
+Sirens pass by, but nobody stirs.
 
 154
 00:01:09,076 --> 00:01:09,336
-Sirens <u>pass</u> by but nobody stirs.
+Sirens <u>pass</u> by, but nobody stirs.
 
 155
 00:01:09,336 --> 00:01:09,376
-Sirens pass by but nobody stirs.
+Sirens pass by, but nobody stirs.
 
 156
 00:01:09,376 --> 00:01:09,797
-Sirens pass <u>by</u> but nobody stirs.
+Sirens pass <u>by,</u> but nobody stirs.
 
 157
 00:01:09,797 --> 00:01:09,837
-Sirens pass by but nobody stirs.
+Sirens pass by, but nobody stirs.
 
 158
 00:01:09,837 --> 00:01:10,057
-Sirens pass by <u>but</u> nobody stirs.
+Sirens pass by, <u>but</u> nobody stirs.
 
 159
 00:01:10,057 --> 00:01:10,097
-Sirens pass by but nobody stirs.
+Sirens pass by, but nobody stirs.
 
 160
 00:01:10,097 --> 00:01:11,118
-Sirens pass by but <u>nobody</u> stirs.
+Sirens pass by, but <u>nobody</u> stirs.
 
 161
 00:01:11,118 --> 00:01:11,138
-Sirens pass by but nobody stirs.
+Sirens pass by, but nobody stirs.
 
 162
 00:01:11,138 --> 00:01:12,600
-Sirens pass by but nobody <u>stirs.</u>
+Sirens pass by, but nobody <u>stirs.</u>
 
 163
 00:01:12,620 --> 00:01:13,140
@@ -752,107 +752,107 @@ Dreams broken down where the pavement's <u>cracked.</u>
 
 189
 00:01:20,569 --> 00:01:21,149
-<u>Shadows</u> alive but hold is what they lack.
+<u>Shadows</u> alive, but hope is what they lack.
 
 190
 00:01:21,149 --> 00:01:21,229
-Shadows alive but hold is what they lack.
+Shadows alive, but hope is what they lack.
 
 191
-00:01:21,229 --> 00:01:21,770
-Shadows <u>alive</u> but hold is what they lack.
+00:01:21,229 --> 00:01:22,070
+Shadows <u>alive,</u> but hope is what they lack.
 
 192
-00:01:21,770 --> 00:01:22,090
-Shadows alive but hold is what they lack.
+00:01:22,070 --> 00:01:22,090
+Shadows alive, but hope is what they lack.
 
 193
 00:01:22,090 --> 00:01:22,350
-Shadows alive <u>but</u> hold is what they lack.
+Shadows alive, <u>but</u> hope is what they lack.
 
 194
 00:01:22,350 --> 00:01:22,370
-Shadows alive but hold is what they lack.
+Shadows alive, but hope is what they lack.
 
 195
 00:01:22,370 --> 00:01:22,651
-Shadows alive but <u>hold</u> is what they lack.
+Shadows alive, but <u>hope</u> is what they lack.
 
 196
 00:01:22,651 --> 00:01:22,671
-Shadows alive but hold is what they lack.
+Shadows alive, but hope is what they lack.
 
 197
 00:01:22,671 --> 00:01:22,731
-Shadows alive but hold <u>is</u> what they lack.
+Shadows alive, but hope <u>is</u> what they lack.
 
 198
 00:01:22,731 --> 00:01:22,851
-Shadows alive but hold is what they lack.
+Shadows alive, but hope is what they lack.
 
 199
 00:01:22,851 --> 00:01:23,051
-Shadows alive but hold is <u>what</u> they lack.
+Shadows alive, but hope is <u>what</u> they lack.
 
 200
 00:01:23,051 --> 00:01:23,131
-Shadows alive but hold is what they lack.
+Shadows alive, but hope is what they lack.
 
 201
 00:01:23,131 --> 00:01:23,472
-Shadows alive but hold is what <u>they</u> lack.
+Shadows alive, but hope is what <u>they</u> lack.
 
 202
 00:01:23,472 --> 00:01:23,612
-Shadows alive but hold is what they lack.
+Shadows alive, but hope is what they lack.
 
 203
 00:01:23,612 --> 00:01:27,296
-Shadows alive but hold is what they <u>lack.</u>
+Shadows alive, but hope is what they <u>lack.</u>
 
 204
-00:01:27,316 --> 00:01:28,077
-<u>Sunrise</u> hits eyes that never see.
+00:01:27,316 --> 00:01:28,097
+<u>Sunrise,</u> it's eyes that never see.
 
 205
-00:01:28,077 --> 00:01:28,197
-Sunrise hits eyes that never see.
+00:01:28,097 --> 00:01:28,217
+Sunrise, it's eyes that never see.
 
 206
-00:01:28,197 --> 00:01:28,357
-Sunrise <u>hits</u> eyes that never see.
+00:01:28,217 --> 00:01:28,357
+Sunrise, <u>it's</u> eyes that never see.
 
 207
 00:01:28,357 --> 00:01:28,517
-Sunrise hits eyes that never see.
+Sunrise, it's eyes that never see.
 
 208
 00:01:28,517 --> 00:01:28,657
-Sunrise hits <u>eyes</u> that never see.
+Sunrise, it's <u>eyes</u> that never see.
 
 209
 00:01:28,657 --> 00:01:28,697
-Sunrise hits eyes that never see.
+Sunrise, it's eyes that never see.
 
 210
 00:01:28,697 --> 00:01:28,858
-Sunrise hits eyes <u>that</u> never see.
+Sunrise, it's eyes <u>that</u> never see.
 
 211
 00:01:28,858 --> 00:01:28,918
-Sunrise hits eyes that never see.
+Sunrise, it's eyes that never see.
 
 212
 00:01:28,918 --> 00:01:29,338
-Sunrise hits eyes that <u>never</u> see.
+Sunrise, it's eyes that <u>never</u> see.
 
 213
 00:01:29,338 --> 00:01:29,418
-Sunrise hits eyes that never see.
+Sunrise, it's eyes that never see.
 
 214
 00:01:29,418 --> 00:01:29,919
-Sunrise hits eyes that never <u>see.</u>
+Sunrise, it's eyes that never <u>see.</u>
 
 215
 00:01:29,959 --> 00:01:31,921
@@ -943,11 +943,11 @@ Statues on the side, but they don't move or break.
 Statues on the side, <u>but</u> they don't move or break.
 
 237
-00:01:38,836 --> 00:01:38,896
+00:01:38,836 --> 00:01:38,876
 Statues on the side, but they don't move or break.
 
 238
-00:01:38,896 --> 00:01:39,076
+00:01:38,876 --> 00:01:39,076
 Statues on the side, but <u>they</u> don't move or break.
 
 239
@@ -1112,109 +1112,117 @@ Time's looming past them, but they're stuck in <u>place.</u>
 
 279
 00:01:49,609 --> 00:01:50,089
-<u>Concrete</u> confession on every wasted base.
+<u>Concrete</u> confession on every waste bit base.
 
 280
 00:01:50,089 --> 00:01:50,129
-Concrete confession on every wasted base.
+Concrete confession on every waste bit base.
 
 281
 00:01:50,129 --> 00:01:51,110
-Concrete <u>confession</u> on every wasted base.
+Concrete <u>confession</u> on every waste bit base.
 
 282
 00:01:51,110 --> 00:01:51,331
-Concrete confession on every wasted base.
+Concrete confession on every waste bit base.
 
 283
 00:01:51,331 --> 00:01:51,411
-Concrete confession <u>on</u> every wasted base.
+Concrete confession <u>on</u> every waste bit base.
 
 284
 00:01:51,411 --> 00:01:51,551
-Concrete confession on every wasted base.
+Concrete confession on every waste bit base.
 
 285
 00:01:51,551 --> 00:01:51,831
-Concrete confession on <u>every</u> wasted base.
+Concrete confession on <u>every</u> waste bit base.
 
 286
 00:01:51,831 --> 00:01:51,911
-Concrete confession on every wasted base.
+Concrete confession on every waste bit base.
 
 287
-00:01:51,911 --> 00:01:52,352
-Concrete confession on every <u>wasted</u> base.
+00:01:51,911 --> 00:01:52,172
+Concrete confession on every <u>waste</u> bit base.
 
 288
-00:01:52,352 --> 00:01:52,392
-Concrete confession on every wasted base.
+00:01:52,172 --> 00:01:52,192
+Concrete confession on every waste bit base.
 
 289
-00:01:52,392 --> 00:01:52,832
-Concrete confession on every wasted <u>base.</u>
+00:01:52,192 --> 00:01:52,352
+Concrete confession on every waste <u>bit</u> base.
 
 290
+00:01:52,352 --> 00:01:52,392
+Concrete confession on every waste bit base.
+
+291
+00:01:52,392 --> 00:01:52,832
+Concrete confession on every waste bit <u>base.</u>
+
+292
 00:01:54,334 --> 00:01:54,975
 <u>Oh,</u> oh, stand so still.
 
-291
+293
 00:01:54,975 --> 00:01:54,995
 Oh, oh, stand so still.
 
-292
-00:01:54,995 --> 00:01:55,215
+294
+00:01:54,995 --> 00:01:55,235
 Oh, <u>oh,</u> stand so still.
 
-293
-00:01:55,215 --> 00:01:55,295
-Oh, oh, stand so still.
-
-294
-00:01:55,295 --> 00:01:55,796
-Oh, oh, <u>stand</u> so still.
-
 295
-00:01:55,796 --> 00:01:55,876
+00:01:55,235 --> 00:01:55,295
 Oh, oh, stand so still.
 
 296
-00:01:55,876 --> 00:01:56,196
-Oh, oh, stand <u>so</u> still.
+00:01:55,295 --> 00:01:55,796
+Oh, oh, <u>stand</u> so still.
 
 297
-00:01:56,196 --> 00:01:56,276
+00:01:55,796 --> 00:01:55,876
 Oh, oh, stand so still.
 
 298
+00:01:55,876 --> 00:01:56,196
+Oh, oh, stand <u>so</u> still.
+
+299
+00:01:56,196 --> 00:01:56,276
+Oh, oh, stand so still.
+
+300
 00:01:56,276 --> 00:01:56,837
 Oh, oh, stand so <u>still.</u>
 
-299
+301
 00:01:57,998 --> 00:01:58,279
 <u>Oh,</u> chills and pain.
 
-300
+302
 00:01:58,279 --> 00:01:58,339
 Oh, chills and pain.
 
-301
+303
 00:01:58,339 --> 00:01:59,020
 Oh, <u>chills</u> and pain.
 
-302
+304
 00:01:59,020 --> 00:01:59,040
 Oh, chills and pain.
 
-303
+305
 00:01:59,040 --> 00:01:59,220
 Oh, chills <u>and</u> pain.
 
-304
+306
 00:01:59,220 --> 00:01:59,240
 Oh, chills and pain.
 
-305
+307
 00:01:59,240 --> 00:01:59,340
 Oh, chills and <u>pain.</u>
 

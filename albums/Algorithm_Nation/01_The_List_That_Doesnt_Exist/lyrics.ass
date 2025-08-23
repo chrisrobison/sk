@@ -1,17 +1,59 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,24,&H00FFFFFF,&H0000FFFF,&H900000FF,&H3000FF00,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.53,0:01:36.61,Default,,0,0,0,,“Sir, do you know who’s on the list?”\\N“I don’t know. I’ve never seen a list.\\NThere may be a list. It might not be real.\\NWhat even is a list? Is it even legal?”
-Dialogue: 0,0:00:05.53,0:00:44.22,Default,,0,0,0,,It’s the list (shhh), the list (shhh)\\NThe list that doesn’t exist!
+
+Dialogue: 0,0:00:05.43,0:00:07.95,Default,,0,0,0,,{\k38}Pam{\k0} {\k58}Bondi{\k0} {\k32}said{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k10}on{\k0} {\k18}her{\k0} {\k40}desk
+Dialogue: 0,0:00:08.07,0:00:10.54,Default,,0,0,0,,{\k26}Right{\k0} {\k22}next{\k0} {\k10}to{\k0} {\k30}truth{\k0} {\k14}and{\k0} {\k28}civil{\k0} {\k46}unrest
+Dialogue: 0,0:00:10.70,0:00:12.68,Default,,0,0,0,,{\k12}One{\k0} {\k32}day{\k0} {\k12}it{\k0}’{\k5}s{\k0} {\k30}there{\k0},{\k0} {\k12}the{\k0} {\k30}next{\k0}—{\k20}poof{\k0}!
+Dialogue: 0,0:00:12.76,0:00:15.12,Default,,0,0,0,,{\k34}Vanished{\k0} {\k26}like{\k0} {\k32}ethics{\k0} {\k10}in{\k0} {\k4}a{\k0} {\k42}voting{\k0} {\k60}booth
+Dialogue: 0,0:00:15.30,0:00:17.43,Default,,0,0,0,,{\k60}Promises{\k0} {\k24}made{\k0} {\k16}from{\k0} {\k6}the{\k0} {\k46}podium{\k0} {\k34}high
+Dialogue: 0,0:00:17.47,0:00:19.97,Default,,0,0,0,,{\k32}Now{\k0} {\k28}they{\k0} {\k58}gaslight{\k0} {\k12}with{\k0} {\k2}a{\k0} {\k48}straight{\k0}-{\k5}up{\k0} {\k36}lie
+Dialogue: 0,0:00:20.03,0:00:22.55,Default,,0,0,0,,{\k20}Said{\k0} {\k0}“{\k12}we{\k0}’{\k5}ll{\k0} {\k25}drain{\k0} {\k6}the{\k0} {\k50}swamp{\k0},”{\k0} {\k24}yeah{\k0},{\k0} {\k20}sure{\k0} {\k18}you{\k0} {\k42}did{\k0}—
+Dialogue: 0,0:00:22.61,0:00:25.14,Default,,0,0,0,,{\k24}Just{\k0} {\k30}made{\k0} {\k4}a{\k0} {\k26}list{\k0} {\k6}and{\k0} {\k32}buried{\k0} {\k6}it{\k0} {\k12}with{\k0} {\k8}the{\k0} {\k48}kids
+Dialogue: 0,0:00:25.16,0:00:27.62,Default,,0,0,0,,{\k26}The{\k0} {\k38}list{\k0} {\k26}that{\k0} {\k34}doesn{\k0}’{\k5}t{\k0} {\k55}exist
+Dialogue: 0,0:00:27.64,0:00:30.18,Default,,0,0,0,,{\k28}Gets{\k0} {\k48}burned{\k0} {\k20}while{\k0} {\k22}they{\k0} {\k28}shake{\k0} {\k26}their{\k0} {\k32}fists
+Dialogue: 0,0:00:30.20,0:00:32.57,Default,,0,0,0,,{\k26}The{\k0} {\k66}list{\k0} {\k48}that{\k0} {\k22}never{\k0} {\k14}saw{\k0} {\k34}light
+Dialogue: 0,0:00:32.99,0:00:35.50,Default,,0,0,0,,{\k46}Buried{\k0} {\k40}deep{\k0} {\k8}in{\k0} {\k6}a{\k0} {\k60}billionaire{\k0}’{\k5}s{\k0} {\k57}flight
+Dialogue: 0,0:00:35.54,0:00:37.61,Default,,0,0,0,,{\k26}They{\k0} {\k42}scream{\k0} {\k0}“{\k24}fake{\k0} {\k14}news{\k0}!”{\k0} {\k6}and{\k0} {\k30}twist{\k0} {\k10}the{\k0} {\k34}plot
+Dialogue: 0,0:00:37.73,0:00:40.09,Default,,0,0,0,,{\k14}But{\k0} {\k12}the{\k0} {\k28}names{\k0} {\k6}on{\k0} {\k8}the{\k0} {\k24}list{\k0} {\k18}sure{\k0} {\k40}remember{\k0} {\k4}a{\k0} {\k28}lot
+Dialogue: 0,0:00:40.31,0:00:42.96,Default,,0,0,0,,{\k12}It{\k0}’{\k5}s{\k0} {\k7}the{\k0} {\k36}list{\k0} {\k0}({\k42}shhh{\k0}),{\k0} {\k10}the{\k0} {\k66}list{\k0} {\k0}({\k40}shhh{\k0})
+Dialogue: 0,0:00:42.98,0:00:44.99,Default,,0,0,0,,{\k10}The{\k0} {\k26}list{\k0} {\k24}that{\k0} {\k34}doesn{\k0}’{\k5}t{\k0} {\k82}exist{\k0}!
+Dialogue: 0,0:00:45.100,0:00:48.42,Default,,0,0,0,,{\k84}Reporter{\k0} {\k20}asks{\k0},{\k0} {\k20}they{\k0} {\k36}start{\k0} {\k12}to{\k0} {\k46}sweat
+Dialogue: 0,0:00:48.44,0:00:50.79,Default,,0,0,0,,{\k20}Cue{\k0} {\k6}the{\k0} {\k46}yelling{\k0} {\k16}and{\k0} {\k14}the{\k0} {\k36}press{\k0} {\k52}reset
+Dialogue: 0,0:00:51.01,0:00:53.43,Default,,0,0,0,,{\k0}"{\k26}That{\k0}’{\k5}s{\k0} {\k26}fake{\k0}!{\k0} {\k24}That{\k0}’{\k5}s{\k0} {\k31}false{\k0}!{\k0} {\k26}That{\k0}’{\k5}s{\k0} {\k41}Soros{\k0} {\k40}trash{\k0}!"
+Dialogue: 0,0:00:53.45,0:00:56.05,Default,,0,0,0,,{\k6}While{\k0} {\k28}justice{\k0} {\k32}drowns{\k0} {\k12}in{\k0} {\k44}private{\k0} {\k30}jets{\k0} {\k14}and{\k0} {\k46}cash
+Dialogue: 0,0:00:56.08,0:00:58.46,Default,,0,0,0,,{\k22}Their{\k0} {\k30}fingers{\k0} {\k14}all{\k0} {\k36}smell{\k0} {\k22}like{\k0} {\k82}kerosene
+Dialogue: 0,0:00:58.58,0:01:00.86,Default,,0,0,0,,{\k16}While{\k0} {\k12}they{\k0} {\k30}gas{\k0} {\k6}up{\k0} {\k8}the{\k0} {\k76}memory{\k0} {\k52}machine
+Dialogue: 0,0:01:00.88,0:01:03.01,Default,,0,0,0,,{\k36}Rewrite{\k0} {\k8}the{\k0} {\k32}script{\k0} {\k14}with{\k0} {\k4}a{\k0} {\k46}sharpie{\k0} {\k46}pen
+Dialogue: 0,0:01:03.15,0:01:05.81,Default,,0,0,0,,{\k16}While{\k0} {\k52}Epstein{\k0}’{\k5}s{\k0} {\k27}ghost{\k0} {\k24}just{\k0} {\k30}laughs{\k0} {\k82}again
+Dialogue: 0,0:01:05.83,0:01:07.100,Default,,0,0,0,,{\k2}The{\k0} {\k38}list{\k0} {\k26}that{\k0} {\k36}doesn{\k0}’{\k5}t{\k0} {\k46}exist
+Dialogue: 0,0:01:08.08,0:01:10.50,Default,,0,0,0,,{\k26}Got{\k0} {\k56}filed{\k0} {\k16}with{\k0} {\k10}the{\k0} {\k26}other{\k0} {\k38}grifts
+Dialogue: 0,0:01:10.60,0:01:13.08,Default,,0,0,0,,{\k30}The{\k0} {\k68}list{\k0} {\k46}that{\k0} {\k22}slipped{\k0} {\k16}through{\k0} {\k6}the{\k0} {\k46}cracks
+Dialogue: 0,0:01:13.10,0:01:15.93,Default,,0,0,0,,{\k28}Now{\k0} {\k30}sits{\k0} {\k8}on{\k0} {\k4}a{\k0} {\k28}yacht{\k0} {\k24}with{\k0} {\k32}knives{\k0} {\k16}in{\k0} {\k50}backs
+Dialogue: 0,0:01:15.93,0:01:18.11,Default,,0,0,0,,{\k5}They{\k0} {\k55}say{\k0} {\k0}“{\k5}hoax{\k0}”{\k0} {\k5}and{\k0} {\k0}“{\k22}witch{\k0} {\k26}hunt{\k0},”{\k0} {\k22}same{\k0} {\k14}old{\k0} {\k48}spin
+Dialogue: 0,0:01:18.15,0:01:20.49,Default,,0,0,0,,{\k26}While{\k0} {\k48}victims{\k0} {\k26}wait{\k0} {\k26}for{\k0} {\k18}truth{\k0} {\k14}to{\k0} {\k40}begin
+Dialogue: 0,0:01:20.57,0:01:23.43,Default,,0,0,0,,{\k24}It{\k0}’{\k5}s{\k0} {\k10}the{\k0} {\k108}list{\k0} {\k0}({\k7}shhh{\k0}),{\k0} {\k7}the{\k0} {\k108}list{\k0} {\k0}({\k7}shhh{\k0})
+Dialogue: 0,0:01:23.43,0:01:25.10,Default,,0,0,0,,{\k7}The{\k0} {\k26}list{\k0} {\k24}that{\k0} {\k34}doesn{\k0}’{\k5}t{\k0} {\k54}exist{\k0}!
+Dialogue: 0,0:01:26.04,0:01:27.82,Default,,0,0,0,,{\k0}“{\k38}Sir{\k0},{\k0} {\k10}do{\k0} {\k12}you{\k0} {\k16}know{\k0} {\k14}who{\k0}’{\k5}s{\k0} {\k8}on{\k0} {\k10}the{\k0} {\k36}list{\k0}?”
+Dialogue: 0,0:01:28.22,0:01:30.23,Default,,0,0,0,,{\k0}“{\k4}I{\k0} {\k18}don{\k0}’{\k5}t{\k0} {\k24}know{\k0}.{\k0} {\k18}I{\k0}’{\k5}ve{\k0} {\k26}never{\k0} {\k18}seen{\k0} {\k2}a{\k0} {\k36}list{\k0}.
+Dialogue: 0,0:01:30.81,0:01:33.63,Default,,0,0,0,,{\k16}There{\k0} {\k16}may{\k0} {\k12}be{\k0} {\k2}a{\k0} {\k36}list{\k0}.{\k0} {\k6}It{\k0} {\k20}might{\k0} {\k18}not{\k0} {\k10}be{\k0} {\k26}real{\k0}.
+Dialogue: 0,0:01:33.95,0:01:36.68,Default,,0,0,0,,{\k14}What{\k0} {\k16}even{\k0} {\k6}is{\k0} {\k2}a{\k0} {\k100}list{\k0}?{\k0} {\k8}Is{\k0} {\k6}it{\k0} {\k16}even{\k0} {\k52}legal{\k0}?”
+Dialogue: 0,0:01:47.37,0:01:49.70,Default,,0,0,0,,{\k44}Flashbulbs{\k0} {\k28}pop{\k0},{\k0} {\k8}the{\k0} {\k30}crowd{\k0} {\k26}goes{\k0} {\k42}numb
+Dialogue: 0,0:01:49.94,0:01:52.31,Default,,0,0,0,,{\k44}Another{\k0} {\k66}scandal{\k0},{\k0} {\k32}here{\k0} {\k8}it{\k0} {\k52}comes
+Dialogue: 0,0:01:52.41,0:01:54.72,Default,,0,0,0,,{\k12}But{\k0} {\k18}don{\k0}’{\k5}t{\k0} {\k17}you{\k0} {\k42}dare{\k0} {\k26}try{\k0} {\k20}to{\k0} {\k58}insist{\k0}—
+Dialogue: 0,0:01:54.78,0:01:58.41,Default,,0,0,0,,{\k14}That{\k0} {\k20}there{\k0}’{\k5}s{\k0} {\k44}anything{\k0} {\k30}real{\k0} {\k8}on{\k0} {\k50}that{\k0} {\k64}damn{\k0} {\k74}list{\k0}!
+Dialogue: 0,0:02:02.27,0:02:04.80,Default,,0,0,0,,{\k34}The{\k0} {\k40}list{\k0} {\k24}that{\k0} {\k38}doesn{\k0}’{\k5}t{\k0} {\k44}exist
+Dialogue: 0,0:02:04.88,0:02:07.30,Default,,0,0,0,,{\k30}Stays{\k0} {\k50}sealed{\k0} {\k18}with{\k0} {\k6}a{\k0} {\k42}pervert{\k0}’{\k5}s{\k0} {\k20}kiss
+Dialogue: 0,0:02:07.40,0:02:09.81,Default,,0,0,0,,{\k28}The{\k0} {\k38}list{\k0} {\k24}that{\k0} {\k20}we{\k0}’{\k5}ll{\k0} {\k17}never{\k0} {\k34}see
+Dialogue: 0,0:02:10.11,0:02:12.71,Default,,0,0,0,,{\k42}Because{\k0} {\k8}the{\k0} {\k30}truth{\k0} {\k16}ain{\k0}’{\k5}t{\k0} {\k0}“{\k29}Made{\k0} {\k8}in{\k0} {\k64}D{\k0}.{\k12}C{\k0}.”
+Dialogue: 0,0:02:12.71,0:02:14.93,Default,,0,0,0,,{\k5}So{\k0} {\k27}scream{\k0} {\k10}it{\k0} {\k38}loud{\k0},{\k0} {\k28}don't{\k0} {\k16}let{\k0} {\k22}them{\k0} {\k38}win{\k0}—
+Dialogue: 0,0:02:14.99,0:02:17.38,Default,,0,0,0,,{\k30}They{\k0} {\k24}hid{\k0} {\k14}the{\k0} {\k36}list{\k0}...{\k0} {\k6}and{\k0} {\k12}all{\k0} {\k20}their{\k0} {\k34}sins
+Dialogue: 0,0:02:17.50,0:02:20.27,Default,,0,0,0,,{\k14}It{\k0}’{\k5}s{\k0} {\k12}the{\k0} {\k32}list{\k0} {\k0}({\k23}shhh{\k0}),{\k0} {\k14}the{\k0} {\k104}list{\k0} {\k0}({\k7}shhh{\k0})
+Dialogue: 0,0:02:20.27,0:02:22.21,Default,,0,0,0,,{\k7}The{\k0} {\k24}list{\k0} {\k22}that{\k0} {\k34}doesn{\k0}’{\k5}t{\k0} {\k80}exist{\k0}!

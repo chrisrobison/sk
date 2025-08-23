@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:20.48,0:00:23.33,Default,,0,0,0,,{\k88}Nicotine{\k0} {\k36}vapes{\k0} {\k12}and{\k0} {\k6}a{\k0} {\k52}Netflix{\k0} {\k48}binge{\k0},
+Dialogue: 0,0:00:23.87,0:00:27.21,Default,,0,0,0,,{\k40}Fast{\k0}-{\k5}food{\k0} {\k79}dopamine{\k0} {\k38}straight{\k0} {\k20}to{\k0} {\k10}the{\k0} {\k88}fringe{\k0}.
+Dialogue: 0,0:00:27.23,0:00:29.78,Default,,0,0,0,,{\k40}Endless{\k0} {\k60}scroll{\k0},{\k0} {\k42}another{\k0} {\k22}cheap{\k0} {\k30}laugh{\k0},
+Dialogue: 0,0:00:30.02,0:00:33.08,Default,,0,0,0,,{\k22}Life{\k0}’{\k5}s{\k0} {\k6}a{\k0} {\k38}slot{\k0} {\k64}machine{\k0},{\k0} {\k38}pull{\k0} {\k12}the{\k0} {\k16}app{\k0}.
+Dialogue: 0,0:00:33.70,0:00:36.61,Default,,0,0,0,,{\k32}Low{\k0} {\k48}effort{\k0} {\k36}high{\k0} {\k0}—{\k0} {\k98}convenience{\k0} {\k42}kills{\k0},
+Dialogue: 0,0:00:36.97,0:00:40.21,Default,,0,0,0,,{\k80}Synthetic{\k0} {\k38}joy{\k0} {\k12}and{\k0} {\k84}subscription{\k0} {\k74}bills{\k0}.
+Dialogue: 0,0:00:40.23,0:00:43.44,Default,,0,0,0,,{\k34}Low{\k0} {\k48}effort{\k0} {\k42}high{\k0} {\k0}—{\k0} {\k22}just{\k0} {\k130}pacify{\k0},
+Dialogue: 0,0:00:43.50,0:00:46.64,Default,,0,0,0,,{\k26}We{\k0}’{\k5}re{\k0} {\k14}all{\k0} {\k22}too{\k0} {\k34}numb{\k0} {\k20}to{\k0} {\k30}even{\k0} {\k20}ask{\k0} {\k54}why{\k0}.
+Dialogue: 0,0:00:53.15,0:00:56.10,Default,,0,0,0,,{\k82}TikTok{\k0} {\k62}sermons{\k0} {\k8}and{\k0} {\k58}Amazon{\k0} {\k48}prayers{\k0},
+Dialogue: 0,0:00:56.52,0:00:59.30,Default,,0,0,0,,{\k40}Instant{\k0} {\k68}delivery{\k0},{\k0} {\k68}nobody{\k0} {\k48}cares{\k0}.
+Dialogue: 0,0:00:59.60,0:01:02.26,Default,,0,0,0,,{\k40}Plastic{\k0} {\k42}pleasures{\k0} {\k16}in{\k0} {\k72}disposable{\k0} {\k42}time{\k0},
+Dialogue: 0,0:01:02.76,0:01:05.57,Default,,0,0,0,,{\k28}Junk{\k0} {\k32}food{\k0} {\k48}culture{\k0} {\k64}dressed{\k0} {\k10}up{\k0} {\k10}as{\k0} {\k40}prime{\k0}.
+Dialogue: 0,0:01:05.95,0:01:08.71,Default,,0,0,0,,{\k80}Low{\k0} {\k5}effort{\k0} {\k39}high{\k0} {\k0}—{\k0} {\k60}dopamine{\k0} {\k34}drip{\k0},
+Dialogue: 0,0:01:09.11,0:01:11.83,Default,,0,0,0,,{\k52}Filter{\k0} {\k20}your{\k0} {\k16}life{\k0} {\k26}through{\k0} {\k4}a{\k0} {\k64}selfie{\k0} {\k42}stick{\k0}.
+Dialogue: 0,0:01:12.34,0:01:15.15,Default,,0,0,0,,{\k78}Low{\k0} {\k5}effort{\k0} {\k39}high{\k0} {\k0}—{\k0} {\k30}can{\k0}’{\k84}t{\k0} {\k5}clarify{\k0},
+Dialogue: 0,0:01:15.22,0:01:18.28,Default,,0,0,0,,{\k6}If{\k0} {\k20}we{\k0}’{\k54}re{\k0} {\k5}living{\k0} {\k8}at{\k0} {\k10}all{\k0} {\k8}or{\k0} {\k20}just{\k0} {\k44}getting{\k0} {\k60}by{\k0}.
+Dialogue: 0,0:01:25.50,0:01:27.95,Default,,0,0,0,,{\k24}Like{\k0},{\k0} {\k44}share{\k0},{\k0} {\k52}comment{\k0},{\k0} {\k74}subscribe{\k0},
+Dialogue: 0,0:01:28.35,0:01:30.93,Default,,0,0,0,,{\k64}Artificial{\k0} {\k46}meaning{\k0} {\k26}keeps{\k0} {\k8}us{\k0} {\k62}alive{\k0}.
+Dialogue: 0,0:01:31.51,0:01:33.95,Default,,0,0,0,,{\k28}Push{\k0} {\k20}that{\k0} {\k40}button{\k0},{\k0} {\k36}scratch{\k0} {\k24}that{\k0} {\k24}itch{\k0},
+Dialogue: 0,0:01:34.11,0:01:38.06,Default,,0,0,0,,{\k86}Attention{\k0} {\k50}span{\k0}’{\k8}s{\k0} {\k42}a{\k0} {\k5}bait{\k0}-{\k126}and{\k0}-{\k40}switch{\k0}.
+Dialogue: 0,0:01:38.06,0:01:41.00,Default,,0,0,0,,{\k5}Low{\k0} {\k37}effort{\k0} {\k38}high{\k0} {\k0}—{\k0} {\k22}the{\k0} {\k50}easy{\k0} {\k90}fix{\k0},
+Dialogue: 0,0:01:41.02,0:01:44.07,Default,,0,0,0,,{\k36}Order{\k0} {\k18}your{\k0} {\k60}future{\k0} {\k6}in{\k0} {\k66}two{\k0}-{\k5}day{\k0} {\k76}clicks{\k0}.
+Dialogue: 0,0:01:44.09,0:01:47.21,Default,,0,0,0,,{\k24}Low{\k0} {\k40}effort{\k0} {\k32}high{\k0} {\k0}—{\k0} {\k18}till{\k0} {\k10}the{\k0} {\k34}day{\k0} {\k16}we{\k0} {\k68}die{\k0},
+Dialogue: 0,0:01:47.29,0:01:50.40,Default,,0,0,0,,{\k28}Cheap{\k0} {\k46}little{\k0} {\k38}thrills{\k0} {\k12}as{\k0} {\k14}the{\k0} {\k34}years{\k0} {\k28}go{\k0} {\k62}by{\k0}!
+Dialogue: 0,0:02:03.12,0:02:06.58,Default,,0,0,0,,{\k34}Low{\k0} {\k12}effort{\k0} {\k72}high{\k0} {\k0}—{\k0} {\k28}the{\k0} {\k50}easy{\k0} {\k94}fix
+Dialogue: 0,0:02:06.61,0:02:09.23,Default,,0,0,0,,{\k36}Order{\k0} {\k20}your{\k0} {\k72}future{\k0} {\k5}in{\k0} {\k68}two{\k0}-{\k5}day{\k0} {\k38}clicks
+Dialogue: 0,0:02:09.75,0:02:12.72,Default,,0,0,0,,{\k14}Low{\k0} {\k12}effort{\k0} {\k60}high{\k0} {\k0}—{\k0} {\k22}till{\k0} {\k16}the{\k0} {\k32}day{\k0} {\k18}we{\k0} {\k18}die
+Dialogue: 0,0:02:12.78,0:02:20.53,Default,,0,0,0,,{\k24}Cheap{\k0} {\k50}little{\k0} {\k36}thrills{\k0} {\k12}as{\k0} {\k12}the{\k0} {\k34}years{\k0} {\k34}go{\k0} {\k531}by{\k0}!

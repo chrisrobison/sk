@@ -1,21 +1,43 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.15,0:00:26.23,Default,,0,0,0,,Cracked pavement and static on your morning screen\\NDead eyes behind the podium, parading every scene\\NShuffling their papers, but the ink is running thin\\NHope gets buried while the pandering begins
-Dialogue: 0,0:00:10.15,0:00:43.19,Default,,0,0,0,,Zombie congressmen take their marching orders high\\NNever mind the faces worn, just shuffle and comply\\NVoting red or blue, but they never wonder why\\NBrains on autopilot, never hear our cries
-Dialogue: 0,0:00:10.15,0:02:12.74,Default,,0,0,0,,Hey oh, brains for sale (hey oh)\\NHey oh, brains for sale
-Dialogue: 0,0:00:10.15,0:01:36.51,Default,,0,0,0,,We\'re shouting at their doors\\NBut their minds are locked up tight\\NA stampede of empty suits\\NDawn of the party line tonight
-Dialogue: 0,0:00:10.15,0:00:43.19,Default,,0,0,0,,Zombie congressmen take their marching orders high\\NNever mind the faces worn, just shuffle and comply\\NVoting red or blue, but they never wonder why\\NBrains on autopilot, never hear our cries
-Dialogue: 0,0:00:10.15,0:00:43.19,Default,,0,0,0,,Zombie congressmen take their marching orders high\\NNever mind the faces worn just shuffle and comply\\NVoting red or blue but they never wonder why\\NBrains on autopilot never hear our cries
+
+Dialogue: 0,0:00:10.11,0:00:13.51,Default,,0,0,0,,{\k38}Cracked{\k0} {\k52}pavement{\k0} {\k12}and{\k0} {\k58}static{\k0} {\k10}on{\k0} {\k20}your{\k0} {\k42}morning{\k0} {\k46}screen
+Dialogue: 0,0:00:13.55,0:00:17.73,Default,,0,0,0,,{\k68}Dead{\k0} {\k14}eyes{\k0} {\k44}behind{\k0} {\k8}the{\k0} {\k90}podium{\k0},{\k0} {\k70}parading{\k0} {\k30}every{\k0} {\k44}scene
+Dialogue: 0,0:00:18.43,0:00:21.94,Default,,0,0,0,,{\k80}Shuffling{\k0} {\k22}their{\k0} {\k52}papers{\k0},{\k0} {\k20}but{\k0} {\k18}the{\k0} {\k18}ink{\k0} {\k10}is{\k0} {\k32}running{\k0} {\k36}thin
+Dialogue: 0,0:00:21.98,0:00:26.42,Default,,0,0,0,,{\k110}Hope{\k0} {\k34}gets{\k0} {\k50}buried{\k0} {\k28}while{\k0} {\k18}the{\k0} {\k64}pandering{\k0} {\k70}begins
+Dialogue: 0,0:00:27.02,0:00:30.53,Default,,0,0,0,,{\k54}Zombie{\k0} {\k48}congressmen{\k0} {\k22}take{\k0} {\k20}their{\k0} {\k38}marching{\k0} {\k28}orders{\k0} {\k40}high
+Dialogue: 0,0:00:31.29,0:00:34.75,Default,,0,0,0,,{\k30}Never{\k0} {\k42}mind{\k0} {\k8}the{\k0} {\k64}faces{\k0} {\k24}worn{\k0},{\k0} {\k14}just{\k0} {\k40}shuffle{\k0} {\k16}and{\k0} {\k40}comply
+Dialogue: 0,0:00:35.53,0:00:39.54,Default,,0,0,0,,{\k46}Voting{\k0} {\k26}red{\k0} {\k4}or{\k0} {\k36}blue{\k0},{\k0} {\k20}but{\k0} {\k24}they{\k0} {\k44}never{\k0} {\k38}wonder{\k0} {\k96}why
+Dialogue: 0,0:00:39.54,0:00:44.95,Default,,0,0,0,,{\k46}Brains{\k0} {\k12}on{\k0} {\k4}autopilot{\k0},{\k0} {\k32}never{\k0} {\k22}hear{\k0} {\k12}our{\k0} {\k219}cries
+Dialogue: 0,0:00:46.14,0:00:51.88,Default,,0,0,0,,{\k130}Hey{\k0} {\k22}oh{\k0},{\k0} {\k24}brains{\k0} {\k10}for{\k0} {\k112}sale{\k0} {\k0}({\k130}hey{\k0} {\k22}oh{\k0})
+Dialogue: 0,0:00:51.94,0:00:53.61,Default,,0,0,0,,{\k24}Hey{\k0} {\k10}oh{\k0},{\k0} {\k5}brains{\k0} {\k119}for{\k0} {\k5}sale
+Dialogue: 0,0:01:03.28,0:01:06.52,Default,,0,0,0,,{\k34}Lines{\k0} {\k26}drawn{\k0} {\k8}in{\k0} {\k36}sand{\k0} {\k18}no{\k0} {\k36}matter{\k0} {\k30}what{\k0} {\k8}the{\k0} {\k46}people{\k0} {\k34}need
+Dialogue: 0,0:01:07.08,0:01:10.89,Default,,0,0,0,,{\k96}Constituents{\k0} {\k50}ignored{\k0} {\k48}as{\k0} {\k22}the{\k0} {\k38}lobby{\k0} {\k24}books{\k0} {\k18}the{\k0} {\k44}feed
+Dialogue: 0,0:01:10.91,0:01:15.24,Default,,0,0,0,,{\k2}A{\k0} {\k56}hand{\k0} {\k14}up{\k0},{\k0} {\k4}a{\k0} {\k50}hand{\k0} {\k14}out{\k0},{\k0} {\k24}they're{\k0} {\k50}trading{\k0} {\k34}paper{\k0} {\k46}skin
+Dialogue: 0,0:01:15.28,0:01:20.94,Default,,0,0,0,,{\k116}Plaster{\k0} {\k8}on{\k0} {\k20}their{\k0} {\k46}grins{\k0},{\k0} {\k18}now{\k0} {\k20}the{\k0} {\k48}walking{\k0} {\k24}dead{\k0} {\k194}begin
+Dialogue: 0,0:01:21.39,0:01:23.83,Default,,0,0,0,,{\k20}We're{\k0} {\k54}shouting{\k0} {\k10}at{\k0} {\k44}their{\k0} {\k56}doors
+Dialogue: 0,0:01:25.17,0:01:27.19,Default,,0,0,0,,{\k20}But{\k0} {\k24}their{\k0} {\k24}minds{\k0} {\k6}are{\k0} {\k26}locked{\k0} {\k10}up{\k0} {\k54}tight
+Dialogue: 0,0:01:29.65,0:01:33.52,Default,,0,0,0,,{\k24}A{\k0} {\k64}stampede{\k0} {\k8}of{\k0} {\k78}empty{\k0} {\k168}suits
+Dialogue: 0,0:01:33.54,0:01:36.64,Default,,0,0,0,,{\k32}Dawn{\k0} {\k8}of{\k0} {\k18}the{\k0} {\k38}party{\k0} {\k22}line{\k0} {\k160}tonight
+Dialogue: 0,0:01:37.56,0:01:41.11,Default,,0,0,0,,{\k52}Zombie{\k0} {\k86}congressmen{\k0} {\k22}take{\k0} {\k20}their{\k0} {\k62}marching{\k0} {\k30}orders{\k0} {\k42}high
+Dialogue: 0,0:01:41.89,0:01:45.32,Default,,0,0,0,,{\k28}Never{\k0} {\k42}mind{\k0} {\k14}the{\k0} {\k74}faces{\k0} {\k12}worn{\k0},{\k0} {\k18}just{\k0} {\k40}shuffle{\k0} {\k14}and{\k0} {\k52}comply
+Dialogue: 0,0:01:46.26,0:01:50.14,Default,,0,0,0,,{\k38}Voting{\k0} {\k26}red{\k0} {\k48}or{\k0} {\k5}blue{\k0},{\k0} {\k20}but{\k0} {\k22}they{\k0} {\k24}never{\k0} {\k36}wonder{\k0} {\k96}why
+Dialogue: 0,0:01:50.14,0:01:54.75,Default,,0,0,0,,{\k78}Brains{\k0} {\k10}on{\k0} {\k2}autopilot{\k0},{\k0} {\k36}never{\k0} {\k24}hear{\k0} {\k10}our{\k0} {\k132}cries
+Dialogue: 0,0:01:57.06,0:02:01.59,Default,,0,0,0,,{\k24}Hey{\k0} {\k22}oh{\k0},{\k0} {\k5}brains{\k0} {\k10}for{\k0} {\k5}sale{\k0} {\k0}({\k216}hey{\k0} {\k56}oh{\k0})
+Dialogue: 0,0:02:01.59,0:02:12.40,Default,,0,0,0,,{\k5}Hey{\k0} {\k24}oh{\k0},{\k0} {\k10}brains{\k0} {\k5}for{\k0} {\k115}sale{\k0}[{\k52}Horn{\k0} {\k5}Solo{\k0}]
+Dialogue: 0,0:02:12.45,0:02:15.37,Default,,0,0,0,,{\k34}Horns{\k0} {\k5}blare{\k0} {\k63}warnings{\k0} {\k10}as{\k0} {\k8}the{\k0} {\k36}brains{\k0} {\k26}go{\k0} {\k10}out{\k0} {\k12}to{\k0} {\k36}lunch
+Dialogue: 0,0:02:16.15,0:02:19.73,Default,,0,0,0,,{\k46}Another{\k0} {\k24}round{\k0} {\k4}of{\k0} {\k84}chaos{\k0} {\k32}served{\k0} {\k10}up{\k0} {\k20}with{\k0} {\k4}a{\k0} {\k48}punch
+Dialogue: 0,0:02:20.45,0:02:24.02,Default,,0,0,0,,{\k54}Truth{\k0} {\k30}decays{\k0} {\k10}in{\k0} {\k58}silence{\k0} {\k22}while{\k0} {\k22}they're{\k0} {\k30}locked{\k0} {\k42}inside{\k0} {\k8}that{\k0} {\k44}dome
+Dialogue: 0,0:02:24.76,0:02:29.06,Default,,0,0,0,,{\k22}We{\k0}’{\k5}re{\k0} {\k19}still{\k0} {\k40}screaming{\k0} {\k38}loud{\k0} {\k14}but{\k0} {\k46}getting{\k0} {\k14}sent{\k0} {\k24}straight{\k0} {\k114}home
+Dialogue: 0,0:02:29.18,0:02:32.61,Default,,0,0,0,,{\k40}Zombie{\k0} {\k82}congressmen{\k0} {\k24}take{\k0} {\k20}their{\k0} {\k38}marching{\k0} {\k22}orders{\k0} {\k38}high
+Dialogue: 0,0:02:33.39,0:02:36.89,Default,,0,0,0,,{\k32}Never{\k0} {\k36}mind{\k0} {\k8}the{\k0} {\k62}faces{\k0} {\k24}worn{\k0} {\k20}just{\k0} {\k38}shuffle{\k0} {\k30}and{\k0} {\k22}comply
+Dialogue: 0,0:02:37.69,0:02:41.70,Default,,0,0,0,,{\k50}Voting{\k0} {\k24}red{\k0} {\k6}or{\k0} {\k36}blue{\k0} {\k22}but{\k0} {\k28}they{\k0} {\k40}never{\k0} {\k36}wonder{\k0} {\k96}why
+Dialogue: 0,0:02:41.70,0:02:46.68,Default,,0,0,0,,{\k52}Brains{\k0} {\k12}on{\k0} {\k4}autopilot{\k0} {\k40}never{\k0} {\k22}hear{\k0} {\k149}our{\k0} {\k22}cries

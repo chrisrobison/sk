@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+Title: Song by The Suicidal Kennedys
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.66,0:00:02.02,Default,,0,0,0,,{\k32}Woke{\k0} {\k8}up{\k0} {\k16}quick{\k0},{\k0} {\k6}at{\k0} {\k18}about{\k0} {\k16}noon
+Dialogue: 0,0:00:02.06,0:00:03.54,Default,,0,0,0,,{\k14}jus'{\k0} {\k16}thought{\k0} {\k10}that{\k0} {\k2}I{\k0} {\k8}had{\k0} {\k4}to{\k0} {\k8}be{\k0} {\k44}in{\k0} {\k5}compton{\k0} {\k23}soon{\k0}.
+Dialogue: 0,0:00:03.58,0:00:04.84,Default,,0,0,0,,{\k6}I{\k0} {\k16}gotta{\k0} {\k12}get{\k0} {\k16}drunk{\k0} {\k8}before{\k0} {\k6}the{\k0} {\k10}day{\k0} {\k30}begins
+Dialogue: 0,0:00:05.00,0:00:06.38,Default,,0,0,0,,{\k12}before{\k0} {\k2}my{\k0} {\k10}mother{\k0} {\k16}starts{\k0} {\k18}bitchin'{\k0} {\k12}about{\k0} {\k14}ma'{\k0} {\k30}friends
+Dialogue: 0,0:00:06.60,0:00:07.68,Default,,0,0,0,,{\k10}About{\k0} {\k4}to{\k0} {\k12}go{\k0} {\k2}and{\k0} {\k16}damn{\k0} {\k12}near{\k0} {\k16}went{\k0} {\k12}blind
+Dialogue: 0,0:00:07.72,0:00:09.25,Default,,0,0,0,,{\k10}young{\k0} {\k18}fellas{\k0} {\k4}at{\k0} {\k6}the{\k0} {\k22}path{\k0} {\k10}throwin'{\k0} {\k8}up{\k0} {\k8}fun{\k0} {\k28}signs
+Dialogue: 0,0:00:09.31,0:00:10.49,Default,,0,0,0,,{\k16}Ran{\k0} {\k4}in{\k0} {\k6}the{\k0} {\k16}house{\k0},{\k0} {\k6}and{\k0} {\k20}grabbed{\k0} {\k6}the{\k0} {\k20}clip
+Dialogue: 0,0:00:10.53,0:00:11.87,Default,,0,0,0,,{\k6}with{\k0} {\k6}the{\k0} {\k20}mack{\k0} {\k18}10{\k0} {\k4}on{\k0} {\k6}the{\k0} {\k12}side{\k0} {\k4}of{\k0} {\k6}my{\k0} {\k14}hip
+Dialogue: 0,0:00:12.09,0:00:13.45,Default,,0,0,0,,{\k20}bailed{\k0} {\k30}outside{\k0} {\k6}and{\k0} {\k26}pointed{\k0} {\k4}ma'{\k0} {\k26}weapon
+Dialogue: 0,0:00:13.67,0:00:14.91,Default,,0,0,0,,{\k16}just{\k0} {\k18}as{\k0} {\k8}i{\k0} {\k5}thought{\k0} {\k19}the{\k0} {\k14}fools{\k0} {\k5}kept{\k0} {\k27}steppin'
+Dialogue: 0,0:00:14.93,0:00:16.29,Default,,0,0,0,,{\k18}jumped{\k0} {\k4}in{\k0} {\k6}the{\k0} {\k14}Ford{\k0},{\k0} {\k8}hit{\k0} {\k6}the{\k0} {\k18}juice{\k0} {\k6}on{\k0} {\k26}my{\k0} {\k5}ride
+Dialogue: 0,0:00:16.40,0:00:17.56,Default,,0,0,0,,{\k6}I{\k0} {\k8}got{\k0} {\k14}front{\k0} {\k14}back{\k0},{\k0} {\k10}and{\k0} {\k16}side{\k0} {\k6}to{\k0} {\k22}side
+Dialogue: 0,0:00:17.68,0:00:18.26,Default,,0,0,0,,{\k10}then{\k0} {\k12}I{\k0} {\k5}let{\k0} {\k4}the{\k0} {\k5}alpine{\k0} {\k5}play{\k0} {\k0}({\k8}play{\k0})
+Dialogue: 0,0:00:18.26,0:00:18.76,Default,,0,0,0,,{\k5}pumpin'{\k0} {\k5}new{\k0} {\k5}shit{\k0} {\k3}by{\k0} {\k18}NWA
+Dialogue: 0,0:00:20.38,0:00:21.74,Default,,0,0,0,,{\k6}It{\k0} {\k8}was{\k0} {\k26}gangsta'{\k0} {\k22}gangsta'{\k0} {\k4}at{\k0} {\k6}the{\k0} {\k18}top{\k0} {\k4}of{\k0} {\k6}the{\k0} {\k12}list
+Dialogue: 0,0:00:21.80,0:00:23.25,Default,,0,0,0,,{\k8}then{\k0} {\k2}I{\k0} {\k12}played{\k0} {\k4}my{\k0} {\k12}own{\k0} {\k14}shit{\k0} {\k14}and{\k0} {\k5}it{\k0} {\k15}went{\k0} {\k5}somethin'{\k0} {\k7}like{\k0} {\k22}this{\k0},
+Dialogue: 0,0:00:23.27,0:00:25.03,Default,,0,0,0,,{\k18}Cruisin'{\k0} {\k12}down{\k0} {\k6}the{\k0} {\k24}street{\k0} {\k18}in{\k0} {\k12}my{\k0} {\k32}six{\k0}-{\k22}fo'
+Dialogue: 0,0:00:25.03,0:00:26.07,Default,,0,0,0,,{\k5}jockin'{\k0} {\k5}the{\k0} {\k28}bitches{\k0},{\k0} {\k24}slappin'{\k0} {\k6}the{\k0} {\k20}hoes
+Dialogue: 0,0:00:26.27,0:00:27.43,Default,,0,0,0,,{\k14}Went{\k0} {\k10}to{\k0} {\k6}the{\k0} {\k14}park{\k0} {\k6}to{\k0} {\k10}get{\k0} {\k6}the{\k0} {\k26}scoop
+Dialogue: 0,0:00:28.15,0:00:30.34,Default,,0,0,0,,{\k6}Knuckleheads{\k0} {\k8}out{\k0} {\k8}there{\k0} {\k74}cold{\k0},{\k0} {\k32}shootin'{\k0} {\k14}some{\k0} {\k42}hoops
+Dialogue: 0,0:00:30.36,0:00:31.54,Default,,0,0,0,,{\k26}a{\k0} {\k5}car{\k0} {\k15}pulls{\k0} {\k6}up{\k0},{\k0} {\k8}who{\k0} {\k14}can{\k0} {\k8}it{\k0} {\k14}be{\k0}?
+Dialogue: 0,0:00:31.80,0:00:33.12,Default,,0,0,0,,{\k6}a{\k0} {\k18}fresh{\k0} {\k8}El{\k0} {\k14}Camino{\k0} {\k12}rollin{\k0} {\k28}kilo{\k0} {\k2}G
+Dialogue: 0,0:00:33.14,0:00:34.52,Default,,0,0,0,,{\k8}he{\k0} {\k14}rolled{\k0} {\k4}down{\k0} {\k6}his{\k0} {\k22}window{\k0} {\k8}and{\k0} {\k16}he{\k0} {\k6}started{\k0} {\k5}to{\k0} {\k21}say
+Dialogue: 0,0:00:35.29,0:00:38.79,Default,,0,0,0,,{\k12}it's{\k0} {\k14}all{\k0} {\k20}about{\k0} {\k28}makin'{\k0} {\k24}that{\k0} {\k124}G{\k0}.{\k5}T{\k0}.{\k18}A{\k0}.
+Dialogue: 0,0:00:38.79,0:00:43.18,Default,,0,0,0,,{\k5}'Cause{\k0} {\k9}the{\k0} {\k84}boys{\k0} {\k18}in{\k0} {\k6}the{\k0} {\k10}hood{\k0} {\k6}are{\k0} {\k20}always{\k0} {\k56}hard
+Dialogue: 0,0:00:44.81,0:00:47.99,Default,,0,0,0,,{\k14}you{\k0} {\k28}come{\k0} {\k32}talkin'{\k0} {\k26}that{\k0} {\k44}trash{\k0},{\k0} {\k26}we'll{\k0} {\k28}pull{\k0} {\k22}ya{\k0} {\k52}car
+Dialogue: 0,0:00:50.42,0:00:52.64,Default,,0,0,0,,{\k48}knowin'{\k0} {\k12}nutin'{\k0} {\k10}in{\k0} {\k24}life{\k0} {\k20}but{\k0} {\k10}to{\k0} {\k24}be{\k0} {\k2}legit
+Dialogue: 0,0:00:52.68,0:00:55.81,Default,,0,0,0,,{\k28}don't{\k0} {\k10}quote{\k0} {\k34}me{\k0} {\k34}boy{\k0} {\k18}'cause{\k0} {\k10}I{\k0} {\k18}ain't{\k0} {\k32}said{\k0} {\k32}shit
+Dialogue: 0,0:00:55.89,0:00:57.09,Default,,0,0,0,,{\k34}Bored{\k0} {\k5}as{\k0} {\k15}hell{\k0} {\k2}and{\k0} {\k2}I{\k0} {\k16}wanna{\k0} {\k10}get{\k0} {\k10}ill
+Dialogue: 0,0:00:57.15,0:00:58.59,Default,,0,0,0,,{\k6}so{\k0} {\k2}I{\k0} {\k18}went{\k0} {\k4}to{\k0} {\k6}a{\k0} {\k16}spot{\k0} {\k12}where{\k0} {\k4}ma'{\k0} {\k32}homeboys{\k0} {\k22}chill
+Dialogue: 0,0:00:58.63,0:00:59.99,Default,,0,0,0,,{\k6}the{\k0} {\k18}fellas{\k0} {\k8}out{\k0} {\k12}there{\k0} {\k20}makin'{\k0} {\k12}'dat{\k0} {\k22}dollar
+Dialogue: 0,0:01:00.07,0:01:01.29,Default,,0,0,0,,{\k2}I{\k0} {\k8}pulled{\k0} {\k4}up{\k0} {\k4}in{\k0} {\k8}ma'{\k0} {\k10}6{\k0} {\k12}fo'{\k0} {\k14}impala
+Dialogue: 0,0:01:01.31,0:01:02.77,Default,,0,0,0,,{\k2}they{\k0} {\k14}greet{\k0} {\k10}mewit{\k0} {\k2}a{\k0} {\k24}40{\k0} {\k6}and{\k0} {\k8}I{\k0} {\k16}start{\k0} {\k20}drinkin'
+Dialogue: 0,0:01:02.91,0:01:03.95,Default,,0,0,0,,{\k4}and{\k0} {\k12}from{\k0} {\k6}the{\k0} {\k12}8{\k0} {\k4}ball{\k0},{\k0} {\k10}my{\k0} {\k12}breath{\k0} {\k6}starts{\k0} {\k6}stinkin'
+Dialogue: 0,0:01:03.97,0:01:05.01,Default,,0,0,0,,{\k18}left{\k0} {\k8}to{\k0} {\k12}get{\k0} {\k14}ma'{\k0} {\k12}girl{\k0} {\k3}to{\k0} {\k3}rock{\k0} {\k3}that{\k0} {\k1}body
+Dialogue: 0,0:01:05.01,0:01:07.52,Default,,0,0,0,,{\k1}before{\k0} {\k1}I{\k0} {\k16}left{\k0},{\k0} {\k6}I{\k0} {\k16}hit{\k0} {\k6}the{\k0} {\k2}bac{\k0}-{\k2}ardi
+Dialogue: 0,0:01:07.52,0:01:08.54,Default,,0,0,0,,{\k2}went{\k0} {\k2}to{\k0} {\k2}her{\k0} {\k2}house{\k0} {\k11}to{\k0} {\k11}get{\k0} {\k10}her{\k0} {\k10}out{\k0} {\k4}of{\k0} {\k14}the{\k0} {\k12}pad
+Dialogue: 0,0:01:08.54,0:01:09.79,Default,,0,0,0,,{\k5}dumb{\k0} {\k5}hoe{\k0} {\k16}said{\k0} {\k16}somethin'{\k0} {\k16}that{\k0} {\k24}made{\k0} {\k16}me{\k0} {\k5}mad
+Dialogue: 0,0:01:09.79,0:01:11.18,Default,,0,0,0,,{\k13}she{\k0} {\k24}said{\k0} {\k28}somethin'{\k0} {\k8}that{\k0} {\k8}I{\k0} {\k16}couldn't{\k0} {\k28}believe
+Dialogue: 0,0:01:11.20,0:01:13.40,Default,,0,0,0,,{\k18}so{\k0} {\k8}I{\k0} {\k18}grabbed{\k0} {\k10}the{\k0} {\k32}stupid{\k0} {\k18}bitch{\k0} {\k18}by{\k0} {\k2}her{\k0} {\k12}nappy{\k0}-{\k16}ass{\k0} {\k20}weave
+Dialogue: 0,0:01:13.64,0:01:14.88,Default,,0,0,0,,{\k12}she{\k0} {\k26}started{\k0} {\k5}talkin'{\k0} {\k31}shit{\k0},{\k0} {\k16}wouldn't{\k0} {\k20}you{\k0} {\k5}know{\k0}?
+Dialogue: 0,0:01:14.88,0:01:16.49,Default,,0,0,0,,{\k9}reached{\k0} {\k5}back{\k0} {\k15}like{\k0} {\k4}a{\k0} {\k22}pimp{\k0},{\k0} {\k24}slapped{\k0} {\k10}the{\k0} {\k46}hoe
+Dialogue: 0,0:01:16.69,0:01:18.79,Default,,0,0,0,,{\k6}her{\k0} {\k10}father{\k0} {\k18}jumped{\k0} {\k8}up{\k0} {\k12}and{\k0} {\k12}he{\k0} {\k24}started{\k0} {\k4}to{\k0} {\k68}shout
+Dialogue: 0,0:01:18.79,0:01:23.10,Default,,0,0,0,,{\k26}so{\k0} {\k5}I{\k0} {\k5}threw{\k0} {\k5}a{\k0} {\k39}right{\k0} {\k34}cross{\k0} {\k16}and{\k0} {\k46}knocked{\k0} {\k18}his{\k0} {\k30}old{\k0}-{\k42}ass{\k0} {\k20}out
+Dialogue: 0,0:01:23.76,0:01:28.89,Default,,0,0,0,,{\k18}'Cause{\k0} {\k10}the{\k0} {\k86}boys{\k0} {\k16}in{\k0} {\k6}the{\k0} {\k14}hood{\k0} {\k16}are{\k0} {\k46}always{\k0} {\k106}hard
+Dialogue: 0,0:01:29.93,0:01:31.13,Default,,0,0,0,,{\k18}you{\k0} {\k28}come{\k0} {\k36}talkin'{\k0} {\k5}that{\k0} {\k5}trash{\k0},{\k0} {\k5}we'll{\k0} {\k5}pull{\k0} {\k5}ya{\k0} {\k5}car
+Dialogue: 0,0:01:31.13,0:01:38.12,Default,,0,0,0,,{\k5}knowin'{\k0} {\k5}nutin'{\k0} {\k5}in{\k0} {\k26}life{\k0} {\k16}but{\k0} {\k12}to{\k0} {\k16}be{\k0} {\k44}legit
+Dialogue: 0,0:01:38.38,0:01:40.96,Default,,0,0,0,,{\k16}don't{\k0} {\k16}quote{\k0} {\k12}me{\k0} {\k50}boy{\k0} {\k18}'cause{\k0} {\k8}I{\k0} {\k20}ain't{\k0} {\k28}said{\k0} {\k28}shit
+Dialogue: 0,0:01:40.98,0:01:42.22,Default,,0,0,0,,{\k12}I'm{\k0} {\k18}rollin'{\k0} {\k16}hard{\k0},{\k0} {\k10}now{\k0} {\k8}under{\k0} {\k28}control
+Dialogue: 0,0:01:42.27,0:01:43.71,Default,,0,0,0,,{\k12}then{\k0} {\k16}wrapped{\k0} {\k10}the{\k0} {\k18}6{\k0} {\k12}fo'{\k0} {\k6}round{\k0} {\k5}a{\k0} {\k29}telephone{\k0} {\k20}pole
+Dialogue: 0,0:01:43.73,0:01:45.19,Default,,0,0,0,,{\k8}I{\k0} {\k14}looked{\k0} {\k6}at{\k0} {\k12}ma'{\k0} {\k16}car{\k0} {\k8}and{\k0} {\k6}I{\k0} {\k16}said{\k0} {\k0}"{\k12}oh{\k0} {\k24}brother{\k0}"
+Dialogue: 0,0:01:45.21,0:01:46.71,Default,,0,0,0,,{\k2}I'll{\k0} {\k18}throw{\k0} {\k5}it{\k0} {\k1}in{\k0} {\k6}the{\k0} {\k18}gutter{\k0} {\k10}and{\k0} {\k16}go{\k0} {\k10}buy{\k0} {\k18}another
+Dialogue: 0,0:01:46.73,0:01:48.09,Default,,0,0,0,,{\k24}walkin'{\k0} {\k12}home{\k0} {\k6}and{\k0} {\k6}I{\k0} {\k10}seen{\k0} {\k2}the{\k0} {\k24}g{\k0} {\k10}ride
+Dialogue: 0,0:01:48.14,0:01:49.36,Default,,0,0,0,,{\k34}now{\k0} {\k5}cat{\k0} {\k15}is{\k0} {\k4}drivin'{\k0},{\k0} {\k10}kilo{\k0} {\k8}on{\k0} {\k8}the{\k0} {\k20}side
+Dialogue: 0,0:01:49.40,0:01:50.88,Default,,0,0,0,,{\k12}as{\k0} {\k20}they{\k0} {\k5}busted{\k0} {\k1}a{\k0} {\k34}U{\k0},{\k0} {\k10}they{\k0} {\k5}got{\k0} {\k17}pulled{\k0} {\k18}over
+Dialogue: 0,0:01:50.88,0:01:52.36,Default,,0,0,0,,{\k21}a{\k0} {\k21}undercover{\k0} {\k18}cop{\k0} {\k6}in{\k0} {\k2}a{\k0} {\k18}dark{\k0} {\k16}green{\k0} {\k12}Nova
+Dialogue: 0,0:01:52.38,0:01:53.26,Default,,0,0,0,,{\k18}cat{\k0} {\k8}got{\k0} {\k8}beat{\k0} {\k18}for{\k0} {\k8}resistin'{\k0} {\k6}arrest
+Dialogue: 0,0:01:53.28,0:01:55.03,Default,,0,0,0,,{\k6}he{\k0} {\k4}socked{\k0} {\k6}a{\k0} {\k12}pig{\k0} {\k6}in{\k0} {\k6}the{\k0} {\k14}head{\k0} {\k8}for{\k0} {\k24}rippin'{\k0} {\k4}his{\k0} {\k26}Guess
+Dialogue: 0,0:01:55.05,0:01:56.39,Default,,0,0,0,,{\k16}now{\k0} {\k10}G{\k0} {\k8}is{\k0} {\k34}caught{\k0},{\k0} {\k5}for{\k0} {\k15}doin'{\k0} {\k6}the{\k0} {\k22}crime
+Dialogue: 0,0:01:56.41,0:01:57.93,Default,,0,0,0,,{\k10}fourth{\k0} {\k18}offense{\k0} {\k4}on{\k0} {\k6}the{\k0} {\k14}boy{\k0},{\k0} {\k12}he'll{\k0} {\k14}do{\k0} {\k16}some{\k0} {\k28}time
+Dialogue: 0,0:01:58.01,0:01:59.25,Default,,0,0,0,,{\k84}'Cause{\k0} {\k5}the{\k0} {\k5}boys{\k0} {\k5}in{\k0} {\k5}the{\k0} {\k5}hood{\k0} {\k5}are{\k0} {\k5}always{\k0} {\k5}hard
+Dialogue: 0,0:01:59.25,0:02:00.09,Default,,0,0,0,,{\k44}you{\k0} {\k5}come{\k0} {\k5}talkin'{\k0} {\k5}that{\k0} {\k5}trash{\k0},{\k0} {\k5}we'll{\k0} {\k5}pull{\k0} {\k5}ya{\k0} {\k5}car
+Dialogue: 0,0:02:00.09,0:02:00.49,Default,,0,0,0,,{\k5}knowin'{\k0} {\k5}nutin'{\k0} {\k5}in{\k0} {\k5}life{\k0} {\k5}but{\k0} {\k5}to{\k0} {\k5}be{\k0} {\k5}legit'
+Dialogue: 0,0:02:00.49,0:02:00.94,Default,,0,0,0,,{\k5}don't{\k0} {\k5}quote{\k0} {\k5}me{\k0} {\k5}boy{\k0} {\k5}'cause{\k0} {\k5}I{\k0} {\k5}ain't{\k0} {\k5}said{\k0} {\k5}shit
+Dialogue: 0,0:02:01.23,0:02:17.33,Default,,0,0,0,,{\k305}Yeah{\k0},{\k0} {\k1008}I{\k0} {\k5}kicked{\k0} {\k5}a{\k0} {\k5}little{\k0} {\k5}ass
+Dialogue: 0,0:02:17.33,0:02:17.78,Default,,0,0,0,,{\k5}but{\k0} {\k5}that{\k0} {\k5}was{\k0} {\k5}a{\k0} {\k5}blast{\k0} {\k5}from{\k0} {\k5}the{\k0} {\k5}past{\k0} {\k5}muthafucka'
+Dialogue: 0,0:02:17.78,0:02:18.08,Default,,0,0,0,,{\k5}get{\k0} {\k5}busy{\k0} {\k5}ya{\k0} {\k5}ya{\k0} {\k5}ya{\k0} {\k5}yall

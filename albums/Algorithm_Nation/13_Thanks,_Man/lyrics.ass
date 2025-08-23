@@ -1,18 +1,52 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.68,0:00:11.97,Default,,0,0,0,,[Verse 1]\\NHe showed up normal, looking clean,\\NThe kind of calm I hadn\'t seen.\\NSaid, \"Just a place to crash, one night—\\NI swear I’ll be gone by morning light.\"
-Dialogue: 0,0:00:00.68,0:00:22.06,Default,,0,0,0,,But he overslept and missed his call,\\NSaid, \"One more night, I’ve lost it all.\"\\NHe’d been through hell, I gave him a shot—\\NBut the cravings came and he just forgot.
-Dialogue: 0,0:00:00.68,0:01:54.93,Default,,0,0,0,,[Verse 2]\\NIt wasn\'t smack, it wasn’t blow,\\NThis shit creeps in quiet and steals the show.\\NYour eyes rolled back, your fists went tight,\\NYou were drowning dry in the pale porch light.\\NYou said, “It’s GBH or maybe G,”\\NBut you were gone before explaining to me.\\NI sat there holding your vacant shell—\\NA front row seat in a private hell.
+
+Dialogue: 0,0:00:02.46,0:00:04.68,Default,,0,0,0,,{\k14}He{\k0} {\k22}showed{\k0} {\k6}up{\k0} {\k70}normal{\k0},{\k0} {\k32}looking{\k0} {\k44}clean{\k0},
+Dialogue: 0,0:00:04.94,0:00:07.13,Default,,0,0,0,,{\k10}The{\k0} {\k28}kind{\k0} {\k4}of{\k0} {\k42}calm{\k0} {\k8}I{\k0} {\k34}hadn't{\k0} {\k44}seen{\k0}.
+Dialogue: 0,0:00:07.19,0:00:09.65,Default,,0,0,0,,{\k28}Said{\k0},{\k0} {\k0}"{\k26}Just{\k0} {\k4}a{\k0} {\k42}place{\k0} {\k10}to{\k0} {\k32}crash{\k0},{\k0} {\k10}one{\k0} {\k38}night{\k0}—
+Dialogue: 0,0:00:09.65,0:00:11.99,Default,,0,0,0,,{\k34}I{\k0} {\k32}swear{\k0} {\k12}I{\k0}’{\k5}ll{\k0} {\k3}be{\k0} {\k24}gone{\k0} {\k22}by{\k0} {\k36}morning{\k0} {\k28}light{\k0}."
+Dialogue: 0,0:00:12.01,0:00:14.56,Default,,0,0,0,,{\k16}But{\k0} {\k20}he{\k0} {\k72}overslept{\k0} {\k8}and{\k0} {\k20}missed{\k0} {\k14}his{\k0} {\k42}call{\k0},
+Dialogue: 0,0:00:14.84,0:00:16.94,Default,,0,0,0,,{\k14}Said{\k0},{\k0} {\k0}"{\k8}One{\k0} {\k20}more{\k0} {\k36}night{\k0},{\k0} {\k16}I{\k0}’{\k5}ve{\k0} {\k31}lost{\k0} {\k6}it{\k0} {\k14}all{\k0}."
+Dialogue: 0,0:00:17.26,0:00:19.40,Default,,0,0,0,,{\k14}He{\k0}’{\k5}d{\k0} {\k13}been{\k0} {\k30}through{\k0} {\k34}hell{\k0},{\k0} {\k8}I{\k0} {\k18}gave{\k0} {\k10}him{\k0} {\k2}a{\k0} {\k30}shot{\k0}—
+Dialogue: 0,0:00:19.56,0:00:22.11,Default,,0,0,0,,{\k12}But{\k0} {\k10}the{\k0} {\k54}cravings{\k0} {\k34}came{\k0} {\k8}and{\k0} {\k6}he{\k0} {\k28}just{\k0} {\k62}forgot{\k0}.
+Dialogue: 0,0:00:22.11,0:00:22.14,Default,,0,0,0,,{\k1}I{\k0} {\k1}gave{\k0} {\k1}you{\k0} {\k1}my{\k0} {\k1}couch{\k0},{\k0} {\k1}gave{\k0} {\k1}you{\k0} {\k1}a{\k0} {\k1}break{\k0},
+Dialogue: 0,0:00:22.14,0:00:22.17,Default,,0,0,0,,{\k1}Thought{\k0} {\k1}you'd{\k0} {\k1}stay{\k0} {\k1}clean{\k0}—{\k1}for{\k0} {\k1}everyone's{\k0} {\k1}sake{\k0}.
+Dialogue: 0,0:00:22.17,0:00:22.21,Default,,0,0,0,,{\k1}But{\k0} {\k1}you{\k0} {\k1}dropped{\k0} {\k1}that{\k0} {\k1}G{\k0} {\k1}when{\k0} {\k1}the{\k0} {\k1}house{\k0} {\k1}went{\k0} {\k1}still{\k0},
+Dialogue: 0,0:00:22.21,0:00:22.24,Default,,0,0,0,,{\k1}Now{\k0} {\k1}you're{\k0} {\k1}shaking{\k0} {\k1}hard{\k0} {\k1}and{\k0} {\k1}getting{\k0} {\k1}your{\k0} {\k1}fill{\k0}.
+Dialogue: 0,0:00:22.24,0:00:22.27,Default,,0,0,0,,{\k1}I{\k0} {\k1}went{\k0} {\k1}to{\k0} {\k1}bed{\k0},{\k0} {\k1}you{\k0} {\k1}went{\k0} {\k1}to{\k0} {\k1}war{\k0}—
+Dialogue: 0,0:00:22.27,0:00:22.29,Default,,0,0,0,,{\k1}Shaking{\k0} {\k1}our{\k0} {\k1}friendship{\k0} {\k1}to{\k0} {\k1}its{\k0} {\k1}very{\k0} {\k1}core{\k0}.
+Dialogue: 0,0:00:22.29,0:00:22.32,Default,,0,0,0,,{\k1}It{\k0} {\k1}wasn't{\k0} {\k1}smack{\k0},{\k0} {\k1}it{\k0} {\k1}wasn{\k0}’{\k1}t{\k0} {\k1}blow{\k0},
+Dialogue: 0,0:00:22.32,0:00:22.36,Default,,0,0,0,,{\k1}This{\k0} {\k1}shit{\k0} {\k1}creeps{\k0} {\k1}in{\k0} {\k1}quiet{\k0} {\k1}and{\k0} {\k1}steals{\k0} {\k1}the{\k0} {\k1}show{\k0}.
+Dialogue: 0,0:00:22.36,0:00:22.39,Default,,0,0,0,,{\k1}Your{\k0} {\k1}eyes{\k0} {\k1}rolled{\k0} {\k1}back{\k0},{\k0} {\k1}your{\k0} {\k1}fists{\k0} {\k1}went{\k0} {\k1}tight{\k0},
+Dialogue: 0,0:00:22.39,0:00:22.42,Default,,0,0,0,,{\k1}You{\k0} {\k1}were{\k0} {\k1}drowning{\k0} {\k1}dry{\k0} {\k1}in{\k0} {\k1}the{\k0} {\k1}pale{\k0} {\k1}porch{\k0} {\k1}light{\k0}.
+Dialogue: 0,0:00:22.42,0:00:22.45,Default,,0,0,0,,{\k1}You{\k0} {\k1}said{\k0},{\k0} {\k0}“{\k1}It{\k0}’{\k1}s{\k0} {\k1}GBH{\k0} {\k1}or{\k0} {\k1}maybe{\k0} {\k1}G{\k0},”
+Dialogue: 0,0:00:22.45,0:00:22.48,Default,,0,0,0,,{\k1}But{\k0} {\k1}you{\k0} {\k1}were{\k0} {\k1}gone{\k0} {\k1}before{\k0} {\k1}explaining{\k0} {\k1}to{\k0} {\k1}me{\k0}.
+Dialogue: 0,0:00:22.48,0:00:22.51,Default,,0,0,0,,{\k1}I{\k0} {\k1}sat{\k0} {\k1}there{\k0} {\k1}holding{\k0} {\k1}your{\k0} {\k1}vacant{\k0} {\k1}shell{\k0}—
+Dialogue: 0,0:00:22.51,0:00:22.54,Default,,0,0,0,,{\k1}A{\k0} {\k1}front{\k0} {\k1}row{\k0} {\k1}seat{\k0} {\k1}in{\k0} {\k1}a{\k0} {\k1}private{\k0} {\k1}hell{\k0}.
+Dialogue: 0,0:00:22.54,0:00:24.69,Default,,0,0,0,,{\k1}I{\k0} {\k18}gave{\k0} {\k10}you{\k0} {\k6}my{\k0} {\k38}couch{\k0},{\k0} {\k18}gave{\k0} {\k10}you{\k0} {\k4}a{\k0} {\k46}break{\k0},
+Dialogue: 0,0:00:24.69,0:00:26.93,Default,,0,0,0,,{\k26}Thought{\k0} {\k14}you'd{\k0} {\k28}stay{\k0} {\k40}clean{\k0}—{\k14}for{\k0} {\k46}everyone's{\k0} {\k28}sake{\k0}.
+Dialogue: 0,0:00:26.97,0:00:29.46,Default,,0,0,0,,{\k12}But{\k0} {\k22}you{\k0} {\k32}dropped{\k0} {\k18}that{\k0} {\k2}G{\k0} {\k12}when{\k0} {\k8}the{\k0} {\k18}house{\k0} {\k24}went{\k0} {\k40}still{\k0},
+Dialogue: 0,0:00:29.52,0:00:31.79,Default,,0,0,0,,{\k12}Now{\k0} {\k14}you're{\k0} {\k56}shaking{\k0} {\k28}hard{\k0} {\k6}and{\k0} {\k28}getting{\k0} {\k20}your{\k0} {\k32}fill{\k0}.
+Dialogue: 0,0:00:32.13,0:00:34.27,Default,,0,0,0,,{\k6}I{\k0} {\k24}went{\k0} {\k14}to{\k0} {\k56}bed{\k0},{\k0} {\k12}you{\k0} {\k26}went{\k0} {\k12}to{\k0} {\k40}war{\k0}—
+Dialogue: 0,0:00:34.31,0:00:37.58,Default,,0,0,0,,{\k62}Shaking{\k0} {\k10}our{\k0} {\k60}friendship{\k0} {\k22}to{\k0} {\k12}its{\k0} {\k52}very{\k0} {\k64}core{\k0}.
+Dialogue: 0,0:00:53.100,0:00:56.20,Default,,0,0,0,,{\k52}Lauren{\k0} {\k36}called{\k0},{\k0} {\k18}says{\k0} {\k12}she's{\k0} {\k24}still{\k0} {\k20}got{\k0} {\k32}hope{\k0},
+Dialogue: 0,0:00:56.54,0:00:58.71,Default,,0,0,0,,{\k46}But{\k0} {\k5}you're{\k0} {\k37}a{\k0} {\k5}shadow{\k0} {\k25}slipping{\k0} {\k26}down{\k0} {\k10}a{\k0} {\k44}slope{\k0}.
+Dialogue: 0,0:00:58.87,0:01:01.29,Default,,0,0,0,,{\k12}There{\k0}’{\k5}s{\k0} {\k3}a{\k0} {\k34}pile{\k0} {\k4}of{\k0} {\k34}moments{\k0} {\k18}you{\k0}’{\k5}ve{\k0} {\k19}let{\k0} {\k30}slide{\k0} {\k54}by{\k0},
+Dialogue: 0,0:01:01.81,0:01:04.02,Default,,0,0,0,,{\k14}While{\k0} {\k14}you{\k0} {\k26}chase{\k0} {\k20}sleep{\k0} {\k10}with{\k0} {\k2}a{\k0} {\k52}chemical{\k0} {\k58}high{\k0}.
+Dialogue: 0,0:01:04.06,0:01:07.74,Default,,0,0,0,,{\k8}They{\k0}’{\k5}d{\k0} {\k18}come{\k0} {\k52}tomorrow{\k0} {\k8}if{\k0} {\k16}you'd{\k0} {\k24}just{\k0} {\k22}say{\k0} {\k34}when{\k0},
+Dialogue: 0,0:01:08.00,0:01:10.81,Default,,0,0,0,,{\k10}But{\k0} {\k20}you{\k0}’{\k5}re{\k0} {\k41}locked{\k0} {\k10}in{\k0} {\k12}the{\k0} {\k22}arms{\k0} {\k6}of{\k0} {\k16}your{\k0} {\k36}oldest{\k0} {\k34}friend{\k0}—
+Dialogue: 0,0:01:11.09,0:01:14.33,Default,,0,0,0,,{\k10}And{\k0} {\k12}he{\k0} {\k22}don{\k0}’{\k5}t{\k0} {\k42}care{\k0} {\k10}if{\k0} {\k28}you{\k0} {\k34}wake{\k0} {\k100}again{\k0}.
+Dialogue: 0,0:01:16.61,0:01:18.76,Default,,0,0,0,,{\k12}I{\k0} {\k14}gave{\k0} {\k8}you{\k0} {\k8}my{\k0} {\k74}couch{\k0},{\k0} {\k14}gave{\k0} {\k10}you{\k0} {\k4}a{\k0} {\k36}break{\k0},
+Dialogue: 0,0:01:18.96,0:01:21.03,Default,,0,0,0,,{\k14}Thought{\k0} {\k20}you'd{\k0} {\k28}stay{\k0} {\k30}clean{\k0}—{\k14}for{\k0} {\k46}everyone's{\k0} {\k26}sake{\k0}.
+Dialogue: 0,0:01:21.07,0:01:23.45,Default,,0,0,0,,{\k14}But{\k0} {\k20}you{\k0} {\k32}dropped{\k0} {\k22}that{\k0} {\k18}G{\k0} {\k12}when{\k0} {\k6}the{\k0} {\k26}house{\k0} {\k20}went{\k0} {\k30}still{\k0},
+Dialogue: 0,0:01:23.70,0:01:25.96,Default,,0,0,0,,{\k10}Now{\k0} {\k12}you're{\k0} {\k54}shaking{\k0} {\k28}hard{\k0} {\k6}and{\k0} {\k26}getting{\k0} {\k22}your{\k0} {\k36}fill{\k0}.
+Dialogue: 0,0:01:26.29,0:02:08.17,Default,,0,0,0,,{\k6}I{\k0} {\k24}went{\k0} {\k12}to{\k0} {\k52}bed{\k0},{\k0} {\k8}you{\k0} {\k28}went{\k0} {\k12}to{\k0} {\k44}war{\k0}—
+Dialogue: 0,0:02:08.41,0:02:11.20,Default,,0,0,0,,{\k6}Shaking{\k0} {\k24}our{\k0} {\k5}friendship{\k0} {\k11}to{\k0} {\k42}its{\k0} {\k30}very{\k0} {\k100}core{\k0}.

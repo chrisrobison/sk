@@ -1,17 +1,49 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,5,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:44.86,0:00:52.51,Default,,0,0,0,,Built on debt and broken dreams\\NFast food freedom, factory seams\\NAmber waves of gasoline\\NTruth decays on every screen
-Dialogue: 0,0:00:44.86,0:02:17.41,Default,,0,0,0,,We’re living in a state of delusion\\NBulletproof faith in our own illusion\\NTruth is banned, compassion taxed\\NJustice ghosted, reason hacked\\NYeah, pledge allegiance to confusion\\NWe’re bleeding out in a state of delusion
+
+Dialogue: 0,0:00:44.77,0:00:46.67,Default,,0,0,0,,{\k30}Built{\k0} {\k12}on{\k0} {\k28}debt{\k0} {\k6}and{\k0} {\k42}broken{\k0} {\k38}dreams
+Dialogue: 0,0:00:46.91,0:00:48.81,Default,,0,0,0,,{\k26}Fast{\k0} {\k26}food{\k0} {\k48}freedom{\k0},{\k0} {\k40}factory{\k0} {\k34}seams
+Dialogue: 0,0:00:49.17,0:00:50.67,Default,,0,0,0,,{\k26}Amber{\k0} {\k32}waves{\k0} {\k10}of{\k0} {\k62}gasoline
+Dialogue: 0,0:00:50.81,0:00:52.52,Default,,0,0,0,,{\k22}Truth{\k0} {\k34}decays{\k0} {\k8}on{\k0} {\k30}every{\k0} {\k48}screen
+Dialogue: 0,0:00:53.26,0:00:55.08,Default,,0,0,0,,{\k16}Patriots{\k0} {\k36}wrapped{\k0} {\k10}in{\k0} {\k52}tinfoil{\k0} {\k28}hats
+Dialogue: 0,0:00:55.26,0:00:57.18,Default,,0,0,0,,{\k36}Screamin{\k0}’{\k0} {\k0}“{\k24}Fake{\k0} {\k26}News{\k0}!”{\k0} {\k14}in{\k0} {\k32}MAGA{\k0} {\k36}chats
+Dialogue: 0,0:00:57.54,0:00:59.41,Default,,0,0,0,,{\k48}History{\k0} {\k52}whitewashed{\k0},{\k0} {\k8}guns{\k0} {\k8}on{\k0} {\k8}the{\k0} {\k30}wall
+Dialogue: 0,0:00:59.69,0:01:01.49,Default,,0,0,0,,{\k40}Empire{\k0} {\k34}bloated{\k0} {\k14}and{\k0} {\k26}bound{\k0} {\k10}to{\k0} {\k34}fall
+Dialogue: 0,0:01:01.65,0:01:03.85,Default,,0,0,0,,{\k28}We{\k0}’{\k5}re{\k0} {\k12}living{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k18}state{\k0} {\k6}of{\k0} {\k66}delusion
+Dialogue: 0,0:01:03.93,0:01:05.94,Default,,0,0,0,,{\k24}Mass{\k0} {\k44}denial{\k0} {\k8}and{\k0} {\k50}toxic{\k0} {\k48}illusion
+Dialogue: 0,0:01:05.98,0:01:07.84,Default,,0,0,0,,{\k28}Stars{\k0} {\k6}and{\k0} {\k26}lies{\k0} {\k10}on{\k0} {\k24}every{\k0} {\k42}flag
+Dialogue: 0,0:01:08.20,0:01:09.88,Default,,0,0,0,,{\k12}Ego's{\k0} {\k16}high{\k0} {\k12}but{\k0} {\k20}morals{\k0} {\k36}sag
+Dialogue: 0,0:01:09.90,0:01:12.12,Default,,0,0,0,,{\k36}Yeah{\k0},{\k0} {\k24}wave{\k0} {\k2}that{\k0} {\k5}banner{\k0} {\k47}of{\k0} {\k92}confusion
+Dialogue: 0,0:01:12.12,0:01:15.06,Default,,0,0,0,,{\k20}We{\k0}’{\k5}re{\k0} {\k38}dying{\k0} {\k36}proud{\k0} {\k4}in{\k0} {\k2}a{\k0} {\k24}state{\k0} {\k4}of{\k0} {\k130}delusion
+Dialogue: 0,0:01:18.62,0:01:20.50,Default,,0,0,0,,{\k64}Billionaires{\k0} {\k16}fly{\k0} {\k20}while{\k0} {\k34}bridges{\k0} {\k44}collapse
+Dialogue: 0,0:01:20.54,0:01:22.68,Default,,0,0,0,,{\k18}We{\k0} {\k28}chase{\k0} {\k8}the{\k0} {\k38}dream{\k0} {\k16}with{\k0} {\k46}broken{\k0} {\k30}maps
+Dialogue: 0,0:01:23.02,0:01:24.68,Default,,0,0,0,,{\k18}Healthcare{\k0}’{\k24}s{\k0} {\k8}a{\k0} {\k26}raffle{\k0},{\k0} {\k28}schools{\k0} {\k6}are{\k0} {\k24}broke
+Dialogue: 0,0:01:24.70,0:01:26.70,Default,,0,0,0,,{\k24}But{\k0} {\k16}we{\k0} {\k34}still{\k0} {\k24}laugh{\k0} {\k12}at{\k0} {\k30}foreign{\k0} {\k22}folk
+Dialogue: 0,0:01:26.81,0:01:28.11,Default,,0,0,0,,{\k18}Checks{\k0} {\k24}and{\k0} {\k42}balances{\k0} {\k24}lost{\k0} {\k3}the{\k0} {\k3}thread
+Dialogue: 0,0:01:28.11,0:01:28.63,Default,,0,0,0,,{\k3}Bought{\k0} {\k3}by{\k0} {\k3}lobbyists{\k0},{\k0} {\k3}sold{\k0} {\k3}and{\k0} {\k30}bled
+Dialogue: 0,0:01:29.01,0:01:32.44,Default,,0,0,0,,{\k16}No{\k0} {\k10}one{\k0}’{\k28}s{\k0} {\k28}steering{\k0},{\k0} {\k22}but{\k0} {\k14}we{\k0}’{\k16}re{\k0} {\k50}on{\k0} {\k5}cruise
+Dialogue: 0,0:01:32.51,0:01:34.67,Default,,0,0,0,,{\k44}Sippin{\k0}’{\k0} {\k26}Red{\k0} {\k22}Bull{\k0} {\k14}and{\k0} {\k46}Fox{\k0} {\k34}News
+Dialogue: 0,0:01:35.05,0:01:37.81,Default,,0,0,0,,{\k16}We{\k0}’{\k5}re{\k0} {\k77}living{\k0} {\k4}in{\k0} {\k2}a{\k0} {\k106}state{\k0} {\k26}of{\k0} {\k22}delusion
+Dialogue: 0,0:01:37.81,0:01:39.47,Default,,0,0,0,,{\k5}Bulletproof{\k0} {\k22}faith{\k0} {\k6}in{\k0} {\k5}our{\k0} {\k94}own{\k0} {\k5}illusion
+Dialogue: 0,0:01:39.47,0:01:41.36,Default,,0,0,0,,{\k33}Truth{\k0} {\k12}is{\k0} {\k34}banned{\k0},{\k0} {\k16}compassion{\k0} {\k34}taxed
+Dialogue: 0,0:01:41.60,0:01:43.34,Default,,0,0,0,,{\k46}Justice{\k0} {\k28}ghosted{\k0},{\k0} {\k40}reason{\k0} {\k20}hacked
+Dialogue: 0,0:01:43.72,0:01:45.46,Default,,0,0,0,,{\k12}Yeah{\k0},{\k0} {\k20}pledge{\k0} {\k12}allegiance{\k0} {\k20}to{\k0} {\k58}confusion
+Dialogue: 0,0:01:45.74,0:01:48.08,Default,,0,0,0,,{\k16}We{\k0}’{\k40}re{\k0} {\k5}bleeding{\k0} {\k11}out{\k0} {\k8}in{\k0} {\k4}a{\k0} {\k110}state{\k0} {\k5}of{\k0} {\k5}delusion
+Dialogue: 0,0:01:52.15,0:01:54.20,Default,,0,0,0,,{\k0}“{\k22}This{\k0} {\k12}is{\k0} {\k76}fine{\k0},”{\k0} {\k18}the{\k0} {\k42}eagle{\k0} {\k5}said{\k0},
+Dialogue: 0,0:01:54.23,0:01:55.31,Default,,0,0,0,,{\k22}Perched{\k0} {\k10}on{\k0} {\k3}a{\k0} {\k3}drone{\k0} {\k3}above{\k0} {\k3}the{\k0} {\k50}dead{\k0}.
+Dialogue: 0,0:01:55.37,0:02:00.02,Default,,0,0,0,,{\k80}While{\k0} {\k20}Rome{\k0} {\k6}plays{\k0} {\k56}reruns{\k0} {\k6}on{\k0} {\k34}cable{\k0} {\k136}news{\k0},
+Dialogue: 0,0:02:00.04,0:02:03.21,Default,,0,0,0,,{\k4}We{\k0} {\k36}dance{\k0} {\k14}in{\k0} {\k24}TikTok{\k0} {\k36}civil{\k0} {\k32}wars{\k0} {\k8}and{\k0} {\k8}booze{\k0}.
+Dialogue: 0,0:02:04.63,0:02:07.05,Default,,0,0,0,,{\k30}Still{\k0} {\k100}living{\k0} {\k4}in{\k0} {\k12}a{\k0} {\k10}state{\k0} {\k4}of{\k0} {\k56}delusion
+Dialogue: 0,0:02:07.07,0:02:08.92,Default,,0,0,0,,{\k54}Manifest{\k0} {\k46}destiny{\k0} {\k14}meets{\k0} {\k14}mass{\k0} {\k52}seclusion
+Dialogue: 0,0:02:09.06,0:02:11.08,Default,,0,0,0,,{\k14}Conspiracies{\k0} {\k12}are{\k0} {\k8}the{\k0} {\k20}new{\k0} {\k74}constitution
+Dialogue: 0,0:02:11.16,0:02:13.22,Default,,0,0,0,,{\k8}And{\k0} {\k12}we're{\k0} {\k16}too{\k0} {\k44}damn{\k0} {\k10}proud{\k0} {\k2}for{\k0} {\k78}revolution
+Dialogue: 0,0:02:13.40,0:02:15.07,Default,,0,0,0,,{\k32}So{\k0} {\k5}crank{\k0} {\k12}it{\k0} {\k5}loud{\k0},{\k0} {\k13}this{\k0} {\k24}grand{\k0} {\k50}illusion{\k0} {\k0}—
+Dialogue: 0,0:02:15.57,0:02:18.07,Default,,0,0,0,,{\k16}We{\k0}’{\k5}re{\k0} {\k5}the{\k0} {\k5}punchline{\k0} {\k5}in{\k0} {\k5}a{\k0} {\k5}state{\k0} {\k6}of{\k0} {\k94}delusion

@@ -15,7 +15,7 @@
 In Bath!
 
 5
-00:00:02,174 --> 00:00:02,535
+00:00:02,174 --> 00:00:02,976
 In <u>Bath!</u>
 
 6
@@ -143,19 +143,19 @@ Bunch was VR, smooth, <u>and</u> Bennett's on Zoom.
 Bunch was VR, smooth, and Bennett's on Zoom.
 
 37
-00:00:09,146 --> 00:00:09,526
+00:00:09,146 --> 00:00:09,446
 Bunch was VR, smooth, and <u>Bennett's</u> on Zoom.
 
 38
-00:00:09,526 --> 00:00:09,546
+00:00:09,446 --> 00:00:09,546
 Bunch was VR, smooth, and Bennett's on Zoom.
 
 39
-00:00:09,546 --> 00:00:09,687
+00:00:09,546 --> 00:00:09,667
 Bunch was VR, smooth, and Bennett's <u>on</u> Zoom.
 
 40
-00:00:09,687 --> 00:00:09,827
+00:00:09,667 --> 00:00:09,827
 Bunch was VR, smooth, and Bennett's on Zoom.
 
 41
@@ -319,11 +319,11 @@ You're saying <u>words,</u> hypocrites are making rent.
 You're saying words, hypocrites are making rent.
 
 81
-00:00:15,636 --> 00:00:16,097
+00:00:15,636 --> 00:00:16,057
 You're saying words, <u>hypocrites</u> are making rent.
 
 82
-00:00:16,097 --> 00:00:16,117
+00:00:16,057 --> 00:00:16,117
 You're saying words, hypocrites are making rent.
 
 83
@@ -348,1937 +348,1877 @@ You're saying words, hypocrites are making <u>rent.</u>
 
 88
 00:00:17,098 --> 00:00:17,239
-<u>For</u> my boy, Grounds got a dance floor set.
+<u>For</u> my boy Graham's got a dance floor set.
 
 89
 00:00:17,239 --> 00:00:17,259
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 90
 00:00:17,259 --> 00:00:17,379
-For <u>my</u> boy, Grounds got a dance floor set.
+For <u>my</u> boy Graham's got a dance floor set.
 
 91
 00:00:17,379 --> 00:00:17,780
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 92
 00:00:17,780 --> 00:00:17,940
-For my <u>boy,</u> Grounds got a dance floor set.
+For my <u>boy</u> Graham's got a dance floor set.
 
 93
 00:00:17,940 --> 00:00:17,960
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 94
 00:00:17,960 --> 00:00:18,280
-For my boy, <u>Grounds</u> got a dance floor set.
+For my boy <u>Graham's</u> got a dance floor set.
 
 95
 00:00:18,280 --> 00:00:18,300
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 96
 00:00:18,300 --> 00:00:18,421
-For my boy, Grounds <u>got</u> a dance floor set.
+For my boy Graham's <u>got</u> a dance floor set.
 
 97
 00:00:18,421 --> 00:00:18,481
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 98
 00:00:18,481 --> 00:00:18,501
-For my boy, Grounds got <u>a</u> dance floor set.
+For my boy Graham's got <u>a</u> dance floor set.
 
 99
 00:00:18,501 --> 00:00:18,541
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 100
 00:00:18,541 --> 00:00:18,801
-For my boy, Grounds got a <u>dance</u> floor set.
+For my boy Graham's got a <u>dance</u> floor set.
 
 101
 00:00:18,801 --> 00:00:18,841
-For my boy, Grounds got a dance floor set.
+For my boy Graham's got a dance floor set.
 
 102
 00:00:18,841 --> 00:00:19,122
-For my boy, Grounds got a dance <u>floor</u> set.
+For my boy Graham's got a dance <u>floor</u> set.
 
 103
-00:00:19,122 --> 00:00:19,162
-For my boy, Grounds got a dance floor set.
+00:00:19,122 --> 00:00:19,142
+For my boy Graham's got a dance floor set.
 
 104
-00:00:19,162 --> 00:00:19,623
-For my boy, Grounds got a dance floor <u>set.</u>
+00:00:19,142 --> 00:00:19,623
+For my boy Graham's got a dance floor <u>set.</u>
 
 105
 00:00:19,663 --> 00:00:19,783
-<u>So</u> here's our truth, like Janet's men.
+<u>So</u> here's our truth, like Janet Smith.
 
 106
 00:00:19,783 --> 00:00:19,803
-So here's our truth, like Janet's men.
+So here's our truth, like Janet Smith.
 
 107
 00:00:19,803 --> 00:00:20,023
-So <u>here's</u> our truth, like Janet's men.
+So <u>here's</u> our truth, like Janet Smith.
 
 108
 00:00:20,023 --> 00:00:20,183
-So here's our truth, like Janet's men.
+So here's our truth, like Janet Smith.
 
 109
 00:00:20,183 --> 00:00:20,304
-So here's <u>our</u> truth, like Janet's men.
+So here's <u>our</u> truth, like Janet Smith.
 
 110
 00:00:20,304 --> 00:00:20,324
-So here's our truth, like Janet's men.
+So here's our truth, like Janet Smith.
 
 111
 00:00:20,324 --> 00:00:20,644
-So here's our <u>truth,</u> like Janet's men.
+So here's our <u>truth,</u> like Janet Smith.
 
 112
 00:00:20,644 --> 00:00:20,664
-So here's our truth, like Janet's men.
+So here's our truth, like Janet Smith.
 
 113
 00:00:20,664 --> 00:00:20,925
-So here's our truth, <u>like</u> Janet's men.
+So here's our truth, <u>like</u> Janet Smith.
 
 114
 00:00:20,925 --> 00:00:21,025
-So here's our truth, like Janet's men.
+So here's our truth, like Janet Smith.
 
 115
 00:00:21,025 --> 00:00:21,365
-So here's our truth, like <u>Janet's</u> men.
+So here's our truth, like <u>Janet</u> Smith.
 
 116
-00:00:21,365 --> 00:00:21,425
-So here's our truth, like Janet's men.
+00:00:21,365 --> 00:00:21,405
+So here's our truth, like Janet Smith.
 
 117
-00:00:21,425 --> 00:00:21,746
-So here's our truth, like Janet's <u>men.</u>
+00:00:21,405 --> 00:00:21,746
+So here's our truth, like Janet <u>Smith.</u>
 
 118
-00:00:22,147 --> 00:00:22,667
-<u>Ditto</u> out!
+00:00:22,147 --> 00:00:22,407
+<u>Did</u> so out, we're just funny, call it!
 
 119
-00:00:22,667 --> 00:00:22,928
-Ditto out!
+00:00:22,407 --> 00:00:22,427
+Did so out, we're just funny, call it!
 
 120
-00:00:22,928 --> 00:00:23,068
-Ditto <u>out!</u>
+00:00:22,427 --> 00:00:22,667
+Did <u>so</u> out, we're just funny, call it!
 
 121
-00:00:23,248 --> 00:00:23,369
-<u>We're</u> just funny, call it!
+00:00:22,667 --> 00:00:22,928
+Did so out, we're just funny, call it!
 
 122
-00:00:23,369 --> 00:00:23,389
-We're just funny, call it!
+00:00:22,928 --> 00:00:23,068
+Did so <u>out,</u> we're just funny, call it!
 
 123
-00:00:23,389 --> 00:00:23,649
-We're <u>just</u> funny, call it!
+00:00:23,068 --> 00:00:23,248
+Did so out, we're just funny, call it!
 
 124
-00:00:23,649 --> 00:00:23,689
-We're just funny, call it!
+00:00:23,248 --> 00:00:23,369
+Did so out, <u>we're</u> just funny, call it!
 
 125
-00:00:23,689 --> 00:00:24,230
-We're just <u>funny,</u> call it!
+00:00:23,369 --> 00:00:23,389
+Did so out, we're just funny, call it!
 
 126
-00:00:24,230 --> 00:00:24,250
-We're just funny, call it!
+00:00:23,389 --> 00:00:23,649
+Did so out, we're <u>just</u> funny, call it!
 
 127
-00:00:24,250 --> 00:00:24,591
-We're just funny, <u>call</u> it!
+00:00:23,649 --> 00:00:23,689
+Did so out, we're just funny, call it!
 
 128
-00:00:24,591 --> 00:00:24,831
-We're just funny, call it!
+00:00:23,689 --> 00:00:24,230
+Did so out, we're just <u>funny,</u> call it!
 
 129
-00:00:24,831 --> 00:00:24,891
-We're just funny, call <u>it!</u>
+00:00:24,230 --> 00:00:24,250
+Did so out, we're just funny, call it!
 
 130
+00:00:24,250 --> 00:00:24,591
+Did so out, we're just funny, <u>call</u> it!
+
+131
+00:00:24,591 --> 00:00:24,831
+Did so out, we're just funny, call it!
+
+132
+00:00:24,831 --> 00:00:24,891
+Did so out, we're just funny, call <u>it!</u>
+
+133
 00:00:24,871 --> 00:00:25,171
 <u>Which</u> the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-131
+134
 00:00:25,171 --> 00:00:25,192
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-132
+135
 00:00:25,192 --> 00:00:25,292
 Which <u>the</u> thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-133
+136
 00:00:25,292 --> 00:00:25,312
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-134
-00:00:25,312 --> 00:00:25,692
+137
+00:00:25,312 --> 00:00:25,712
 Which the <u>thirds</u> have swamped me, and we got better than some ghetto extreme offbeat.
 
-135
-00:00:25,692 --> 00:00:25,813
+138
+00:00:25,712 --> 00:00:25,813
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-136
+139
 00:00:25,813 --> 00:00:25,973
 Which the thirds <u>have</u> swamped me, and we got better than some ghetto extreme offbeat.
 
-137
+140
 00:00:25,973 --> 00:00:25,993
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-138
+141
 00:00:25,993 --> 00:00:26,393
 Which the thirds have <u>swamped</u> me, and we got better than some ghetto extreme offbeat.
 
-139
+142
 00:00:26,393 --> 00:00:26,413
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-140
+143
 00:00:26,413 --> 00:00:26,594
 Which the thirds have swamped <u>me,</u> and we got better than some ghetto extreme offbeat.
 
-141
+144
 00:00:26,594 --> 00:00:26,614
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-142
+145
 00:00:26,614 --> 00:00:26,674
 Which the thirds have swamped me, <u>and</u> we got better than some ghetto extreme offbeat.
 
-143
+146
 00:00:26,674 --> 00:00:26,694
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-144
+147
 00:00:26,694 --> 00:00:26,774
 Which the thirds have swamped me, and <u>we</u> got better than some ghetto extreme offbeat.
 
-145
+148
 00:00:26,774 --> 00:00:26,814
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-146
+149
 00:00:26,814 --> 00:00:26,914
 Which the thirds have swamped me, and we <u>got</u> better than some ghetto extreme offbeat.
 
-147
+150
 00:00:26,914 --> 00:00:26,934
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-148
-00:00:26,934 --> 00:00:27,115
+151
+00:00:26,934 --> 00:00:27,135
 Which the thirds have swamped me, and we got <u>better</u> than some ghetto extreme offbeat.
 
-149
-00:00:27,115 --> 00:00:27,155
+152
+00:00:27,135 --> 00:00:27,155
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-150
+153
 00:00:27,155 --> 00:00:27,335
 Which the thirds have swamped me, and we got better <u>than</u> some ghetto extreme offbeat.
 
-151
+154
 00:00:27,335 --> 00:00:27,355
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-152
+155
 00:00:27,355 --> 00:00:27,495
 Which the thirds have swamped me, and we got better than <u>some</u> ghetto extreme offbeat.
 
-153
+156
 00:00:27,495 --> 00:00:27,515
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-154
+157
 00:00:27,515 --> 00:00:27,796
 Which the thirds have swamped me, and we got better than some <u>ghetto</u> extreme offbeat.
 
-155
+158
 00:00:27,796 --> 00:00:27,896
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-156
+159
 00:00:27,896 --> 00:00:28,397
 Which the thirds have swamped me, and we got better than some ghetto <u>extreme</u> offbeat.
 
-157
+160
 00:00:28,397 --> 00:00:28,517
 Which the thirds have swamped me, and we got better than some ghetto extreme offbeat.
 
-158
-00:00:28,517 --> 00:00:29,879
+161
+00:00:28,517 --> 00:00:29,298
 Which the thirds have swamped me, and we got better than some ghetto extreme <u>offbeat.</u>
 
-159
-00:00:29,899 --> 00:00:29,999
-<u>You</u> flippin' off the system, flaring out at my good race, cause I don't like supprism.
-
-160
-00:00:29,999 --> 00:00:30,099
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
-
-161
-00:00:30,099 --> 00:00:30,420
-You <u>flippin'</u> off the system, flaring out at my good race, cause I don't like supprism.
-
 162
-00:00:30,420 --> 00:00:30,440
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:29,799 --> 00:00:29,879
+<u>Why?</u>
 
 163
-00:00:30,440 --> 00:00:30,540
-You flippin' <u>off</u> the system, flaring out at my good race, cause I don't like supprism.
+00:00:29,899 --> 00:00:29,999
+<u>You</u> flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 164
-00:00:30,540 --> 00:00:30,580
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:29,999 --> 00:00:30,160
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 165
-00:00:30,580 --> 00:00:30,760
-You flippin' off <u>the</u> system, flaring out at my good race, cause I don't like supprism.
+00:00:30,160 --> 00:00:30,420
+You <u>flippin'</u> off the system, firing at it by the rage, cause I don't like supprism.
 
 166
-00:00:30,760 --> 00:00:30,821
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:30,420 --> 00:00:30,440
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 167
-00:00:30,821 --> 00:00:31,241
-You flippin' off the <u>system,</u> flaring out at my good race, cause I don't like supprism.
+00:00:30,440 --> 00:00:30,540
+You flippin' <u>off</u> the system, firing at it by the rage, cause I don't like supprism.
 
 168
-00:00:31,241 --> 00:00:31,261
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:30,540 --> 00:00:30,580
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 169
-00:00:31,261 --> 00:00:31,562
-You flippin' off the system, <u>flaring</u> out at my good race, cause I don't like supprism.
+00:00:30,580 --> 00:00:30,760
+You flippin' off <u>the</u> system, firing at it by the rage, cause I don't like supprism.
 
 170
-00:00:31,562 --> 00:00:31,642
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:30,760 --> 00:00:30,821
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 171
-00:00:31,642 --> 00:00:31,762
-You flippin' off the system, flaring <u>out</u> at my good race, cause I don't like supprism.
+00:00:30,821 --> 00:00:31,241
+You flippin' off the <u>system,</u> firing at it by the rage, cause I don't like supprism.
 
 172
-00:00:31,762 --> 00:00:31,782
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:31,241 --> 00:00:31,261
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 173
-00:00:31,782 --> 00:00:31,842
-You flippin' off the system, flaring out <u>at</u> my good race, cause I don't like supprism.
+00:00:31,261 --> 00:00:31,562
+You flippin' off the system, <u>firing</u> at it by the rage, cause I don't like supprism.
 
 174
-00:00:31,842 --> 00:00:31,902
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:31,562 --> 00:00:31,642
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 175
-00:00:31,902 --> 00:00:32,002
-You flippin' off the system, flaring out at <u>my</u> good race, cause I don't like supprism.
+00:00:31,642 --> 00:00:31,762
+You flippin' off the system, firing <u>at</u> it by the rage, cause I don't like supprism.
 
 176
-00:00:32,002 --> 00:00:32,063
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:31,762 --> 00:00:31,782
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 177
-00:00:32,063 --> 00:00:32,143
-You flippin' off the system, flaring out at my <u>good</u> race, cause I don't like supprism.
+00:00:31,782 --> 00:00:31,842
+You flippin' off the system, firing at <u>it</u> by the rage, cause I don't like supprism.
 
 178
-00:00:32,143 --> 00:00:32,163
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:31,842 --> 00:00:31,882
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 179
-00:00:32,163 --> 00:00:32,383
-You flippin' off the system, flaring out at my good <u>race,</u> cause I don't like supprism.
+00:00:31,882 --> 00:00:32,002
+You flippin' off the system, firing at it <u>by</u> the rage, cause I don't like supprism.
 
 180
-00:00:32,383 --> 00:00:32,403
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:32,002 --> 00:00:32,023
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 181
-00:00:32,403 --> 00:00:32,603
-You flippin' off the system, flaring out at my good race, <u>cause</u> I don't like supprism.
+00:00:32,023 --> 00:00:32,143
+You flippin' off the system, firing at it by <u>the</u> rage, cause I don't like supprism.
 
 182
-00:00:32,603 --> 00:00:32,623
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:32,143 --> 00:00:32,163
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 183
-00:00:32,623 --> 00:00:32,644
-You flippin' off the system, flaring out at my good race, cause <u>I</u> don't like supprism.
+00:00:32,163 --> 00:00:32,383
+You flippin' off the system, firing at it by the <u>rage,</u> cause I don't like supprism.
 
 184
-00:00:32,644 --> 00:00:32,664
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:32,383 --> 00:00:32,403
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 185
-00:00:32,664 --> 00:00:32,764
-You flippin' off the system, flaring out at my good race, cause I <u>don't</u> like supprism.
+00:00:32,403 --> 00:00:32,603
+You flippin' off the system, firing at it by the rage, <u>cause</u> I don't like supprism.
 
 186
-00:00:32,764 --> 00:00:32,784
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:32,603 --> 00:00:32,623
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 187
-00:00:32,784 --> 00:00:32,944
-You flippin' off the system, flaring out at my good race, cause I don't <u>like</u> supprism.
+00:00:32,623 --> 00:00:32,644
+You flippin' off the system, firing at it by the rage, cause <u>I</u> don't like supprism.
 
 188
-00:00:32,944 --> 00:00:33,024
-You flippin' off the system, flaring out at my good race, cause I don't like supprism.
+00:00:32,644 --> 00:00:32,664
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
 
 189
-00:00:33,024 --> 00:00:33,645
-You flippin' off the system, flaring out at my good race, cause I don't like <u>supprism.</u>
+00:00:32,664 --> 00:00:32,764
+You flippin' off the system, firing at it by the rage, cause I <u>don't</u> like supprism.
 
 190
+00:00:32,764 --> 00:00:32,784
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
+
+191
+00:00:32,784 --> 00:00:32,944
+You flippin' off the system, firing at it by the rage, cause I don't <u>like</u> supprism.
+
+192
+00:00:32,944 --> 00:00:33,024
+You flippin' off the system, firing at it by the rage, cause I don't like supprism.
+
+193
+00:00:33,024 --> 00:00:33,645
+You flippin' off the system, firing at it by the rage, cause I don't like <u>supprism.</u>
+
+194
 00:00:33,885 --> 00:00:33,966
 <u>I</u> still ain't the man, I just ain't workin' monthly.
 
-191
+195
 00:00:33,966 --> 00:00:33,986
 I still ain't the man, I just ain't workin' monthly.
 
-192
+196
 00:00:33,986 --> 00:00:34,226
 I <u>still</u> ain't the man, I just ain't workin' monthly.
 
-193
+197
 00:00:34,226 --> 00:00:34,246
 I still ain't the man, I just ain't workin' monthly.
 
-194
+198
 00:00:34,246 --> 00:00:34,386
 I still <u>ain't</u> the man, I just ain't workin' monthly.
 
-195
+199
 00:00:34,386 --> 00:00:34,426
 I still ain't the man, I just ain't workin' monthly.
 
-196
+200
 00:00:34,426 --> 00:00:34,547
 I still ain't <u>the</u> man, I just ain't workin' monthly.
 
-197
+201
 00:00:34,547 --> 00:00:34,567
 I still ain't the man, I just ain't workin' monthly.
 
-198
+202
 00:00:34,567 --> 00:00:34,747
 I still ain't the <u>man,</u> I just ain't workin' monthly.
 
-199
+203
 00:00:34,747 --> 00:00:34,767
 I still ain't the man, I just ain't workin' monthly.
 
-200
+204
 00:00:34,767 --> 00:00:34,827
 I still ain't the man, <u>I</u> just ain't workin' monthly.
 
-201
+205
 00:00:34,827 --> 00:00:34,867
 I still ain't the man, I just ain't workin' monthly.
 
-202
+206
 00:00:34,867 --> 00:00:34,987
 I still ain't the man, I <u>just</u> ain't workin' monthly.
 
-203
+207
 00:00:34,987 --> 00:00:35,007
 I still ain't the man, I just ain't workin' monthly.
 
-204
+208
 00:00:35,007 --> 00:00:35,107
 I still ain't the man, I just <u>ain't</u> workin' monthly.
 
-205
+209
 00:00:35,107 --> 00:00:35,127
 I still ain't the man, I just ain't workin' monthly.
 
-206
+210
 00:00:35,127 --> 00:00:35,548
 I still ain't the man, I just ain't <u>workin'</u> monthly.
 
-207
+211
 00:00:35,548 --> 00:00:35,588
 I still ain't the man, I just ain't workin' monthly.
 
-208
+212
 00:00:35,588 --> 00:00:36,049
 I still ain't the man, I just ain't workin' <u>monthly.</u>
 
-209
-00:00:36,289 --> 00:00:36,490
-<u>My</u> pants are too tight, tightly, but comfy.
-
-210
-00:00:36,490 --> 00:00:36,530
-My pants are too tight, tightly, but comfy.
-
-211
-00:00:36,530 --> 00:00:36,790
-My <u>pants</u> are too tight, tightly, but comfy.
-
-212
-00:00:36,790 --> 00:00:36,870
-My pants are too tight, tightly, but comfy.
-
 213
-00:00:36,870 --> 00:00:36,970
-My pants <u>are</u> too tight, tightly, but comfy.
+00:00:36,289 --> 00:00:36,490
+<u>My</u> pants are t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 
 214
-00:00:36,970 --> 00:00:37,011
-My pants are too tight, tightly, but comfy.
+00:00:36,490 --> 00:00:36,530
+My pants are t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 
 215
-00:00:37,011 --> 00:00:37,111
-My pants are <u>too</u> tight, tightly, but comfy.
+00:00:36,530 --> 00:00:36,850
+My <u>pants</u> are t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 
 216
-00:00:37,111 --> 00:00:37,131
-My pants are too tight, tightly, but comfy.
+00:00:36,850 --> 00:00:36,870
+My pants are t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 
 217
-00:00:37,131 --> 00:00:37,511
-My pants are too <u>tight,</u> tightly, but comfy.
+00:00:36,870 --> 00:00:37,111
+My pants <u>are</u> t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 
 218
-00:00:37,511 --> 00:00:37,531
-My pants are too tight, tightly, but comfy.
+00:00:37,111 --> 00:00:37,131
+My pants are t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 
 219
-00:00:37,531 --> 00:00:37,972
-My pants are too tight, <u>tightly,</u> but comfy.
+00:00:37,131 --> 00:00:41,057
+My pants are <u>t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t</u>
 
 220
-00:00:37,972 --> 00:00:37,992
-My pants are too tight, tightly, but comfy.
+00:00:41,037 --> 00:00:41,338
+<u>The</u> bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 221
-00:00:37,992 --> 00:00:38,112
-My pants are too tight, tightly, <u>but</u> comfy.
+00:00:41,338 --> 00:00:41,358
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 222
-00:00:38,112 --> 00:00:38,473
-My pants are too tight, tightly, but comfy.
+00:00:41,358 --> 00:00:41,518
+The <u>bear</u> on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 223
-00:00:38,473 --> 00:00:38,593
-My pants are too tight, tightly, but <u>comfy.</u>
+00:00:41,518 --> 00:00:41,578
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 224
-00:00:38,613 --> 00:00:38,713
-<u>They</u> put fuck dirty, but nubble it a lot.
+00:00:41,578 --> 00:00:41,638
+The bear <u>on</u> the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 225
-00:00:38,713 --> 00:00:38,753
-They put fuck dirty, but nubble it a lot.
+00:00:41,638 --> 00:00:41,658
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 226
-00:00:38,753 --> 00:00:38,914
-They <u>put</u> fuck dirty, but nubble it a lot.
+00:00:41,658 --> 00:00:41,738
+The bear on <u>the</u> house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 227
-00:00:38,914 --> 00:00:38,954
-They put fuck dirty, but nubble it a lot.
+00:00:41,738 --> 00:00:41,778
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 228
-00:00:38,954 --> 00:00:39,194
-They put <u>fuck</u> dirty, but nubble it a lot.
+00:00:41,778 --> 00:00:42,039
+The bear on the <u>house,</u> and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 229
-00:00:39,194 --> 00:00:39,214
-They put fuck dirty, but nubble it a lot.
+00:00:42,039 --> 00:00:42,279
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 230
-00:00:39,214 --> 00:00:39,615
-They put fuck <u>dirty,</u> but nubble it a lot.
+00:00:42,279 --> 00:00:42,359
+The bear on the house, <u>and</u> he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 231
-00:00:39,615 --> 00:00:39,835
-They put fuck dirty, but nubble it a lot.
+00:00:42,359 --> 00:00:42,420
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 232
-00:00:39,835 --> 00:00:39,935
-They put fuck dirty, <u>but</u> nubble it a lot.
+00:00:42,420 --> 00:00:42,580
+The bear on the house, and <u>he</u> transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 233
-00:00:39,935 --> 00:00:39,975
-They put fuck dirty, but nubble it a lot.
+00:00:42,580 --> 00:00:42,620
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 234
-00:00:39,975 --> 00:00:40,276
-They put fuck dirty, but <u>nubble</u> it a lot.
+00:00:42,620 --> 00:00:43,321
+The bear on the house, and he <u>transpired</u> You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 235
-00:00:40,276 --> 00:00:40,376
-They put fuck dirty, but nubble it a lot.
+00:00:43,321 --> 00:00:43,461
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 236
-00:00:40,376 --> 00:00:40,476
-They put fuck dirty, but nubble <u>it</u> a lot.
+00:00:43,461 --> 00:00:43,642
+The bear on the house, and he transpired <u>You'll</u> meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 237
-00:00:40,476 --> 00:00:40,516
-They put fuck dirty, but nubble it a lot.
+00:00:43,642 --> 00:00:43,662
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 238
-00:00:40,516 --> 00:00:40,576
-They put fuck dirty, but nubble it <u>a</u> lot.
+00:00:43,662 --> 00:00:43,842
+The bear on the house, and he transpired You'll <u>meet</u> the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 239
-00:00:40,576 --> 00:00:40,596
-They put fuck dirty, but nubble it a lot.
+00:00:43,842 --> 00:00:43,882
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 240
-00:00:40,596 --> 00:00:41,057
-They put fuck dirty, but nubble it a <u>lot.</u>
+00:00:43,882 --> 00:00:44,203
+The bear on the house, and he transpired You'll meet <u>the</u> lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 241
-00:00:41,037 --> 00:00:41,418
-<u>Dab</u> air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:44,203 --> 00:00:44,243
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 242
-00:00:41,418 --> 00:00:41,438
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:44,243 --> 00:00:44,644
+The bear on the house, and he transpired You'll meet the <u>lab</u> rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 243
-00:00:41,438 --> 00:00:41,518
-Dab <u>air</u> on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:44,644 --> 00:00:44,664
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 244
-00:00:41,518 --> 00:00:41,578
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:44,664 --> 00:00:44,824
+The bear on the house, and he transpired You'll meet the lab <u>rat,</u> corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 245
-00:00:41,578 --> 00:00:41,638
-Dab air <u>on</u> my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:44,824 --> 00:00:44,844
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 246
-00:00:41,638 --> 00:00:41,698
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:44,844 --> 00:00:45,445
+The bear on the house, and he transpired You'll meet the lab rat, <u>corporate</u> hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 247
-00:00:41,698 --> 00:00:41,738
-Dab air on <u>my</u> house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:45,445 --> 00:00:45,545
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 248
-00:00:41,738 --> 00:00:41,778
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:45,545 --> 00:00:45,706
+The bear on the house, and he transpired You'll meet the lab rat, corporate <u>hack</u> So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 249
-00:00:41,778 --> 00:00:42,039
-Dab air on my <u>house,</u> and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:45,706 --> 00:00:45,766
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 250
-00:00:42,039 --> 00:00:42,279
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:45,766 --> 00:00:45,886
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack <u>So</u> Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 251
-00:00:42,279 --> 00:00:42,359
-Dab air on my house, <u>and</u> eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:45,886 --> 00:00:45,986
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 252
-00:00:42,359 --> 00:00:42,440
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:45,986 --> 00:00:46,627
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So <u>Scott</u> LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 253
-00:00:42,440 --> 00:00:42,580
-Dab air on my house, and <u>eat</u> trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:46,627 --> 00:00:46,768
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 254
-00:00:42,580 --> 00:00:42,620
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:46,768 --> 00:00:47,088
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott <u>LLC's</u> in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 255
-00:00:42,620 --> 00:00:42,961
-Dab air on my house, and eat <u>trash</u> pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:47,088 --> 00:00:47,148
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 256
-00:00:42,961 --> 00:00:42,981
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:47,148 --> 00:00:47,208
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's <u>in</u> union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 257
-00:00:42,981 --> 00:00:43,321
-Dab air on my house, and eat trash <u>pie</u> You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:47,208 --> 00:00:47,369
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 258
-00:00:43,321 --> 00:00:43,461
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:47,369 --> 00:00:47,729
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in <u>union</u> back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 259
-00:00:43,461 --> 00:00:43,642
-Dab air on my house, and eat trash pie <u>You'll</u> meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:47,729 --> 00:00:47,870
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 260
-00:00:43,642 --> 00:00:43,662
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:47,870 --> 00:00:48,431
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union <u>back,</u> since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 261
-00:00:43,662 --> 00:00:43,862
-Dab air on my house, and eat trash pie You'll <u>meet</u> the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:48,431 --> 00:00:48,451
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 262
-00:00:43,862 --> 00:00:43,882
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:48,451 --> 00:00:48,731
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, <u>since</u> API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 263
-00:00:43,882 --> 00:00:44,203
-Dab air on my house, and eat trash pie You'll meet <u>the</u> lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:48,731 --> 00:00:48,912
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 264
-00:00:44,203 --> 00:00:44,243
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:48,912 --> 00:00:49,032
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since <u>API</u> phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 265
-00:00:44,243 --> 00:00:44,804
-Dab air on my house, and eat trash pie You'll meet the <u>lab-backed</u> corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:49,032 --> 00:00:49,072
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 266
-00:00:44,804 --> 00:00:44,844
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:49,072 --> 00:00:49,332
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API <u>phones</u> are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 267
-00:00:44,844 --> 00:00:45,445
-Dab air on my house, and eat trash pie You'll meet the lab-backed <u>corporate</u> hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:49,332 --> 00:00:49,453
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 268
-00:00:45,445 --> 00:00:45,545
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:49,453 --> 00:00:49,633
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones <u>are</u> filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 269
-00:00:45,545 --> 00:00:45,726
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate <u>hacks</u> Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:49,633 --> 00:00:49,673
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 270
-00:00:45,726 --> 00:00:45,746
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:49,673 --> 00:00:50,414
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are <u>filing</u> Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 271
-00:00:45,746 --> 00:00:45,886
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks <u>Who've</u> got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:50,414 --> 00:00:50,835
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 272
-00:00:45,886 --> 00:00:46,166
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:50,835 --> 00:00:51,256
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing <u>Didn't</u> show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 273
-00:00:46,166 --> 00:00:46,327
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've <u>got</u> LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,256 --> 00:00:51,296
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 274
-00:00:46,327 --> 00:00:46,768
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,296 --> 00:00:51,657
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't <u>show</u> out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 275
-00:00:46,768 --> 00:00:47,088
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got <u>LLCs</u> and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,657 --> 00:00:51,677
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 276
-00:00:47,088 --> 00:00:47,148
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,677 --> 00:00:51,817
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show <u>out,</u> we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 277
-00:00:47,148 --> 00:00:47,208
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs <u>and</u> union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,817 --> 00:00:51,877
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 278
-00:00:47,208 --> 00:00:47,369
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,877 --> 00:00:51,997
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, <u>we</u> just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 279
-00:00:47,369 --> 00:00:47,729
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and <u>union</u> backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:51,997 --> 00:00:52,017
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 280
-00:00:47,729 --> 00:00:47,870
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:52,017 --> 00:00:52,278
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we <u>just</u> bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 281
-00:00:47,870 --> 00:00:48,451
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union <u>backs</u> And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:52,278 --> 00:00:52,318
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 282
-00:00:48,451 --> 00:00:48,571
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:52,318 --> 00:00:52,618
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just <u>bought</u> it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 283
-00:00:48,571 --> 00:00:48,731
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs <u>And</u> say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:52,618 --> 00:00:52,739
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 284
-00:00:48,731 --> 00:00:48,751
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:52,739 --> 00:00:53,220
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought <u>it</u> You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 285
-00:00:48,751 --> 00:00:48,851
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And <u>say</u> the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,220 --> 00:00:53,240
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 286
-00:00:48,851 --> 00:00:48,872
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,240 --> 00:00:53,300
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it <u>You</u> bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 287
-00:00:48,872 --> 00:00:49,032
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say <u>the</u> iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,300 --> 00:00:53,320
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 288
-00:00:49,032 --> 00:00:49,052
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,320 --> 00:00:53,440
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You <u>bought</u> it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 289
-00:00:49,052 --> 00:00:49,332
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the <u>iPhones</u> are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,440 --> 00:00:53,460
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 290
-00:00:49,332 --> 00:00:49,453
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,460 --> 00:00:53,520
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought <u>it,</u> just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 291
-00:00:49,453 --> 00:00:49,633
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones <u>are</u> following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,520 --> 00:00:53,660
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 292
-00:00:49,633 --> 00:00:49,673
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,660 --> 00:00:53,801
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, <u>just</u> talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 293
-00:00:49,673 --> 00:00:50,414
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are <u>following</u> Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,801 --> 00:00:53,841
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 294
-00:00:50,414 --> 00:00:50,835
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:53,841 --> 00:00:54,402
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just <u>talking</u> on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 295
-00:00:50,835 --> 00:00:51,256
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following <u>Didn't</u> show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:54,402 --> 00:00:54,502
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 296
-00:00:51,256 --> 00:00:51,296
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:54,502 --> 00:00:54,582
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking <u>on</u> rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 297
-00:00:51,296 --> 00:00:51,657
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't <u>show</u> out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:54,582 --> 00:00:54,742
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 298
-00:00:51,657 --> 00:00:51,677
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:54,742 --> 00:00:55,263
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on <u>rebellion</u> Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 299
-00:00:51,677 --> 00:00:51,817
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show <u>out,</u> we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:55,263 --> 00:00:55,584
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 300
-00:00:51,817 --> 00:00:51,877
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:55,584 --> 00:00:55,864
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion <u>Back</u> with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 301
-00:00:51,877 --> 00:00:51,997
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, <u>we</u> just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:55,864 --> 00:00:55,945
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 302
-00:00:51,997 --> 00:00:52,017
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:55,945 --> 00:00:56,025
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back <u>with</u> a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 303
-00:00:52,017 --> 00:00:52,278
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we <u>just</u> bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,025 --> 00:00:56,085
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 304
-00:00:52,278 --> 00:00:52,318
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,085 --> 00:00:56,125
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with <u>a</u> bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 305
-00:00:52,318 --> 00:00:52,618
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just <u>bought</u> it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,125 --> 00:00:56,165
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 306
-00:00:52,618 --> 00:00:52,739
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,165 --> 00:00:56,345
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a <u>bunch</u> of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 307
-00:00:52,739 --> 00:00:52,879
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought <u>it,</u> bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,345 --> 00:00:56,365
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 308
-00:00:52,879 --> 00:00:52,899
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,365 --> 00:00:56,546
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch <u>of</u> dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 309
-00:00:52,899 --> 00:00:53,440
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, <u>bought</u> it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,546 --> 00:00:56,566
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 310
-00:00:53,440 --> 00:00:53,460
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,566 --> 00:00:56,926
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of <u>dynoplastic,</u> you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 311
-00:00:53,460 --> 00:00:53,500
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought <u>it</u> Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,926 --> 00:00:56,946
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 312
-00:00:53,500 --> 00:00:53,660
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:56,946 --> 00:00:57,067
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, <u>you're</u> in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 313
-00:00:53,660 --> 00:00:53,801
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it <u>Just</u> talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,067 --> 00:00:57,107
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 314
-00:00:53,801 --> 00:00:53,841
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,107 --> 00:00:57,187
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're <u>in</u> hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 315
-00:00:53,841 --> 00:00:54,402
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just <u>talking</u> on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,187 --> 00:00:57,207
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 316
-00:00:54,402 --> 00:00:54,502
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,207 --> 00:00:57,487
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in <u>hell,</u> you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 317
-00:00:54,502 --> 00:00:54,582
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking <u>on</u> rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,487 --> 00:00:57,508
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 318
-00:00:54,582 --> 00:00:54,742
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,508 --> 00:00:57,628
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, <u>you</u> bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 319
-00:00:54,742 --> 00:00:55,263
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on <u>rebellion</u> Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,628 --> 00:00:57,648
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 320
-00:00:55,263 --> 00:00:55,584
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,648 --> 00:00:57,968
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you <u>bought</u> it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 321
-00:00:55,584 --> 00:00:55,864
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion <u>Backed</u> a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:57,968 --> 00:00:58,169
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 322
-00:00:55,864 --> 00:00:55,884
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,169 --> 00:00:58,209
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought <u>it</u> You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 323
-00:00:55,884 --> 00:00:55,905
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed <u>a</u> bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,209 --> 00:00:58,529
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 324
-00:00:55,905 --> 00:00:55,925
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,529 --> 00:00:58,590
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it <u>You</u> made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 325
-00:00:55,925 --> 00:00:56,125
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a <u>bunch</u> of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,590 --> 00:00:58,610
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 326
-00:00:56,125 --> 00:00:56,145
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,610 --> 00:00:58,850
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You <u>made</u> for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 327
-00:00:56,145 --> 00:00:56,205
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch <u>of</u> dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,850 --> 00:00:58,890
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 328
-00:00:56,205 --> 00:00:56,225
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:58,890 --> 00:00:59,171
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made <u>for</u> Venus Gorgon, got sold free, but bought a pump for a fortune
 
 329
-00:00:56,225 --> 00:00:56,946
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of <u>dynoplastic</u> and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:59,171 --> 00:00:59,231
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 330
-00:00:56,946 --> 00:00:56,966
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:59,231 --> 00:00:59,591
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for <u>Venus</u> Gorgon, got sold free, but bought a pump for a fortune
 
 331
-00:00:56,966 --> 00:00:57,187
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic <u>and</u> hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:59,591 --> 00:00:59,611
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 332
-00:00:57,187 --> 00:00:57,207
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:00:59,611 --> 00:01:00,032
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus <u>Gorgon,</u> got sold free, but bought a pump for a fortune
 
 333
-00:00:57,207 --> 00:00:57,487
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and <u>hell,</u> yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,032 --> 00:01:00,233
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 334
-00:00:57,487 --> 00:00:57,508
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,233 --> 00:01:00,373
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, <u>got</u> sold free, but bought a pump for a fortune
 
 335
-00:00:57,508 --> 00:00:57,628
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, <u>yeah,</u> bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,373 --> 00:01:00,393
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 336
-00:00:57,628 --> 00:00:57,648
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,393 --> 00:01:00,613
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got <u>sold</u> free, but bought a pump for a fortune
 
 337
-00:00:57,648 --> 00:00:57,968
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, <u>bought</u> it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,613 --> 00:01:00,633
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 338
-00:00:57,968 --> 00:00:58,169
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,633 --> 00:01:00,934
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold <u>free,</u> but bought a pump for a fortune
 
 339
-00:00:58,169 --> 00:00:58,209
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought <u>it</u> Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,934 --> 00:01:00,954
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 340
-00:00:58,209 --> 00:00:58,610
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:00,954 --> 00:01:01,194
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, <u>but</u> bought a pump for a fortune
 
 341
-00:00:58,610 --> 00:00:58,850
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it <u>Made</u> for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,194 --> 00:01:01,254
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 342
-00:00:58,850 --> 00:00:58,890
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,254 --> 00:01:01,455
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but <u>bought</u> a pump for a fortune
 
 343
-00:00:58,890 --> 00:00:59,171
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made <u>for</u> Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,455 --> 00:01:01,495
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 344
-00:00:59,171 --> 00:00:59,231
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,495 --> 00:01:01,515
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought <u>a</u> pump for a fortune
 
 345
-00:00:59,231 --> 00:00:59,591
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for <u>Venus</u> Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,515 --> 00:01:01,555
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 346
-00:00:59,591 --> 00:00:59,611
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,555 --> 00:01:01,695
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a <u>pump</u> for a fortune
 
 347
-00:00:59,611 --> 00:01:00,012
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus <u>Gorgon</u> Got sold free, but bought a pump for a fortune
+00:01:01,695 --> 00:01:01,715
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 348
-00:01:00,012 --> 00:01:00,233
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,715 --> 00:01:01,896
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump <u>for</u> a fortune
 
 349
-00:01:00,233 --> 00:01:00,373
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon <u>Got</u> sold free, but bought a pump for a fortune
+00:01:01,896 --> 00:01:01,916
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 350
-00:01:00,373 --> 00:01:00,393
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,916 --> 00:01:01,956
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for <u>a</u> fortune
 
 351
-00:01:00,393 --> 00:01:00,613
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got <u>sold</u> free, but bought a pump for a fortune
+00:01:01,956 --> 00:01:01,996
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a fortune
 
 352
-00:01:00,613 --> 00:01:00,633
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
+00:01:01,996 --> 00:01:02,657
+The bear on the house, and he transpired You'll meet the lab rat, corporate hack So Scott LLC's in union back, since API phones are filing Didn't show out, we just bought it You bought it, just talking on rebellion Back with a bunch of dynoplastic, you're in hell, you bought it You made for Venus Gorgon, got sold free, but bought a pump for a <u>fortune</u>
 
 353
-00:01:00,633 --> 00:01:00,934
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold <u>free,</u> but bought a pump for a fortune
-
-354
-00:01:00,934 --> 00:01:00,954
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-355
-00:01:00,954 --> 00:01:01,194
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, <u>but</u> bought a pump for a fortune
-
-356
-00:01:01,194 --> 00:01:01,254
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-357
-00:01:01,254 --> 00:01:01,455
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but <u>bought</u> a pump for a fortune
-
-358
-00:01:01,455 --> 00:01:01,495
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-359
-00:01:01,495 --> 00:01:01,515
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought <u>a</u> pump for a fortune
-
-360
-00:01:01,515 --> 00:01:01,555
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-361
-00:01:01,555 --> 00:01:01,695
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a <u>pump</u> for a fortune
-
-362
-00:01:01,695 --> 00:01:01,715
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-363
-00:01:01,715 --> 00:01:01,896
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump <u>for</u> a fortune
-
-364
-00:01:01,896 --> 00:01:01,916
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-365
-00:01:01,916 --> 00:01:01,956
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for <u>a</u> fortune
-
-366
-00:01:01,956 --> 00:01:01,996
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a fortune
-
-367
-00:01:01,996 --> 00:01:02,657
-Dab air on my house, and eat trash pie You'll meet the lab-backed corporate hacks Who've got LLCs and union backs And say the iPhones are following Didn't show out, we just bought it, bought it Just talking on rebellion Backed a bunch of dynoplastic and hell, yeah, bought it Made for Venus Gorgon Got sold free, but bought a pump for a <u>fortune</u>
-
-368
 00:01:10,484 --> 00:01:10,644
 <u>Yo,</u> I still hate cops, but I'm the H.O.
 
-369
+354
 00:01:10,644 --> 00:01:10,664
 Yo, I still hate cops, but I'm the H.O.
 
-370
+355
 00:01:10,664 --> 00:01:10,744
 Yo, <u>I</u> still hate cops, but I'm the H.O.
 
-371
+356
 00:01:10,744 --> 00:01:10,764
 Yo, I still hate cops, but I'm the H.O.
 
-372
+357
 00:01:10,764 --> 00:01:10,965
 Yo, I <u>still</u> hate cops, but I'm the H.O.
 
-373
+358
 00:01:10,965 --> 00:01:10,985
 Yo, I still hate cops, but I'm the H.O.
 
-374
+359
 00:01:10,985 --> 00:01:11,125
 Yo, I still <u>hate</u> cops, but I'm the H.O.
 
-375
+360
 00:01:11,125 --> 00:01:11,165
 Yo, I still hate cops, but I'm the H.O.
 
-376
+361
 00:01:11,165 --> 00:01:11,505
 Yo, I still hate <u>cops,</u> but I'm the H.O.
 
-377
+362
 00:01:11,505 --> 00:01:11,566
 Yo, I still hate cops, but I'm the H.O.
 
-378
+363
 00:01:11,566 --> 00:01:11,646
 Yo, I still hate cops, <u>but</u> I'm the H.O.
 
-379
+364
 00:01:11,646 --> 00:01:11,706
 Yo, I still hate cops, but I'm the H.O.
 
-380
+365
 00:01:11,706 --> 00:01:11,766
 Yo, I still hate cops, but <u>I'm</u> the H.O.
 
-381
+366
 00:01:11,766 --> 00:01:11,846
 Yo, I still hate cops, but I'm the H.O.
 
-382
+367
 00:01:11,846 --> 00:01:12,046
 Yo, I still hate cops, but I'm <u>the</u> H.O.
 
-383
+368
 00:01:12,046 --> 00:01:12,066
 Yo, I still hate cops, but I'm the H.O.
 
-384
+369
 00:01:12,066 --> 00:01:12,287
 Yo, I still hate cops, but I'm the <u>H.O.</u>
 
-385
+370
 00:01:12,327 --> 00:01:12,607
 <u>President</u> now.
 
-386
+371
 00:01:12,607 --> 00:01:12,627
 President now.
 
-387
+372
 00:01:12,627 --> 00:01:12,807
 President <u>now.</u>
 
-388
+373
 00:01:12,988 --> 00:01:13,128
 <u>My</u> backyard pumped fast in a ton, so you know I'm not sell-out.
 
-389
+374
 00:01:13,128 --> 00:01:13,148
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-390
+375
 00:01:13,148 --> 00:01:13,548
 My <u>backyard</u> pumped fast in a ton, so you know I'm not sell-out.
 
-391
+376
 00:01:13,548 --> 00:01:13,589
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-392
+377
 00:01:13,589 --> 00:01:13,789
 My backyard <u>pumped</u> fast in a ton, so you know I'm not sell-out.
 
-393
+378
 00:01:13,789 --> 00:01:13,809
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-394
+379
 00:01:13,809 --> 00:01:14,029
 My backyard pumped <u>fast</u> in a ton, so you know I'm not sell-out.
 
-395
+380
 00:01:14,029 --> 00:01:14,069
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-396
+381
 00:01:14,069 --> 00:01:14,129
 My backyard pumped fast <u>in</u> a ton, so you know I'm not sell-out.
 
-397
+382
 00:01:14,129 --> 00:01:14,189
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-398
+383
 00:01:14,189 --> 00:01:14,229
 My backyard pumped fast in <u>a</u> ton, so you know I'm not sell-out.
 
-399
+384
 00:01:14,229 --> 00:01:14,270
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-400
+385
 00:01:14,270 --> 00:01:14,610
 My backyard pumped fast in a <u>ton,</u> so you know I'm not sell-out.
 
-401
+386
 00:01:14,610 --> 00:01:14,710
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-402
+387
 00:01:14,710 --> 00:01:14,750
 My backyard pumped fast in a ton, <u>so</u> you know I'm not sell-out.
 
-403
+388
 00:01:14,750 --> 00:01:14,790
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-404
+389
 00:01:14,790 --> 00:01:14,850
 My backyard pumped fast in a ton, so <u>you</u> know I'm not sell-out.
 
-405
+390
 00:01:14,850 --> 00:01:14,870
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-406
-00:01:14,870 --> 00:01:15,071
+391
+00:01:14,870 --> 00:01:15,051
 My backyard pumped fast in a ton, so you <u>know</u> I'm not sell-out.
 
-407
-00:01:15,071 --> 00:01:15,291
+392
+00:01:15,051 --> 00:01:15,291
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-408
+393
 00:01:15,291 --> 00:01:15,411
 My backyard pumped fast in a ton, so you know <u>I'm</u> not sell-out.
 
-409
+394
 00:01:15,411 --> 00:01:15,451
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-410
-00:01:15,451 --> 00:01:15,551
+395
+00:01:15,451 --> 00:01:15,571
 My backyard pumped fast in a ton, so you know I'm <u>not</u> sell-out.
 
-411
-00:01:15,551 --> 00:01:15,591
+396
+00:01:15,571 --> 00:01:15,591
 My backyard pumped fast in a ton, so you know I'm not sell-out.
 
-412
+397
 00:01:15,591 --> 00:01:15,932
 My backyard pumped fast in a ton, so you know I'm not <u>sell-out.</u>
 
-413
+398
 00:01:16,152 --> 00:01:16,353
 <u>It's</u> my second fridge.
 
-414
+399
 00:01:16,353 --> 00:01:16,373
 It's my second fridge.
 
-415
+400
 00:01:16,373 --> 00:01:16,493
 It's <u>my</u> second fridge.
 
-416
+401
 00:01:16,493 --> 00:01:16,653
 It's my second fridge.
 
-417
+402
 00:01:16,653 --> 00:01:17,034
 It's my <u>second</u> fridge.
 
-418
+403
 00:01:17,034 --> 00:01:17,134
 It's my second fridge.
 
-419
+404
 00:01:17,134 --> 00:01:17,915
 It's my second <u>fridge.</u>
 
-420
+405
 00:01:17,935 --> 00:01:18,035
 <u>One</u> for our milk, one for H. We bought it!
 
-421
+406
 00:01:18,035 --> 00:01:18,095
 One for our milk, one for H. We bought it!
 
-422
+407
 00:01:18,095 --> 00:01:18,215
 One <u>for</u> our milk, one for H. We bought it!
 
-423
+408
 00:01:18,215 --> 00:01:18,235
 One for our milk, one for H. We bought it!
 
-424
+409
 00:01:18,235 --> 00:01:18,295
 One for <u>our</u> milk, one for H. We bought it!
 
-425
+410
 00:01:18,295 --> 00:01:18,356
 One for our milk, one for H. We bought it!
 
-426
+411
 00:01:18,356 --> 00:01:18,676
 One for our <u>milk,</u> one for H. We bought it!
 
-427
+412
 00:01:18,676 --> 00:01:18,916
 One for our milk, one for H. We bought it!
 
-428
+413
 00:01:18,916 --> 00:01:18,996
 One for our milk, <u>one</u> for H. We bought it!
 
-429
+414
 00:01:18,996 --> 00:01:19,057
 One for our milk, one for H. We bought it!
 
-430
+415
 00:01:19,057 --> 00:01:19,157
 One for our milk, one <u>for</u> H. We bought it!
 
-431
+416
 00:01:19,157 --> 00:01:19,377
 One for our milk, one for H. We bought it!
 
-432
+417
 00:01:19,377 --> 00:01:19,557
 One for our milk, one for <u>H.</u> We bought it!
 
-433
+418
 00:01:19,557 --> 00:01:19,838
 One for our milk, one for H. We bought it!
 
-434
+419
 00:01:19,838 --> 00:01:20,098
 One for our milk, one for H. <u>We</u> bought it!
 
-435
+420
 00:01:20,098 --> 00:01:20,138
 One for our milk, one for H. We bought it!
 
-436
+421
 00:01:20,138 --> 00:01:20,879
 One for our milk, one for H. We <u>bought</u> it!
 
-437
+422
 00:01:20,879 --> 00:01:20,899
 One for our milk, one for H. We bought it!
 
-438
+423
 00:01:20,899 --> 00:01:21,100
 One for our milk, one for H. We bought <u>it!</u>
 
-439
+424
 00:01:21,280 --> 00:01:21,380
 <u>And</u> yeah, shit don't fail!
 
-440
+425
 00:01:21,380 --> 00:01:21,400
 And yeah, shit don't fail!
 
-441
+426
 00:01:21,400 --> 00:01:21,801
 And <u>yeah,</u> shit don't fail!
 
-442
+427
 00:01:21,801 --> 00:01:21,821
 And yeah, shit don't fail!
 
-443
+428
 00:01:21,821 --> 00:01:22,101
 And yeah, <u>shit</u> don't fail!
 
-444
+429
 00:01:22,101 --> 00:01:22,241
 And yeah, shit don't fail!
 
-445
+430
 00:01:22,241 --> 00:01:22,401
 And yeah, shit <u>don't</u> fail!
 
-446
+431
 00:01:22,401 --> 00:01:22,642
 And yeah, shit don't fail!
 
-447
+432
 00:01:22,642 --> 00:01:22,842
 And yeah, shit don't <u>fail!</u>
 
-448
+433
 00:01:22,982 --> 00:01:23,283
 <u>Spring</u> the truth just for jowl, and we bought it!
 
-449
+434
 00:01:23,283 --> 00:01:23,303
 Spring the truth just for jowl, and we bought it!
 
-450
+435
 00:01:23,303 --> 00:01:23,403
 Spring <u>the</u> truth just for jowl, and we bought it!
 
-451
+436
 00:01:23,403 --> 00:01:23,443
 Spring the truth just for jowl, and we bought it!
 
-452
+437
 00:01:23,443 --> 00:01:23,723
 Spring the <u>truth</u> just for jowl, and we bought it!
 
-453
+438
 00:01:23,723 --> 00:01:23,743
 Spring the truth just for jowl, and we bought it!
 
-454
+439
 00:01:23,743 --> 00:01:23,824
 Spring the truth <u>just</u> for jowl, and we bought it!
 
-455
+440
 00:01:23,824 --> 00:01:23,844
 Spring the truth just for jowl, and we bought it!
 
-456
+441
 00:01:23,844 --> 00:01:23,964
 Spring the truth just <u>for</u> jowl, and we bought it!
 
-457
+442
 00:01:23,964 --> 00:01:23,984
 Spring the truth just for jowl, and we bought it!
 
-458
+443
 00:01:23,984 --> 00:01:24,244
 Spring the truth just for <u>jowl,</u> and we bought it!
 
-459
+444
 00:01:24,244 --> 00:01:24,464
 Spring the truth just for jowl, and we bought it!
 
-460
+445
 00:01:24,464 --> 00:01:24,585
 Spring the truth just for jowl, <u>and</u> we bought it!
 
-461
+446
 00:01:24,585 --> 00:01:24,605
 Spring the truth just for jowl, and we bought it!
 
-462
+447
 00:01:24,605 --> 00:01:24,825
 Spring the truth just for jowl, and <u>we</u> bought it!
 
-463
+448
 00:01:24,825 --> 00:01:25,025
 Spring the truth just for jowl, and we bought it!
 
-464
+449
 00:01:25,025 --> 00:01:25,606
 Spring the truth just for jowl, and we <u>bought</u> it!
 
-465
+450
 00:01:25,606 --> 00:01:25,626
 Spring the truth just for jowl, and we bought it!
 
-466
+451
 00:01:25,626 --> 00:01:25,826
 Spring the truth just for jowl, and we bought <u>it!</u>
 
-467
+452
 00:01:26,147 --> 00:01:26,327
-<u>Go</u> fast, get to pray, be the steam bell!
+<u>Go</u> fast, get the frame, beat the steam bell!
+
+453
+00:01:26,327 --> 00:01:26,447
+Go fast, get the frame, beat the steam bell!
+
+454
+00:01:26,447 --> 00:01:26,868
+Go <u>fast,</u> get the frame, beat the steam bell!
+
+455
+00:01:26,868 --> 00:01:26,888
+Go fast, get the frame, beat the steam bell!
+
+456
+00:01:26,888 --> 00:01:26,948
+Go fast, <u>get</u> the frame, beat the steam bell!
+
+457
+00:01:26,948 --> 00:01:26,968
+Go fast, get the frame, beat the steam bell!
+
+458
+00:01:26,968 --> 00:01:27,028
+Go fast, get <u>the</u> frame, beat the steam bell!
+
+459
+00:01:27,028 --> 00:01:27,048
+Go fast, get the frame, beat the steam bell!
+
+460
+00:01:27,048 --> 00:01:27,509
+Go fast, get the <u>frame,</u> beat the steam bell!
+
+461
+00:01:27,509 --> 00:01:27,529
+Go fast, get the frame, beat the steam bell!
+
+462
+00:01:27,529 --> 00:01:27,930
+Go fast, get the frame, <u>beat</u> the steam bell!
+
+463
+00:01:27,930 --> 00:01:27,950
+Go fast, get the frame, beat the steam bell!
+
+464
+00:01:27,950 --> 00:01:28,070
+Go fast, get the frame, beat <u>the</u> steam bell!
+
+465
+00:01:28,070 --> 00:01:28,110
+Go fast, get the frame, beat the steam bell!
+
+466
+00:01:28,110 --> 00:01:28,470
+Go fast, get the frame, beat the <u>steam</u> bell!
+
+467
+00:01:28,470 --> 00:01:28,811
+Go fast, get the frame, beat the steam bell!
 
 468
-00:01:26,327 --> 00:01:26,447
-Go fast, get to pray, be the steam bell!
+00:01:28,811 --> 00:01:29,272
+Go fast, get the frame, beat the steam <u>bell!</u>
 
 469
-00:01:26,447 --> 00:01:26,888
-Go <u>fast,</u> get to pray, be the steam bell!
-
-470
-00:01:26,888 --> 00:01:26,908
-Go fast, get to pray, be the steam bell!
-
-471
-00:01:26,908 --> 00:01:26,968
-Go fast, <u>get</u> to pray, be the steam bell!
-
-472
-00:01:26,968 --> 00:01:26,988
-Go fast, get to pray, be the steam bell!
-
-473
-00:01:26,988 --> 00:01:27,028
-Go fast, get <u>to</u> pray, be the steam bell!
-
-474
-00:01:27,028 --> 00:01:27,048
-Go fast, get to pray, be the steam bell!
-
-475
-00:01:27,048 --> 00:01:27,509
-Go fast, get to <u>pray,</u> be the steam bell!
-
-476
-00:01:27,509 --> 00:01:27,529
-Go fast, get to pray, be the steam bell!
-
-477
-00:01:27,529 --> 00:01:27,930
-Go fast, get to pray, <u>be</u> the steam bell!
-
-478
-00:01:27,930 --> 00:01:27,950
-Go fast, get to pray, be the steam bell!
-
-479
-00:01:27,950 --> 00:01:28,070
-Go fast, get to pray, be <u>the</u> steam bell!
-
-480
-00:01:28,070 --> 00:01:28,110
-Go fast, get to pray, be the steam bell!
-
-481
-00:01:28,110 --> 00:01:28,470
-Go fast, get to pray, be the <u>steam</u> bell!
-
-482
-00:01:28,470 --> 00:01:28,811
-Go fast, get to pray, be the steam bell!
-
-483
-00:01:28,811 --> 00:01:29,272
-Go fast, get to pray, be the steam <u>bell!</u>
-
-484
 00:01:29,292 --> 00:01:29,552
 <u>We</u> bought it!
 
-485
+470
 00:01:29,552 --> 00:01:29,592
 We bought it!
 
-486
+471
 00:01:29,592 --> 00:01:30,073
 We <u>bought</u> it!
 
-487
+472
 00:01:30,073 --> 00:01:30,093
 We bought it!
 
-488
+473
 00:01:30,093 --> 00:01:30,233
 We bought <u>it!</u>
 
-489
+474
 00:01:30,613 --> 00:01:30,854
 <u>Bought</u> it with a patent, and man, fuck it was it!
 
-490
+475
 00:01:30,854 --> 00:01:31,014
 Bought it with a patent, and man, fuck it was it!
 
-491
+476
 00:01:31,014 --> 00:01:31,134
 Bought <u>it</u> with a patent, and man, fuck it was it!
 
-492
+477
 00:01:31,134 --> 00:01:31,174
 Bought it with a patent, and man, fuck it was it!
 
-493
+478
 00:01:31,174 --> 00:01:31,355
 Bought it <u>with</u> a patent, and man, fuck it was it!
 
-494
+479
 00:01:31,355 --> 00:01:31,455
 Bought it with a patent, and man, fuck it was it!
 
-495
+480
 00:01:31,455 --> 00:01:31,555
 Bought it with <u>a</u> patent, and man, fuck it was it!
 
-496
-00:01:31,555 --> 00:01:31,615
+481
+00:01:31,555 --> 00:01:31,635
 Bought it with a patent, and man, fuck it was it!
 
-497
-00:01:31,615 --> 00:01:32,236
+482
+00:01:31,635 --> 00:01:32,236
 Bought it with a <u>patent,</u> and man, fuck it was it!
 
-498
+483
 00:01:32,236 --> 00:01:32,256
 Bought it with a patent, and man, fuck it was it!
 
-499
+484
 00:01:32,256 --> 00:01:32,316
 Bought it with a patent, <u>and</u> man, fuck it was it!
 
-500
+485
 00:01:32,316 --> 00:01:32,356
 Bought it with a patent, and man, fuck it was it!
 
-501
+486
 00:01:32,356 --> 00:01:32,676
 Bought it with a patent, and <u>man,</u> fuck it was it!
 
-502
+487
 00:01:32,676 --> 00:01:32,917
 Bought it with a patent, and man, fuck it was it!
 
-503
-00:01:32,917 --> 00:01:33,197
+488
+00:01:32,917 --> 00:01:33,177
 Bought it with a patent, and man, <u>fuck</u> it was it!
 
-504
-00:01:33,197 --> 00:01:33,297
+489
+00:01:33,177 --> 00:01:33,297
 Bought it with a patent, and man, fuck it was it!
 
-505
+490
 00:01:33,297 --> 00:01:33,438
 Bought it with a patent, and man, fuck <u>it</u> was it!
 
-506
+491
 00:01:33,438 --> 00:01:33,558
 Bought it with a patent, and man, fuck it was it!
 
-507
+492
 00:01:33,558 --> 00:01:33,678
 Bought it with a patent, and man, fuck it <u>was</u> it!
 
-508
+493
 00:01:33,678 --> 00:01:33,798
 Bought it with a patent, and man, fuck it was it!
 
-509
+494
 00:01:33,798 --> 00:01:33,958
 Bought it with a patent, and man, fuck it was <u>it!</u>
 
-510
+495
 00:01:33,978 --> 00:01:34,239
 <u>We</u> bought it!
 
-511
+496
 00:01:34,239 --> 00:01:34,279
 We bought it!
 
-512
+497
 00:01:34,279 --> 00:01:34,880
 We <u>bought</u> it!
 
-513
+498
 00:01:34,880 --> 00:01:34,900
 We bought it!
 
-514
+499
 00:01:34,900 --> 00:01:35,060
 We bought <u>it!</u>
 
-515
+500
 00:01:35,441 --> 00:01:35,601
 <u>Bought</u> it, before patented, sell-out, we're just bought it!
 
-516
+501
 00:01:35,601 --> 00:01:35,701
 Bought it, before patented, sell-out, we're just bought it!
 
-517
+502
 00:01:35,701 --> 00:01:35,821
 Bought <u>it,</u> before patented, sell-out, we're just bought it!
 
-518
+503
 00:01:35,821 --> 00:01:36,222
 Bought it, before patented, sell-out, we're just bought it!
 
-519
+504
 00:01:36,222 --> 00:01:36,382
 Bought it, <u>before</u> patented, sell-out, we're just bought it!
 
-520
+505
 00:01:36,382 --> 00:01:36,442
 Bought it, before patented, sell-out, we're just bought it!
 
-521
+506
 00:01:36,442 --> 00:01:37,544
 Bought it, before <u>patented,</u> sell-out, we're just bought it!
 
-522
+507
 00:01:37,544 --> 00:01:37,564
 Bought it, before patented, sell-out, we're just bought it!
 
-523
+508
 00:01:37,564 --> 00:01:38,185
 Bought it, before patented, <u>sell-out,</u> we're just bought it!
 
-524
+509
 00:01:38,185 --> 00:01:38,205
 Bought it, before patented, sell-out, we're just bought it!
 
-525
+510
 00:01:38,205 --> 00:01:38,345
 Bought it, before patented, sell-out, <u>we're</u> just bought it!
 
-526
+511
 00:01:38,345 --> 00:01:38,465
 Bought it, before patented, sell-out, we're just bought it!
 
-527
+512
 00:01:38,465 --> 00:01:38,625
 Bought it, before patented, sell-out, we're <u>just</u> bought it!
 
-528
+513
 00:01:38,625 --> 00:01:38,685
 Bought it, before patented, sell-out, we're just bought it!
 
-529
+514
 00:01:38,685 --> 00:01:39,046
 Bought it, before patented, sell-out, we're just <u>bought</u> it!
 
-530
+515
 00:01:39,046 --> 00:01:39,446
 Bought it, before patented, sell-out, we're just bought it!
 
-531
+516
 00:01:39,446 --> 00:01:39,867
 Bought it, before patented, sell-out, we're just bought <u>it!</u>
 
-532
+517
 00:01:49,280 --> 00:01:49,662
 <u>So</u> cute, nor Kate Jorson, nor St.
 
-533
+518
 00:01:49,662 --> 00:01:49,883
 So cute, nor Kate Jorson, nor St.
 
-534
+519
 00:01:49,883 --> 00:01:49,983
 So <u>cute,</u> nor Kate Jorson, nor St.
 
-535
+520
 00:01:49,983 --> 00:01:50,003
 So cute, nor Kate Jorson, nor St.
 
-536
+521
 00:01:50,003 --> 00:01:50,244
 So cute, <u>nor</u> Kate Jorson, nor St.
 
-537
+522
 00:01:50,244 --> 00:01:50,264
 So cute, nor Kate Jorson, nor St.
 
-538
+523
 00:01:50,264 --> 00:01:50,566
 So cute, nor <u>Kate</u> Jorson, nor St.
 
-539
+524
 00:01:50,566 --> 00:01:50,646
 So cute, nor Kate Jorson, nor St.
 
-540
+525
 00:01:50,646 --> 00:01:51,189
 So cute, nor Kate <u>Jorson,</u> nor St.
 
-541
+526
 00:01:51,189 --> 00:01:51,229
 So cute, nor Kate Jorson, nor St.
 
-542
+527
 00:01:51,229 --> 00:01:51,369
 So cute, nor Kate Jorson, <u>nor</u> St.
 
-543
+528
 00:01:51,369 --> 00:01:51,450
 So cute, nor Kate Jorson, nor St.
 
-544
+529
 00:01:51,450 --> 00:01:51,671
 So cute, nor Kate Jorson, nor <u>St.</u>
 
-545
+530
 00:01:51,691 --> 00:01:51,852
 <u>Brick</u> Cloud.
 
-546
+531
 00:01:51,852 --> 00:01:51,892
 Brick Cloud.
 
-547
-00:01:51,892 --> 00:01:52,274
+532
+00:01:51,892 --> 00:01:52,595
 Brick <u>Cloud.</u>
 
-548
+533
 00:01:52,615 --> 00:01:52,896
 <u>Tid</u> and John sell out.
 
-549
+534
 00:01:52,896 --> 00:01:52,916
 Tid and John sell out.
 
-550
+535
 00:01:52,916 --> 00:01:53,017
 Tid <u>and</u> John sell out.
 
-551
+536
 00:01:53,017 --> 00:01:53,037
 Tid and John sell out.
 
-552
+537
 00:01:53,037 --> 00:01:53,419
 Tid and <u>John</u> sell out.
 
-553
+538
 00:01:53,419 --> 00:01:53,479
 Tid and John sell out.
 
-554
+539
 00:01:53,479 --> 00:01:53,861
 Tid and John <u>sell</u> out.
 
-555
+540
 00:01:53,861 --> 00:01:54,042
 Tid and John sell out.
 
-556
+541
 00:01:54,042 --> 00:01:54,202
 Tid and John sell <u>out.</u>
 
-557
+542
 00:01:54,383 --> 00:01:54,705
 <u>Beasts</u> might get their studies.
 
-558
+543
 00:01:54,705 --> 00:01:54,865
 Beasts might get their studies.
 
-559
+544
 00:01:54,865 --> 00:01:55,086
 Beasts <u>might</u> get their studies.
 
-560
+545
 00:01:55,086 --> 00:01:55,106
 Beasts might get their studies.
 
-561
+546
 00:01:55,106 --> 00:01:55,267
 Beasts might <u>get</u> their studies.
 
-562
+547
 00:01:55,267 --> 00:01:55,287
 Beasts might get their studies.
 
-563
+548
 00:01:55,287 --> 00:01:55,448
 Beasts might get <u>their</u> studies.
 
-564
+549
 00:01:55,448 --> 00:01:55,488
 Beasts might get their studies.
 
-565
+550
 00:01:55,488 --> 00:01:55,830
 Beasts might get their <u>studies.</u>
 
-566
+551
 00:01:56,031 --> 00:01:56,272
 <u>How</u> about Bermuda?
 
-567
+552
 00:01:56,272 --> 00:01:56,312
 How about Bermuda?
 
-568
+553
 00:01:56,312 --> 00:01:56,915
 How <u>about</u> Bermuda?
 
-569
+554
 00:01:56,915 --> 00:01:56,935
 How about Bermuda?
 
-570
+555
 00:01:56,935 --> 00:01:57,156
 How about <u>Bermuda?</u>
 
-571
+556
 00:01:58,120 --> 00:01:58,783
 <u>Taiwan.</u>
 

@@ -219,19 +219,19 @@ Barely <u>with</u> you before we sleep.
 Barely with you before we sleep.
 
 56
-00:00:29,060 --> 00:00:29,160
+00:00:29,060 --> 00:00:29,180
 Barely with <u>you</u> before we sleep.
 
 57
-00:00:29,160 --> 00:00:29,180
+00:00:29,180 --> 00:00:29,200
 Barely with you before we sleep.
 
 58
-00:00:29,180 --> 00:00:29,300
+00:00:29,200 --> 00:00:29,320
 Barely with you <u>before</u> we sleep.
 
 59
-00:00:29,300 --> 00:00:29,340
+00:00:29,320 --> 00:00:29,340
 Barely with you before we sleep.
 
 60
@@ -243,7 +243,7 @@ Barely with you before <u>we</u> sleep.
 Barely with you before we sleep.
 
 62
-00:00:29,540 --> 00:00:29,941
+00:00:29,540 --> 00:00:29,921
 Barely with you before we <u>sleep.</u>
 
 63
@@ -391,11 +391,11 @@ Never read a word they write.
 Never read a <u>word</u> they write.
 
 99
-00:00:44,519 --> 00:00:44,819
+00:00:44,519 --> 00:00:44,859
 Never read a word they write.
 
 100
-00:00:44,819 --> 00:00:45,039
+00:00:44,859 --> 00:00:45,039
 Never read a word <u>they</u> write.
 
 101
@@ -408,75 +408,75 @@ Never read a word they <u>write.</u>
 
 103
 00:00:46,741 --> 00:00:47,041
-<u>We</u> don't ding so easily.
+<u>We</u> don't take so easily.
 
 104
 00:00:47,041 --> 00:00:47,062
-We don't ding so easily.
+We don't take so easily.
 
 105
-00:00:47,062 --> 00:00:47,602
-We <u>don't</u> ding so easily.
+00:00:47,062 --> 00:00:47,302
+We <u>don't</u> take so easily.
 
 106
-00:00:47,602 --> 00:00:47,622
-We don't ding so easily.
+00:00:47,302 --> 00:00:47,322
+We don't take so easily.
 
 107
-00:00:47,622 --> 00:00:47,822
-We don't <u>ding</u> so easily.
+00:00:47,322 --> 00:00:47,822
+We don't <u>take</u> so easily.
 
 108
 00:00:47,822 --> 00:00:47,882
-We don't ding so easily.
+We don't take so easily.
 
 109
 00:00:47,882 --> 00:00:48,403
-We don't ding <u>so</u> easily.
+We don't take <u>so</u> easily.
 
 110
 00:00:48,403 --> 00:00:49,184
-We don't ding so easily.
+We don't take so easily.
 
 111
-00:00:49,184 --> 00:00:49,965
-We don't ding so <u>easily.</u>
+00:00:49,184 --> 00:00:49,985
+We don't take so <u>easily.</u>
 
 112
 00:00:51,226 --> 00:00:51,547
-<u>Take</u> your lever and swipe.
+<u>Take</u> you ever as wife.
 
 113
 00:00:51,547 --> 00:00:51,607
-Take your lever and swipe.
+Take you ever as wife.
 
 114
 00:00:51,607 --> 00:00:51,827
-Take <u>your</u> lever and swipe.
+Take <u>you</u> ever as wife.
 
 115
-00:00:51,827 --> 00:00:52,007
-Take your lever and swipe.
+00:00:51,827 --> 00:00:52,027
+Take you ever as wife.
 
 116
-00:00:52,007 --> 00:00:52,328
-Take your <u>lever</u> and swipe.
+00:00:52,027 --> 00:00:52,328
+Take you <u>ever</u> as wife.
 
 117
 00:00:52,328 --> 00:00:52,688
-Take your lever and swipe.
+Take you ever as wife.
 
 118
-00:00:52,688 --> 00:00:52,868
-Take your lever <u>and</u> swipe.
+00:00:52,688 --> 00:00:52,848
+Take you ever <u>as</u> wife.
 
 119
-00:00:52,868 --> 00:00:52,908
-Take your lever and swipe.
+00:00:52,848 --> 00:00:52,928
+Take you ever as wife.
 
 120
-00:00:52,908 --> 00:00:53,829
-Take your lever and <u>swipe.</u>
+00:00:52,928 --> 00:00:53,829
+Take you ever as <u>wife.</u>
 
 121
 00:00:54,610 --> 00:00:55,091

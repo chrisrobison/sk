@@ -1,18 +1,40 @@
 [Script Info]
-Title: Karaoke Lyrics
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 1920
-PlayResY: 1080
-WrapStyle: 2
-ScaledBorderAndShadow: yes
+Title: Song by The Suicidal Kennedys
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFF00,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,100,100,30,1
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
+Style: Default,Arial,64,&H00FFFFFF,&H00FFFFFF,&H7F000000,&H7F000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,80,80,80
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.92,0:00:27.87,Default,,0,0,0,,[Chorus]\\N404! Career not found\\NGhosted by a startup that’s shutting down\\NTalented and broke, it\'s a damn disgrace\\NWhile billionaires burn cash into space
-Dialogue: 0,0:00:00.92,0:00:43.46,Default,,0,0,0,,[Verse 2]\\NZoom interviews with kids half my age\\NAsking me if I \"scale well under rage\"\\NGot more uptime than their whole stack\\NBut I’m still refreshing Greenhouse, back to back
-Dialogue: 0,0:00:00.92,0:01:23.58,Default,,0,0,0,,[Final Chorus]\\N404! Career not found\\NTech’s got talent but it ain’t sticking ‘round\\NIdle minds, idle hands\\NIn the land of open-office scams
+
+Dialogue: 0,0:00:00.03,0:00:04.36,Default,,0,0,0,,{\k236}Woke{\k0} {\k8}up{\k0},{\k0} {\k10}logged{\k0} {\k32}in{\k0},{\k0} {\k22}checked{\k0} {\k8}the{\k0} {\k22}board{\k0} {\k40}again
+Dialogue: 0,0:00:04.38,0:00:07.04,Default,,0,0,0,,{\k94}Ten{\k0} {\k34}thousand{\k0} {\k5}roles{\k0},{\k0} {\k14}but{\k0} {\k16}none{\k0} {\k14}for{\k0} {\k30}mortal{\k0} {\k36}men
+Dialogue: 0,0:00:07.08,0:00:09.69,Default,,0,0,0,,{\k0}“{\k88}Rockstar{\k0} {\k36}dev{\k0},”{\k0} {\k0}“{\k40}must{\k0} {\k5}love{\k0} {\k33}stress{\k0}”
+Dialogue: 0,0:00:09.70,0:00:12.37,Default,,0,0,0,,{\k76}Fifty{\k0} {\k36}skills{\k0} {\k58}required{\k0},{\k0} {\k34}zero{\k0} {\k40}checks
+Dialogue: 0,0:00:12.73,0:00:14.81,Default,,0,0,0,,{\k8}I{\k0} {\k18}built{\k0} {\k4}the{\k0} {\k40}cloud{\k0} {\k36}before{\k0} {\k6}it{\k0} {\k16}had{\k0} {\k4}a{\k0} {\k30}name
+Dialogue: 0,0:00:15.13,0:00:17.46,Default,,0,0,0,,{\k16}Now{\k0} {\k8}I{\k0}’{\k28}m{\k0} {\k5}coding{\k0} {\k17}side{\k0} {\k32}quests{\k0} {\k12}in{\k0} {\k6}a{\k0} {\k34}browser{\k0} {\k32}game
+Dialogue: 0,0:00:17.48,0:00:20.06,Default,,0,0,0,,{\k60}404{\k0}!{\k0} {\k42}Career{\k0} {\k28}not{\k0} {\k36}found
+Dialogue: 0,0:00:20.32,0:00:22.64,Default,,0,0,0,,{\k34}Ghosted{\k0} {\k18}by{\k0} {\k6}a{\k0} {\k44}startup{\k0} {\k16}that{\k0}’{\k26}s{\k0} {\k8}shutting{\k0} {\k32}down
+Dialogue: 0,0:00:22.94,0:00:25.13,Default,,0,0,0,,{\k36}Talented{\k0} {\k14}and{\k0} {\k26}broke{\k0},{\k0} {\k12}it's{\k0} {\k4}a{\k0} {\k30}damn{\k0} {\k52}disgrace
+Dialogue: 0,0:00:25.37,0:00:28.23,Default,,0,0,0,,{\k20}While{\k0} {\k80}billionaires{\k0} {\k34}burn{\k0} {\k36}cash{\k0} {\k18}into{\k0} {\k72}space
+Dialogue: 0,0:00:33.39,0:00:36.26,Default,,0,0,0,,{\k36}Zoom{\k0} {\k64}interviews{\k0} {\k14}with{\k0} {\k22}kids{\k0} {\k14}half{\k0} {\k20}my{\k0} {\k70}age
+Dialogue: 0,0:00:36.28,0:00:38.96,Default,,0,0,0,,{\k34}Asking{\k0} {\k24}me{\k0} {\k8}if{\k0} {\k6}I{\k0} {\k0}"{\k42}scale{\k0} {\k10}well{\k0} {\k70}under{\k0} {\k20}rage{\k0}"
+Dialogue: 0,0:00:38.96,0:00:41.32,Default,,0,0,0,,{\k5}Got{\k0} {\k13}more{\k0} {\k52}uptime{\k0} {\k42}than{\k0} {\k20}their{\k0} {\k16}whole{\k0} {\k70}stack
+Dialogue: 0,0:00:41.34,0:00:43.63,Default,,0,0,0,,{\k28}But{\k0} {\k6}I{\k0}’{\k5}m{\k0} {\k17}still{\k0} {\k52}refreshing{\k0} {\k40}Greenhouse{\k0},{\k0} {\k18}back{\k0} {\k10}to{\k0} {\k32}back
+Dialogue: 0,0:00:43.85,0:00:46.01,Default,,0,0,0,,{\k6}I{\k0} {\k14}could{\k0} {\k16}lead{\k0} {\k14}your{\k0} {\k34}team{\k0},{\k0} {\k8}or{\k0} {\k16}write{\k0} {\k12}your{\k0} {\k48}core
+Dialogue: 0,0:00:46.29,0:00:48.77,Default,,0,0,0,,{\k30}Instead{\k0} {\k10}I{\k0}’{\k16}m{\k0} {\k8}debugging{\k0} {\k40}my{\k0} {\k16}self{\k0}-{\k10}worth{\k0} {\k44}score
+Dialogue: 0,0:00:49.03,0:00:51.36,Default,,0,0,0,,{\k34}404{\k0}!{\k0} {\k42}Career{\k0} {\k20}not{\k0} {\k36}found
+Dialogue: 0,0:00:51.50,0:00:53.84,Default,,0,0,0,,{\k18}Laid{\k0} {\k16}off{\k0},{\k0} {\k22}paid{\k0} {\k16}off{\k0},{\k0} {\k16}now{\k0} {\k10}I{\k0}’{\k5}m{\k0} {\k39}burnout{\k0}-{\k40}bound
+Dialogue: 0,0:00:54.22,0:00:56.48,Default,,0,0,0,,{\k56}Decades{\k0} {\k4}of{\k0} {\k58}wisdom{\k0} {\k22}sit{\k0} {\k12}on{\k0} {\k28}ice
+Dialogue: 0,0:00:56.51,0:00:59.03,Default,,0,0,0,,{\k16}While{\k0} {\k10}the{\k0} {\k60}CEO{\k0}’{\k5}s{\k0} {\k28}yacht{\k0} {\k24}hits{\k0} {\k86}Paradise
+Dialogue: 0,0:01:04.98,0:01:06.89,Default,,0,0,0,,{\k0}“{\k22}Must{\k0} {\k8}be{\k0} {\k26}willing{\k0} {\k14}to{\k0} {\k26}work{\k0} {\k18}for{\k0} {\k34}free{\k0}!”
+Dialogue: 0,0:01:07.33,0:01:09.63,Default,,0,0,0,,{\k0}“{\k18}Show{\k0} {\k10}us{\k0} {\k32}passion{\k0},{\k0} {\k14}don{\k0}’{\k16}t{\k0} {\k8}ask{\k0} {\k14}for{\k0} {\k12}a{\k0} {\k28}fee{\k0}!”
+Dialogue: 0,0:01:09.73,0:01:12.29,Default,,0,0,0,,{\k0}“{\k20}10{\k0} {\k30}years{\k0} {\k30}Go{\k0},{\k0} {\k24}10{\k0} {\k26}years{\k0} {\k52}Rust{\k0},
+Dialogue: 0,0:01:12.31,0:01:15.41,Default,,0,0,0,,{\k14}And{\k0} {\k6}a{\k0} {\k42}TikTok{\k0} {\k5}reel{\k0} {\k0}—{\k0} {\k5}or{\k0} {\k5}you're{\k0} {\k5}not{\k0} {\k5}one{\k0} {\k5}of{\k0} {\k5}us{\k0}!”
+Dialogue: 0,0:01:15.41,0:01:17.44,Default,,0,0,0,,{\k79}404{\k0}!{\k0} {\k36}Career{\k0} {\k30}not{\k0} {\k38}found
+Dialogue: 0,0:01:17.72,0:01:20.04,Default,,0,0,0,,{\k30}Tech{\k0}’{\k5}s{\k0} {\k26}got{\k0} {\k32}talent{\k0} {\k20}but{\k0} {\k6}it{\k0} {\k14}ain{\k0}’{\k5}t{\k0} {\k32}sticking{\k0} {\k0}‘{\k32}round
+Dialogue: 0,0:01:20.44,0:01:22.67,Default,,0,0,0,,{\k40}Idle{\k0} {\k52}minds{\k0},{\k0} {\k42}idle{\k0} {\k36}hands
+Dialogue: 0,0:01:23.07,0:01:25.27,Default,,0,0,0,,{\k20}In{\k0} {\k10}the{\k0} {\k30}land{\k0} {\k14}of{\k0} {\k22}open{\k0}-{\k30}office{\k0} {\k34}scams
+Dialogue: 0,0:01:30.72,0:01:32.34,Default,,0,0,0,,{\k44}Reboot{\k0} {\k16}my{\k0} {\k86}dignity{\k0}!

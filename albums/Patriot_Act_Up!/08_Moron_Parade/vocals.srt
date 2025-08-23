@@ -7,11 +7,11 @@
 Scroll down my feed, it's a circus everyday.
 
 3
-00:00:12,084 --> 00:00:12,224
+00:00:12,084 --> 00:00:12,244
 Scroll <u>down</u> my feed, it's a circus everyday.
 
 4
-00:00:12,224 --> 00:00:12,264
+00:00:12,244 --> 00:00:12,264
 Scroll down my feed, it's a circus everyday.
 
 5
@@ -128,55 +128,55 @@ Opinions over evidence, no one cares what experts <u>say.</u>
 
 33
 00:00:17,693 --> 00:00:18,053
-<u>Shouting</u> matches everywhere, sensory quakes, black fry.
+<u>Shouting</u> matches everywhere, sensory quakes, quack, bry.
 
 34
 00:00:18,053 --> 00:00:18,113
-Shouting matches everywhere, sensory quakes, black fry.
+Shouting matches everywhere, sensory quakes, quack, bry.
 
 35
 00:00:18,113 --> 00:00:18,474
-Shouting <u>matches</u> everywhere, sensory quakes, black fry.
+Shouting <u>matches</u> everywhere, sensory quakes, quack, bry.
 
 36
 00:00:18,474 --> 00:00:18,534
-Shouting matches everywhere, sensory quakes, black fry.
+Shouting matches everywhere, sensory quakes, quack, bry.
 
 37
 00:00:18,534 --> 00:00:19,055
-Shouting matches <u>everywhere,</u> sensory quakes, black fry.
+Shouting matches <u>everywhere,</u> sensory quakes, quack, bry.
 
 38
 00:00:19,055 --> 00:00:19,175
-Shouting matches everywhere, sensory quakes, black fry.
+Shouting matches everywhere, sensory quakes, quack, bry.
 
 39
 00:00:19,175 --> 00:00:19,536
-Shouting matches everywhere, <u>sensory</u> quakes, black fry.
+Shouting matches everywhere, <u>sensory</u> quakes, quack, bry.
 
 40
 00:00:19,536 --> 00:00:19,576
-Shouting matches everywhere, sensory quakes, black fry.
+Shouting matches everywhere, sensory quakes, quack, bry.
 
 41
-00:00:19,576 --> 00:00:19,756
-Shouting matches everywhere, sensory <u>quakes,</u> black fry.
+00:00:19,576 --> 00:00:19,796
+Shouting matches everywhere, sensory <u>quakes,</u> quack, bry.
 
 42
-00:00:19,756 --> 00:00:19,776
-Shouting matches everywhere, sensory quakes, black fry.
+00:00:19,796 --> 00:00:19,816
+Shouting matches everywhere, sensory quakes, quack, bry.
 
 43
-00:00:19,776 --> 00:00:19,956
-Shouting matches everywhere, sensory quakes, <u>black</u> fry.
+00:00:19,816 --> 00:00:19,956
+Shouting matches everywhere, sensory quakes, <u>quack,</u> bry.
 
 44
-00:00:19,956 --> 00:00:19,996
-Shouting matches everywhere, sensory quakes, black fry.
+00:00:19,956 --> 00:00:19,976
+Shouting matches everywhere, sensory quakes, quack, bry.
 
 45
-00:00:19,996 --> 00:00:20,357
-Shouting matches everywhere, sensory quakes, black <u>fry.</u>
+00:00:19,976 --> 00:00:20,357
+Shouting matches everywhere, sensory quakes, quack, <u>bry.</u>
 
 46
 00:00:20,577 --> 00:00:21,298
@@ -211,7 +211,7 @@ Collusion's a currency, <u>logic's</u> genocide.
 Collusion's a currency, logic's genocide.
 
 54
-00:00:22,741 --> 00:00:23,582
+00:00:22,741 --> 00:00:23,602
 Collusion's a currency, logic's <u>genocide.</u>
 
 55
@@ -343,275 +343,275 @@ Entertainment over truth, it's ignorance in the light.
 Entertainment over truth, it's ignorance in the <u>light.</u>
 
 87
-00:00:39,367 --> 00:00:40,389
+00:00:39,383 --> 00:00:40,485
 <u>Hey!</u>
 
 88
-00:00:40,509 --> 00:00:41,210
+00:00:40,505 --> 00:00:41,206
 <u>Society's</u> in pre-bumper, don't bring Jesus each.
 
 89
-00:00:41,210 --> 00:00:41,310
+00:00:41,206 --> 00:00:41,306
 Society's in pre-bumper, don't bring Jesus each.
 
 90
-00:00:41,310 --> 00:00:41,410
+00:00:41,306 --> 00:00:41,426
 Society's <u>in</u> pre-bumper, don't bring Jesus each.
 
 91
-00:00:41,410 --> 00:00:41,450
+00:00:41,426 --> 00:00:41,446
 Society's in pre-bumper, don't bring Jesus each.
 
 92
-00:00:41,450 --> 00:00:41,991
+00:00:41,446 --> 00:00:41,987
 Society's in <u>pre-bumper,</u> don't bring Jesus each.
 
 93
-00:00:41,991 --> 00:00:42,011
+00:00:41,987 --> 00:00:42,007
 Society's in pre-bumper, don't bring Jesus each.
 
 94
-00:00:42,011 --> 00:00:42,171
+00:00:42,007 --> 00:00:42,168
 Society's in pre-bumper, <u>don't</u> bring Jesus each.
 
 95
-00:00:42,171 --> 00:00:42,191
+00:00:42,168 --> 00:00:42,208
 Society's in pre-bumper, don't bring Jesus each.
 
 96
-00:00:42,191 --> 00:00:42,452
+00:00:42,208 --> 00:00:42,448
 Society's in pre-bumper, don't <u>bring</u> Jesus each.
 
 97
-00:00:42,452 --> 00:00:42,572
+00:00:42,448 --> 00:00:42,568
 Society's in pre-bumper, don't bring Jesus each.
 
 98
-00:00:42,572 --> 00:00:43,032
+00:00:42,568 --> 00:00:43,029
 Society's in pre-bumper, don't bring <u>Jesus</u> each.
 
 99
-00:00:43,032 --> 00:00:43,052
+00:00:43,029 --> 00:00:43,049
 Society's in pre-bumper, don't bring Jesus each.
 
 100
-00:00:43,052 --> 00:00:43,213
+00:00:43,049 --> 00:00:43,470
 Society's in pre-bumper, don't bring Jesus <u>each.</u>
 
 101
-00:00:43,473 --> 00:00:43,613
+00:00:43,490 --> 00:00:43,610
 <u>We</u> celebrate the modest while intelligence betreats.
 
 102
-00:00:43,613 --> 00:00:43,653
+00:00:43,610 --> 00:00:43,650
 We celebrate the modest while intelligence betreats.
 
 103
-00:00:43,653 --> 00:00:44,214
+00:00:43,650 --> 00:00:44,191
 We <u>celebrate</u> the modest while intelligence betreats.
 
 104
-00:00:44,214 --> 00:00:44,234
+00:00:44,191 --> 00:00:44,231
 We celebrate the modest while intelligence betreats.
 
 105
-00:00:44,234 --> 00:00:44,415
+00:00:44,231 --> 00:00:44,411
 We celebrate <u>the</u> modest while intelligence betreats.
 
 106
-00:00:44,415 --> 00:00:44,535
+00:00:44,411 --> 00:00:44,532
 We celebrate the modest while intelligence betreats.
 
 107
-00:00:44,535 --> 00:00:44,795
+00:00:44,532 --> 00:00:44,792
 We celebrate the <u>modest</u> while intelligence betreats.
 
 108
-00:00:44,795 --> 00:00:44,815
+00:00:44,792 --> 00:00:44,812
 We celebrate the modest while intelligence betreats.
 
 109
-00:00:44,815 --> 00:00:45,015
+00:00:44,812 --> 00:00:45,012
 We celebrate the modest <u>while</u> intelligence betreats.
 
 110
-00:00:45,015 --> 00:00:45,075
+00:00:45,012 --> 00:00:45,093
 We celebrate the modest while intelligence betreats.
 
 111
-00:00:45,075 --> 00:00:45,696
+00:00:45,093 --> 00:00:45,694
 We celebrate the modest while <u>intelligence</u> betreats.
 
 112
-00:00:45,696 --> 00:00:45,736
+00:00:45,694 --> 00:00:45,734
 We celebrate the modest while intelligence betreats.
 
 113
-00:00:45,736 --> 00:00:46,257
+00:00:45,734 --> 00:00:46,275
 We celebrate the modest while intelligence <u>betreats.</u>
 
 114
-00:00:46,598 --> 00:00:47,018
-<u>Niko</u> and Sif power now, stupidity's a dread.
+00:00:46,595 --> 00:00:47,016
+<u>Nico</u> answers, but we're now stupidity's the dread.
 
 115
-00:00:47,018 --> 00:00:47,038
-Niko and Sif power now, stupidity's a dread.
+00:00:47,016 --> 00:00:47,036
+Nico answers, but we're now stupidity's the dread.
 
 116
-00:00:47,038 --> 00:00:47,139
-Niko <u>and</u> Sif power now, stupidity's a dread.
+00:00:47,036 --> 00:00:47,436
+Nico <u>answers,</u> but we're now stupidity's the dread.
 
 117
-00:00:47,139 --> 00:00:47,159
-Niko and Sif power now, stupidity's a dread.
+00:00:47,436 --> 00:00:47,457
+Nico answers, but we're now stupidity's the dread.
 
 118
-00:00:47,159 --> 00:00:47,339
-Niko and <u>Sif</u> power now, stupidity's a dread.
+00:00:47,457 --> 00:00:47,557
+Nico answers, <u>but</u> we're now stupidity's the dread.
 
 119
-00:00:47,339 --> 00:00:47,379
-Niko and Sif power now, stupidity's a dread.
+00:00:47,557 --> 00:00:47,577
+Nico answers, but we're now stupidity's the dread.
 
 120
-00:00:47,379 --> 00:00:47,679
-Niko and Sif <u>power</u> now, stupidity's a dread.
+00:00:47,577 --> 00:00:47,677
+Nico answers, but <u>we're</u> now stupidity's the dread.
 
 121
-00:00:47,679 --> 00:00:47,780
-Niko and Sif power now, stupidity's a dread.
+00:00:47,677 --> 00:00:47,777
+Nico answers, but we're now stupidity's the dread.
 
 122
-00:00:47,780 --> 00:00:47,960
-Niko and Sif power <u>now,</u> stupidity's a dread.
+00:00:47,777 --> 00:00:47,957
+Nico answers, but we're <u>now</u> stupidity's the dread.
 
 123
-00:00:47,960 --> 00:00:48,120
-Niko and Sif power now, stupidity's a dread.
+00:00:47,957 --> 00:00:47,997
+Nico answers, but we're now stupidity's the dread.
 
 124
-00:00:48,120 --> 00:00:48,701
-Niko and Sif power now, <u>stupidity's</u> a dread.
+00:00:47,997 --> 00:00:48,699
+Nico answers, but we're now <u>stupidity's</u> the dread.
 
 125
-00:00:48,701 --> 00:00:48,801
-Niko and Sif power now, stupidity's a dread.
+00:00:48,699 --> 00:00:48,719
+Nico answers, but we're now stupidity's the dread.
 
 126
-00:00:48,801 --> 00:00:48,861
-Niko and Sif power now, stupidity's <u>a</u> dread.
+00:00:48,719 --> 00:00:48,859
+Nico answers, but we're now stupidity's <u>the</u> dread.
 
 127
-00:00:48,861 --> 00:00:48,881
-Niko and Sif power now, stupidity's a dread.
+00:00:48,859 --> 00:00:48,899
+Nico answers, but we're now stupidity's the dread.
 
 128
-00:00:48,881 --> 00:00:49,302
-Niko and Sif power now, stupidity's a <u>dread.</u>
+00:00:48,899 --> 00:00:49,300
+Nico answers, but we're now stupidity's the <u>dread.</u>
 
 129
-00:00:49,622 --> 00:00:49,923
-<u>Watching</u> as our thugger takes a nose-hit to the ass.
+00:00:49,620 --> 00:00:49,921
+<u>Watching</u> as our fucker takes a nose-hit to the ass.
 
 130
-00:00:49,923 --> 00:00:50,043
-Watching as our thugger takes a nose-hit to the ass.
+00:00:49,921 --> 00:00:50,061
+Watching as our fucker takes a nose-hit to the ass.
 
 131
-00:00:50,043 --> 00:00:50,203
-Watching <u>as</u> our thugger takes a nose-hit to the ass.
+00:00:50,061 --> 00:00:50,201
+Watching <u>as</u> our fucker takes a nose-hit to the ass.
 
 132
-00:00:50,203 --> 00:00:50,283
-Watching as our thugger takes a nose-hit to the ass.
+00:00:50,201 --> 00:00:50,281
+Watching as our fucker takes a nose-hit to the ass.
 
 133
-00:00:50,283 --> 00:00:50,383
-Watching as <u>our</u> thugger takes a nose-hit to the ass.
+00:00:50,281 --> 00:00:50,381
+Watching as <u>our</u> fucker takes a nose-hit to the ass.
 
 134
-00:00:50,383 --> 00:00:50,403
-Watching as our thugger takes a nose-hit to the ass.
+00:00:50,381 --> 00:00:50,401
+Watching as our fucker takes a nose-hit to the ass.
 
 135
-00:00:50,403 --> 00:00:50,764
-Watching as our <u>thugger</u> takes a nose-hit to the ass.
+00:00:50,401 --> 00:00:50,762
+Watching as our <u>fucker</u> takes a nose-hit to the ass.
 
 136
-00:00:50,764 --> 00:00:50,804
-Watching as our thugger takes a nose-hit to the ass.
+00:00:50,762 --> 00:00:50,802
+Watching as our fucker takes a nose-hit to the ass.
 
 137
-00:00:50,804 --> 00:00:51,044
-Watching as our thugger <u>takes</u> a nose-hit to the ass.
+00:00:50,802 --> 00:00:50,982
+Watching as our fucker <u>takes</u> a nose-hit to the ass.
 
 138
-00:00:51,044 --> 00:00:51,064
-Watching as our thugger takes a nose-hit to the ass.
+00:00:50,982 --> 00:00:51,063
+Watching as our fucker takes a nose-hit to the ass.
 
 139
-00:00:51,064 --> 00:00:51,165
-Watching as our thugger takes <u>a</u> nose-hit to the ass.
+00:00:51,063 --> 00:00:51,163
+Watching as our fucker takes <u>a</u> nose-hit to the ass.
 
 140
-00:00:51,165 --> 00:00:51,185
-Watching as our thugger takes a nose-hit to the ass.
+00:00:51,163 --> 00:00:51,203
+Watching as our fucker takes a nose-hit to the ass.
 
 141
-00:00:51,185 --> 00:00:51,525
-Watching as our thugger takes a <u>nose-hit</u> to the ass.
+00:00:51,203 --> 00:00:51,523
+Watching as our fucker takes a <u>nose-hit</u> to the ass.
 
 142
-00:00:51,525 --> 00:00:51,545
-Watching as our thugger takes a nose-hit to the ass.
+00:00:51,523 --> 00:00:51,563
+Watching as our fucker takes a nose-hit to the ass.
 
 143
-00:00:51,545 --> 00:00:51,725
-Watching as our thugger takes a nose-hit <u>to</u> the ass.
+00:00:51,563 --> 00:00:51,724
+Watching as our fucker takes a nose-hit <u>to</u> the ass.
 
 144
-00:00:51,725 --> 00:00:51,745
-Watching as our thugger takes a nose-hit to the ass.
+00:00:51,724 --> 00:00:51,744
+Watching as our fucker takes a nose-hit to the ass.
 
 145
-00:00:51,745 --> 00:00:51,886
-Watching as our thugger takes a nose-hit to <u>the</u> ass.
+00:00:51,744 --> 00:00:51,864
+Watching as our fucker takes a nose-hit to <u>the</u> ass.
 
 146
-00:00:51,886 --> 00:00:52,206
-Watching as our thugger takes a nose-hit to the ass.
+00:00:51,864 --> 00:00:52,204
+Watching as our fucker takes a nose-hit to the ass.
 
 147
-00:00:52,206 --> 00:00:53,268
-Watching as our thugger takes a nose-hit to the <u>ass.</u>
+00:00:52,204 --> 00:00:52,405
+Watching as our fucker takes a nose-hit to the <u>ass.</u>
 
 148
-00:00:53,288 --> 00:00:53,368
+00:00:53,286 --> 00:00:53,366
 <u>Hey!</u>
 
 149
-00:00:53,728 --> 00:00:54,149
+00:00:53,727 --> 00:00:54,148
 <u>Hey!</u>
 
 150
-00:00:54,489 --> 00:00:54,970
+00:00:54,488 --> 00:00:54,969
 <u>Hey!</u>
 
 151
-00:00:55,932 --> 00:00:56,332
+00:00:55,951 --> 00:00:56,351
 <u>Hey!</u>
 
 152
-00:00:56,953 --> 00:00:57,133
+00:00:56,732 --> 00:00:57,133
 <u>Hey!</u>
 
 153
-00:00:57,534 --> 00:00:57,754
+00:00:57,533 --> 00:00:57,674
 <u>Shut</u> it down!
 
 154
-00:00:57,754 --> 00:00:57,774
+00:00:57,674 --> 00:00:57,774
 Shut it down!
 
 155
@@ -619,27 +619,27 @@ Shut it down!
 Shut <u>it</u> down!
 
 156
-00:00:57,834 --> 00:00:57,875
+00:00:57,834 --> 00:00:57,874
 Shut it down!
 
 157
-00:00:57,875 --> 00:00:58,375
+00:00:57,874 --> 00:00:58,375
 Shut it <u>down!</u>
 
 158
-00:00:59,717 --> 00:00:59,978
+00:00:59,717 --> 00:01:00,058
 <u>Shut</u> it down!
 
 159
-00:00:59,978 --> 00:01:00,078
+00:01:00,058 --> 00:01:00,078
 Shut it down!
 
 160
-00:01:00,078 --> 00:01:00,138
+00:01:00,078 --> 00:01:00,118
 Shut <u>it</u> down!
 
 161
-00:01:00,138 --> 00:01:00,178
+00:01:00,118 --> 00:01:00,178
 Shut it down!
 
 162
@@ -648,749 +648,753 @@ Shut it <u>down!</u>
 
 163
 00:01:12,374 --> 00:01:12,775
-<u>Headline</u> stream with nonsense facts don't matter anymore.
+<u>Headline</u> stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 164
 00:01:12,775 --> 00:01:12,795
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 165
 00:01:12,795 --> 00:01:12,995
-Headline <u>stream</u> with nonsense facts don't matter anymore.
+Headline <u>stream</u> with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 166
 00:01:12,995 --> 00:01:13,035
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 167
 00:01:13,035 --> 00:01:13,136
-Headline stream <u>with</u> nonsense facts don't matter anymore.
+Headline stream <u>with</u> nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 168
 00:01:13,136 --> 00:01:13,176
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 169
 00:01:13,176 --> 00:01:13,517
-Headline stream with <u>nonsense</u> facts don't matter anymore.
+Headline stream with <u>nonsense</u> facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 170
 00:01:13,517 --> 00:01:13,557
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 171
 00:01:13,557 --> 00:01:13,757
-Headline stream with nonsense <u>facts</u> don't matter anymore.
+Headline stream with nonsense <u>facts</u> don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 172
 00:01:13,757 --> 00:01:13,817
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 173
 00:01:13,817 --> 00:01:13,938
-Headline stream with nonsense facts <u>don't</u> matter anymore.
+Headline stream with nonsense facts <u>don't</u> matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 174
 00:01:13,938 --> 00:01:13,978
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 175
 00:01:13,978 --> 00:01:14,298
-Headline stream with nonsense facts don't <u>matter</u> anymore.
+Headline stream with nonsense facts don't <u>matter</u> anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 176
 00:01:14,298 --> 00:01:14,399
-Headline stream with nonsense facts don't matter anymore.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 177
-00:01:14,399 --> 00:01:15,301
-Headline stream with nonsense facts don't matter <u>anymore.</u>
+00:01:14,399 --> 00:01:15,341
+Headline stream with nonsense facts don't matter <u>anymore,</u> conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 178
-00:01:15,321 --> 00:01:15,722
-<u>Despair,</u> sleep, eerie, sell, well, truth gets you on the door.
+00:01:15,341 --> 00:01:15,361
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 179
-00:01:15,722 --> 00:01:15,742
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:15,361 --> 00:01:15,862
+Headline stream with nonsense facts don't matter anymore, <u>conspiracy</u> theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 180
-00:01:15,742 --> 00:01:15,982
-Despair, <u>sleep,</u> eerie, sell, well, truth gets you on the door.
+00:01:15,862 --> 00:01:15,882
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 181
-00:01:15,982 --> 00:01:16,002
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:15,882 --> 00:01:16,243
+Headline stream with nonsense facts don't matter anymore, conspiracy <u>theories</u> sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 182
-00:01:16,002 --> 00:01:16,243
-Despair, sleep, <u>eerie,</u> sell, well, truth gets you on the door.
+00:01:16,243 --> 00:01:16,263
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 183
-00:01:16,243 --> 00:01:16,263
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:16,263 --> 00:01:16,503
+Headline stream with nonsense facts don't matter anymore, conspiracy theories <u>sell</u> well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 184
-00:01:16,263 --> 00:01:16,503
-Despair, sleep, eerie, <u>sell,</u> well, truth gets you on the door.
+00:01:16,503 --> 00:01:16,523
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 185
-00:01:16,503 --> 00:01:16,523
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:16,523 --> 00:01:16,924
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell <u>well,</u> truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 186
-00:01:16,523 --> 00:01:16,924
-Despair, sleep, eerie, sell, <u>well,</u> truth gets you on the door.
+00:01:16,924 --> 00:01:16,944
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 187
-00:01:16,924 --> 00:01:16,944
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:16,944 --> 00:01:17,165
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, <u>truth</u> gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 188
-00:01:16,944 --> 00:01:17,165
-Despair, sleep, eerie, sell, well, <u>truth</u> gets you on the door.
+00:01:17,165 --> 00:01:17,185
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 189
-00:01:17,165 --> 00:01:17,185
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:17,185 --> 00:01:17,425
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth <u>gets</u> you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 190
-00:01:17,185 --> 00:01:17,345
-Despair, sleep, eerie, sell, well, truth <u>gets</u> you on the door.
+00:01:17,425 --> 00:01:17,445
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 191
-00:01:17,345 --> 00:01:17,365
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:17,445 --> 00:01:17,506
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets <u>you</u> on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 192
-00:01:17,365 --> 00:01:17,506
-Despair, sleep, eerie, sell, well, truth gets <u>you</u> on the door.
+00:01:17,506 --> 00:01:17,526
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 193
-00:01:17,506 --> 00:01:17,526
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:17,526 --> 00:01:17,606
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you <u>on</u> the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 194
-00:01:17,526 --> 00:01:17,606
-Despair, sleep, eerie, sell, well, truth gets you <u>on</u> the door.
+00:01:17,606 --> 00:01:17,626
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 195
-00:01:17,606 --> 00:01:17,626
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:17,626 --> 00:01:17,686
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on <u>the</u> door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 196
-00:01:17,626 --> 00:01:17,686
-Despair, sleep, eerie, sell, well, truth gets you on <u>the</u> door.
+00:01:17,686 --> 00:01:17,726
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 197
-00:01:17,686 --> 00:01:17,726
-Despair, sleep, eerie, sell, well, truth gets you on the door.
+00:01:17,726 --> 00:01:18,107
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the <u>door,</u> experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 198
-00:01:17,726 --> 00:01:18,107
-Despair, sleep, eerie, sell, well, truth gets you on the <u>door.</u>
+00:01:18,107 --> 00:01:18,568
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 199
 00:01:18,568 --> 00:01:18,909
-<u>Experts</u> on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, <u>experts</u> aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 200
-00:01:18,909 --> 00:01:18,989
-Experts on discredited, one pool, six in a stage.
+00:01:18,909 --> 00:01:18,969
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 201
-00:01:18,989 --> 00:01:19,089
-Experts <u>on</u> discredited, one pool, six in a stage.
+00:01:18,969 --> 00:01:19,089
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts <u>aren't</u> discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 202
 00:01:19,089 --> 00:01:19,109
-Experts on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 203
 00:01:19,109 --> 00:01:19,851
-Experts on <u>discredited,</u> one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't <u>discredited,</u> one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 204
 00:01:19,851 --> 00:01:19,871
-Experts on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 205
 00:01:19,871 --> 00:01:19,971
-Experts on discredited, <u>one</u> pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, <u>one</u> pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 206
 00:01:19,971 --> 00:01:19,991
-Experts on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 207
 00:01:19,991 --> 00:01:20,192
-Experts on discredited, one <u>pool,</u> six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one <u>pool</u> six and a stage, welcome to the kingdom where the jester is a sage.
 
 208
 00:01:20,192 --> 00:01:20,212
-Experts on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 209
 00:01:20,212 --> 00:01:20,412
-Experts on discredited, one pool, <u>six</u> in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool <u>six</u> and a stage, welcome to the kingdom where the jester is a sage.
 
 210
 00:01:20,412 --> 00:01:20,512
-Experts on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 211
-00:01:20,512 --> 00:01:20,613
-Experts on discredited, one pool, six <u>in</u> a stage.
+00:01:20,512 --> 00:01:20,633
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six <u>and</u> a stage, welcome to the kingdom where the jester is a sage.
 
 212
-00:01:20,613 --> 00:01:20,653
-Experts on discredited, one pool, six in a stage.
+00:01:20,633 --> 00:01:20,653
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 213
 00:01:20,653 --> 00:01:20,693
-Experts on discredited, one pool, six in <u>a</u> stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and <u>a</u> stage, welcome to the kingdom where the jester is a sage.
 
 214
 00:01:20,693 --> 00:01:20,733
-Experts on discredited, one pool, six in a stage.
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 215
 00:01:20,733 --> 00:01:21,234
-Experts on discredited, one pool, six in a <u>stage.</u>
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a <u>stage,</u> welcome to the kingdom where the jester is a sage.
 
 216
-00:01:21,535 --> 00:01:21,896
-<u>Welcome</u> to the kingdom where the jester is a sage.
+00:01:21,234 --> 00:01:21,535
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 217
-00:01:21,896 --> 00:01:21,936
-Welcome to the kingdom where the jester is a sage.
+00:01:21,535 --> 00:01:21,896
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, <u>welcome</u> to the kingdom where the jester is a sage.
 
 218
-00:01:21,936 --> 00:01:22,096
-Welcome <u>to</u> the kingdom where the jester is a sage.
+00:01:21,896 --> 00:01:21,936
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 219
-00:01:22,096 --> 00:01:22,136
-Welcome to the kingdom where the jester is a sage.
+00:01:21,936 --> 00:01:22,096
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome <u>to</u> the kingdom where the jester is a sage.
 
 220
-00:01:22,136 --> 00:01:22,256
-Welcome to <u>the</u> kingdom where the jester is a sage.
+00:01:22,096 --> 00:01:22,136
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 221
-00:01:22,256 --> 00:01:22,316
-Welcome to the kingdom where the jester is a sage.
+00:01:22,136 --> 00:01:22,256
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to <u>the</u> kingdom where the jester is a sage.
 
 222
-00:01:22,316 --> 00:01:22,677
-Welcome to the <u>kingdom</u> where the jester is a sage.
+00:01:22,256 --> 00:01:22,316
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 223
-00:01:22,677 --> 00:01:22,697
-Welcome to the kingdom where the jester is a sage.
+00:01:22,316 --> 00:01:22,677
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the <u>kingdom</u> where the jester is a sage.
 
 224
-00:01:22,697 --> 00:01:22,858
-Welcome to the kingdom <u>where</u> the jester is a sage.
+00:01:22,677 --> 00:01:22,697
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 225
-00:01:22,858 --> 00:01:22,878
-Welcome to the kingdom where the jester is a sage.
+00:01:22,697 --> 00:01:22,858
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom <u>where</u> the jester is a sage.
 
 226
-00:01:22,878 --> 00:01:22,938
-Welcome to the kingdom where <u>the</u> jester is a sage.
+00:01:22,858 --> 00:01:22,878
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 227
-00:01:22,938 --> 00:01:23,078
-Welcome to the kingdom where the jester is a sage.
+00:01:22,878 --> 00:01:22,938
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where <u>the</u> jester is a sage.
 
 228
-00:01:23,078 --> 00:01:23,479
-Welcome to the kingdom where the <u>jester</u> is a sage.
+00:01:22,938 --> 00:01:23,078
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 229
-00:01:23,479 --> 00:01:23,599
-Welcome to the kingdom where the jester is a sage.
+00:01:23,078 --> 00:01:23,479
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the <u>jester</u> is a sage.
 
 230
-00:01:23,599 --> 00:01:23,680
-Welcome to the kingdom where the jester <u>is</u> a sage.
+00:01:23,479 --> 00:01:23,599
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 231
-00:01:23,680 --> 00:01:23,760
-Welcome to the kingdom where the jester is a sage.
+00:01:23,599 --> 00:01:23,680
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester <u>is</u> a sage.
 
 232
-00:01:23,760 --> 00:01:23,800
-Welcome to the kingdom where the jester is <u>a</u> sage.
+00:01:23,680 --> 00:01:23,760
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 233
-00:01:23,800 --> 00:01:23,860
-Welcome to the kingdom where the jester is a sage.
+00:01:23,760 --> 00:01:23,800
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is <u>a</u> sage.
 
 234
-00:01:23,860 --> 00:01:25,163
-Welcome to the kingdom where the jester is a <u>sage.</u>
+00:01:23,800 --> 00:01:23,860
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a sage.
 
 235
+00:01:23,860 --> 00:01:25,163
+Headline stream with nonsense facts don't matter anymore, conspiracy theories sell well, truth gets you on the door, experts aren't discredited, one pool six and a stage, welcome to the kingdom where the jester is a <u>sage.</u>
+
+236
 00:01:25,183 --> 00:01:25,363
 <u>We're</u> trading wisdom for swigs, intelligence for likes.
 
-236
+237
 00:01:25,363 --> 00:01:25,403
 We're trading wisdom for swigs, intelligence for likes.
 
-237
+238
 00:01:25,403 --> 00:01:26,045
 We're <u>trading</u> wisdom for swigs, intelligence for likes.
 
-238
+239
 00:01:26,045 --> 00:01:26,125
 We're trading wisdom for swigs, intelligence for likes.
 
-239
+240
 00:01:26,125 --> 00:01:26,827
 We're trading <u>wisdom</u> for swigs, intelligence for likes.
 
-240
+241
 00:01:26,827 --> 00:01:26,907
 We're trading wisdom for swigs, intelligence for likes.
 
-241
+242
 00:01:26,907 --> 00:01:27,228
 We're trading wisdom <u>for</u> swigs, intelligence for likes.
 
-242
-00:01:27,228 --> 00:01:27,248
+243
+00:01:27,228 --> 00:01:27,288
 We're trading wisdom for swigs, intelligence for likes.
 
-243
-00:01:27,248 --> 00:01:27,608
+244
+00:01:27,288 --> 00:01:27,608
 We're trading wisdom for <u>swigs,</u> intelligence for likes.
 
-244
+245
 00:01:27,608 --> 00:01:27,809
 We're trading wisdom for swigs, intelligence for likes.
 
-245
+246
 00:01:27,809 --> 00:01:29,072
 We're trading wisdom for swigs, <u>intelligence</u> for likes.
 
-246
+247
 00:01:29,072 --> 00:01:29,152
 We're trading wisdom for swigs, intelligence for likes.
 
-247
+248
 00:01:29,152 --> 00:01:29,473
 We're trading wisdom for swigs, intelligence <u>for</u> likes.
 
-248
+249
 00:01:29,473 --> 00:01:29,553
 We're trading wisdom for swigs, intelligence for likes.
 
-249
+250
 00:01:29,553 --> 00:01:30,535
 We're trading wisdom for swigs, intelligence for <u>likes.</u>
 
-250
+251
 00:01:31,510 --> 00:01:32,151
 <u>Reading</u> generations of minds that never think twice.
 
-251
+252
 00:01:32,151 --> 00:01:32,211
 Reading generations of minds that never think twice.
 
-252
+253
 00:01:32,211 --> 00:01:33,533
 Reading <u>generations</u> of minds that never think twice.
 
-253
+254
 00:01:33,533 --> 00:01:33,713
 Reading generations of minds that never think twice.
 
-254
+255
 00:01:33,713 --> 00:01:33,873
 Reading generations <u>of</u> minds that never think twice.
 
-255
+256
 00:01:33,873 --> 00:01:33,933
 Reading generations of minds that never think twice.
 
-256
+257
 00:01:33,933 --> 00:01:34,254
 Reading generations of <u>minds</u> that never think twice.
 
-257
+258
 00:01:34,254 --> 00:01:34,294
 Reading generations of minds that never think twice.
 
-258
+259
 00:01:34,294 --> 00:01:34,534
 Reading generations of minds <u>that</u> never think twice.
 
-259
+260
 00:01:34,534 --> 00:01:34,594
 Reading generations of minds that never think twice.
 
-260
+261
 00:01:34,594 --> 00:01:35,075
 Reading generations of minds that <u>never</u> think twice.
 
-261
+262
 00:01:35,075 --> 00:01:35,135
 Reading generations of minds that never think twice.
 
-262
+263
 00:01:35,135 --> 00:01:35,496
 Reading generations of minds that never <u>think</u> twice.
 
-263
+264
 00:01:35,496 --> 00:01:35,556
 Reading generations of minds that never think twice.
 
-264
-00:01:35,556 --> 00:01:36,918
+265
+00:01:35,556 --> 00:01:36,577
 Reading generations of minds that never think <u>twice.</u>
 
-265
+266
 00:01:36,938 --> 00:01:37,579
 <u>Society</u> is a brief hop and no pancakes to seat.
 
-266
+267
 00:01:37,579 --> 00:01:37,599
 Society is a brief hop and no pancakes to seat.
 
-267
+268
 00:01:37,599 --> 00:01:37,679
 Society <u>is</u> a brief hop and no pancakes to seat.
 
-268
+269
 00:01:37,679 --> 00:01:37,719
 Society is a brief hop and no pancakes to seat.
 
-269
+270
 00:01:37,719 --> 00:01:37,839
 Society is <u>a</u> brief hop and no pancakes to seat.
 
-270
+271
 00:01:37,839 --> 00:01:37,879
 Society is a brief hop and no pancakes to seat.
 
-271
+272
 00:01:37,879 --> 00:01:38,059
 Society is a <u>brief</u> hop and no pancakes to seat.
 
-272
+273
 00:01:38,059 --> 00:01:38,119
 Society is a brief hop and no pancakes to seat.
 
-273
+274
 00:01:38,119 --> 00:01:38,279
 Society is a brief <u>hop</u> and no pancakes to seat.
 
-274
+275
 00:01:38,279 --> 00:01:38,300
 Society is a brief hop and no pancakes to seat.
 
-275
+276
 00:01:38,300 --> 00:01:38,420
 Society is a brief hop <u>and</u> no pancakes to seat.
 
-276
+277
 00:01:38,420 --> 00:01:38,480
 Society is a brief hop and no pancakes to seat.
 
-277
+278
 00:01:38,480 --> 00:01:38,580
 Society is a brief hop and <u>no</u> pancakes to seat.
 
-278
+279
 00:01:38,580 --> 00:01:38,620
 Society is a brief hop and no pancakes to seat.
 
-279
+280
 00:01:38,620 --> 00:01:39,221
 Society is a brief hop and no <u>pancakes</u> to seat.
 
-280
+281
 00:01:39,221 --> 00:01:39,241
 Society is a brief hop and no pancakes to seat.
 
-281
+282
 00:01:39,241 --> 00:01:39,321
 Society is a brief hop and no pancakes <u>to</u> seat.
 
-282
+283
 00:01:39,321 --> 00:01:39,361
 Society is a brief hop and no pancakes to seat.
 
-283
+284
 00:01:39,361 --> 00:01:39,962
 Society is a brief hop and no pancakes to <u>seat.</u>
 
-284
+285
 00:01:39,982 --> 00:01:40,102
 <u>We</u> celebrate the loudest while indulging in street.
 
-285
+286
 00:01:40,102 --> 00:01:40,142
 We celebrate the loudest while indulging in street.
 
-286
+287
 00:01:40,142 --> 00:01:40,683
 We <u>celebrate</u> the loudest while indulging in street.
 
-287
+288
 00:01:40,683 --> 00:01:40,703
 We celebrate the loudest while indulging in street.
 
-288
+289
 00:01:40,703 --> 00:01:40,843
 We celebrate <u>the</u> loudest while indulging in street.
 
-289
+290
 00:01:40,843 --> 00:01:40,883
 We celebrate the loudest while indulging in street.
 
-290
+291
 00:01:40,883 --> 00:01:41,244
 We celebrate the <u>loudest</u> while indulging in street.
 
-291
+292
 00:01:41,244 --> 00:01:41,284
 We celebrate the loudest while indulging in street.
 
-292
+293
 00:01:41,284 --> 00:01:41,544
 We celebrate the loudest <u>while</u> indulging in street.
 
-293
+294
 00:01:41,544 --> 00:01:41,564
 We celebrate the loudest while indulging in street.
 
-294
+295
 00:01:41,564 --> 00:01:42,265
 We celebrate the loudest while <u>indulging</u> in street.
 
-295
+296
 00:01:42,265 --> 00:01:42,285
 We celebrate the loudest while indulging in street.
 
-296
+297
 00:01:42,285 --> 00:01:42,345
 We celebrate the loudest while indulging <u>in</u> street.
 
-297
+298
 00:01:42,345 --> 00:01:42,365
 We celebrate the loudest while indulging in street.
 
-298
+299
 00:01:42,365 --> 00:01:42,686
 We celebrate the loudest while indulging in <u>street.</u>
 
-299
-00:01:43,106 --> 00:01:43,447
-<u>Finger,</u> hand, cheek, bow and house, humanity is the trend.
-
 300
-00:01:43,447 --> 00:01:43,547
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:43,106 --> 00:01:43,447
+<u>Finger,</u> hand, cheek, bow, and house, humanity is the trend.
 
 301
-00:01:43,547 --> 00:01:43,747
-Finger, <u>hand,</u> cheek, bow and house, humanity is the trend.
+00:01:43,447 --> 00:01:43,547
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 302
-00:01:43,747 --> 00:01:43,767
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:43,547 --> 00:01:43,747
+Finger, <u>hand,</u> cheek, bow, and house, humanity is the trend.
 
 303
-00:01:43,767 --> 00:01:43,887
-Finger, hand, <u>cheek,</u> bow and house, humanity is the trend.
+00:01:43,747 --> 00:01:43,767
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 304
-00:01:43,887 --> 00:01:43,927
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:43,767 --> 00:01:43,887
+Finger, hand, <u>cheek,</u> bow, and house, humanity is the trend.
 
 305
-00:01:43,927 --> 00:01:44,128
-Finger, hand, cheek, <u>bow</u> and house, humanity is the trend.
+00:01:43,887 --> 00:01:43,927
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 306
-00:01:44,128 --> 00:01:44,148
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:43,927 --> 00:01:44,128
+Finger, hand, cheek, <u>bow,</u> and house, humanity is the trend.
 
 307
-00:01:44,148 --> 00:01:44,228
-Finger, hand, cheek, bow <u>and</u> house, humanity is the trend.
+00:01:44,128 --> 00:01:44,148
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 308
-00:01:44,228 --> 00:01:44,328
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:44,148 --> 00:01:44,228
+Finger, hand, cheek, bow, <u>and</u> house, humanity is the trend.
 
 309
-00:01:44,328 --> 00:01:44,508
-Finger, hand, cheek, bow and <u>house,</u> humanity is the trend.
+00:01:44,228 --> 00:01:44,328
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 310
-00:01:44,508 --> 00:01:44,548
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:44,328 --> 00:01:44,508
+Finger, hand, cheek, bow, and <u>house,</u> humanity is the trend.
 
 311
-00:01:44,548 --> 00:01:45,149
-Finger, hand, cheek, bow and house, <u>humanity</u> is the trend.
+00:01:44,508 --> 00:01:44,548
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 312
-00:01:45,149 --> 00:01:45,169
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:44,548 --> 00:01:45,149
+Finger, hand, cheek, bow, and house, <u>humanity</u> is the trend.
 
 313
-00:01:45,169 --> 00:01:45,249
-Finger, hand, cheek, bow and house, humanity <u>is</u> the trend.
+00:01:45,149 --> 00:01:45,169
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 314
-00:01:45,249 --> 00:01:45,289
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:45,169 --> 00:01:45,249
+Finger, hand, cheek, bow, and house, humanity <u>is</u> the trend.
 
 315
-00:01:45,289 --> 00:01:45,409
-Finger, hand, cheek, bow and house, humanity is <u>the</u> trend.
+00:01:45,249 --> 00:01:45,289
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 316
-00:01:45,409 --> 00:01:45,450
-Finger, hand, cheek, bow and house, humanity is the trend.
+00:01:45,289 --> 00:01:45,409
+Finger, hand, cheek, bow, and house, humanity is <u>the</u> trend.
 
 317
-00:01:45,450 --> 00:01:45,910
-Finger, hand, cheek, bow and house, humanity is the <u>trend.</u>
+00:01:45,409 --> 00:01:45,450
+Finger, hand, cheek, bow, and house, humanity is the trend.
 
 318
+00:01:45,450 --> 00:01:45,910
+Finger, hand, cheek, bow, and house, humanity is the <u>trend.</u>
+
+319
 00:01:46,291 --> 00:01:46,491
 <u>Once</u> again, God contradicts, I know that to the end.
 
-319
+320
 00:01:46,491 --> 00:01:46,551
 Once again, God contradicts, I know that to the end.
 
-320
+321
 00:01:46,551 --> 00:01:46,731
 Once <u>again,</u> God contradicts, I know that to the end.
 
-321
+322
 00:01:46,731 --> 00:01:46,751
 Once again, God contradicts, I know that to the end.
 
-322
+323
 00:01:46,751 --> 00:01:46,932
 Once again, <u>God</u> contradicts, I know that to the end.
 
-323
+324
 00:01:46,932 --> 00:01:46,972
 Once again, God contradicts, I know that to the end.
 
-324
+325
 00:01:46,972 --> 00:01:47,512
 Once again, God <u>contradicts,</u> I know that to the end.
 
-325
+326
 00:01:47,512 --> 00:01:47,593
 Once again, God contradicts, I know that to the end.
 
-326
+327
 00:01:47,593 --> 00:01:47,693
 Once again, God contradicts, <u>I</u> know that to the end.
 
-327
+328
 00:01:47,693 --> 00:01:47,713
 Once again, God contradicts, I know that to the end.
 
-328
+329
 00:01:47,713 --> 00:01:47,933
 Once again, God contradicts, I <u>know</u> that to the end.
 
-329
+330
 00:01:47,933 --> 00:01:47,953
 Once again, God contradicts, I know that to the end.
 
-330
+331
 00:01:47,953 --> 00:01:48,073
 Once again, God contradicts, I know <u>that</u> to the end.
 
-331
+332
 00:01:48,073 --> 00:01:48,113
 Once again, God contradicts, I know that to the end.
 
-332
-00:01:48,113 --> 00:01:48,294
+333
+00:01:48,113 --> 00:01:48,374
 Once again, God contradicts, I know that <u>to</u> the end.
 
-333
-00:01:48,294 --> 00:01:48,394
+334
+00:01:48,374 --> 00:01:48,394
 Once again, God contradicts, I know that to the end.
 
-334
+335
 00:01:48,394 --> 00:01:48,814
 Once again, God contradicts, I know that to <u>the</u> end.
 
-335
+336
 00:01:48,814 --> 00:01:48,834
 Once again, God contradicts, I know that to the end.
 
-336
+337
 00:01:48,834 --> 00:01:49,035
 Once again, God contradicts, I know that to the <u>end.</u>
 
-337
-00:01:49,736 --> 00:01:49,856
-<u>Hey!</u>
-
 338
-00:01:50,537 --> 00:01:50,657
+00:01:49,075 --> 00:01:49,856
 <u>Hey!</u>
 
 339
-00:01:51,057 --> 00:01:51,518
+00:01:50,537 --> 00:01:50,657
 <u>Hey!</u>
 
 340
+00:01:51,057 --> 00:01:51,518
+<u>Hey!</u>
+
+341
 00:01:53,481 --> 00:01:53,701
 <u>Dumb</u> it down!
 
-341
+342
 00:01:53,701 --> 00:01:53,781
 Dumb it down!
 
-342
+343
 00:01:53,781 --> 00:01:53,861
 Dumb <u>it</u> down!
 
-343
+344
 00:01:53,861 --> 00:01:53,921
 Dumb it down!
 
-344
+345
 00:01:53,921 --> 00:01:54,402
 Dumb it <u>down!</u>
 
-345
+346
 00:01:55,163 --> 00:01:55,424
 <u>Dumb</u> it down!
 
-346
+347
 00:01:55,424 --> 00:01:55,544
 Dumb it down!
 
-347
+348
 00:01:55,544 --> 00:01:55,604
 Dumb <u>it</u> down!
 
-348
+349
 00:01:55,604 --> 00:01:55,684
 Dumb it down!
 
-349
+350
 00:01:55,684 --> 00:01:56,505
 Dumb it <u>down!</u>
 
